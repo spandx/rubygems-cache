@@ -1,0 +1,5 @@
+#!/bin/sh
+
+DATA_DIR=$PWD/db/data
+rm -fr $DATA_DIR
+initdb -D $DATA_DIR
