@@ -6,19 +6,36 @@ gemfile do
   source 'https://rubygems.org'
   gem 'pg'
   gem 'msgpack'
+  gem 'net-hippie'
+  gem 'nokogiri'
 end
 
 require 'pg'
 require 'digest'
 require 'yaml'
 require 'msgpack'
+require 'net/hippie'
+require 'nokogiri'
+
+client = Net::Hippie::Client.new
+response = client.get("https://s3-us-west-2.amazonaws.com/rubygems-dumps/")
+xml = Nokogiri::XML(response.body).tap(&:remove_namespaces!)
+base_url="https://s3-us-west-2.amazonaws.com/rubygems-dumps/"
 
 index = {}
+xml.search("//Contents/Key").each do |node|
+  tarfile = node.text
+  next if tarfile.start_with?('staging')
+  next if tarfile.include?('redis')
 
-connection = PG.connect(host: File.expand_path('tmp/sockets'), dbname: 'postgres')
-connection.exec("select full_name, licenses from versions where licenses is not null") do |result|
-  result.each do |row|
-    index[row['full_name']] = YAML.safe_load(row['licenses'])
+  path = URI.join(base_url, tarfile).to_s
+  if system("./bin/load #{path}")
+    connection = PG.connect(host: File.expand_path('tmp/sockets'), dbname: 'postgres')
+    connection.exec("select full_name, licenses from versions where licenses is not null") do |result|
+      result.each do |row|
+        index[row['full_name']] = YAML.safe_load(row['licenses'])
+      end
+    end
   end
 end
 
