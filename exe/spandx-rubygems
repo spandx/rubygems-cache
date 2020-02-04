@@ -1,0 +1,29 @@
+#!/bin/env ruby
+
+require 'bundler/inline'
+
+gemfile do
+  source 'https://rubygems.org'
+  gem 'pg'
+  gem 'msgpack'
+end
+
+require 'pg'
+require 'digest'
+require 'yaml'
+require 'msgpack'
+
+index = {}
+
+connection = PG.connect(host: File.expand_path('tmp/sockets'), dbname: 'postgres')
+connection.exec("select full_name, licenses from versions where licenses is not null") do |result|
+  result.each do |row|
+    index[row['full_name']] = YAML.safe_load(row['licenses'])
+  end
+end
+
+File.open('rubygems.index', 'w') do |file|
+  packer = MessagePack::Packer.new(file)
+  packer.write(index)
+  packer.flush
+end
