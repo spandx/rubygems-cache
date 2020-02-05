@@ -24,5 +24,8 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_dependency 'msgpack', '~> 1.3'
-  spec.add_dependency 'spandx', '~> 0.4'
+  spec.add_dependency 'net-hippie', '~> 0.3'
+  spec.add_dependency 'nokogiri', '~> 1.10'
+  spec.add_dependency 'pg', '~> 1.2'
+  spec.add_dependency 'thor', '~> 1.0'
 end
