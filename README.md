@@ -29,6 +29,8 @@ message pack.
 You will need to have ruby and postgres installed.
 
 ```bash
+$ ./bin/db-setup
+$ ./bin/server
 $ ruby ./exe/spandx-rubygems
 ```
 

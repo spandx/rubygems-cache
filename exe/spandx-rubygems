@@ -17,30 +17,78 @@ require 'msgpack'
 require 'net/hippie'
 require 'nokogiri'
 
-client = Net::Hippie::Client.new
-response = client.get("https://s3-us-west-2.amazonaws.com/rubygems-dumps/")
-xml = Nokogiri::XML(response.body).tap(&:remove_namespaces!)
-base_url="https://s3-us-west-2.amazonaws.com/rubygems-dumps/"
+class Index
+  attr_reader :base_url
 
-index = {}
-xml.search("//Contents/Key").each do |node|
-  tarfile = node.text
-  next if tarfile.start_with?('staging')
-  next if tarfile.include?('redis')
+  def initialize(base_url = "https://s3-us-west-2.amazonaws.com/rubygems-dumps/")
+    @base_url = base_url
+  end
 
-  path = URI.join(base_url, tarfile).to_s
-  if system("./bin/load #{path}")
-    connection = PG.connect(host: File.expand_path('tmp/sockets'), dbname: 'postgres')
-    connection.exec("select full_name, licenses from versions where licenses is not null") do |result|
-      result.each do |row|
-        index[row['full_name']] = YAML.safe_load(row['licenses'])
+  def update!
+    each_backup do |tarfile|
+      puts tarfile.inspect
+      next if tarfile.start_with?('staging')
+      next if tarfile.include?('redis')
+      next if indexed?(tarfile)
+
+      download(tarfile) do
+        puts ['Inserting', tarfile].inspect
+        items = index['items']
+        connection.exec("select full_name, licenses from versions where licenses is not null") do |result|
+          result.each do |row|
+            items[row['full_name']] = YAML.safe_load(row['licenses'])
+          end
+        end
+
+        checkpoint!(tarfile)
       end
     end
   end
+
+  private
+
+  def indexed?(tarfile)
+    index['checkpoints'].include?(tarfile)
+  end
+
+  def connection
+    @connection ||= PG.connect(host: File.expand_path('tmp/sockets'), dbname: 'postgres')
+  end
+
+  def download(tarfile)
+    if system("./bin/load #{URI.join(base_url, tarfile)}")
+      yield
+    end
+  end
+
+  def each_backup
+    response = Net::Hippie::Client.new.get(base_url)
+    xml = Nokogiri::XML(response.body).tap(&:remove_namespaces!)
+    xml.search("//Contents/Key").each do |node|
+      yield node.text
+    end
+  end
+
+  def index
+    @index ||= File.exist?('rubygems.index') ? MessagePack.unpack(IO.binread('rubygems.index')) : default_layout
+  end
+
+  def default_layout
+    {
+      'checkpoints' => [],
+      'items' => {}
+    }
+  end
+
+  def checkpoint!(tarfile)
+    index['checkpoints'].push(tarfile)
+    File.open('rubygems.index', 'w') do |file|
+      packer = MessagePack::Packer.new(file)
+      packer.write(index)
+      packer.flush
+    end
+    puts ['Checkpoint', tarfile].inspect
+  end
 end
 
-File.open('rubygems.index', 'w') do |file|
-  packer = MessagePack::Packer.new(file)
-  packer.write(index)
-  packer.flush
-end
+Index.new.update!
