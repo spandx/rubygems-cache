@@ -1,0 +1,16 @@
+#!/bin/env ruby
+
+require 'bundler/inline'
+
+gemfile do
+  source 'https://rubygems.org'
+  gem 'msgpack'
+end
+
+require 'msgpack'
+
+index = MessagePack.unpack(IO.binread('rubygems.index'))
+puts index['checkpoints'].inspect
+index['items'].each do |key, value|
+  puts [key, value].inspect
+end
