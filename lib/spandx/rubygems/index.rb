@@ -1,5 +1,31 @@
 # frozen_string_literal: true
 
+=begin
+Data structures
+
+hash
+* key (full_name) = []
+
+{
+  checkpoints: [
+    '2019-12-01.tar.gz'
+  ],
+  items: {
+    "rubyzip-0.1.0" => ['MIT']
+  }
+}
+
+
+{
+  checkpoints: ['2019-12-01.tar.gz'],
+  licenses: ['MIT'],
+  items: {
+    "rubyzip-0.1.0" => [0]
+  }
+}
+
+=end
+
 module Spandx
   module Rubygems
     class Index
