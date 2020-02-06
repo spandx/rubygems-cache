@@ -43,8 +43,6 @@ ORDER BY full_name
 
       def update!(base_url: "https://s3-us-west-2.amazonaws.com/rubygems-dumps/")
         each_backup(base_url) do |tarfile|
-          next unless tarfile.end_with?('public_postgresql.tar')
-          next unless tarfile.start_with?('production')
           next if indexed?(tarfile)
 
           download(base_url, tarfile) do
@@ -73,6 +71,7 @@ ORDER BY full_name
 
       def download(base_url, tarfile)
         load_script = File.expand_path(File.join(File.dirname(__FILE__), '../../../', 'bin/load'))
+
         uri = URI.join(base_url, tarfile).to_s
         if system(load_script, uri)
           yield
@@ -82,7 +81,9 @@ ORDER BY full_name
       def each_backup(base_url)
         response = Net::Hippie::Client.new.get(base_url)
         xml = Nokogiri::XML(response.body).tap(&:remove_namespaces!)
-        xml.search("//Contents/Key").take(1).each do |node|
+        xml.search("//Contents/Key").reverse.each do |node|
+          next unless node.text.end_with?('public_postgresql.tar')
+          next unless node.text.start_with?('production')
           yield node.text
         end
       end

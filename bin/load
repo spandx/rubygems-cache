@@ -1,11 +1,12 @@
 #!/bin/bash
 
 set -euo pipefail
+cd "$(dirname "$0")/.."
 
 echo "Adding hstore extension"
 bin/sql -q -c "CREATE EXTENSION IF NOT EXISTS hstore;"
 
-echo "Droppping tables that we're going to load in"
+echo "Dropping tables that we're going to load in"
 bin/sql -q -c "DROP TABLE IF EXISTS dependencies, gem_downloads, linksets, rubygems, versions CASCADE;"
 
 latest_url="$1"
@@ -13,7 +14,7 @@ curl --progress-bar "${latest_url}" > tmp/public_postgresql.tar
 
 # Extract the single PostgresSQL.sql.gz file from the tar file, pass it through gunzip
 # and load it as quietly as possible into the database
-tar xOf "tmp/public_postgresql.tar" public_postgresql/databases/PostgreSQL.sql.gz | \
+tar xOf tmp/public_postgresql.tar public_postgresql/databases/PostgreSQL.sql.gz | \
   gunzip -c | \
   bin/sql
 
