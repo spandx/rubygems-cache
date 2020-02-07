@@ -40,6 +40,15 @@ ORDER BY full_name
         @rubygems_path = File.expand_path(File.join(dir, 'rubygems.index'))
       end
 
+      def each
+        File.open(rubygems_path, "rb") do |io|
+          until io.eof?
+            dependency = Dependency.read(io)
+            yield dependency.id, dependency.licenses.map { |x| licenses_index[x] }
+          end
+        end
+      end
+
       def update!(base_url: "https://s3-us-west-2.amazonaws.com/rubygems-dumps/")
         dependency = Dependency.new
 
