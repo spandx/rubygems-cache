@@ -1,33 +1,30 @@
 # frozen_string_literal: true
 require 'digest/crc'
+require 'bindata'
+
 =begin
-Data structures
+rubygems.checkpoints
+[
+  '2019-12-01.tar.gz'
+]
 
-hash
-* key (full_name) = []
-
+licenses.index
 {
-  checkpoints: [
-    '2019-12-01.tar.gz'
-  ],
-  items: {
-    "rubyzip-0.1.0" => ['MIT']
-  }
+  crc32("SPDX Expression") => "SPDX Expression"
 }
 
-
-{
-  checkpoints: ['2019-12-01.tar.gz'],
-  licenses: ['MIT'],
-  items: {
-    "rubyzip-0.1.0" => [0]
-  }
-}
-
+rubygems.index
+- crc32("rubyzip-0.1.0") | crc32("SPDX Expression")
 =end
 
 module Spandx
   module Rubygems
+    class Dependency < BinData::Record
+      endian :little
+      uint32 :id
+      array :licenses, type: :uint32, initial_length: 1
+    end
+
     class Index
       SQL = <<-DATA
 SELECT full_name, licenses
@@ -35,26 +32,37 @@ FROM versions
 WHERE licenses IS NOT NULL
 ORDER BY full_name
       DATA
-      attr_reader :path
+      attr_reader :checkpoints_path, :licenses_path, :rubygems_path
 
-      def initialize(path: 'rubygems.index')
-        @path = File.expand_path(path)
+      def initialize(dir: Dir.pwd)
+        @checkpoints_path = File.expand_path(File.join(dir, 'checkpoints.index'))
+        @licenses_path = File.expand_path(File.join(dir, 'licenses.index'))
+        @rubygems_path = File.expand_path(File.join(dir, 'rubygems.index'))
       end
 
       def update!(base_url: "https://s3-us-west-2.amazonaws.com/rubygems-dumps/")
-        each_backup(base_url) do |tarfile|
-          next if indexed?(tarfile)
+        dependency = Dependency.new
 
-          items = index['items']
-          download(base_url, tarfile) do
-            puts ['Inserting', tarfile].inspect
-            connection.exec(SQL) do |result|
-              result.each_with_index do |row, index|
-                items[key_for(row['full_name'])] = licenses_for(row['licenses'])
+        File.open(rubygems_path, "ab") do |io|
+          each_backup(base_url) do |tarfile|
+            next if indexed?(tarfile)
+
+            download(base_url, tarfile) do
+              puts ['Inserting', tarfile].inspect
+              connection.exec(SQL) do |result|
+                result.each_with_index do |row, index|
+                  key = key_for(row['full_name'])
+                  licenses = licenses_for(row['licenses'])
+
+                  dependency.clear
+                  dependency.assign(name: key, licenses: licenses)
+                  dependency.write(io)
+                end
               end
-            end
 
-            checkpoint!(tarfile)
+              io.flush
+              checkpoint!(tarfile)
+            end
           end
         end
       end
@@ -82,14 +90,17 @@ ORDER BY full_name
         found = COMMON_LICENSES.find do |x|
           stripped == "---\n- #{x}"
         end
-        return [found] if found
+        items = found ? [found] : YAML.safe_load(licenses)
 
-        puts licenses.inspect
-        YAML.safe_load(licenses)
+        items.map do |item|
+          key = key_for(item)
+          licenses_index[key] = item
+          key
+        end
       end
 
       def indexed?(tarfile)
-        index['checkpoints'].include?(tarfile)
+        checkpoints_index.include?(tarfile)
       end
 
       def connection
@@ -115,20 +126,26 @@ ORDER BY full_name
         end
       end
 
-      def index
-        @index ||= File.exist?(path) ? MessagePack.unpack(IO.binread(path)) : default_layout
+      def checkpoints_index
+        @checkpoints_index ||= read_index(checkpoints_path, [])
       end
 
-      def default_layout
-        {
-          'checkpoints' => [],
-          'items' => {}
-        }
+      def licenses_index
+        @index ||= read_index(licenses_path, {})
+      end
+
+      def read_index(path, default)
+        File.exist?(path) ? MessagePack.unpack(IO.binread(path)) : default
       end
 
       def checkpoint!(tarfile)
-        index['checkpoints'].push(tarfile)
-        File.open(path, 'a') do |file|
+        checkpoints_index.push(tarfile)
+        flush!(licenses_path, licenses_index)
+        flush!(checkpoints_path, checkpoints_index)
+      end
+
+      def flush!(path, index)
+        File.open(path, 'w') do |file|
           packer = MessagePack::Packer.new(file)
           packer.write(index)
           packer.flush
