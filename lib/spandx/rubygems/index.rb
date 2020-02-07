@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-
+require 'digest/crc'
 =begin
 Data structures
 
@@ -45,12 +45,12 @@ ORDER BY full_name
         each_backup(base_url) do |tarfile|
           next if indexed?(tarfile)
 
+          items = index['items']
           download(base_url, tarfile) do
             puts ['Inserting', tarfile].inspect
-            items = index['items']
             connection.exec(SQL) do |result|
-              result.each do |row|
-                items[row['full_name']] = YAML.safe_load(row['licenses'])
+              result.each_with_index do |row, index|
+                items[key_for(row['full_name'])] = licenses_for(row['licenses'])
               end
             end
 
@@ -60,6 +60,33 @@ ORDER BY full_name
       end
 
       private
+
+      def key_for(string)
+        Digest::CRC32.digest(string).unpack('V*')[0]
+      end
+
+      COMMON_LICENSES = [
+        'MIT',
+        'Apache-2.0',
+        'GPL-3.0',
+        'LGPL-3.0',
+        'BSD',
+        'BSD-3-Clause',
+        'WFTPL'
+      ]
+      def licenses_for(licenses)
+        stripped = licenses.strip!
+
+        return [] if stripped == "--- []"
+        return [] if stripped == "--- \n..."
+        found = COMMON_LICENSES.find do |x|
+          stripped == "---\n- #{x}"
+        end
+        return [found] if found
+
+        puts licenses.inspect
+        YAML.safe_load(licenses)
+      end
 
       def indexed?(tarfile)
         index['checkpoints'].include?(tarfile)
@@ -101,12 +128,11 @@ ORDER BY full_name
 
       def checkpoint!(tarfile)
         index['checkpoints'].push(tarfile)
-        File.open(path, 'w') do |file|
+        File.open(path, 'a') do |file|
           packer = MessagePack::Packer.new(file)
           packer.write(index)
           packer.flush
         end
-        puts ['Checkpoint', tarfile].inspect
       end
     end
   end
