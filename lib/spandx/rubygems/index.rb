@@ -8,19 +8,24 @@ rubygems.checkpoints
 
 licenses.index
 {
-  crc32("SPDX Expression") => "SPDX Expression"
+  sha256("SPDX Expression") => "SPDX Expression"
 }
 
 rubygems.index
-- crc32("rubyzip-0.1.0") | crc32("SPDX Expression")
+- sha256("rubyzip-0.1.0") | sha256("SPDX Expression")
 =end
 
 module Spandx
   module Rubygems
+    class Identifier < BinData::Array
+      endian :little
+      uint32 initial_length: 8
+    end
+
     class Dependency < BinData::Record
       endian :little
-      uint32 :identifier
-      array :licenses, type: :uint32, initial_length: 1
+      identifier :identifier
+      array :licenses, type: :identifier, initial_length: 1
     end
 
     class Index
@@ -51,7 +56,7 @@ ORDER BY full_name
         Zlib::GzipReader.open(rubygems_path) do |io|
           until io.eof?
             dependency = Dependency.read(io)
-            yield dependency.identifier, dependency.licenses.map { |x| licenses_index[x] }
+            yield to_hex(dependency.identifier), dependency.licenses.map { |x| to_hex(licenses_index[x]) }
           end
         end
       end
@@ -85,8 +90,12 @@ ORDER BY full_name
 
       private
 
+      def to_hex(item)
+        item
+      end
+
       def key_for(string)
-        Digest::CRC32.digest(string).unpack('V*')[0]
+        Digest::SHA256.digest(string).unpack('V*')
       end
 
       def licenses_for(licenses)

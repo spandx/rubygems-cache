@@ -1,6 +1,5 @@
 require 'bindata'
 require 'digest'
-require 'digest/crc'
 require 'msgpack'
 require 'net/hippie'
 require 'nokogiri'
