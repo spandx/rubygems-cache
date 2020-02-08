@@ -67,13 +67,13 @@ ORDER BY full_name
               puts ['Inserting', tarfile].inspect
               connection.exec(SQL) do |result|
                 result.each_with_index do |row, index|
-                  key = key_for(row['full_name'])
                   licenses = licenses_for(row['licenses'])
-
-                  puts [key, licenses].inspect
                   next if licenses.empty?
+
+                  key = key_for(row['full_name'])
+                  puts [key, licenses].inspect
                   dependency.clear
-                  dependency.assign(name: key, licenses: licenses)
+                  dependency.assign(id: key, licenses: licenses)
                   dependency.write(io)
                 end
               end
