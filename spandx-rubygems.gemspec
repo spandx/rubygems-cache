@@ -24,7 +24,6 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_dependency 'bindata', '~> 2.4'
-  spec.add_dependency 'digest-crc', '~> 0.4'
   spec.add_dependency 'msgpack', '~> 1.3'
   spec.add_dependency 'net-hippie', '~> 0.3'
   spec.add_dependency 'nokogiri', '~> 1.10'
