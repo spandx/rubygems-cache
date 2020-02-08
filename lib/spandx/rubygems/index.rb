@@ -1,6 +1,4 @@
 # frozen_string_literal: true
-require 'digest/crc'
-require 'bindata'
 
 =begin
 rubygems.checkpoints
@@ -26,6 +24,15 @@ module Spandx
     end
 
     class Index
+      COMMON_LICENSES = [
+        'MIT',
+        'Apache-2.0',
+        'GPL-3.0',
+        'LGPL-3.0',
+        'BSD',
+        'BSD-3-Clause',
+        'WFTPL'
+      ]
       SQL = <<-DATA
 SELECT full_name, licenses
 FROM versions
@@ -41,7 +48,7 @@ ORDER BY full_name
       end
 
       def each
-        File.open(rubygems_path, "rb") do |io|
+        Zlib::GzipReader.open(rubygems_path) do |io|
           until io.eof?
             dependency = Dependency.read(io)
             yield dependency.id, dependency.licenses.map { |x| licenses_index[x] }
@@ -52,17 +59,19 @@ ORDER BY full_name
       def update!(base_url: "https://s3-us-west-2.amazonaws.com/rubygems-dumps/")
         dependency = Dependency.new
 
-        File.open(rubygems_path, "ab") do |io|
-          each_backup(base_url) do |tarfile|
-            next if indexed?(tarfile)
+        each_backup(base_url) do |tarfile|
+          next if indexed?(tarfile)
 
-            download(base_url, tarfile) do
+          download(base_url, tarfile) do
+            Zlib::GzipWriter.open(rubygems_path) do |io|
               puts ['Inserting', tarfile].inspect
               connection.exec(SQL) do |result|
                 result.each_with_index do |row, index|
                   key = key_for(row['full_name'])
                   licenses = licenses_for(row['licenses'])
 
+                  puts [key, licenses].inspect
+                  next if licenses.empty?
                   dependency.clear
                   dependency.assign(name: key, licenses: licenses)
                   dependency.write(io)
@@ -82,15 +91,6 @@ ORDER BY full_name
         Digest::CRC32.digest(string).unpack('V*')[0]
       end
 
-      COMMON_LICENSES = [
-        'MIT',
-        'Apache-2.0',
-        'GPL-3.0',
-        'LGPL-3.0',
-        'BSD',
-        'BSD-3-Clause',
-        'WFTPL'
-      ]
       def licenses_for(licenses)
         stripped = licenses.strip!
 
@@ -144,7 +144,9 @@ ORDER BY full_name
       end
 
       def read_index(path, default)
-        File.exist?(path) ? MessagePack.unpack(IO.binread(path)) : default
+        return default unless File.exist?(path)
+
+        MessagePack.unpack(Zlib::GzipReader.open(path) { |gz| gz.read })
       end
 
       def checkpoint!(tarfile)
@@ -154,8 +156,8 @@ ORDER BY full_name
       end
 
       def flush!(path, index)
-        File.open(path, 'w') do |file|
-          packer = MessagePack::Packer.new(file)
+        Zlib::GzipWriter.open(path) do |io|
+          packer = MessagePack::Packer.new(io)
           packer.write(index)
           packer.flush
         end
