@@ -19,7 +19,7 @@ module Spandx
   module Rubygems
     class Dependency < BinData::Record
       endian :little
-      uint32 :id
+      uint32 :identifier
       array :licenses, type: :uint32, initial_length: 1
     end
 
@@ -51,7 +51,7 @@ ORDER BY full_name
         Zlib::GzipReader.open(rubygems_path) do |io|
           until io.eof?
             dependency = Dependency.read(io)
-            yield dependency.id, dependency.licenses.map { |x| licenses_index[x] }
+            yield dependency.identifier, dependency.licenses.map { |x| licenses_index[x] }
           end
         end
       end
@@ -71,7 +71,7 @@ ORDER BY full_name
                   next if licenses.empty?
 
                   dependency.clear
-                  dependency.assign(id: key_for(row['full_name']), licenses: licenses)
+                  dependency.assign(identifier: key_for(row['full_name']), licenses: licenses)
                   dependency.write(io)
                 end
               end
@@ -99,7 +99,7 @@ ORDER BY full_name
         end
         items = found ? [found] : YAML.safe_load(licenses)
 
-        items.map do |item|
+        items.compact.map do |item|
           key = key_for(item)
           licenses_index[key] = item
           key
