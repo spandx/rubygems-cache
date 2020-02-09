@@ -7,32 +7,35 @@ RSpec.describe Spandx::Rubygems::DataFile do
 
   let(:file) { Tempfile.new('spandx') }
 
-  describe "#write" do
+  describe "#flush" do
     it 'can read what was written' do
-      subject.write({ hello: 'world' })
-      expect(subject.read).to eql({ 'hello' => 'world' })
+      subject.data[:hello] = 'world'
+      subject.flush!
+
+      other = described_class.new(file)
+      expect(other.data).to eql({ 'hello' => 'world' })
     end
 
     it 'can write a large amount of data' do
-      items = {}
       163_840.times do |n|
-        items["spandx-0.1.#{n}"] = ['MIT']
+        subject.data["spandx-0.1.#{n}"] = ['MIT']
       end
-      subject.write(items)
+      subject.flush!
 
       # id: 32 bytes
       # licenses: [1] => 32 bytes
       # 64 bytes / entry
 
-      expect(items).to eql(subject.read)
-      puts subject.size.inspect
+      other = described_class.new(file)
+      expect(subject.data).to eql(other.data)
       expect(subject.size).to be < 10_485_760
     end
   end
 
   describe "#size" do
     it 'can provide the size of the file' do
-      subject.write({ 'spandx' =>  ['MIT'] })
+      subject.data['spandx'] = ['MIT']
+      subject.flush!
       expect(subject.size).to eql(File.size(subject.path))
     end
   end
