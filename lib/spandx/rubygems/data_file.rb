@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 
 module Spandx
   module Rubygems
@@ -24,7 +25,7 @@ module Spandx
         return default unless File.exist?(path)
         return default if File.empty?(path)
 
-        MessagePack.unpack(Zlib::GzipReader.open(path) { |io| io.read })
+        MessagePack.unpack(Zlib::GzipReader.open(path, &:read))
       end
 
       def write(data)

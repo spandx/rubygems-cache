@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'tempfile'
 
 RSpec.describe Spandx::Rubygems::BinaryFile do
@@ -5,7 +7,7 @@ RSpec.describe Spandx::Rubygems::BinaryFile do
 
   let(:file) { Tempfile.new('spandx') }
 
-  describe "#write" do
+  describe '#write' do
     def digest(item)
       Digest::SHA256.hexdigest(item)
     end
@@ -27,7 +29,7 @@ RSpec.describe Spandx::Rubygems::BinaryFile do
       other.each(Spandx::Rubygems::Dependency) do |dependency|
         items << dependency
       end
-      expect(items.count).to eql(2)
+      expect(items.count).to be(2)
       expect(items[0].identifier).to eql(digest('spandx-0.1.0'))
       expect(items[0].licenses).to match_array([digest('MIT')])
 

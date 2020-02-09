@@ -1,10 +1,11 @@
+# frozen_string_literal: true
 
 module Spandx
   module Rubygems
     class Backups
       attr_reader :base_url
 
-      def initialize(base_url: "https://s3-us-west-2.amazonaws.com/rubygems-dumps/")
+      def initialize(base_url: 'https://s3-us-west-2.amazonaws.com/rubygems-dumps/')
         @base_url = base_url
         @http = Net::Hippie::Client.new
         @db_connection = PG.connect(host: File.expand_path('tmp/sockets'), dbname: 'postgres')
@@ -12,7 +13,7 @@ module Spandx
 
       def each
         response = @http.get(base_url)
-        to_xml(response.body).search("//Contents/Key").reverse.each do |node|
+        to_xml(response.body).search('//Contents/Key').reverse.each do |node|
           next unless valid?(node.text)
 
           puts node.text
