@@ -29,4 +29,6 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'nokogiri', '~> 1.10'
   spec.add_dependency 'pg', '~> 1.2'
   spec.add_dependency 'thor', '~> 1.0'
+  spec.add_development_dependency 'vcr', '~> 5.1'
+  spec.add_development_dependency 'webmock', '~> 3.8'
 end

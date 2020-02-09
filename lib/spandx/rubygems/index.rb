@@ -17,17 +17,6 @@ rubygems.index
 
 module Spandx
   module Rubygems
-    class Identifier < BinData::Array
-      endian :little
-      uint32 initial_length: 8
-    end
-
-    class Dependency < BinData::Record
-      endian :little
-      identifier :identifier
-      array :licenses, type: :identifier, initial_length: 1
-    end
-
     class Index
       COMMON_LICENSES = [
         'MIT',
