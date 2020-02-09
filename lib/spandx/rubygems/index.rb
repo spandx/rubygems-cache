@@ -19,7 +19,7 @@ module Spandx
 
         @backups = Backups.new
         @checkpoints_file = data_file('checkpoints.index', default: [])
-        @data_files = {}
+        @rubygems_file = data_file('rubygems.index', default: {})
       end
 
       def each; end
@@ -32,8 +32,7 @@ module Spandx
             licenses = licenses_for(row['licenses'])
             break if licenses.empty?
 
-            file = data_file_for(row['name'])
-            file.data[row['version']] = licenses_for(row['licenses'])
+            @rubygems_file.data[row['version']] = licenses_for(row['licenses'])
           end
           checkpoint!(tarfile)
         end
@@ -43,12 +42,6 @@ module Spandx
 
       def data_file(name, default:)
         DataFile.new(File.expand_path(File.join(dir, name)), default: default)
-      end
-
-      def data_file_for(name)
-        @data_files.fetch(name) do
-          @data_files[name] = data_file("#{digest_for(name)}.index", default: {})
-        end
       end
 
       def digest_for(string)
@@ -77,6 +70,7 @@ module Spandx
           file.save!
         end
 
+        @rubygems_file.save!
         @checkpoints_file.data.push(tarfile.to_s)
         @checkpoints_file.save!
       end
