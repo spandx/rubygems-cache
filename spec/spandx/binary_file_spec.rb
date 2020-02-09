@@ -12,7 +12,7 @@ RSpec.describe Spandx::Rubygems::BinaryFile do
       Digest::SHA256.hexdigest(item)
     end
 
-    it 'can write binary data' do
+    before do
       subject.write do |io|
         Spandx::Rubygems::Dependency.new(
           identifier: digest('spandx-0.1.0'),
@@ -23,18 +23,21 @@ RSpec.describe Spandx::Rubygems::BinaryFile do
           licenses: [digest('MIT')]
         ).write(io)
       end
+    end
 
-      other = described_class.new(file)
+    let(:results) do
       items = []
-      other.each(Spandx::Rubygems::Dependency) do |dependency|
+      described_class.new(file).each(Spandx::Rubygems::Dependency) do |dependency|
         items << dependency
       end
-      expect(items.count).to be(2)
-      expect(items[0].identifier).to eql(digest('spandx-0.1.0'))
-      expect(items[0].licenses).to match_array([digest('MIT')])
-
-      expect(items[1].identifier).to eql(digest('spandx-0.1.1'))
-      expect(items[1].licenses).to match_array([digest('MIT')])
+      items
     end
+
+    specify { expect(results.count).to be(2) }
+    specify { expect(results[0].identifier).to eql(digest('spandx-0.1.0')) }
+    specify { expect(results[0].licenses).to match_array([digest('MIT')]) }
+
+    specify { expect(results[1].identifier).to eql(digest('spandx-0.1.1')) }
+    specify { expect(results[1].licenses).to match_array([digest('MIT')]) }
   end
 end

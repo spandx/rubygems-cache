@@ -16,19 +16,19 @@ RSpec.describe Spandx::Rubygems::DataFile do
       expect(other.data).to eql('hello' => 'world')
     end
 
-    it 'can write a large amount of data' do
-      163_840.times do |n|
-        subject.data["spandx-0.1.#{n}"] = ['MIT']
+    # id: 32 bytes
+    # licenses: [1] => 32 bytes
+    # 64 bytes / entry
+    context 'when writing a large amount of data' do
+      before do
+        163_840.times do |n|
+          subject.data["spandx-0.1.#{n}"] = ['MIT']
+        end
+        subject.save!
       end
-      subject.save!
 
-      # id: 32 bytes
-      # licenses: [1] => 32 bytes
-      # 64 bytes / entry
-
-      other = described_class.new(file)
-      expect(subject.data).to eql(other.data)
-      expect(subject.size).to be < 10_485_760
+      specify { expect(subject.data).to eql(described_class.new(file).data) }
+      specify { expect(subject.size).to be < 10_485_760 }
     end
   end
 
