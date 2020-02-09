@@ -2,12 +2,13 @@ module Spandx
   module Rubygems
     class Backup
       SQL = <<-DATA
-SELECT full_name, licenses
-FROM versions
-WHERE licenses IS NOT NULL
-AND latest = true
-AND yanked_at IS NULL
-ORDER BY full_name
+SELECT rg.name AS name, v.number AS version, v.licenses AS licenses
+FROM versions v
+INNER JOIN rubygems rg ON rg.id = v.rubygem_id
+WHERE v.licenses IS NOT NULL
+AND v.latest = true
+AND v.yanked_at IS NULL
+ORDER BY rg.name
       DATA
       LOAD_SCRIPT = File.expand_path(File.join(File.dirname(__FILE__), '../../../', 'bin/load'))
       attr_reader :uri
@@ -27,6 +28,7 @@ ORDER BY full_name
         download do
           @db_connection.exec(sql) do |result|
             result.each do |row|
+              puts row.inspect
               yield row
             end
           end
@@ -40,7 +42,7 @@ ORDER BY full_name
       private
 
       def download
-        yield if system(LOAD_SCRIPT, to_s)
+        yield if system(LOAD_SCRIPT, to_s, exception: true)
       end
     end
   end

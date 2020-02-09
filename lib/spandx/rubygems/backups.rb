@@ -15,6 +15,7 @@ module Spandx
         to_xml(response.body).search("//Contents/Key").reverse.each do |node|
           next unless valid?(node.text)
 
+          puts node.text
           yield Backup.new(URI.join(base_url, node.text), @db_connection)
         end
       end
