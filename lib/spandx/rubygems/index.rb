@@ -66,10 +66,6 @@ module Spandx
       end
 
       def checkpoint!(tarfile)
-        @data_files.each do |_name, file|
-          file.save!
-        end
-
         @rubygems_file.save!
         @checkpoints_file.data.push(tarfile.to_s)
         @checkpoints_file.save!
