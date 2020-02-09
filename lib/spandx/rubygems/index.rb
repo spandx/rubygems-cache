@@ -33,15 +33,15 @@ module Spandx
         @rubygems_path = File.expand_path(File.join(dir, 'rubygems.index'))
 
         @backups = Backups.new
-        @licenses_file = DataFile.new(File.expand_path(File.join(dir, 'licenses.index')))
-        @checkpoints_file = DataFile.new(File.expand_path(File.join(dir, 'checkpoints.index')))
+        @licenses_file = DataFile.new(File.expand_path(File.join(dir, 'licenses.index')), default: {})
+        @checkpoints_file = DataFile.new(File.expand_path(File.join(dir, 'checkpoints.index')), default: [])
       end
 
       def each
         Zlib::GzipReader.open(rubygems_path) do |io|
           until io.eof?
             dependency = Dependency.read(io)
-            yield to_hex(dependency.identifier), dependency.licenses.map { |x| to_hex(licenses_index[x]) }
+            yield to_hex(dependency.identifier), dependency.licenses.map { |x| to_hex(@licenses_file.data[x]) }
           end
         end
       end
@@ -92,27 +92,19 @@ module Spandx
 
         items.compact.map do |item|
           key = key_for(item)
-          licenses_index[key] = item
+          @licenses_file.data[key] = item
           key
         end
       end
 
       def indexed?(tarfile)
-        checkpoints_index.include?(tarfile.to_s)
-      end
-
-      def checkpoints_index
-        @checkpoints_index ||= @checkpoints_file.read(default: [])
-      end
-
-      def licenses_index
-        @licenses_index ||= @licenses_file.read(default: {})
+        @checkpoints_file.data.include?(tarfile.to_s)
       end
 
       def checkpoint!(tarfile)
-        checkpoints_index.push(tarfile.to_s)
-        @licenses_file.write(licenses_index)
-        @checkpoints_file.write(checkpoints_index)
+        @checkpoints_file.data.push(tarfile.to_s)
+        @licenses_file.flush!
+        @checkpoints_file.flush!
       end
     end
   end
