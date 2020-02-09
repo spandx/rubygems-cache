@@ -30,7 +30,6 @@ module Spandx
         download do
           @db_connection.exec(sql) do |result|
             result.each do |row|
-              puts row.inspect
               yield row
             end
           end
