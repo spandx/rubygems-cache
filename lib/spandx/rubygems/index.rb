@@ -11,7 +11,7 @@ module Spandx
         'BSD',
         'BSD-3-Clause',
         'WFTPL'
-      ]
+      ].freeze
       attr_reader :dir
 
       def initialize(dir: Dir.pwd)
@@ -19,11 +19,10 @@ module Spandx
 
         @backups = Backups.new
         @checkpoints_file = data_file('checkpoints.index', default: [])
-        @data_files = { }
+        @data_files = {}
       end
 
-      def each
-      end
+      def each; end
 
       def update!
         @backups.each do |tarfile|
@@ -31,7 +30,7 @@ module Spandx
 
           tarfile.each do |row|
             licenses = licenses_for(row['licenses'])
-            return if licenses.empty?
+            break if licenses.empty?
 
             file = data_file_for(row['name'])
             file.data[row['version']] = licenses_for(row['licenses'])
@@ -60,8 +59,9 @@ module Spandx
       def licenses_for(licenses)
         stripped = licenses.strip!
 
-        return [] if stripped == "--- []"
+        return [] if stripped == '--- []'
         return [] if stripped == "--- \n..."
+
         found = COMMON_LICENSES.find do |x|
           stripped == "---\n- #{x}"
         end
@@ -74,7 +74,7 @@ module Spandx
       end
 
       def checkpoint!(tarfile)
-        puts "Checkpoint"
+        puts 'Checkpoint'
         @data_files.each do |name, file|
           puts "Flushing #{name}"
           file.save!
