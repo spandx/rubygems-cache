@@ -7,6 +7,9 @@ require 'pg'
 require 'yaml'
 require 'zlib'
 
+require "spandx/rubygems/backups"
+require "spandx/rubygems/identifier"
+require "spandx/rubygems/dependency"
 require "spandx/rubygems/index"
 require "spandx/rubygems/version"
 
