@@ -7,10 +7,10 @@ RSpec.describe Spandx::Rubygems::DataFile do
 
   let(:file) { Tempfile.new('spandx') }
 
-  describe "#flush" do
+  describe "#save!" do
     it 'can read what was written' do
       subject.data[:hello] = 'world'
-      subject.flush!
+      subject.save!
 
       other = described_class.new(file)
       expect(other.data).to eql({ 'hello' => 'world' })
@@ -20,7 +20,7 @@ RSpec.describe Spandx::Rubygems::DataFile do
       163_840.times do |n|
         subject.data["spandx-0.1.#{n}"] = ['MIT']
       end
-      subject.flush!
+      subject.save!
 
       # id: 32 bytes
       # licenses: [1] => 32 bytes
@@ -35,7 +35,7 @@ RSpec.describe Spandx::Rubygems::DataFile do
   describe "#size" do
     it 'can provide the size of the file' do
       subject.data['spandx'] = ['MIT']
-      subject.flush!
+      subject.save!
       expect(subject.size).to eql(File.size(subject.path))
     end
   end

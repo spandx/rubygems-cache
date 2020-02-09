@@ -13,7 +13,7 @@ module Spandx
         File.size(path)
       end
 
-      def flush!
+      def save!
         write(data)
       end
 

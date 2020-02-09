@@ -102,9 +102,9 @@ module Spandx
       end
 
       def checkpoint!(tarfile)
-        @licenses_file.flush!
+        @licenses_file.save!
         @checkpoints_file.data.push(tarfile.to_s)
-        @checkpoints_file.flush!
+        @checkpoints_file.save!
       end
     end
   end
