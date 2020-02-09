@@ -5,6 +5,8 @@ module Spandx
 SELECT full_name, licenses
 FROM versions
 WHERE licenses IS NOT NULL
+AND latest = true
+AND yanked_at IS NULL
 ORDER BY full_name
       DATA
       LOAD_SCRIPT = File.expand_path(File.join(File.dirname(__FILE__), '../../../', 'bin/load'))
