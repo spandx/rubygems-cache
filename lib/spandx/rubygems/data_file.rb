@@ -5,6 +5,7 @@ module Spandx
       attr_reader :path, :data
 
       def initialize(path, default: {})
+        puts path.inspect
         @path = path
         @data = read(default: default)
       end
@@ -27,6 +28,8 @@ module Spandx
       end
 
       def write(data)
+        FileUtils.mkdir_p(File.dirname(path))
+        puts "Saving #{path}"
         Zlib::GzipWriter.open(path) do |io|
           packer = MessagePack::Packer.new(io)
           packer.write(data)

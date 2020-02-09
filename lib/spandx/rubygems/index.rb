@@ -1,20 +1,5 @@
 # frozen_string_literal: true
 
-=begin
-rubygems.checkpoints
-[
-  '2019-12-01.tar.gz'
-]
-
-licenses.index
-{
-  sha256("SPDX Expression") => "SPDX Expression"
-}
-
-rubygems.index
-- sha256("rubyzip-0.1.0") | sha256("SPDX Expression")
-=end
-
 module Spandx
   module Rubygems
     class Index
@@ -27,57 +12,49 @@ module Spandx
         'BSD-3-Clause',
         'WFTPL'
       ]
-      attr_reader :rubygems_path
+      attr_reader :dir
 
       def initialize(dir: Dir.pwd)
-        @rubygems_path = File.expand_path(File.join(dir, 'rubygems.index'))
+        @dir = dir
 
         @backups = Backups.new
-        @licenses_file = DataFile.new(File.expand_path(File.join(dir, 'licenses.index')), default: {})
-        @checkpoints_file = DataFile.new(File.expand_path(File.join(dir, 'checkpoints.index')), default: [])
+        @checkpoints_file = data_file('checkpoints.index', default: [])
+        @data_files = { }
       end
 
       def each
-        Zlib::GzipReader.open(rubygems_path) do |io|
-          until io.eof?
-            dependency = Dependency.read(io)
-            yield to_hex(dependency.identifier), dependency.licenses.map { |x| to_hex(@licenses_file.data[x]) }
-          end
-        end
       end
 
       def update!
         @backups.each do |tarfile|
           next if indexed?(tarfile)
 
-          Zlib::GzipWriter.open(rubygems_path) do |io|
-            tarfile.each do |row|
-              map_from(row)&.write(io)
-            end
-            io.flush
-            checkpoint!(tarfile)
+          tarfile.each do |row|
+            licenses = licenses_for(row['licenses'])
+            return if licenses.empty?
+
+            file = data_file_for(row['name'])
+            file.data[row['version']] = licenses_for(row['licenses'])
+            puts file.data.inspect
           end
+          checkpoint!(tarfile)
         end
       end
 
       private
 
-      def map_from(row)
-        licenses = licenses_for(row['licenses'])
-        return if licenses.empty?
-
-        Dependency.new(
-          identifier: key_for(row['full_name']),
-          licenses: licenses
-        )
+      def data_file(name, default:)
+        DataFile.new(File.expand_path(File.join(dir, name)), default: default)
       end
 
-      def to_hex(item)
-        item
+      def data_file_for(name)
+        @data_files.fetch(name) do
+          @data_files[name] = data_file("#{digest_for(name)}.index", default: {})
+        end
       end
 
-      def key_for(string)
-        Digest::SHA256.digest(string).unpack('V*')
+      def digest_for(string)
+        Digest::SHA256.hexdigest(string)
       end
 
       def licenses_for(licenses)
@@ -89,12 +66,7 @@ module Spandx
           stripped == "---\n- #{x}"
         end
         items = found ? [found] : YAML.safe_load(licenses)
-
-        items.compact.map do |item|
-          key = key_for(item)
-          @licenses_file.data[key] = item
-          key
-        end
+        items.compact
       end
 
       def indexed?(tarfile)
@@ -102,7 +74,12 @@ module Spandx
       end
 
       def checkpoint!(tarfile)
-        @licenses_file.save!
+        puts "Checkpoint"
+        @data_files.each do |name, file|
+          puts "Flushing #{name}"
+          file.save!
+        end
+
         @checkpoints_file.data.push(tarfile.to_s)
         @checkpoints_file.save!
       end
