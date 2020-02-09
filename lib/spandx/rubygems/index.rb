@@ -34,7 +34,6 @@ module Spandx
 
             file = data_file_for(row['name'])
             file.data[row['version']] = licenses_for(row['licenses'])
-            puts file.data.inspect
           end
           checkpoint!(tarfile)
         end
@@ -74,9 +73,7 @@ module Spandx
       end
 
       def checkpoint!(tarfile)
-        puts 'Checkpoint'
-        @data_files.each do |name, file|
-          puts "Flushing #{name}"
+        @data_files.each do |_name, file|
           file.save!
         end
 
