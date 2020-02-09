@@ -27,13 +27,14 @@ module Spandx
         'BSD-3-Clause',
         'WFTPL'
       ]
-      attr_reader :checkpoints_path, :licenses_path, :rubygems_path
+      attr_reader :rubygems_path
 
       def initialize(dir: Dir.pwd)
-        @checkpoints_path = File.expand_path(File.join(dir, 'checkpoints.index'))
-        @licenses_path = File.expand_path(File.join(dir, 'licenses.index'))
         @rubygems_path = File.expand_path(File.join(dir, 'rubygems.index'))
+
         @backups = Backups.new
+        @licenses_file = DataFile.new(File.expand_path(File.join(dir, 'licenses.index')))
+        @checkpoints_file = DataFile.new(File.expand_path(File.join(dir, 'checkpoints.index')))
       end
 
       def each
@@ -101,31 +102,17 @@ module Spandx
       end
 
       def checkpoints_index
-        @checkpoints_index ||= read_index(checkpoints_path, [])
+        @checkpoints_index ||= @checkpoints_file.read(default: [])
       end
 
       def licenses_index
-        @index ||= read_index(licenses_path, {})
-      end
-
-      def read_index(path, default)
-        return default unless File.exist?(path)
-
-        MessagePack.unpack(Zlib::GzipReader.open(path) { |gz| gz.read })
+        @licenses_index ||= @licenses_file.read(default: {})
       end
 
       def checkpoint!(tarfile)
         checkpoints_index.push(tarfile.to_s)
-        flush!(licenses_path, licenses_index)
-        flush!(checkpoints_path, checkpoints_index)
-      end
-
-      def flush!(path, index)
-        Zlib::GzipWriter.open(path) do |io|
-          packer = MessagePack::Packer.new(io)
-          packer.write(index)
-          packer.flush
-        end
+        @licenses_file.write(licenses_index)
+        @checkpoints_file.write(checkpoints_index)
       end
     end
   end

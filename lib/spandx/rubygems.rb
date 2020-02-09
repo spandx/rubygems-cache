@@ -9,6 +9,7 @@ require 'zlib'
 
 require "spandx/rubygems/backup"
 require "spandx/rubygems/backups"
+require "spandx/rubygems/data_file"
 require "spandx/rubygems/identifier"
 require "spandx/rubygems/dependency"
 require "spandx/rubygems/index"
