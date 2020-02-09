@@ -27,18 +27,13 @@ module Spandx
         'BSD-3-Clause',
         'WFTPL'
       ]
-      SQL = <<-DATA
-SELECT full_name, licenses
-FROM versions
-WHERE licenses IS NOT NULL
-ORDER BY full_name
-      DATA
       attr_reader :checkpoints_path, :licenses_path, :rubygems_path
 
       def initialize(dir: Dir.pwd)
         @checkpoints_path = File.expand_path(File.join(dir, 'checkpoints.index'))
         @licenses_path = File.expand_path(File.join(dir, 'licenses.index'))
         @rubygems_path = File.expand_path(File.join(dir, 'rubygems.index'))
+        @backups = Backups.new
       end
 
       def each
@@ -50,34 +45,31 @@ ORDER BY full_name
         end
       end
 
-      def update!(base_url: "https://s3-us-west-2.amazonaws.com/rubygems-dumps/")
-        dependency = Dependency.new
-
-        each_backup(base_url) do |tarfile|
+      def update!
+        @backups.each do |tarfile|
           next if indexed?(tarfile)
 
-          download(base_url, tarfile) do
-            Zlib::GzipWriter.open(rubygems_path) do |io|
-              puts ['Inserting', tarfile].inspect
-              connection.exec(SQL) do |result|
-                result.each_with_index do |row, index|
-                  licenses = licenses_for(row['licenses'])
-                  next if licenses.empty?
-
-                  dependency.clear
-                  dependency.assign(identifier: key_for(row['full_name']), licenses: licenses)
-                  dependency.write(io)
-                end
-              end
-
-              io.flush
-              checkpoint!(tarfile)
+          Zlib::GzipWriter.open(rubygems_path) do |io|
+            tarfile.each do |row|
+              map_from(row)&.write(io)
             end
+            io.flush
+            checkpoint!(tarfile)
           end
         end
       end
 
       private
+
+      def map_from(row)
+        licenses = licenses_for(row['licenses'])
+        return if licenses.empty?
+
+        Dependency.new(
+          identifier: key_for(row['full_name']),
+          licenses: licenses
+        )
+      end
 
       def to_hex(item)
         item
@@ -105,30 +97,7 @@ ORDER BY full_name
       end
 
       def indexed?(tarfile)
-        checkpoints_index.include?(tarfile)
-      end
-
-      def connection
-        @connection ||= PG.connect(host: File.expand_path('tmp/sockets'), dbname: 'postgres')
-      end
-
-      def download(base_url, tarfile)
-        load_script = File.expand_path(File.join(File.dirname(__FILE__), '../../../', 'bin/load'))
-
-        uri = URI.join(base_url, tarfile).to_s
-        if system(load_script, uri)
-          yield
-        end
-      end
-
-      def each_backup(base_url)
-        response = Net::Hippie::Client.new.get(base_url)
-        xml = Nokogiri::XML(response.body).tap(&:remove_namespaces!)
-        xml.search("//Contents/Key").reverse.each do |node|
-          next unless node.text.end_with?('public_postgresql.tar')
-          next unless node.text.start_with?('production')
-          yield node.text
-        end
+        checkpoints_index.include?(tarfile.to_s)
       end
 
       def checkpoints_index
@@ -146,7 +115,7 @@ ORDER BY full_name
       end
 
       def checkpoint!(tarfile)
-        checkpoints_index.push(tarfile)
+        checkpoints_index.push(tarfile.to_s)
         flush!(licenses_path, licenses_index)
         flush!(checkpoints_path, checkpoints_index)
       end
