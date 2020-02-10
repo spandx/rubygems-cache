@@ -8,8 +8,10 @@ module Spandx
     class CLI < Thor
       desc 'list', 'List the rubygems.index'
       def list
-        index.each do |id, license|
-          puts [id, license].inspect
+        index.each do |name, versions|
+          versions.each do |version, licenses|
+            puts [name, version, licenses].inspect
+          end
         end
       end
 

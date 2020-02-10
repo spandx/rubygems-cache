@@ -19,10 +19,14 @@ module Spandx
 
         @backups = Backups.new
         @checkpoints_file = data_file('checkpoints.index', default: [])
-        @rubygems_file = data_file('rubygems.index', default: {})
+        @rubygems_file = data_file('rubygems.index', default: Hash.new { |h, k| h[k] = {} })
       end
 
-      def each; end
+      def each
+        @rubygems_file.data.each do |key, value|
+          yield key, value
+        end
+      end
 
       def update!
         @backups.each do |tarfile|
@@ -32,7 +36,7 @@ module Spandx
             licenses = licenses_for(row['licenses'])
             break if licenses.empty?
 
-            @rubygems_file.data[row['version']] = licenses_for(row['licenses'])
+            @rubygems_file.data[row['name']][row['version']] = licenses_for(row['licenses'])
           end
           checkpoint!(tarfile)
         end
