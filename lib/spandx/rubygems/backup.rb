@@ -43,7 +43,7 @@ module Spandx
       private
 
       def download
-        yield if system(LOAD_SCRIPT, to_s, exception: true)
+        yield if system(LOAD_SCRIPT, to_s)
       end
     end
   end
