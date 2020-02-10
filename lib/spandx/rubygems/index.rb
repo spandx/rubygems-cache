@@ -34,7 +34,7 @@ module Spandx
 
           tarfile.each do |row|
             licenses = licenses_for(row['licenses'])
-            break if licenses.empty?
+            next if licenses.empty?
 
             @rubygems_file.data[row['name']][row['version']] = licenses_for(row['licenses'])
           end
