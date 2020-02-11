@@ -29,16 +29,27 @@ module Spandx
       end
 
       def update!
-        @backups.each do |tarfile|
-          next if indexed?(tarfile)
+        total_entries = 10_000_000
+        counter = 0
+        @rubygems_file.batch(size: total_entries) do |io|
+          @backups.each do |tarfile|
+            #next if indexed?(tarfile)
 
-          tarfile.each do |row|
-            licenses = licenses_for(row['licenses'])
-            next if licenses.empty?
+            tarfile.each do |row|
+              licenses = licenses_for(row['licenses'])
+              next if licenses.empty?
 
-            @rubygems_file.data[row['name']][row['version']] = licenses_for(row['licenses'])
+              #@rubygems_file.data[row['name']][row['version']] = licenses_for(row['licenses'])
+              io.write("#{row['name']}-#{row['version']}").write(licenses_for(row['licenses']))
+              counter +=1
+            end
+            #checkpoint!(tarfile)
           end
-          checkpoint!(tarfile)
+
+          empty = []
+          (total_entries - counter).times do |n|
+            io.write("   x-#{n}").write(empty)
+          end
         end
       end
 
