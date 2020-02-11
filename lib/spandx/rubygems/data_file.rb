@@ -3,15 +3,28 @@
 module Spandx
   module Rubygems
     class DataFile
-      attr_reader :path, :data
+      attr_reader :path
 
       def initialize(path, default: {})
         @path = path
-        @data = read(default: default)
+        @default = default
+      end
+
+      def data
+        @data ||= read(default: @default)
       end
 
       def size
         File.size(path)
+      end
+
+      def batch(size:)
+        Zlib::GzipWriter.open(path) do |io|
+          packer = MessagePack::Packer.new(io)
+          packer.write_map_header(size)
+          yield packer
+          packer.flush
+        end
       end
 
       def save!
