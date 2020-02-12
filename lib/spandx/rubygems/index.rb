@@ -19,7 +19,7 @@ module Spandx
 
         @backups = Backups.new
         @checkpoints_file = data_file('checkpoints.index', default: [])
-        @rubygems_file = data_file('rubygems.index', default: Hash.new { |h, k| h[k] = {} })
+        @rubygems_file = data_file('rubygems.index', default: {})
       end
 
       def each
@@ -33,17 +33,16 @@ module Spandx
         counter = 0
         @rubygems_file.batch(size: total_entries) do |io|
           @backups.each do |tarfile|
-            #next if indexed?(tarfile)
+            next if indexed?(tarfile)
 
             tarfile.each do |row|
               licenses = licenses_for(row['licenses'])
               next if licenses.empty?
 
-              #@rubygems_file.data[row['name']][row['version']] = licenses_for(row['licenses'])
-              io.write("#{row['name']}-#{row['version']}").write(licenses_for(row['licenses']))
+              io.write(digest_for("#{row['name']}-#{row['version']}")).write(licenses_for(row['licenses']))
               counter +=1
             end
-            #checkpoint!(tarfile)
+            checkpoint!(tarfile)
           end
 
           empty = []
@@ -54,6 +53,10 @@ module Spandx
       end
 
       private
+
+      def digest_for(string)
+        Digest::SHA256.hexdigest(string)
+      end
 
       def data_file(name, default:)
         DataFile.new(File.expand_path(File.join(dir, name)), default: default)
@@ -81,7 +84,6 @@ module Spandx
       end
 
       def checkpoint!(tarfile)
-        @rubygems_file.save!
         @checkpoints_file.data.push(tarfile.to_s)
         @checkpoints_file.save!
       end
