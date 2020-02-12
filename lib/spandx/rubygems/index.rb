@@ -54,10 +54,6 @@ module Spandx
 
       private
 
-      def digest_for(string)
-        Digest::SHA256.hexdigest(string)
-      end
-
       def data_file(name, default:)
         DataFile.new(File.expand_path(File.join(dir, name)), default: default)
       end
