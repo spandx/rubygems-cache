@@ -39,7 +39,7 @@ module Spandx
               licenses = licenses_for(row['licenses'])
               next if licenses.empty?
 
-              io.write(digest_for("#{row['name']}-#{row['version']}")).write(licenses_for(row['licenses']))
+              io.write("#{row['name']}-#{row['version']}").write(licenses)
               counter +=1
             end
             checkpoint!(tarfile)
