@@ -73,7 +73,7 @@ module Spandx
       end
 
       def count_items_from(filenames)
-        filenames.map { |x| %x{wc -l #{x}}.split.first.to_i }.sum
+        filenames.map { |x| `wc -l #{x}`.split.first.to_i }.sum
       end
 
       def update_expanded_index!
@@ -85,11 +85,11 @@ module Spandx
             next if licenses.empty?
 
             open_data(row['name']) do |io|
-              io.puts(JSON.generate({
-                name: row['name'],
-                version: row['version'],
-                licenses: licenses
-              }))
+              io.puts(JSON.generate(
+                        name: row['name'],
+                        version: row['version'],
+                        licenses: licenses
+                      ))
             end
           end
           checkpoint!(tarfile)
@@ -118,7 +118,7 @@ module Spandx
           begin
             path = Spandx::Rubygems.root.join('checkpoints').to_s
             FileUtils.touch(path) unless File.exist?(path)
-            IO.readlines(path).map { |x| x.chomp }
+            IO.readlines(path).map(&:chomp)
           end
       end
 
