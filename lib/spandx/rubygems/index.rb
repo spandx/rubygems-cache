@@ -11,7 +11,7 @@ module Spandx
       end
 
       def licenses_for(name:, version:)
-        to_h[index_key_for(name, version)]
+        to_h.fetch(index_key_for(name, version), [])
       end
 
       def each
