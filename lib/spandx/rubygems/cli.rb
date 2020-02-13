@@ -9,7 +9,6 @@ module Spandx
       desc 'list', 'List the rubygems.index'
       def list
         index.each do |name, licenses|
-          next if name.start_with?('   x-')
           puts [name, licenses].inspect
         end
       end
