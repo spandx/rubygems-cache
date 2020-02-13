@@ -14,29 +14,46 @@ module Spandx
       ].freeze
       attr_reader :dir
 
-      def initialize(dir: File.expand_path(File.join(File.dirname(__FILE__), 'index')))
-        @dir = dir
+      def initialize
+        @dir = Spandx::Rubygems.root.join('index')
         @backups = Backups.new
-        @rubygems_file = DataFile.new(File.join(dir, 'rubygems.index'), default: {})
+        @rubygems_file = DataFile.new(Spandx::Rubygems.root.join('rubygems.index'), default: {})
       end
 
       def each
-        @rubygems_file.data.each do |key, value|
+        to_h.each do |key, value|
           yield key, value
         end
       end
 
+      def to_h
+        @rubygems_file.data
+      end
+
       def update!
         update_expanded_index!
+        sort_index!
         build_optimized_index!
       end
 
       private
 
+      def index_data_files
+        Dir["#{dir}/**/data"]
+      end
+
+      def sort_index!
+        index_data_files.each do |file|
+          sorted = "#{file}1"
+          system("awk '!visited[$0]++' #{file} > #{sorted} && mv -f #{sorted} #{file}")
+        end
+      end
+
       def build_optimized_index!
-        files = Dir["#{dir}/**/data"]
+        files = index_data_files
         count = count_items_from(files)
         puts "Found #{count} items"
+
         @rubygems_file.batch(size: count) do |io|
           files.each do |data_file_path|
             IO.foreach(data_file_path) do |line|
@@ -48,9 +65,7 @@ module Spandx
       end
 
       def count_items_from(filenames)
-        filenames.map do |filename|
-          %x{wc -l #{filename}}.split.first.to_i
-        end.sum
+        filenames.map { |x| %x{wc -l #{x}}.split.first.to_i }.sum
       end
 
       def update_expanded_index!
@@ -93,7 +108,7 @@ module Spandx
       def checkpoints
         @checkpoints ||=
           begin
-            path = 'checkpoints'
+            path = Spandx::Rubygems.root.join('checkpoints').to_s
             FileUtils.touch(path) unless File.exist?(path)
             IO.readlines(path).map { |x| x.chomp }
           end
