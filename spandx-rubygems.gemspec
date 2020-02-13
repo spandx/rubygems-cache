@@ -30,10 +30,10 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'msgpack', '~> 1.3'
   spec.add_dependency 'net-hippie', '~> 0.3'
   spec.add_dependency 'nokogiri', '~> 1.10'
-  spec.add_dependency 'pg', '~> 1.2'
   spec.add_dependency 'thor'
 
   spec.add_development_dependency 'bundler-audit', '~> 0.6'
+  spec.add_development_dependency 'pg', '~> 1.2'
   spec.add_development_dependency 'rubocop', '~> 0.52'
   spec.add_development_dependency 'rubocop-rspec', '~> 1.22'
   spec.add_development_dependency 'vcr', '~> 5.1'
