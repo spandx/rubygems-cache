@@ -1,4 +1,4 @@
-Version 0.1.0
+Version 0.1.2
 
 # Changelog
 
@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.2] - 2020-02-13
+### Changed
+- Lazy load `pg` connection
+
 ## [0.1.1] - 2020-02-13
 ### Changed
 - Make `pg` gem a development dependency
@@ -18,5 +22,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Provide API for retrieving license info for a specific gem and version.
 - Add CLI to process rubygems.org db dumps into a human readable index and machine readable index.
 
-[Unreleased]: https://github.com/mokhan/spandx/compare/v0.1.1...HEAD
+[Unreleased]: https://github.com/mokhan/spandx/compare/v0.1.2...HEAD
+[0.1.2]: https://github.com/mokhan/spandx/compare/v0.1.1...v0.1.2
 [0.1.1]: https://github.com/mokhan/spandx/compare/v0.1.0...v0.1.1

@@ -4,7 +4,6 @@ require 'digest'
 require 'msgpack'
 require 'net/hippie'
 require 'nokogiri'
-require 'pg'
 require 'yaml'
 require 'zlib'
 
