@@ -3,20 +3,10 @@
 module Spandx
   module Rubygems
     class Index
-      COMMON_LICENSES = [
-        'MIT',
-        'Apache-2.0',
-        'GPL-3.0',
-        'LGPL-3.0',
-        'BSD',
-        'BSD-3-Clause',
-        'WFTPL'
-      ].freeze
-      attr_reader :dir
+      COMMON_LICENSES = ['MIT', 'Apache-2.0', 'GPL-3.0', 'LGPL-3.0', 'BSD', 'BSD-3-Clause', 'WFTPL'].freeze
 
       def initialize
         @dir = Spandx::Rubygems.root.join('index')
-        @backups = Backups.new
         @rubygems_file = DataFile.new(Spandx::Rubygems.root.join('rubygems.index'), default: {})
       end
 
@@ -25,9 +15,7 @@ module Spandx
       end
 
       def each
-        to_h.each do |key, value|
-          yield key, value
-        end
+        to_h.each { |key, value| yield key, value }
       end
 
       def to_h
@@ -43,20 +31,18 @@ module Spandx
       private
 
       def index_data_files
-        Dir["#{dir}/**/data"]
+        Dir["#{@dir}/**/data"]
       end
 
       def sort_index!
         index_data_files.each do |file|
-          sorted = "#{file}1"
-          system("awk '!visited[$0]++' #{file} > #{sorted} && mv -f #{sorted} #{file}")
+          system("awk '!visited[$0]++' #{file} > #{file}1 && mv -f #{file}1 #{file}")
         end
       end
 
       def build_optimized_index!
         files = index_data_files
         count = count_items_from(files)
-        puts "Found #{count} items"
 
         @rubygems_file.batch(size: count) do |io|
           files.each do |data_file_path|
@@ -77,23 +63,21 @@ module Spandx
       end
 
       def update_expanded_index!
-        @backups.each do |tarfile|
+        Backups.new.each do |tarfile|
           next if indexed?(tarfile)
 
           tarfile.each do |row|
             licenses = extract_licenses_from(row['licenses'])
             next if licenses.empty?
 
-            open_data(row['name']) do |io|
-              io.puts(JSON.generate(
-                        name: row['name'],
-                        version: row['version'],
-                        licenses: licenses
-                      ))
-            end
+            open_data(row['name']) { |io| io.puts(map_from(row)) }
           end
           checkpoint!(tarfile)
         end
+      end
+
+      def map_from(row)
+        JSON.generate(name: row['name'], version: row['version'], licenses: extract_licenses_from(row['licenses']))
       end
 
       def extract_licenses_from(licenses)
@@ -139,7 +123,7 @@ module Spandx
       end
 
       def data_dir_for(index_key)
-        File.join(dir, index_key[0...2])
+        File.join(@dir, index_key[0...2])
       end
 
       def data_file_for(key)
