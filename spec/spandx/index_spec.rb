@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 RSpec.describe Spandx::Rubygems::Index do
-  describe "#licenses_for" do
+  describe '#licenses_for' do
     [
       { name: 'net-hippie', version: '0.3.2', licenses: ['MIT'] },
     ].each do |item|
