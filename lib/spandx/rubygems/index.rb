@@ -14,12 +14,10 @@ module Spandx
       ].freeze
       attr_reader :dir
 
-      def initialize(dir: Dir.pwd)
+      def initialize(dir: File.expand_path(File.join(File.dirname(__FILE__), 'index')))
         @dir = dir
-
         @backups = Backups.new
-        @checkpoints_file = data_file('checkpoints.index', default: [])
-        @rubygems_file = data_file('rubygems.index', default: {})
+        @rubygems_file = DataFile.new(File.join(dir, 'rubygems.index'), default: {})
       end
 
       def each
@@ -29,37 +27,50 @@ module Spandx
       end
 
       def update!
-        total_entries = 10_000_000
-        counter = 0
-        @rubygems_file.batch(size: total_entries) do |io|
-          @backups.each do |tarfile|
-            next if indexed?(tarfile)
-
-            tarfile.each do |row|
-              licenses = licenses_for(row['licenses'])
-              next if licenses.empty?
-
-              io.write("#{row['name']}-#{row['version']}").write(licenses)
-              counter +=1
-            end
-            checkpoint!(tarfile)
-          end
-
-          empty = []
-          (total_entries - counter).times do |n|
-            io.write("   x-#{n}").write(empty)
-          end
-        end
+        update_expanded_index!
+        build_optimized_index!
       end
 
       private
 
-      def data_file(name, default:)
-        DataFile.new(File.expand_path(File.join(dir, name)), default: default)
+      def build_optimized_index!
+        files = Dir["#{dir}/**/data"]
+        count = count_items_from(files)
+        puts "Found #{count} items"
+        @rubygems_file.batch(size: count) do |io|
+          files.each do |data_file_path|
+            IO.foreach(data_file_path) do |line|
+              json = JSON.parse(line)
+              io.write("#{json['name']}-#{json['version']}").write(json['licenses'])
+            end
+          end
+        end
       end
 
-      def digest_for(string)
-        Digest::SHA256.hexdigest(string)
+      def count_items_from(filenames)
+        filenames.map do |filename|
+          %x{wc -l #{filename}}.split.first.to_i
+        end.sum
+      end
+
+      def update_expanded_index!
+        @backups.each do |tarfile|
+          next if indexed?(tarfile)
+
+          tarfile.each do |row|
+            licenses = licenses_for(row['licenses'])
+            next if licenses.empty?
+
+            open_data(row['name']) do |io|
+              io.puts(JSON.generate({
+                name: row['name'],
+                version: row['version'],
+                licenses: licenses
+              }))
+            end
+          end
+          checkpoint!(tarfile)
+        end
       end
 
       def licenses_for(licenses)
@@ -76,12 +87,40 @@ module Spandx
       end
 
       def indexed?(tarfile)
-        @checkpoints_file.data.include?(tarfile.to_s)
+        checkpoints.include?(tarfile.to_s)
+      end
+
+      def checkpoints
+        @checkpoints ||=
+          begin
+            path = 'checkpoints'
+            FileUtils.touch(path) unless File.exist?(path)
+            IO.readlines(path).map { |x| x.chomp }
+          end
       end
 
       def checkpoint!(tarfile)
-        @checkpoints_file.data.push(tarfile.to_s)
-        @checkpoints_file.save!
+        IO.write('checkpoints', "#{tarfile}\n", mode: 'a')
+      end
+
+      def digest_for(components)
+        Digest::SHA1.hexdigest(Array(components).join('/'))
+      end
+
+      def open_data(name, mode: 'a')
+        key = digest_for(name)
+        FileUtils.mkdir_p(data_dir_for(key))
+        File.open(data_file_for(key), mode) do |file|
+          yield file
+        end
+      end
+
+      def data_dir_for(index_key)
+        File.join(dir, index_key[0...2])
+      end
+
+      def data_file_for(key)
+        File.join(data_dir_for(key), 'data')
       end
     end
   end
