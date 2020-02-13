@@ -20,6 +20,10 @@ module Spandx
         @rubygems_file = DataFile.new(Spandx::Rubygems.root.join('rubygems.index'), default: {})
       end
 
+      def licenses_for(name:, version:)
+        to_h[index_key_for(name, version)]
+      end
+
       def each
         to_h.each do |key, value|
           yield key, value
@@ -58,10 +62,14 @@ module Spandx
           files.each do |data_file_path|
             IO.foreach(data_file_path) do |line|
               json = JSON.parse(line)
-              io.write("#{json['name']}-#{json['version']}").write(json['licenses'])
+              io.write(index_key_for(json['name'], json['version'])).write(json['licenses'])
             end
           end
         end
+      end
+
+      def index_key_for(name, version)
+        "#{name}-#{version}"
       end
 
       def count_items_from(filenames)
@@ -73,7 +81,7 @@ module Spandx
           next if indexed?(tarfile)
 
           tarfile.each do |row|
-            licenses = licenses_for(row['licenses'])
+            licenses = extract_licenses_from(row['licenses'])
             next if licenses.empty?
 
             open_data(row['name']) do |io|
@@ -88,7 +96,7 @@ module Spandx
         end
       end
 
-      def licenses_for(licenses)
+      def extract_licenses_from(licenses)
         stripped = licenses.strip!
 
         return [] if stripped == '--- []'
