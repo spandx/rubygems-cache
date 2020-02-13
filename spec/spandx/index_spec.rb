@@ -4,6 +4,7 @@ RSpec.describe Spandx::Rubygems::Index do
   describe '#licenses_for' do
     [
       { name: 'net-hippie', version: '0.3.2', licenses: ['MIT'] },
+      { name: SecureRandom.uuid, version: '0.3.2', licenses: [] },
     ].each do |item|
       specify do
         expect(

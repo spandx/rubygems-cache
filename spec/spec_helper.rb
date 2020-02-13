@@ -3,6 +3,7 @@
 require 'bundler/setup'
 require 'spandx/rubygems'
 
+require 'securerandom'
 require 'webmock/rspec'
 
 Dir['./spec/support/**/*.rb'].sort.each { |f| require f }
