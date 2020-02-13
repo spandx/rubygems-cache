@@ -17,5 +17,11 @@ require 'spandx/rubygems/version'
 module Spandx
   module Rubygems
     class Error < StandardError; end
+
+    class << self
+      def root
+        Pathname.new(File.dirname(__FILE__)).join('rubygems')
+      end
+    end
   end
 end
