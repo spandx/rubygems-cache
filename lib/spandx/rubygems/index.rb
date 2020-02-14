@@ -107,7 +107,7 @@ module Spandx
       end
 
       def checkpoint!(tarfile)
-        IO.write('checkpoints', "#{tarfile}\n", mode: 'a')
+        IO.write(Spandx::Rubygems.root.join('checkpoints').to_s, "#{tarfile}\n", mode: 'a')
       end
 
       def digest_for(components)
