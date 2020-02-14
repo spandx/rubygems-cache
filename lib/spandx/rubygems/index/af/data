@@ -365,3 +365,4 @@
 {"name":"simple-datatable","version":"0.0.3","licenses":["MIT"]}
 {"name":"active_sql_bindings","version":"0.0.3","licenses":["MIT"]}
 {"name":"fluent-plugin-prometheus_pushgateway","version":"0.0.1","licenses":["Apache-2.0"]}
+{"name":"google-cloud-bigquery-data_transfer","version":"0.6.0","licenses":["Apache-2.0"]}

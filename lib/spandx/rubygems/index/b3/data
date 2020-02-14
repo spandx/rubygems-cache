@@ -409,3 +409,5 @@
 {"name":"dependabot-elm","version":"0.113.28","licenses":["Nonstandard"]}
 {"name":"rdf-xsd","version":"3.0.1","licenses":["Unlicense"]}
 {"name":"eyes_appium","version":"3.16.3","licenses":["Applitools"]}
+{"name":"aws-partitions","version":"1.273.0","licenses":["Apache-2.0"]}
+{"name":"jekyll-tasks","version":"0.1.0","licenses":["MIT"]}

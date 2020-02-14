@@ -405,3 +405,4 @@
 {"name":"newrelic-sidekiq-metrics","version":"0.2.0","licenses":["MIT"]}
 {"name":"rubocop","version":"0.77.0","licenses":["MIT"]}
 {"name":"appbundler","version":"0.13.2","licenses":["Apache-2.0"]}
+{"name":"business-br","version":"0.10.0","licenses":["MIT"]}

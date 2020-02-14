@@ -398,3 +398,4 @@
 {"name":"activerecord-import","version":"1.0.3","licenses":["Ruby"]}
 {"name":"isolate","version":"3.3.1","licenses":["MIT"]}
 {"name":"safe-pg-migrations","version":"0.0.3","licenses":["MIT"]}
+{"name":"xsort","version":"1.4.0","licenses":["MIT"]}

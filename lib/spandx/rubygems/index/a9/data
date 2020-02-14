@@ -375,3 +375,4 @@
 {"name":"statesman","version":"5.2.0","licenses":["MIT"]}
 {"name":"statesman","version":"5.1.0","licenses":["MIT"]}
 {"name":"aws-sdk-chime","version":"1.19.0","licenses":["Apache-2.0"]}
+{"name":"gitlab-qa","version":"4.19.3","licenses":["MIT"]}

@@ -400,3 +400,5 @@
 {"name":"active_encode","version":"0.6.0","licenses":["Apache-2.0"]}
 {"name":"jt_tools","version":"0.0.1","licenses":["MIT"]}
 {"name":"spira","version":"3.1.0","licenses":["Public Domain"]}
+{"name":"revision","version":"1.5.0","licenses":["MIT"]}
+{"name":"victory","version":"0.3.0","licenses":["MIT"]}

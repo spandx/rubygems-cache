@@ -382,3 +382,6 @@
 {"name":"fluent-plugin-elasticsearch","version":"3.7.1","licenses":["Apache-2.0"]}
 {"name":"login_radius","version":"3.0.0","licenses":["MIT"]}
 {"name":"relaton-gb","version":"0.7.0","licenses":["BSD-2-Clause"]}
+{"name":"ish_manager","version":"0.1.8.197","licenses":["MIT"]}
+{"name":"motion-sqlite3","version":"1.0.0","licenses":["MIT"]}
+{"name":"probability_to_friendly_string","version":"1.1.0","licenses":["MIT"]}

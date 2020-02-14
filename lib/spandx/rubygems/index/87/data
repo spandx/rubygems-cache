@@ -395,3 +395,4 @@
 {"name":"groupdate","version":"4.2.0","licenses":["MIT"]}
 {"name":"ovto","version":"0.4.1","licenses":["MIT"]}
 {"name":"beats","version":"2.1.1","licenses":["MIT"]}
+{"name":"audrey","version":"0.3.2","licenses":["MIT"]}

@@ -383,3 +383,4 @@
 {"name":"shrine","version":"3.1.0","licenses":["MIT"]}
 {"name":"shex","version":"0.5.2","licenses":["Unlicense"]}
 {"name":"agoo","version":"2.11.5","licenses":["MIT"]}
+{"name":"influxdb-client","version":"1.1.0","licenses":["MIT"]}

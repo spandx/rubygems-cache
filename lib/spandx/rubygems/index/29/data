@@ -390,3 +390,5 @@
 {"name":"twinpush","version":"0.0.2","licenses":["MIT"]}
 {"name":"graph","version":"2.9.0","licenses":["MIT"]}
 {"name":"fastlane-plugin-flutter","version":"0.3.17","licenses":["MIT"]}
+{"name":"asperalm","version":"0.10.8","licenses":["Apache-2.0"]}
+{"name":"fastlane-plugin-flutter","version":"0.3.18","licenses":["MIT"]}

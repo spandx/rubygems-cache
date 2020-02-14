@@ -400,3 +400,4 @@
 {"name":"dtk_crd_parser","version":"0.0.171","licenses":["MIT"]}
 {"name":"embulk-output-oracle","version":"0.8.6","licenses":["Apache 2.0"]}
 {"name":"google-dfp-api","version":"1.10.0","licenses":["Apache-2.0"]}
+{"name":"ruby_ex_org","version":"0.1.0","licenses":["MIT"]}

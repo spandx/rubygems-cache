@@ -369,3 +369,5 @@
 {"name":"rdf-isomorphic","version":"3.0.0","licenses":["Unlicense"]}
 {"name":"regressy_common","version":"1.3.1","licenses":["MIT"]}
 {"name":"video2gif","version":"0.0.36","licenses":["CC0"]}
+{"name":"breathe","version":"0.3.2","licenses":["MIT"]}
+{"name":"yafoy-oembed","version":"0.1.0","licenses":["MIT"]}

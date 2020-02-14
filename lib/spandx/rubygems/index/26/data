@@ -345,3 +345,4 @@
 {"name":"fleetio_spark","version":"0.2.48","licenses":["MIT"]}
 {"name":"git-revision","version":"0.0.2","licenses":["BSD"]}
 {"name":"durable_rules","version":"2.0.14","licenses":["MIT"]}
+{"name":"asana","version":"0.10.0","licenses":["MIT"]}

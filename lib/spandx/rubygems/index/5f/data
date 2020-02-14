@@ -372,3 +372,5 @@
 {"name":"fluent-plugin-mqtt-io","version":"0.4.3","licenses":["Apache License Version 2.0"]}
 {"name":"pakyow-form","version":"1.0.2","licenses":["LGPL-3.0"]}
 {"name":"rake_leiningen","version":"0.14.0","licenses":["MIT"]}
+{"name":"mollie-api-ruby","version":"4.7.1","licenses":["BSD"]}
+{"name":"spark_api","version":"1.4.31","licenses":["Apache 2.0"]}

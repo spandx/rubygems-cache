@@ -353,3 +353,4 @@
 {"name":"logstash-input-file","version":"4.1.11","licenses":["Apache-2.0"]}
 {"name":"rbgo","version":"0.3.2","licenses":["MIT"]}
 {"name":"omniauth-smashrun","version":"0.0.6","licenses":["MIT"]}
+{"name":"cpe23","version":"0.1.0","licenses":["MIT"]}

@@ -364,3 +364,4 @@
 {"name":"jekyll-maps","version":"2.3.1","licenses":["MIT"]}
 {"name":"categorical","version":"0.0.4","licenses":["MIT"]}
 {"name":"gitlab-exporter","version":"6.1.0","licenses":["MIT"]}
+{"name":"spandx-rubygems","version":"0.1.3","licenses":["MIT"]}

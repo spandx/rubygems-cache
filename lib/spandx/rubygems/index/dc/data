@@ -335,3 +335,4 @@
 {"name":"shopify_api","version":"8.0.0","licenses":["MIT"]}
 {"name":"type-on-strap","version":"2.0.0","licenses":["MIT"]}
 {"name":"speq","version":"0.3.0","licenses":["MIT"]}
+{"name":"appinsights","version":"0.0.6","licenses":["MIT"]}

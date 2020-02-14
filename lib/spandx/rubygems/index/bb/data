@@ -418,3 +418,4 @@
 {"name":"passwordless","version":"0.8.2","licenses":["MIT"]}
 {"name":"exiftool_vendored","version":"11.79.0","licenses":["MIT"]}
 {"name":"exiftool_vendored","version":"11.78.0","licenses":["MIT"]}
+{"name":"simple-serializer","version":"0.1.4","licenses":["MIT"]}

@@ -423,3 +423,5 @@
 {"name":"grover","version":"0.9.1","licenses":["MIT"]}
 {"name":"bunny_testing","version":"0.2.0","licenses":["MIT"]}
 {"name":"evnt","version":"3.6.6","licenses":["MIT"]}
+{"name":"activejob-lockable","version":"0.1.5","licenses":["MIT"]}
+{"name":"media_info","version":"0.5.1","licenses":["MIT"]}

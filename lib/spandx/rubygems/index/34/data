@@ -361,3 +361,4 @@
 {"name":"rack-reducer","version":"2.0.2","licenses":["MIT"]}
 {"name":"backup_paradise","version":"1.1.22","licenses":["GPL-2.0"]}
 {"name":"relation_to_struct","version":"1.6.0","licenses":["MIT"]}
+{"name":"appoptics_apm","version":"4.11.1","licenses":["Librato Open License, Version 1.0, https://bit.ly/2Kmm0mN"]}

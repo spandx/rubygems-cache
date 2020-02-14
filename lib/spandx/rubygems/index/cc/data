@@ -394,3 +394,5 @@
 {"name":"marco-polo","version":"1.2.1","licenses":["MIT"]}
 {"name":"denormalize_fields","version":"1.0.0","licenses":["MIT"]}
 {"name":"rbbt-util","version":"5.26.140","licenses":["MIT"]}
+{"name":"denormalize_fields","version":"1.0.1","licenses":["MIT"]}
+{"name":"rbbt-util","version":"5.26.141","licenses":["MIT"]}

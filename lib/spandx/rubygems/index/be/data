@@ -403,3 +403,5 @@
 {"name":"tramway-core","version":"1.14.3","licenses":["MIT"]}
 {"name":"whoaz","version":"2.0.1","licenses":["BSD"]}
 {"name":"pakyow-assets","version":"1.0.2","licenses":["LGPL-3.0"]}
+{"name":"pact-support","version":"1.14.0","licenses":["MIT"]}
+{"name":"tramway-core","version":"1.16.1.4","licenses":["MIT"]}

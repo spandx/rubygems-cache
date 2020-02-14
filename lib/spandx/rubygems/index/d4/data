@@ -406,3 +406,5 @@
 {"name":"rswag_schema_export","version":"0.2.4","licenses":["MIT"]}
 {"name":"uk_account_validator","version":"0.0.9","licenses":["2 Clause BSD"]}
 {"name":"winrm-elevated","version":"1.2.1","licenses":["Apache-2.0"]}
+{"name":"best_friend","version":"0.1.1","licenses":["MIT"]}
+{"name":"simplygenius-atmos","version":"0.11.9","licenses":["Apache-2.0"]}

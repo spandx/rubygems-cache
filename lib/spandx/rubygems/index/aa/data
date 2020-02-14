@@ -376,3 +376,5 @@
 {"name":"enhanced_date_select","version":"1.5.1","licenses":["MIT"]}
 {"name":"enhanced_date_select","version":"1.5.0","licenses":["MIT"]}
 {"name":"obfuscated_identifier","version":"1.0.0","licenses":["MIT"]}
+{"name":"fastlane-plugin-aws_device_farm","version":"0.3.15","licenses":["MIT"]}
+{"name":"lazy_blob_storage","version":"1.0.0","licenses":["MIT"]}

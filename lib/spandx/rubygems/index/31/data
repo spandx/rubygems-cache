@@ -405,3 +405,5 @@
 {"name":"solidus_six_saferpay","version":"0.1.4","licenses":["MIT"]}
 {"name":"dockerize-stack","version":"0.7.0","licenses":["MIT"]}
 {"name":"simplecov","version":"0.18.2","licenses":["MIT"]}
+{"name":"gruf-prometheus","version":"1.2.0","licenses":["MIT"]}
+{"name":"rails_drivers","version":"1.1.0","licenses":["MIT"]}

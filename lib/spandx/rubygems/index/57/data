@@ -376,3 +376,4 @@
 {"name":"drg_manual","version":"0.0.3","licenses":["MIT-LICENSE"]}
 {"name":"neo4j","version":"9.6.0","licenses":["MIT"]}
 {"name":"textstat","version":"0.1.6","licenses":["MIT"]}
+{"name":"pod-bump","version":"0.0.2","licenses":["MIT"]}

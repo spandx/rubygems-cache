@@ -359,3 +359,4 @@
 {"name":"codacy-coverage","version":"2.1.5","licenses":["MIT"]}
 {"name":"chemistry_paradise","version":"1.0.60","licenses":["GPL-2.0"]}
 {"name":"active_recall","version":"1.2.0","licenses":["MIT"]}
+{"name":"teckel","version":"0.4.0","licenses":["Apache-2.0"]}

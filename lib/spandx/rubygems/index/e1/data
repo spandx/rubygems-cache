@@ -409,3 +409,4 @@
 {"name":"football_league","version":"0.1.0","licenses":["MIT"]}
 {"name":"aws-sdk-elasticsearchservice","version":"1.30.0","licenses":["Apache-2.0"]}
 {"name":"launchdarkly_api","version":"2.0.29","licenses":["Unlicense"]}
+{"name":"google-cloud-redis","version":"0.7.1","licenses":["Apache-2.0"]}

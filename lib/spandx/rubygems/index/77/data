@@ -385,3 +385,4 @@
 {"name":"krates","version":"1.6.2","licenses":["MIT"]}
 {"name":"down","version":"5.0.0","licenses":["MIT"]}
 {"name":"pdfgen","version":"0.7.0","licenses":["MIT"]}
+{"name":"level_travel","version":"0.3.0","licenses":["MIT"]}

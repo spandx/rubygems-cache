@@ -367,3 +367,4 @@
 {"name":"cookbook-omnifetch","version":"0.9.1","licenses":["Apache-2.0"]}
 {"name":"logstash-codec-avro_schema_registry","version":"1.2.0","licenses":["Apache License (2.0)"]}
 {"name":"standard_view","version":"0.1.5","licenses":["MIT"]}
+{"name":"dkdeploy-cucumber","version":"4.1.1","licenses":["MIT"]}

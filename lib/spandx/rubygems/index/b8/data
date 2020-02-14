@@ -357,3 +357,4 @@
 {"name":"aws-sdk-glue","version":"1.48.0","licenses":["Apache-2.0"]}
 {"name":"locked-rb","version":"0.0.6","licenses":["MIT"]}
 {"name":"rake_fly","version":"1.7.0","licenses":["MIT"]}
+{"name":"jekyll-multiple-languages-plugin","version":"1.6.1","licenses":["MIT"]}

@@ -380,3 +380,5 @@
 {"name":"role_core","version":"0.0.25","licenses":["MIT"]}
 {"name":"logstash-codec-cef","version":"6.0.1","licenses":["Apache License (2.0)"]}
 {"name":"rusty_symbol","version":"0.1.2","licenses":["MIT"]}
+{"name":"redis_test","version":"0.4.1","licenses":["MIT"]}
+{"name":"winevt_c","version":"0.7.0","licenses":["Apache-2.0"]}

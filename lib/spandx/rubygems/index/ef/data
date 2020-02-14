@@ -385,3 +385,4 @@
 {"name":"translation","version":"1.20","licenses":["MIT"]}
 {"name":"twurl","version":"0.9.4","licenses":["MIT"]}
 {"name":"breezer","version":"0.9.1","licenses":["MIT"]}
+{"name":"seven_zip_ruby_am","version":"1.2.5.3","licenses":["LGPL + unRAR"]}

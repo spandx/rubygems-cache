@@ -353,3 +353,4 @@
 {"name":"salesforce_streamer","version":"0.5.0","licenses":["MIT"]}
 {"name":"salesforce_streamer","version":"0.4.1","licenses":["MIT"]}
 {"name":"pact-message","version":"0.7.0","licenses":["MIT"]}
+{"name":"groonga-query-log","version":"1.5.8","licenses":["LGPLv2.1+"]}

@@ -428,3 +428,4 @@
 {"name":"thecore_api","version":"1.5.3","licenses":["MIT"]}
 {"name":"thecore_api","version":"1.5.1","licenses":["MIT"]}
 {"name":"trailblazer-activity-dsl-linear","version":"0.2.3","licenses":["LGPL-3.0"]}
+{"name":"json_apiable","version":"0.4","licenses":["MIT"]}

@@ -409,3 +409,4 @@
 {"name":"cinc-auditor-core-bin","version":"4.18.39","licenses":["Apache-2.0"]}
 {"name":"ruby_for_js-rails","version":"0.2","licenses":["MIT"]}
 {"name":"tinymce-rails","version":"5.2.0","licenses":["MIT"]}
+{"name":"coach","version":"2.2.2","licenses":["MIT"]}

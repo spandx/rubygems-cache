@@ -396,3 +396,5 @@
 {"name":"dependabot-maven","version":"0.113.28","licenses":["Nonstandard"]}
 {"name":"facet","version":"0.19.2","licenses":["MIT"]}
 {"name":"ocfl-tools","version":"0.9.10","licenses":["Apache-2.0"]}
+{"name":"ddd_domain","version":"1.2.0","licenses":["MIT"]}
+{"name":"ishapi","version":"0.1.8.116","licenses":["MIT"]}

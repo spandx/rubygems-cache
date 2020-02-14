@@ -401,3 +401,4 @@
 {"name":"omniauth-paypal-oauth2","version":"2.0.1","licenses":["MIT"]}
 {"name":"relaton-ogc","version":"0.2.0","licenses":["BSD-2-Clause"]}
 {"name":"graphiti","version":"1.2.11","licenses":["MIT"]}
+{"name":"fake_api","version":"0.9.0","licenses":["MIT"]}

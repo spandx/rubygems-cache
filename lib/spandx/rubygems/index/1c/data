@@ -374,3 +374,4 @@
 {"name":"rails-pg-extras","version":"0.3.0","licenses":["MIT"]}
 {"name":"rails-pg-extras","version":"0.1.0","licenses":["MIT"]}
 {"name":"aws-sdk-detective","version":"1.0.0","licenses":["Apache-2.0"]}
+{"name":"grabzit","version":"3.4.5","licenses":["MIT"]}

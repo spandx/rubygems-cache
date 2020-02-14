@@ -429,3 +429,4 @@
 {"name":"workarea","version":"3.5.0","licenses":["Business Software License"]}
 {"name":"faker","version":"2.8.1","licenses":["MIT"]}
 {"name":"opal","version":"1.0.1","licenses":["MIT"]}
+{"name":"logstash-filter-record_split","version":"0.1.0","licenses":["Apache-2.0"]}

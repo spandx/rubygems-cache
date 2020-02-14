@@ -367,3 +367,4 @@
 {"name":"tiny_auth","version":"0.2.0","licenses":["MIT"]}
 {"name":"ansible_tower_client","version":"0.21.0","licenses":["MIT"]}
 {"name":"pay","version":"2.0.1","licenses":["MIT"]}
+{"name":"pay","version":"2.0.2","licenses":["MIT"]}

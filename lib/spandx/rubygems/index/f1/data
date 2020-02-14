@@ -428,3 +428,4 @@
 {"name":"consul-templaterb","version":"1.21.5","licenses":["Apache v2"]}
 {"name":"aws-sdk-dynamodb","version":"1.42.0","licenses":["Apache-2.0"]}
 {"name":"rake-deveiate","version":"0.10.0","licenses":["BSD-3-Clause"]}
+{"name":"rubocop-itsmycargo","version":"0.1.9","licenses":["MIT"]}

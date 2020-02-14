@@ -403,3 +403,4 @@
 {"name":"open_last_url","version":"0.0.8","licenses":["GPL-2.0"]}
 {"name":"chef-infra-api","version":"0.10.0","licenses":["Apache-2.0"]}
 {"name":"google-cloud-pubsub","version":"1.1.2","licenses":["Apache-2.0"]}
+{"name":"influxdb-plugin-fluent","version":"1.1.0","licenses":["MIT"]}

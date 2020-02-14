@@ -413,3 +413,4 @@
 {"name":"reveal-jekyll","version":"0.0.1","licenses":["MIT"]}
 {"name":"testing_sung","version":"0.0.1.20191111","licenses":["Apache-2.0"]}
 {"name":"chef-apply","version":"0.4.15","licenses":["Apache-2.0"]}
+{"name":"updox","version":"0.6.0","licenses":["MIT"]}

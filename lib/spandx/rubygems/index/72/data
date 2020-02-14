@@ -412,3 +412,5 @@
 {"name":"ld-patch","version":"0.3.3","licenses":["Unlicense"]}
 {"name":"deep_unrest","version":"0.1.56","licenses":["MIT"]}
 {"name":"tapping_device","version":"0.4.3","licenses":["MIT"]}
+{"name":"cucumber-gherkin","version":"10.0.0","licenses":["MIT"]}
+{"name":"vsvipergen","version":"0.1.10","licenses":["MIT"]}

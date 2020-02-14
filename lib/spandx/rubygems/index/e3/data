@@ -399,3 +399,5 @@
 {"name":"active_admin_import","version":"4.1.1","licenses":["MIT"]}
 {"name":"sensu-plugins-puppet","version":"2.1.1","licenses":["MIT"]}
 {"name":"fileminer","version":"1.2.0","licenses":["MIT"]}
+{"name":"polyphony","version":"0.30","licenses":["MIT"]}
+{"name":"search_ui","version":"0.0.1","licenses":["MIT"]}

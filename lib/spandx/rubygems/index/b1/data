@@ -361,3 +361,4 @@
 {"name":"rsmp","version":"0.1.8","licenses":["MIT"]}
 {"name":"betterplace-content","version":"0.7.20","licenses":["Apache-2.0"]}
 {"name":"devise_code_authenticatable","version":"0.0.2","licenses":["MIT"]}
+{"name":"devise_code_authenticatable","version":"0.0.3","licenses":["MIT"]}

@@ -411,3 +411,4 @@
 {"name":"gsd-cli","version":"1.0.1","licenses":["MIT"]}
 {"name":"environment_information","version":"1.3.5","licenses":["GPL-2.0"]}
 {"name":"opennebula-cli","version":"5.10.2","licenses":["Apache-2.0"]}
+{"name":"environment_information","version":"1.3.6","licenses":["GPL-2.0"]}

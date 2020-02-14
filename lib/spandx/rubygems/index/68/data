@@ -372,3 +372,4 @@
 {"name":"lightspeed_restaurant","version":"3.1.0","licenses":["MIT"]}
 {"name":"rubocop-rspec","version":"1.37.0","licenses":["MIT"]}
 {"name":"rearrange_bayesian_symbolic","version":"0.1.1","licenses":["MIT"]}
+{"name":"rubocop-rake","version":"0.5.1","licenses":["MIT"]}

@@ -415,3 +415,5 @@
 {"name":"purecloudplatformclientv2","version":"71.0.0","licenses":["MIT"]}
 {"name":"ruby-prof","version":"0.18.0","licenses":["BSD-2-Clause"]}
 {"name":"ruby-prof","version":"1.0.0","licenses":["BSD-2-Clause"]}
+{"name":"rack-rdf","version":"3.1.0","licenses":["Unlicense"]}
+{"name":"weblog-parser","version":"0.1.0","licenses":["MIT"]}

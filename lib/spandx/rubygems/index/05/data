@@ -401,3 +401,4 @@
 {"name":"yarl","version":"0.3.1","licenses":["MIT"]}
 {"name":"bfs-ftp","version":"0.5.1","licenses":["Apache-2.0"]}
 {"name":"bolt_train_runner","version":"0.3.1","licenses":["MIT"]}
+{"name":"bfs-ftp","version":"0.6.3","licenses":["Apache-2.0"]}

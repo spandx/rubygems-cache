@@ -408,3 +408,4 @@
 {"name":"relaton-ietf","version":"0.7.0","licenses":["BSD-2-Clause"]}
 {"name":"pakyow-support","version":"1.0.2","licenses":["LGPL-3.0"]}
 {"name":"aws-sdk-workmail","version":"1.21.0","licenses":["Apache-2.0"]}
+{"name":"hackerone-client","version":"0.14.1","licenses":["MIT"]}

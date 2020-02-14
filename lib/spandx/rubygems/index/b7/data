@@ -336,3 +336,4 @@
 {"name":"aws-sdk-ssm","version":"1.66.0","licenses":["Apache-2.0"]}
 {"name":"rdf-json","version":"2.2.0","licenses":["Unlicense"]}
 {"name":"inline_svg","version":"1.7.0","licenses":["MIT"]}
+{"name":"nxt_state_machine","version":"0.1.5","licenses":["MIT"]}

@@ -393,3 +393,5 @@
 {"name":"qa_server","version":"5.2.1","licenses":["Apache-2.0"]}
 {"name":"turbolinks-form","version":"0.1.3","licenses":["MIT"]}
 {"name":"omnifocus","version":"2.6.0","licenses":["MIT"]}
+{"name":"files.com","version":"1.0.19","licenses":["MIT"]}
+{"name":"qa_server","version":"6.0.0","licenses":["Apache-2.0"]}

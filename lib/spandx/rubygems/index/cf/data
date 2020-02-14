@@ -370,3 +370,5 @@
 {"name":"rdf-spec","version":"3.0.0","licenses":["Unlicense"]}
 {"name":"omniauth-ljne","version":"0.1.6","licenses":["Apache-2.0"]}
 {"name":"pakyow-presenter","version":"1.0.2","licenses":["LGPL-3.0"]}
+{"name":"matrix_sdk","version":"2.0.0","licenses":["MIT"]}
+{"name":"spandx","version":"0.5.0","licenses":["MIT"]}

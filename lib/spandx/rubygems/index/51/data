@@ -426,3 +426,5 @@
 {"name":"eyes_selenium","version":"3.15.43","licenses":["Apache-2.0"]}
 {"name":"onnxruntime","version":"0.2.0","licenses":["MIT"]}
 {"name":"eyes_selenium","version":"3.16.3","licenses":["Applitools"]}
+{"name":"mondial_relay","version":"6.2.1","licenses":["MIT"]}
+{"name":"pact","version":"1.48.0","licenses":["MIT"]}

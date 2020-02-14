@@ -400,3 +400,4 @@
 {"name":"kubecontrol","version":"0.1.1","licenses":["MIT"]}
 {"name":"fastlane-plugin-appbox","version":"1.1.0","licenses":["MIT"]}
 {"name":"twexport","version":"0.0.2","licenses":["MIT"]}
+{"name":"aws-sdk-mediapackagevod","version":"1.9.0","licenses":["Apache-2.0"]}

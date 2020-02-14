@@ -398,3 +398,4 @@
 {"name":"configgin","version":"0.20.0","licenses":["Apache-2.0"]}
 {"name":"vips","version":"8.8.3","licenses":["MIT"]}
 {"name":"crokus","version":"0.1.2","licenses":["MIT"]}
+{"name":"puree","version":"2.9.0","licenses":["MIT"]}

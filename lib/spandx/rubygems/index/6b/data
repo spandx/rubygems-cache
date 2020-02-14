@@ -369,3 +369,5 @@
 {"name":"sushi_fabric","version":"0.9.4","licenses":["MIT"]}
 {"name":"spectacles","version":"1.2.0","licenses":["MIT"]}
 {"name":"shipit-engine","version":"0.31.0","licenses":["MIT"]}
+{"name":"aws-liam","version":"0.0.1","licenses":["MIT"]}
+{"name":"empi","version":"0.21","licenses":["CC-BY-SA-3.0"]}

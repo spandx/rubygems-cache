@@ -407,3 +407,6 @@
 {"name":"pakyow","version":"1.0.2","licenses":["LGPL-3.0"]}
 {"name":"quality","version":"35.2.0","licenses":["MIT"]}
 {"name":"aws-sdk-neptune","version":"1.21.0","licenses":["Apache-2.0"]}
+{"name":"bfs-s3","version":"0.6.3","licenses":["Apache-2.0"]}
+{"name":"vat-gst-calculator","version":"0.3.0","licenses":["MIT"]}
+{"name":"webload-client","version":"0.18.0","licenses":["MIT"]}

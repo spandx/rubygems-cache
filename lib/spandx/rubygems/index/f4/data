@@ -359,3 +359,5 @@
 {"name":"inline_forms","version":"5.2.4","licenses":["MIT"]}
 {"name":"pjax_rails","version":"0.5.0","licenses":["MIT"]}
 {"name":"pakyow-realtime","version":"1.0.2","licenses":["LGPL-3.0"]}
+{"name":"prometheus_exporter","version":"0.5.0","licenses":["MIT"]}
+{"name":"robust_excel_ole","version":"1.14","licenses":["MIT"]}

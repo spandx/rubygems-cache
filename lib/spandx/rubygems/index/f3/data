@@ -373,3 +373,5 @@
 {"name":"holidays","version":"8.0.0","licenses":["MIT"]}
 {"name":"yadriggy","version":"1.2.1","licenses":["MIT"]}
 {"name":"aws-sdk-cloudfront","version":"1.23.0","licenses":["Apache-2.0"]}
+{"name":"jptax","version":"0.1.1","licenses":["MIT"]}
+{"name":"productive","version":"0.6.27","licenses":["MIT"]}

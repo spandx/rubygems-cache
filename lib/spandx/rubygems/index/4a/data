@@ -400,3 +400,4 @@
 {"name":"lightning_sites","version":"1.4.6","licenses":["MIT"]}
 {"name":"fusionauth_client","version":"1.12.1","licenses":["Apache-2.0"]}
 {"name":"lightning_sites","version":"1.4.4","licenses":["MIT"]}
+{"name":"wpm","version":"0.1.2","licenses":["MIT"]}
