@@ -28,4 +28,7 @@ jobs:
           PGHOST: localhost
           PGUSER: postgres
           PGPORT: ${{ job.services.postgres.ports[5432] }}
-        run: bin/update
+        run: |
+          git config --local user.name "GitHub Action"
+          git config --local user.email "action@github.com"
+          bin/update
