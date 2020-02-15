@@ -67,9 +67,6 @@ module Spandx
           next if indexed?(tarfile)
 
           tarfile.each do |row|
-            licenses = extract_licenses_from(row['licenses'])
-            next if licenses.empty?
-
             open_data(row['name']) { |io| io.puts(map_from(row)) }
           end
           checkpoint!(tarfile)
