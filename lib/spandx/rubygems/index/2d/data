@@ -413,3 +413,5 @@
 {"name":"vehicle_coding_ph","version":"0.2.0","licenses":["MIT"]}
 {"name":"sorbet-static","version":"0.5.5368","licenses":["Apache-2.0"]}
 {"name":"sorbet-static","version":"0.5.5369","licenses":["Apache-2.0"]}
+{"name":"aws-sdk-securityhub","version":"1.18.0","licenses":["Apache-2.0"]}
+{"name":"sorbet-static","version":"0.5.5371","licenses":["Apache-2.0"]}

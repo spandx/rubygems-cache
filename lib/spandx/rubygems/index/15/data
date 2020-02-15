@@ -418,3 +418,4 @@
 {"name":"cfn-vpn","version":"0.3.0","licenses":["MIT"]}
 {"name":"lorekeeper","version":"1.9.0","licenses":["MIT"]}
 {"name":"cfn-vpn","version":"0.4.2","licenses":["MIT"]}
+{"name":"itamae-plugin-recipe-passenger","version":"0.1.0","licenses":["MIT"]}

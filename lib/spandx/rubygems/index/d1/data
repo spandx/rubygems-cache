@@ -380,3 +380,4 @@
 {"name":"cinc-auditor-bin","version":"4.18.39","licenses":["Apache-2.0"]}
 {"name":"rdf-reasoner","version":"0.5.3","licenses":["Unlicense"]}
 {"name":"hotel_price","version":"0.2.8","licenses":["MIT"]}
+{"name":"hotel_price","version":"0.3.0","licenses":["MIT"]}

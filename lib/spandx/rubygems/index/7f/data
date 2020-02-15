@@ -345,3 +345,4 @@
 {"name":"gitlab-labkit","version":"0.7.0","licenses":["MIT"]}
 {"name":"pact_broker","version":"2.49.0","licenses":["MIT"]}
 {"name":"ulms_client","version":"0.2.2","licenses":["MIT"]}
+{"name":"rudash","version":"4.1.1","licenses":["MIT"]}

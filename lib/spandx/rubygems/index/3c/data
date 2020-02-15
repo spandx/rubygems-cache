@@ -423,3 +423,4 @@
 {"name":"rating","version":"0.9.0","licenses":["MIT"]}
 {"name":"pulsedive","version":"0.1.4","licenses":["MIT"]}
 {"name":"orthodox","version":"0.3.1","licenses":["MIT"]}
+{"name":"google-protobuf","version":"3.11.4","licenses":["BSD-3-Clause"]}

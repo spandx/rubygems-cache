@@ -408,3 +408,4 @@
 {"name":"fast_serializer_ruby","version":"0.1.2","licenses":["MIT"]}
 {"name":"eyes_images","version":"3.16.3","licenses":["Applitools"]}
 {"name":"quiq","version":"0.2.0","licenses":["MIT"]}
+{"name":"basic_temperature","version":"0.1.0","licenses":["MIT"]}

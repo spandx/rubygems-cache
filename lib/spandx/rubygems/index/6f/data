@@ -418,3 +418,4 @@
 {"name":"sibit","version":"0.12.5","licenses":["MIT"]}
 {"name":"stats_lite","version":"0.5.4","licenses":["MIT"]}
 {"name":"embulk-input-sftp","version":"0.3.3","licenses":["Apache-2.0"]}
+{"name":"kcc-gem-theme","version":"1.39.18","licenses":["MIT"]}

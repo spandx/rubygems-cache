@@ -366,3 +366,4 @@
 {"name":"authlete","version":"1.0.19","licenses":["Apache License, Version 2.0"]}
 {"name":"baku","version":"0.3.0","licenses":["MIT"]}
 {"name":"flexirest","version":"1.9.11","licenses":["MIT"]}
+{"name":"flexirest","version":"1.9.12","licenses":["MIT"]}

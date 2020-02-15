@@ -395,3 +395,4 @@
 {"name":"furion","version":"1.0.10","licenses":["MIT"]}
 {"name":"rdf-n3","version":"3.1.0","licenses":["Unlicense"]}
 {"name":"attractor","version":"1.0.0","licenses":["MIT"]}
+{"name":"ruby-next","version":"0.3.0","licenses":["MIT"]}

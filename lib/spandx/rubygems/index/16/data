@@ -401,3 +401,4 @@
 {"name":"railties","version":"6.0.2","licenses":["MIT"]}
 {"name":"sidekiq-heartbeat_monitor","version":"1.0.0.1","licenses":["MIT"]}
 {"name":"coloregex","version":"0.1.0","licenses":["MIT"]}
+{"name":"blind_index","version":"2.0.1","licenses":["MIT"]}

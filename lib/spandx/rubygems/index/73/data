@@ -370,3 +370,4 @@
 {"name":"rspec-request_snapshot","version":"0.7.2","licenses":["MIT"]}
 {"name":"argument_type_error_helper","version":"1.0.1","licenses":["MIT"]}
 {"name":"rocket_cms","version":"0.32.0","licenses":["MIT"]}
+{"name":"alpaka","version":"0.3.0","licenses":["GPL-3.0"]}

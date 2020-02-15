@@ -410,3 +410,4 @@
 {"name":"govuk_publishing_components","version":"21.15.2","licenses":["MIT"]}
 {"name":"govuk_publishing_components","version":"21.14.0","licenses":["MIT"]}
 {"name":"miteru","version":"0.12.13","licenses":["MIT"]}
+{"name":"awslive-inputlooper","version":"0.1.4","licenses":["MIT"]}

@@ -370,3 +370,4 @@
 {"name":"redis_hash","version":"0.19.2","licenses":["MIT"]}
 {"name":"relaton-iso-bib","version":"0.4.0","licenses":["BSD-2-Clause"]}
 {"name":"simplecov-oj","version":"0.18.4","licenses":["MIT"]}
+{"name":"relaton-iso-bib","version":"0.6.0","licenses":["BSD-2-Clause"]}

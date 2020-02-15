@@ -424,3 +424,7 @@
 {"name":"SelfPay","version":"0.1.0","licenses":["MIT"]}
 {"name":"strelka","version":"0.19.1","licenses":["BSD-3-Clause"]}
 {"name":"SelfPay","version":"0.1.8","licenses":["MIT"]}
+{"name":"cardname","version":"0.9.3","licenses":["GPL-2.0","GPL-3.0"]}
+{"name":"decko","version":"0.9.3","licenses":["GPL-2.0","GPL-3.0"]}
+{"name":"minimalist-theme","version":"0.1.9","licenses":["MIT"]}
+{"name":"SelfPay","version":"0.1.10","licenses":["MIT"]}

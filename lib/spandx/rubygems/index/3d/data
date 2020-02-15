@@ -399,3 +399,4 @@
 {"name":"conjunction","version":"0.19.2","licenses":["MIT"]}
 {"name":"dependabot-github_actions","version":"0.113.28","licenses":["Nonstandard"]}
 {"name":"moderate_parameters","version":"0.3.3","licenses":["MIT"]}
+{"name":"actionview-component","version":"1.10.0","licenses":["MIT"]}

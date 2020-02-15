@@ -396,3 +396,6 @@
 {"name":"sparql","version":"3.0.2","licenses":["Unlicense"]}
 {"name":"lockbox","version":"0.2.4","licenses":["MIT"]}
 {"name":"i18n-migrations","version":"1.2.2","licenses":["MIT"]}
+{"name":"lockbox","version":"0.3.2","licenses":["MIT"]}
+{"name":"roda","version":"3.29.0","licenses":["MIT"]}
+{"name":"sapor","version":"0.3.9","licenses":["GPL"]}

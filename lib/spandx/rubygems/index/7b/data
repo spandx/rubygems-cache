@@ -378,3 +378,4 @@
 {"name":"foreman_ipam","version":"0.0.8","licenses":["GPL-3.0"]}
 {"name":"time_calc","version":"0.0.2","licenses":["MIT"]}
 {"name":"fafx","version":"0.2.0","licenses":["MIT"]}
+{"name":"awslive-poster","version":"0.1.5","licenses":["MIT"]}

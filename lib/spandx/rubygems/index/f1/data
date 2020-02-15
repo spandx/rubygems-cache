@@ -429,3 +429,4 @@
 {"name":"aws-sdk-dynamodb","version":"1.42.0","licenses":["Apache-2.0"]}
 {"name":"rake-deveiate","version":"0.10.0","licenses":["BSD-3-Clause"]}
 {"name":"rubocop-itsmycargo","version":"0.1.9","licenses":["MIT"]}
+{"name":"relaton-itu","version":"0.6.0","licenses":["MIT"]}

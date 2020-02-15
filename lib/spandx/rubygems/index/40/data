@@ -379,3 +379,4 @@
 {"name":"encrypt-vigen","version":"0.0.1","licenses":["GPL-1.0-only"]}
 {"name":"sensu-plugins-minio","version":"0.0.1","licenses":["MIT"]}
 {"name":"saoshyant","version":"1.0.0","licenses":["MIT"]}
+{"name":"saoshyant","version":"1.0.2","licenses":["MIT"]}

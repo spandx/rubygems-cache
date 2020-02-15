@@ -331,3 +331,4 @@
 {"name":"pocus","version":"0.6.1","licenses":["MIT"]}
 {"name":"carriage","version":"1.0.0","licenses":["MIT"]}
 {"name":"carriage","version":"1.2.0","licenses":["MIT"]}
+{"name":"apollo_upload_server","version":"2.0.0","licenses":["MIT"]}

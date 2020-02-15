@@ -398,3 +398,4 @@
 {"name":"command_search","version":"0.11.0","licenses":["Unlicense"]}
 {"name":"command_search","version":"0.10.0","licenses":["Unlicense"]}
 {"name":"aws-sdk-core","version":"3.90.0","licenses":["Apache-2.0"]}
+{"name":"aws-sdk-core","version":"3.90.1","licenses":["Apache-2.0"]}

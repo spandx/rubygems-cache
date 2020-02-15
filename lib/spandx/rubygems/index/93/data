@@ -425,3 +425,5 @@
 {"name":"thermos","version":"0.2.0","licenses":["MIT"]}
 {"name":"thermos","version":"0.1.1","licenses":["MIT"]}
 {"name":"mixlib-authentication","version":"3.0.4","licenses":["Apache-2.0"]}
+{"name":"cfn-nag","version":"0.5.7","licenses":["MIT"]}
+{"name":"secret_hub","version":"0.1.1","licenses":["MIT"]}

@@ -371,3 +371,4 @@
 {"name":"rumale","version":"0.14.2","licenses":["BSD-2-Clause"]}
 {"name":"asg-rebooter","version":"0.0.3","licenses":["MIT"]}
 {"name":"boy_band","version":"0.1.7","licenses":["MIT"]}
+{"name":"terraform_landscape","version":"0.3.3","licenses":["Apache-2.0"]}

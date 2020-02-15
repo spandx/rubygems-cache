@@ -398,3 +398,4 @@
 {"name":"punching_bag","version":"0.6.1","licenses":["MIT"]}
 {"name":"fastlane-plugin-poesie","version":"0.2.0","licenses":["MIT"]}
 {"name":"protocol-websocket","version":"0.7.3","licenses":["MIT"]}
+{"name":"logstash-input-cassandra_sync","version":"1.1.0","licenses":["Apache-2.0"]}

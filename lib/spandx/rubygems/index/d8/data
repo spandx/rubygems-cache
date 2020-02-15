@@ -367,3 +367,4 @@
 {"name":"order_optimizer","version":"0.2.0","licenses":["MIT"]}
 {"name":"stackprof","version":"0.2.14","licenses":["MIT"]}
 {"name":"order_optimizer","version":"0.1.0","licenses":["MIT"]}
+{"name":"itamae-plugin-recipe-supervisor","version":"0.0.5","licenses":["MIT"]}

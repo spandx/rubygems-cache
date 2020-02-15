@@ -383,3 +383,4 @@
 {"name":"embulk-filter-expand_csv_array","version":"0.1.2","licenses":["MIT"]}
 {"name":"rack-prerender","version":"1.6.2","licenses":["MIT"]}
 {"name":"sidekiq","version":"6.0.5","licenses":["LGPL-3.0"]}
+{"name":"duckdb","version":"0.0.6","licenses":["MIT"]}

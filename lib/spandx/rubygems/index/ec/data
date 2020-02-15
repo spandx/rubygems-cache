@@ -384,3 +384,4 @@
 {"name":"jekyll-theme-parallelism","version":"0.1.6","licenses":["CC-BY-3.0"]}
 {"name":"i18n_plus","version":"0.4.2","licenses":["MIT"]}
 {"name":"fluent-plugin-cloudwatch-logs","version":"0.7.5","licenses":["MIT"]}
+{"name":"sinatra-rdf","version":"3.1.0","licenses":["Unlicense"]}

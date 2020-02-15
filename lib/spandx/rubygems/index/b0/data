@@ -383,3 +383,4 @@
 {"name":"usps_flags","version":"0.5.7","licenses":["GPL-3.0"]}
 {"name":"api-blocks","version":"0.5.4","licenses":["MIT"]}
 {"name":"eyes_calabash","version":"3.16.3","licenses":["Applitools"]}
+{"name":"fastlane-plugin-connected","version":"0.1.2","licenses":["MIT"]}

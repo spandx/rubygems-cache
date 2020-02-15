@@ -412,3 +412,4 @@
 {"name":"environment_information","version":"1.3.5","licenses":["GPL-2.0"]}
 {"name":"opennebula-cli","version":"5.10.2","licenses":["Apache-2.0"]}
 {"name":"environment_information","version":"1.3.6","licenses":["GPL-2.0"]}
+{"name":"gettext","version":"3.3.5","licenses":["Ruby or LGPLv3+"]}

@@ -405,3 +405,4 @@
 {"name":"feriados","version":"4.2.2","licenses":["MIT"]}
 {"name":"param_store","version":"1.0.0","licenses":["MIT"]}
 {"name":"ivapi","version":"1.7.0","licenses":["MIT"]}
+{"name":"pod-builder","version":"1.9.0","licenses":["Apache-2.0"]}

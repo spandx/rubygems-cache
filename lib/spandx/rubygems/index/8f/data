@@ -382,3 +382,4 @@
 {"name":"scout_apm","version":"2.6.5","licenses":["Proprietary (See LICENSE.md)"]}
 {"name":"packaging","version":"0.99.51","licenses":["Apache-2.0"]}
 {"name":"intermix-client","version":"0.0.3","licenses":["MIT"]}
+{"name":"decanter","version":"3.0.0","licenses":["MIT"]}

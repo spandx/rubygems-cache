@@ -384,3 +384,4 @@
 {"name":"rdf","version":"3.0.13","licenses":["Unlicense"]}
 {"name":"relaton-iec","version":"0.5.0","licenses":["MIT"]}
 {"name":"chefspec","version":"9.1.0","licenses":["MIT"]}
+{"name":"relaton-iec","version":"0.7.0","licenses":["MIT"]}

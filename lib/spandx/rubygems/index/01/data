@@ -393,3 +393,5 @@
 {"name":"rake_docker","version":"2.1.0","licenses":["MIT"]}
 {"name":"roda-tags","version":"0.1.2","licenses":["MIT"]}
 {"name":"rake_docker","version":"2.3.0","licenses":["MIT"]}
+{"name":"google_sheets","version":"0.0.9","licenses":["MIT"]}
+{"name":"rake_docker","version":"2.5.0","licenses":["MIT"]}

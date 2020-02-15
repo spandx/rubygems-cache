@@ -336,3 +336,4 @@
 {"name":"hint-rubocop_style","version":"0.3.3","licenses":["MIT"]}
 {"name":"birdspotting","version":"0.1.3","licenses":["MIT"]}
 {"name":"stream_lines","version":"0.2.1","licenses":["MIT"]}
+{"name":"stream_lines","version":"0.3.0","licenses":["MIT"]}

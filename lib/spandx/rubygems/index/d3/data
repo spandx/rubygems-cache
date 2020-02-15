@@ -406,3 +406,4 @@
 {"name":"beaker-hostgenerator","version":"1.2.3","licenses":["Apache2"]}
 {"name":"elastic-app-search","version":"7.6.0","licenses":["Apache-2.0"]}
 {"name":"saasagi","version":"0.2.2","licenses":["MIT"]}
+{"name":"blacklight","version":"7.6.0","licenses":["Apache 2.0"]}

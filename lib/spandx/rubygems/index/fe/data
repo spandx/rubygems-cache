@@ -414,3 +414,6 @@
 {"name":"testing_sung","version":"0.0.1.20191111","licenses":["Apache-2.0"]}
 {"name":"chef-apply","version":"0.4.15","licenses":["Apache-2.0"]}
 {"name":"updox","version":"0.6.0","licenses":["MIT"]}
+{"name":"updox","version":"0.7.0","licenses":["MIT"]}
+{"name":"usedby","version":"0.4.0","licenses":["BSD-2-Clause"]}
+{"name":"zaikio-jwt_auth","version":"0.1.5","licenses":["MIT"]}

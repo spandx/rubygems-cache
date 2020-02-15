@@ -341,3 +341,4 @@
 {"name":"money_xml_validator","version":"0.0.1","licenses":["MIT"]}
 {"name":"punchlist","version":"1.2.0","licenses":["MIT"]}
 {"name":"mapbox-gl-rails","version":"1.6.0","licenses":["MIT"]}
+{"name":"my-services","version":"0.0.2","licenses":["MIT"]}

@@ -358,3 +358,4 @@
 {"name":"metanorma-csand","version":"1.3.7","licenses":["BSD-2-Clause"]}
 {"name":"kadim","version":"0.2.3","licenses":["MIT"]}
 {"name":"lol_auth","version":"0.1.10","licenses":["MIT"]}
+{"name":"omniauth-tanita","version":"0.2.1","licenses":["MIT"]}

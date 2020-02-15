@@ -398,3 +398,4 @@
 {"name":"ocfl-tools","version":"0.9.10","licenses":["Apache-2.0"]}
 {"name":"ddd_domain","version":"1.2.0","licenses":["MIT"]}
 {"name":"ishapi","version":"0.1.8.116","licenses":["MIT"]}
+{"name":"alchemy-graphql","version":"0.1.0","licenses":["BSD-3-Clause"]}

@@ -404,3 +404,4 @@
 {"name":"random_word_by_length","version":"0.1.0","licenses":["MIT"]}
 {"name":"chef-telemetry","version":"1.0.3","licenses":["Apache-2.0"]}
 {"name":"fastlane-plugin-deploy_aws_s3_cloudfront","version":"1.0.1","licenses":["MIT"]}
+{"name":"faucet_pipeline_rails","version":"1.0.1","licenses":["MIT"]}

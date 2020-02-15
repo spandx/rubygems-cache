@@ -348,3 +348,4 @@
 {"name":"mathematical","version":"1.6.12","licenses":["MIT"]}
 {"name":"odca","version":"0.2.0","licenses":["MIT"]}
 {"name":"odca","version":"0.1.3","licenses":["MIT"]}
+{"name":"consul_application_settings","version":"0.1.3","licenses":["MIT"]}

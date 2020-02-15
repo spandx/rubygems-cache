@@ -359,3 +359,4 @@
 {"name":"fluent-plugin-azurestorage-gen2","version":"0.1.0","licenses":["Apache-2.0"]}
 {"name":"breadcrumbs_rails","version":"0.0.1","licenses":["MIT"]}
 {"name":"cacofonix","version":"0.10.1","licenses":["MIT"]}
+{"name":"graphql-voyager-rails","version":"1.0.2","licenses":["MIT"]}

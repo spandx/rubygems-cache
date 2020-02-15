@@ -395,3 +395,4 @@
 {"name":"obf","version":"0.9.8.9","licenses":["MIT"]}
 {"name":"rspice","version":"0.19.2","licenses":["MIT"]}
 {"name":"neighborly-dashboard","version":"1.0.2","licenses":["MIT"]}
+{"name":"ruby-dnn","version":"1.1.2","licenses":["MIT"]}

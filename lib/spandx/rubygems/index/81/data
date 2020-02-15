@@ -382,3 +382,4 @@
 {"name":"fastlane-plugin-jira_util","version":"0.1.9","licenses":["MIT"]}
 {"name":"dor-services","version":"8.6.0","licenses":["ALv2","Stanford University"]}
 {"name":"i18n-js","version":"3.6.0","licenses":["MIT"]}
+{"name":"dor-services","version":"9.0.0","licenses":["ALv2","Stanford University"]}

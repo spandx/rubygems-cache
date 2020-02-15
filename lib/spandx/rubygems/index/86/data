@@ -410,3 +410,4 @@
 {"name":"smart_proxy_ipam","version":"0.0.14","licenses":["GPL-3.0"]}
 {"name":"smart_proxy_ipam","version":"0.0.13","licenses":["GPL-3.0"]}
 {"name":"pact_broker-client","version":"1.24.0","licenses":["MIT"]}
+{"name":"hrr_rb_netconf","version":"0.2.1","licenses":["Apache-2.0"]}

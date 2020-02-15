@@ -386,3 +386,5 @@
 {"name":"relaton-calconnect","version":"0.2.0","licenses":["BSD-2-Clause"]}
 {"name":"dictionaries","version":"0.2.168","licenses":["MIT"]}
 {"name":"simple_scripting","version":"0.12.1","licenses":["GPL-3.0"]}
+{"name":"ethereum.rb","version":"2.4","licenses":["MIT"]}
+{"name":"relaton-calconnect","version":"0.4.0","licenses":["BSD-2-Clause"]}

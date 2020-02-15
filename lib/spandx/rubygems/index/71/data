@@ -404,3 +404,4 @@
 {"name":"fastlane-plugin-alioss","version":"0.1.7","licenses":["MIT"]}
 {"name":"logstash-output-cassandra_load","version":"0.0.2","licenses":["Apache-2.0"]}
 {"name":"eyes_core","version":"3.16.3","licenses":["Applitools"]}
+{"name":"logstash-output-cassandra_load","version":"1.1.0","licenses":["Apache-2.0"]}

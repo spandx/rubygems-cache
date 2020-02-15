@@ -399,3 +399,4 @@
 {"name":"tally","version":"1.0.0","licenses":["MIT"]}
 {"name":"bfs","version":"0.6.3","licenses":["Apache-2.0"]}
 {"name":"ttfunk","version":"1.6.2","licenses":["Nonstandard","GPL-2.0","GPL-3.0"]}
+{"name":"ttfunk","version":"1.6.2.1","licenses":["Nonstandard","GPL-2.0","GPL-3.0"]}

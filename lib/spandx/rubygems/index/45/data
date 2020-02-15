@@ -396,3 +396,4 @@
 {"name":"rdf-raptor","version":"2.2.0","licenses":["Public Domain"]}
 {"name":"relaton","version":"0.6.0","licenses":["BSD-2-Clause"]}
 {"name":"jet_set","version":"0.5.1","licenses":["MIT"]}
+{"name":"relaton","version":"0.8.0","licenses":["BSD-2-Clause"]}

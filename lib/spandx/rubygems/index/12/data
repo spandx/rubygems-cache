@@ -380,3 +380,4 @@
 {"name":"fluent-plugin-prometheus","version":"1.7.1","licenses":["Apache-2.0"]}
 {"name":"dbee-active_record","version":"2.0.4","licenses":["MIT"]}
 {"name":"fluent-plugin-prometheus","version":"1.7.3","licenses":["Apache-2.0"]}
+{"name":"relaton-cli","version":"0.6.0","licenses":["BSD-2-Clause"]}

@@ -357,3 +357,5 @@
 {"name":"bdl_parser","version":"0.1.0","licenses":["MIT"]}
 {"name":"bdl_parser","version":"0.2.0","licenses":["MIT"]}
 {"name":"blacklight-gallery","version":"1.7.0","licenses":["Apache 2.0"]}
+{"name":"bdl_parser","version":"0.3.2","licenses":["MIT"]}
+{"name":"rollbar","version":"2.24.0","licenses":["MIT"]}

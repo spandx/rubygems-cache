@@ -383,3 +383,4 @@
 {"name":"in_threads","version":"1.5.3","licenses":["MIT"]}
 {"name":"fir-cli","version":"2.0.1","licenses":["MIT"]}
 {"name":"jet_black","version":"0.6.0","licenses":["MIT"]}
+{"name":"civo_cli","version":"0.5.8","licenses":["MIT"]}

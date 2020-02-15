@@ -376,3 +376,5 @@
 {"name":"regtest","version":"2.1.1","licenses":["Ruby"]}
 {"name":"chartmogul-ruby","version":"1.4.0","licenses":["MIT"]}
 {"name":"hammer_cli_foreman_azure_rm","version":"0.1.0","licenses":["GPL-3.0"]}
+{"name":"any_ascii","version":"0.1.2","licenses":["ISC"]}
+{"name":"rate_limiter","version":"0.1.0","licenses":["MIT"]}

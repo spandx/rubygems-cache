@@ -372,3 +372,4 @@
 {"name":"aaf-lipstick","version":"4.3.0","licenses":["Apache-2.0"]}
 {"name":"s3-antivirus","version":"0.1.0","licenses":["MIT"]}
 {"name":"neighborly","version":"0.0.1","licenses":["MIT"]}
+{"name":"pantograph","version":"0.1.22","licenses":["MIT"]}

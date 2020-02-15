@@ -396,3 +396,4 @@
 {"name":"rbbt-util","version":"5.26.140","licenses":["MIT"]}
 {"name":"denormalize_fields","version":"1.0.1","licenses":["MIT"]}
 {"name":"rbbt-util","version":"5.26.141","licenses":["MIT"]}
+{"name":"ibm_watson","version":"1.3.0","licenses":["Apache-2.0"]}

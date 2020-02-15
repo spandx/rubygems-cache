@@ -393,3 +393,5 @@
 {"name":"evt-message_store-postgres","version":"2.4.0.0","licenses":["MIT"]}
 {"name":"lgit","version":"0.3.0","licenses":["MIT"]}
 {"name":"lgit","version":"0.2.1","licenses":["MIT"]}
+{"name":"embulk-input-zendesk-all","version":"0.4.4","licenses":["MIT"]}
+{"name":"filterable_model","version":"0.1.1","licenses":["MIT"]}

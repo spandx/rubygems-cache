@@ -375,3 +375,4 @@
 {"name":"rdf-aggregate-repo","version":"2.2.1","licenses":["Unlicense"]}
 {"name":"action-handle","version":"0.0.1","licenses":["MIT"]}
 {"name":"webmock","version":"3.8.2","licenses":["MIT"]}
+{"name":"buttercms-rails","version":"1.2.3","licenses":["MIT"]}

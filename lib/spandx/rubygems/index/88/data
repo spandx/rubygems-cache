@@ -335,3 +335,4 @@
 {"name":"da_funk","version":"3.13.0","licenses":["MIT"]}
 {"name":"cloudpayments","version":"0.3.0","licenses":["MIT"]}
 {"name":"square.rb","version":"3.20191120.0","licenses":["Apache-2.0"]}
+{"name":"aws-sdk-mediatailor","version":"1.23.0","licenses":["Apache-2.0"]}

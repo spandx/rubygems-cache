@@ -395,3 +395,4 @@
 {"name":"wwdc","version":"1.1.0","licenses":["MIT"]}
 {"name":"hanami-events-cloud_pubsub","version":"2.3.0","licenses":["MIT"]}
 {"name":"material","version":"0.3.4","licenses":["MIT"]}
+{"name":"indoctrinatr-tools","version":"0.16.0","licenses":["MIT"]}

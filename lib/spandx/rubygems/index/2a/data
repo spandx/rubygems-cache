@@ -390,3 +390,4 @@
 {"name":"stripe-ruby-mock","version":"2.5.8","licenses":["MIT"]}
 {"name":"asciidoctor-diagram","version":"1.5.19","licenses":["MIT"]}
 {"name":"card","version":"1.99.2","licenses":["GPL-2.0","GPL-3.0"]}
+{"name":"card","version":"1.99.3","licenses":["GPL-2.0","GPL-3.0"]}

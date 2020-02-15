@@ -405,3 +405,4 @@
 {"name":"activeadmin","version":"2.5.0","licenses":["MIT"]}
 {"name":"rubygems-update","version":"3.0.6","licenses":["Ruby","MIT"]}
 {"name":"aries-sdk-ruby","version":"0.0.9","licenses":["Apache-2.0"]}
+{"name":"fluent-plugin-windows-eventlog","version":"0.4.6","licenses":["Apache-2.0"]}

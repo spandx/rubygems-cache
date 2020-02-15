@@ -373,3 +373,4 @@
 {"name":"mjml-ruby","version":"0.3.4","licenses":["MIT"]}
 {"name":"testrail-rspec","version":"0.1.2","licenses":["MIT"]}
 {"name":"ruby-pwsh","version":"0.4.1","licenses":["MIT"]}
+{"name":"rspec-request_describer","version":"0.3.2","licenses":["MIT"]}
