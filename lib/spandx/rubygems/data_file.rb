@@ -19,13 +19,7 @@ module Spandx
       end
 
       def batch(size:)
-        # Zlib::GzipWriter.open(path) do |io|
-        # packer = MessagePack::Packer.new(io)
-        # packer.write_map_header(size)
-        # yield packer
-        # packer.flush
-        # end
-        File.open(path, 'wb') do |io|
+        Zlib::GzipWriter.open(path) do |io|
           packer = MessagePack::Packer.new(io)
           packer.write_map_header(size)
           yield packer
@@ -43,23 +37,14 @@ module Spandx
         return default unless File.exist?(path)
         return default if File.empty?(path)
 
-        # Zlib::GzipReader.open(path) do |io|
-        # MessagePack.unpack(io.read)
-        # end
-
-        File.open(path, 'rb') do |io|
+        Zlib::GzipReader.open(path) do |io|
           MessagePack.unpack(io.read)
         end
       end
 
       def write(data)
         FileUtils.mkdir_p(File.dirname(path))
-        # Zlib::GzipWriter.open(path) do |io|
-        # packer = MessagePack::Packer.new(io)
-        # packer.write(data)
-        # packer.flush
-        # end
-        File.open(path, 'wb') do |io|
+        Zlib::GzipWriter.open(path) do |io|
           packer = MessagePack::Packer.new(io)
           packer.write(data)
           packer.flush
