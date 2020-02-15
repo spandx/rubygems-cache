@@ -37,7 +37,10 @@ module Spandx
         return default unless File.exist?(path)
         return default if File.empty?(path)
 
-        MessagePack.unpack(Zlib::GzipReader.open(path, &:read))
+        puts path.inspect
+        Zlib::GzipReader.open(path) do |io|
+          MessagePack.unpack(io.read)
+        end
       end
 
       def write(data)
