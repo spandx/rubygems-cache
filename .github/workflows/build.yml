@@ -8,12 +8,12 @@ jobs:
     runs-on: ubuntu-latest
     services:
       postgres:
-        image: postgres:11
+        image: postgres:10.8
         env:
           POSTGRES_USER: postgres
           POSTGRES_DB: postgres
         ports:
-          - 5432:5432
+          - 5432/tcp
         options: --health-cmd pg_isready --health-interval 10s --health-timeout 5s --health-retries 5
     steps:
       - uses: actions/checkout@v2
@@ -23,6 +23,7 @@ jobs:
           ruby-version: 2.7
       - name: Run cibuild
         env:
-          PGHOST: postgres
+          PGHOST: localhost
           PGUSER: postgres
+          PGPORT: ${{ job.services.postgres.ports[5432] }}
         run: bin/cibuild
