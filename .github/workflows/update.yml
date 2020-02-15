@@ -20,12 +20,9 @@ jobs:
         uses: actions/setup-ruby@v1
         with:
           ruby-version: 2.7
-      - name: Run cibuild
+      - name: Run bin/update
         env:
           PGHOST: localhost
           PGUSER: postgres
           PGPORT: ${{ job.services.postgres.ports[5432] }}
-        run: |
-          gem install bundler -v '~> 2.0'
-          bundle install
-          bundle exec ruby exe/spandx-rubygems update
+        run: bin/update
