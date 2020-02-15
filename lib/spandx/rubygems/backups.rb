@@ -34,8 +34,20 @@ module Spandx
         @db_connection ||=
           begin
             require 'pg'
-            PG.connect(host: File.expand_path('tmp/sockets'), dbname: 'postgres')
+            PG.connect(host: pg_host, dbname: pg_dbname, user: pg_user)
           end
+      end
+
+      def pg_host
+        ENV.fetch('PGHOST', File.expand_path('tmp/sockets'))
+      end
+
+      def pg_user
+        ENV['PGUSER']
+      end
+
+      def pg_dbname
+        ENV.fetch('PGDBNAME', 'postgres')
       end
     end
   end
