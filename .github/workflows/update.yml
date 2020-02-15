@@ -1,7 +1,7 @@
 name: update
 on:
   schedule:
-    - cron: '* 10 * * *'
+    - cron: '* 15 * * *'
   push:
     branches:
       - master
@@ -29,6 +29,6 @@ jobs:
           PGUSER: postgres
           PGPORT: ${{ job.services.postgres.ports[5432] }}
         run: |
-          git config --local user.name "GitHub Action"
-          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub"
+          git config --local user.email "noreply@github.com"
           bin/update
