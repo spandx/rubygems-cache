@@ -10,4 +10,4 @@ bundle exec ruby exe/spandx-rubygems update
 git add lib
 git status
 git commit -m 'Update index'
-git push origin master
+git push origin
