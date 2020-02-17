@@ -1,12 +1,19 @@
+AlimentoSolete,1.0.0,MIT
+DanaDanger-cast_attribute,1.0,""
+MexWeather,0.0.0,MIT
+Minimalist,0.1.3,MIT
+NYTimesAPI,0.0.1,MIT
+QuadraticEquation_MS,1.0.0,MIT
+Viewing_View_Tool,0.1.0,MIT
 abstract_type,0.0.7,MIT
 accepts_nested_serialized_attributes,0.0.2,MIT
 acs2aws,0.2.0,MIT
 actionmailer-localized_preview,0.0.2,MIT
+active_interactor,0.2.0,MIT
+active_scaffold_vho,4.0.0,MIT
 activeadmin-logs,0.0.1,MIT
 activeexport,0.1.1,MIT
-active_interactor,0.2.0,MIT
 activerecord-hstore_properties,0.0.10,""
-active_scaffold_vho,4.0.0,MIT
 acts_as,0.6.5,MIT
 acts_in_relation,0.2.2,MIT
 adhoq,1.0.0,MIT
@@ -17,7 +24,6 @@ aladtec,0.3.0,MIT
 alert_message,1.1.8,MIT
 alfa_insurance,0.2.0,MIT
 alfa_insurance,0.2.1,MIT
-AlimentoSolete,1.0.0,MIT
 alloy-kicker,1.9.3,""
 analytics-psw,0.4.5,3-Clause BSD
 angular-ng-table-rails,0.5.4.1,MIT
@@ -26,15 +32,15 @@ anz_bank_csv_cleaner,0.1,""
 apiphobic-authorization,1.5.0,MIT
 apollo-tools,0.1.7,""
 apti,0.6.2,GPL3
+ar-monocle,0.1.7,MIT
 ara,0.0.3,""
 arango_i18n,1.0.1,MIT
-ar-monocle,0.1.7,MIT
 array_2d_simple,0.3.0,""
 asa_console,0.2.0,MIT
 asakusa-rss-monitor,0.0.4,""
 async-slack,0.3.0,MIT
-attribution,0.10.0,""
 attr_permit,0.0.4,MIT
+attribution,0.10.0,""
 autoseed,0.1.0,MIT
 backbone-deep-rails,0.0.3,MIT
 bdimcheff-dm-pagination,0.1.2.2,""
@@ -81,8 +87,8 @@ clinvoice,1.1.0,MIT
 clover,0.0.0,MIT
 cmaudit,0.0.1,MIT
 cocaine,0.6.0,MIT
-codepipeline,0.3.4,MIT
 code_version,0.1.6,MIT
+codepipeline,0.3.4,MIT
 codility_log,0.0.2,MIT
 collect-agent,0.2.5,MIT
 commandorobo,0.0.6.2,MIT
@@ -99,7 +105,6 @@ cucumber_priority,0.3.2,MIT
 cucumber_rake_runner,0.0.3,MIT
 custom_translations,0.1.0,MIT
 d1,0.2.0,""
-DanaDanger-cast_attribute,1.0,""
 database-switcher,0.1.0,MIT
 dav4rack_ext,1.0.0,""
 dbc-ruby,1.0.4,""
@@ -127,11 +132,11 @@ ecm_downloads2_backend,2.1.0,MIT
 economic-ocr,0.0.1,""
 ej,0.2.0,MIT
 elitepvpersapi,0.1.1,MIT
+em_mysql2_connection_pool,0.0.7,""
 email_address_validation,0.3.3,""
 ember-auth-response-dummy-rails,1.0.0,MIT license
 embratel,1.1.2,""
 emenu,0.4.1,""
-em_mysql2_connection_pool,0.0.7,""
 encoding_checker,0.0.4,""
 epguides,0.0.1,""
 epub-directory,0.1.2,AGPL-3.0
@@ -173,14 +178,14 @@ foundation-icons-rails,0.0.1.2,""
 frontkick,0.5.7,""
 fusuma-plugin-keypress,0.1.0,MIT
 gd_bam,0.1.40,""
-gema_bruno,0.0.0,MIT
-gematdd-dibad,0.1.1,""
 gem_command,0.0.1,""
 gem_of,0.1.0,Apache-2.0
 gem_sample_pruby,1.0.2,MIT
 gem_search,0.0.8,GNU GPL
-gene_names,0.0.1,MIT
+gema_bruno,0.0.0,MIT
+gematdd-dibad,0.1.1,""
 gen-tj,0.0.2,""
+gene_names,0.0.1,MIT
 geometric_trans,0.0.6,""
 geothird_friendly_id,4.0.9.8,""
 gf_ordername,1.0.0,MIT
@@ -188,8 +193,8 @@ ghaki-match,2011.12.04.2,""
 giant-ui,0.0.1,""
 giflib,0.11,""
 gist-content,0.0.5,MIT
-gitback,0.1.4,""
 git-duet,0.5.1,MIT
+gitback,0.1.4,""
 github-event-watcher,1.0.0,GPL-3.0+
 github_fastforward,2.2.0,MIT
 github_readme_generator,0.1.0,Apache 2.0
@@ -223,11 +228,11 @@ hola_jechol,0.0.0,MIT
 hola_kutzilla,0.0.0,MIT
 homecoming,0.1.1,MIT
 hubeny,0.1.1,MIT
+i_hope_you_die,0.0.1,LGPLv3
 idcf-dns,0.1.0,""
 idcf-your,0.1.1,MIT
 identity_crm,0.1.0,MIT
 iexcloud,0.0.0,MIT
-i_hope_you_die,0.0.1,LGPLv3
 iloveyou,0.0.1,Apache License
 image_flux,1.1.0,MIT
 immutability,0.0.5,MIT
@@ -263,6 +268,7 @@ killbill-notification-test,4.0.0,Apache License (2.0)
 kitchen-inspec,1.3.1,Apache-2.0
 kjeldahl-metric_fu,1.1.5.4,""
 kynigos,0.0.1,MIT
+l-tools,0.1.5,MIT
 lahar,0.1.0,MIT
 laloyd,0.1.2,MIT
 laloyd,0.1.3,MIT
@@ -288,12 +294,11 @@ logstash_scribbler,0.0.3,MIT
 logue,1.0.18,MIT
 lonely_planet_tours,1.1.0,MIT
 lp_rails_util,1.4.0,None
-l-tools,0.1.5,MIT
 luislavena-sqlite3-ruby,1.2.5,""
 m2m,0.2.9,""
+mac_view_tool,0.1.0,MIT
 maca-ruby2js,0.0.2,""
 machospec,0.0.0.1,""
-mac_view_tool,0.1.0,MIT
 magic_inquiries,0.0.6,MIT
 malibu,0.0.0,MIT
 master_api_key,2.0.1,MIT
@@ -304,10 +309,9 @@ mbleigh-fetches,0.0.4,""
 memq,0.0.1,""
 mengpaneel,0.0.3,MIT
 messaging-stash,0.1.9,""
-MexWeather,0.0.0,MIT
-Minimalist,0.1.3,MIT
 miu-irc,0.1.0,""
 mno-enterprise-frontend,3.4.0,Apache-2.0
+mo_translation,0.0.2,""
 model-cache,0.2.12,""
 money-altcoin,0.0.3,MIT
 mongoid-slugify,0.2.0,""
@@ -316,7 +320,6 @@ monkey_catch,0.0.1,""
 morphy,0.0.5,MIT
 morphy,0.0.8,MIT
 mote_sms,1.3.15,""
-mo_translation,0.0.2,""
 msg91sms,1.0.1,MIT
 much-factory,0.1.0,MIT
 multi-database-9000,0.4.0,MIT
@@ -328,11 +331,10 @@ ncbi_blast_results_parser,0.1.0,""
 negate,1.0.0,MIT
 neo4j-advanced,1.9.5,""
 nl_api,1.2.0,MIT
-notifiee-ruby,1.0.5,MIT
 not_too_late,0.1.1,MIT
+notifiee-ruby,1.0.5,MIT
 nova_poshta,0.3.0,MIT
 npy,0.2.0,MIT
-NYTimesAPI,0.0.1,MIT
 oauth-cli-twitter,0.0.4,""
 obfusc,1.0.1,MIT
 obfuscated,0.2.1,""
@@ -380,10 +382,10 @@ podnix,0.3.0,Apache V2
 podspec_bump,0.1.4,MIT
 poise-application-javascript,1.0.0,Apache 2.0
 polymorphic_join,0.2.4,MIT
+post_to_s3,0.0.2,""
 postcodeapi,2.1.0,""
 postdb,0.1.5,GPL-3.0
 postgres_ext,3.0.1,MIT
-post_to_s3,0.0.2,""
 poxy,0.0.6,MIT
 pretty_mailer,0.0.4,MIT
 process-metrics,0.1.1,MIT
@@ -398,7 +400,6 @@ pttcrawler,0.1.3,MIT
 pui-henrietta_pussycat,0.1.0,""
 punched,1.2.0,GPL-3.0
 purdytest,2.0.0,MIT
-QuadraticEquation_MS,1.0.0,MIT
 quark-publisher,0.3.0,""
 quick_search-core,0.2.0,MIT
 rabbit-slide-kou-myna-201807,2018.7.23.3,CC-BY-SA-4.0
@@ -411,10 +412,10 @@ rack-synctime,0.0.2,""
 rack-test-body,1.0.0,MIT
 radiant-booking_app-extension,0.2.0,MIT
 rails_google_fonts,0.0.1,MIT
-railsone,0.0.1,MIT
 rails_taxon,1.0.0,LGPL-3.0
-randomid,0.1.2,MIT
+railsone,0.0.1,MIT
 rand_palette,0.1.1,MIT
+randomid,0.1.2,MIT
 rangefinder,0.0.4,MIT
 rasper_client,0.1.4,MIT
 rbcalc,0.1.0,MIT
@@ -437,8 +438,8 @@ ros-avro_turf,0.1.0,MIT
 routemaster-drain,3.6.5,MIT
 roverjoe,0.0.10,""
 rpub,0.5.0,""
-ruby_i2c,0.1.3,""
 ruby-redis-portertech,0.0.3,""
+ruby_i2c,0.1.3,""
 rundeck,1.2.1,BSD-2-Clause
 saaz,0.0.0,MIT
 sanitize_msword,0.0.5,MIT
@@ -458,9 +459,9 @@ sidekiq-instrumental,0.2.3,MIT
 sidekiq-instrumental,0.3.0,MIT
 simple_activity,0.1.2,MIT
 simple_apm,1.0.14,MIT
-simplecov-murmur,0.8.2,""
 simple_document,0.1.2,""
 simple_paginator,1.0.0,MIT
+simplecov-murmur,0.8.2,""
 simplyscroll-rails,1.0.2,MIT
 single_cov,1.3.2,MIT
 situation,0.0.1,""
@@ -484,8 +485,8 @@ szimek-twitter,0.6.5,""
 tenderlove-facebooker,1.0.16.20090319171318,""
 terraformdsl,0.0.1,MIT
 test_assistant,1.0.0,MIT
-testgem417,0.0.6,MIT
 test_temp_file_helper,0.0.3,CC0
+testgem417,0.0.6,MIT
 thefox-hello,1.15.2,GPL-3.0
 thiru,0.1.1,MIT
 thisisthat,0.0.0,MIT
@@ -519,7 +520,6 @@ valuables,0.5.0,MIT
 valvat,0.8.2,MIT
 vanakkam,0.0.2,MIT
 verify_vsp_client,0.1.1,MIT
-Viewing_View_Tool,0.1.0,MIT
 vipergen-xctestable,0.3.1,MIT
 voteable_elise,0.0.0,""
 vp,0.0.1,MIT
@@ -535,9 +535,9 @@ workarea-admin,3.5.2,Business Software License
 workarea-admin,3.5.3,Business Software License
 workarea-admin,3.5.4,Business Software License
 wowecon,0.2.5,""
-xmldsig-fiscalizer,0.2.5,MIT
 xml-registry,0.6.0,MIT
 xml-registry,0.7.0,MIT
+xmldsig-fiscalizer,0.2.5,MIT
 xplanner,0.1.4,""
 yaml_converters,0.2.1,MIT
 yandex-translator-apiwrapper,0.1.3,""

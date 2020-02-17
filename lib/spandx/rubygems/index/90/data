@@ -1,13 +1,19 @@
 196demo,0.0.0,MIT
+Aravind,0.0.2,MIT
+CarRegistrationFrance,0.0.2,MIT
+Currentize,0.1.0,MIT
+GenerateRandomPublicIP,0.0.1,MIT
+Pr0d1r2-geokit-cached,0.1.1,""
+ProMotion-XLForm,0.0.18,MIT
 ackintosh-tiny_progressbar,0.0.1,""
 active_decorator-rspec,0.0.9,MIT
-activefacts-api,1.9.12,MIT
 active_fedora-noid,2.2.0,Apache2
+active_record_mysql_xverify,0.1.1,MIT
+active_rest,0.0.1,MIT
+activefacts-api,1.9.12,MIT
 activenavbar,2.0.0,MIT
 activerecord-futures,0.4.0,""
 activerecord-grouping_enum,1.0.0,MIT
-active_record_mysql_xverify,0.1.1,MIT
-active_rest,0.0.1,MIT
 acts_as_explorable,0.1.1,MIT
 acts_as_follower,0.2.1,MIT
 acts_as_starrable,0.0.2,""
@@ -28,10 +34,9 @@ app_env_config,0.1.2,MIT
 appilf,0.1.0,MIT
 appleslice,0.0.1,MIT
 approveapi_swagger,1.0.6,Unlicense
-Aravind,0.0.2,MIT
+ar_sitemapper,1.1.0,BSD 3-Clause
 armin-joellenbeck-decorator,0.0.2,""
 arrg,2.1.2,""
-ar_sitemapper,1.1.0,BSD 3-Clause
 ascii_chart,0.2.0,MIT
 assign,0.1.0,MIT
 assimp-ffi,0.1.6,BSD-2-Clause
@@ -39,8 +44,8 @@ astro,0.2.1,MIT
 async_data_fetch,0.0.12,MIT
 atlassian-stash-avisi,0.4.15,MIT
 avi_says_shit,0.0.5,""
-awsom,0.1.0,MIT
 aws_security_viz,0.2.0,MIT
+awsom,0.1.0,MIT
 az,2.0.1,MIT
 backable,1.0.2,MIT
 backup-remote,0.0.18,MIT
@@ -85,7 +90,6 @@ capistrano-strategy-jenkins_artifact,0.4.1,MIT
 capncook,0.1.3,MIT
 capybara-slow_finder_errors,0.1.5,MIT
 carnivore-nsq,0.1.16,Apache 2.0
-CarRegistrationFrance,0.0.2,MIT
 carrierwave-aliyun-oss,0.4.6,MIT
 carrierwave-qiniu,1.1.7,MIT
 carrierwave-qiniu,1.1.8,MIT
@@ -99,12 +103,12 @@ chicago_divvy_stations,0.1.1,MIT
 chili_player,0.1.4,MIT
 chronopost,5.0.0,MIT
 cicloid-backdrop,0.1.0,""
-citybikes_api,2.0.1,MIT
 city_utc,1.0.5,MIT
+citybikes_api,2.0.1,MIT
 clicky_me,0.0.1,""
-clientside,0.5,LGPL
 client_side_validations-simple_form,9.1.0,MIT
 client_side_validations-simple_form,9.2.0,MIT
+clientside,0.5,LGPL
 cloudkeeper-aws,2.0.0,GNU General Public License v3.0
 cloudscale-monitor,0.0.1,MIT
 cmdjohnson-acts_as_money,0.0.1,""
@@ -126,13 +130,12 @@ csv-machine,1.0.1,""
 cucumber-mailcatcher,0.13,MIT
 cukestart,0.3.0,MIT
 cupper,0.2.1,""
-Currentize,0.1.0,MIT
 dalt,1.0.0,MIT
 danno_ball_clock,0.0.4,MIT
 dastbytes,0.0.2,MIT
+data_maintenance,0.1.0,MIT
 database_repository,1.1.0,""
 datadog-queue-bus,0.1.0,MIT
-data_maintenance,0.1.0,MIT
 date_range_covers,0.0.4,MIT
 david-merb_cucumber,0.5.1.2,""
 decent_ham,0.0.5,""
@@ -199,10 +202,10 @@ forkrick,0.1.1,""
 formaticon,0.1.4,""
 fragmenter,1.0.2,MIT
 frameit,4.0.0,MIT
+g.raphael-rails,0.1.0,MIT
 gabrielmansour-compass-960-plugin,0.9.7,""
 gce-metadata,0.2.4,MIT
 geckodriver-helper,0.24.0,MIT
-GenerateRandomPublicIP,0.0.1,MIT
 gentooboontoo-ruby-fftw3,0.4.1,BSD
 geoffgarside-angel,1.0.1,""
 gerrit-seed,1.1.0,MIT
@@ -210,7 +213,6 @@ gifnoc,0.0.2,Apache-2.0
 gitlab-release-tools,1.0.1,MIT
 global,1.1.0,MIT
 gohell,0.0.1,MIT
-g.raphael-rails,0.1.0,MIT
 greek_stemmer,1.3.1,MIT
 grimen-gemgen,0.1.3,""
 guard-cucumber,2.1.2,MIT
@@ -251,8 +253,8 @@ jekyll-plugin-gkimagetag,0.1.0,Nonstandard
 jimuguri,0.1.1,MIT
 jm3-rubunkulous,0.0.2,""
 jodosha-sashimi,0.2.2,""
-jquerycsv-rails,0.71.2,MIT
 jquery-ztree-rails,1.0.2,""
+jquerycsv-rails,0.71.2,MIT
 jrmonitor,0.4.2,Apache License (2.0)
 jrun-rails_doorman,0.0.1,""
 json_resume,1.0.6,MIT
@@ -291,15 +293,15 @@ matlock,0.1.2,""
 md2dw,1.0.1,MIT
 melissa_data,1.1.0,MIT
 memory_buffer,0.1.0,MIT
+mi_gema,0.0.0,MIT
 midas_client,0.2.4,MIT
 middleman-fragment-caching,0.0.1,MIT
-mi_gema,0.0.0,MIT
 mini_admin,0.1.0,MIT
 mini_aether,0.0.7,""
 minicron,0.7.11,GPL-3.0
 minitest-bonus-assertions,3.0,MIT
-minitest_practice,0.1.0,MIT
 minitest-trump,3.0.0,MIT
+minitest_practice,0.1.0,MIT
 mislav-thor,0.9.10,""
 mixin_bot,0.1.4,MIT
 mobster,0.1.0,MIT
@@ -355,13 +357,11 @@ plate,0.7.8,""
 plextail,0.0.4,MIT
 pluckeroid,0.0.2,MIT
 png,1.2.1,MIT
-Pr0d1r2-geokit-cached,0.1.1,""
 pragmatic_ql,0.1.0.1,MIT
 pribytkovskiy_gem,0.1.0,MIT
 prime_number_generator,0.3,MIT
 progress_percent,0.0.2,MIT
 project-honeypot2,0.1.3,""
-ProMotion-XLForm,0.0.18,MIT
 propensity,0.0.5,""
 proprocks,0.1.0,MIT
 provider,0.0.1,""
@@ -375,8 +375,8 @@ pyer-options,2.0.3,MIT
 qcloud,0.0.1,MIT
 qoobaa-to_hash,0.1.2,""
 qtest-ruby,0.1.0,MIT
-rabbitmq_http_api_client,1.12.0,MIT-|-Mozilla Public License
 rabbit-slide-unasuke-heiseirb-6,1.0.0,MIT
+rabbitmq_http_api_client,1.12.0,MIT-|-Mozilla Public License
 rack_no_autocomplete,0.0.2,""
 radiant-relations-extension,1.2.7,""
 rahil_test,0.0.1,MIT
@@ -399,8 +399,8 @@ rspec-matchers-matchers,1.0.0,MIT
 rspec-rerun,1.1.0,MIT
 ruboty-gcal,0.0.1,MIT
 ruby-git-yz,1.3.3,MIT
-ruby_hue,0.1.0,""
 ruby-mdbm,0.0.2,""
+ruby_hue,0.1.0,""
 rufus-scheduler-win32-service,0.0.2,MIT
 ruote-stomp-maestrodev,2.2.4,""
 rzicon,0.0.5,MIT

@@ -1,3 +1,7 @@
+CapicuaGenMelchior,0.1.1,LGPL
+Matrices6541516,0.1.0,MIT
+Sutto-SABnzbd,0.3.0,""
+WinCommon,0.1.1,UNLICENSE
 aanand-deadweight,0.1.0,""
 ability_list,0.0.4,""
 active_model-validations-model_validator,0.1.0,MIT
@@ -22,8 +26,8 @@ asirra,0.0.1,MIT
 atomy,0.7.1,Apache-2.0
 audited-timeline,1.1.1,MIT
 auto-correct,0.2.0,""
-autoreload,1.2.0,BSD-2-Clause-|-RUBY
 auto-session-timeout-warning,1.1.0,MIT
+autoreload,1.2.0,BSD-2-Clause-|-RUBY
 aws-sdk-cognitosync,1.16.0,Apache-2.0
 aws-sdk-migrationhubconfig,1.0.0,Apache-2.0
 aws-sdk-polly,1.27.0,Apache-2.0
@@ -60,13 +64,12 @@ calc_wsalasg,0.0.3,ARTISTIC
 canada-post-api,0.0.3,MIT
 cancan-inherited_resources,0.1.0,""
 candid,1.0.0,MIT
-CapicuaGenMelchior,0.1.1,LGPL
+cap-runit,0.2.1,MIT
 capistrano-jdk-installer,0.1.3,""
 capistrano-linuxpl,0.0.5,MIT
 capistrano-mono-deploy,0.1.4,""
 capistrano_two_phase_deployment,0.0.1,""
 capnotify-commit_log,0.0.2,MIT
-cap-runit,0.2.1,MIT
 carrierwave-ffmpeg,1.0.0,MIT
 cass_schema,0.3.2,MIT
 cave,0.0.1,""
@@ -158,15 +161,15 @@ ga-cli,0.0.1,MIT
 ga_dashboard,0.1.0,MIT
 gazouillis,0.1.3,MIT
 gearman-ruby,4.0.5,""
-generic_resources,0.1.6,MIT
 gen-license,0.0.2,MIT
+generic_resources,0.1.6,MIT
 geometry-bgw,0.0.0,MIT
 gissuel,0.3.1,MIT
-github-api-auth,0.2.0,MIT
-git_loc_tracker,0.0.3,""
 git-version,0.0.3,""
-google_api_url_shortener,1.0.2,MIT
+git_loc_tracker,0.0.3,""
+github-api-auth,0.2.0,MIT
 google-spreadsheet-ruby,0.3.1,New BSD
+google_api_url_shortener,1.0.2,MIT
 gorillib-model,0.0.3,Apache 2.0
 govuk-pay-api-client,0.1.5,MIT
 gpx_track_generator,0.3.5,MIT
@@ -189,12 +192,12 @@ http-api-tools,0.2.0,MIT
 htty,1.5.7,MIT
 hydrate,0.0.0,GPL v3
 hyper_admin,0.4.0,MIT
+iNotifyou,0.0.1.1,MIT
 ig_api,0.0.20,MIT
 iiif,0.0.2,""
 image_to_pdf,0.0.2,MIT
 imseng-capybara-webkit,0.12.1,""
 inboundio_seo_checklist,0.0.2,""
-iNotifyou,0.0.1.1,MIT
 inspiredigital-rakismet,0.3.5,""
 iso_3166_2_jp,0.1.0,""
 jackal-copperegg,0.1.0,Apache 2.0
@@ -234,7 +237,6 @@ mapbox-gl-rails,1.6.1,MIT
 mapbox-gl-rails,1.7.0,MIT
 mask,0.0.1,""
 mastercard_places,1.0.5,BSD-2-Clause
-Matrices6541516,0.1.0,MIT
 mediaarts_scraper,0.1.0,MIT
 method_cache,1.1.0,MIT
 metova,0.0.17,MIT
@@ -257,9 +259,9 @@ modown,0.1.0,MIT
 money-open-exchange-rates,1.3.0,MIT
 money_xml_validator,0.0.1,MIT
 money_xml_validator,1.0.0,MIT
+mongo_test_server,0.0.7,""
 mongodb-graphite-agent,0.1.4,MIT
 mongoid-tag-collectible,0.2.2,MIT
-mongo_test_server,0.0.7,""
 monittr,0.0.7,""
 moro-scope_do,0.1.1,""
 moticons,1.1.0,MIT
@@ -271,10 +273,10 @@ mroch-ical_builder,0.2.0,""
 msgpacker,0.0.4,MIT
 mu-json,0.1.0,MIT
 multi_bitly,0.1.1,MIT
-myoutline,0.5.0,MIT
-mypg,0.0.4,MIT
 my-services,0.0.1,MIT
 my-services,0.0.2,MIT
+myoutline,0.5.0,MIT
+mypg,0.0.4,MIT
 nanoc-core,4.11.14,MIT
 nifty,0.2.12,MIT
 notifiable-geo,0.1.4,MIT
@@ -294,9 +296,9 @@ opal-irb,0.10.0,""
 osx_provision,0.9.9,""
 oximeter,0.0.1,MIT
 packr-rails,0.0.1,""
-pageflow-sitemap,1.3.0,MIT
 page_meta,0.2.0,MIT
 page_viewer,0.0.5,""
+pageflow-sitemap,1.3.0,MIT
 parsi-localize,0.3.3,MIT
 pass,0.0.5,MIT
 perfer,0.2.1,""
@@ -329,14 +331,14 @@ rabbit-slide-kou-cross-2015,2015.01.29.2,CC BY-SA 3.0-|-CC BY-SA 4.0
 rabbit-slide-znz-regexp-201403,1.0.0,""
 rabbit-slide-znz-rubykansai81-octopress-to-jekyll,2018.03.17,""
 rabbit-theme-logicool-wireless-presenter,1.0.0,LGPLv3+
-rack_api_key_limit,0.0.1,MIT
 rack-emoji,0.1.1,MIT
+rack_api_key_limit,0.0.1,MIT
 rafter-fulfillment,1.0.0,Apache 2.0
+rails-sqlserver-2000-2005-adapter,2.2.21,""
 rails_environment_seeds,0.1.0,MIT
 rails_i18n_record,1.0.6,MIT
 rails_limiter,0.3.3,MIT
 rails_presenter,0.0.3,""
-rails-sqlserver-2000-2005-adapter,2.2.21,""
 rambling-slider-rails,0.2.0,""
 ramdo,0.3.2,MIT
 rand_greeting_generator,0.1.1,MIT
@@ -346,8 +348,8 @@ reality-naming,1.13.0,""
 redfish,0.2.1,""
 redis-stat,0.4.14,MIT
 redmine-generators,0.0.1,""
-redshift_connector-queuery,10.0.0,MIT
 redshift-connector-queuery,9.0.0,MIT
+redshift_connector-queuery,10.0.0,MIT
 relevance-chatterbox,0.3.3,""
 render-component,0.4.0,""
 render_csv,2.0.0,MIT
@@ -387,8 +389,8 @@ sgn,0.0.3,""
 shuber-hattr_accessor,1.1.0,""
 sidekiq_error_label,1.0.1,MIT
 silent_fetcher,0.0.3,MIT
-simplecov-teamcity-summary,1.0.0,MIT
 simple_roles,0.0.12,MIT
+simplecov-teamcity-summary,1.0.0,MIT
 sinatra_cyclist_multi,0.0.2,""
 sistero,0.8.0,""
 snipcheat,0.0.6,""
@@ -398,13 +400,13 @@ solidity,0.0.1,Public Domain
 solidus_gateway,1.3.0,BSD-3
 solidus_product_feed,1.0.0,""
 spacetree,1.0.1,MIT
-spark_cli,0.1.2,MIT
 spark-component,1.0.0,MIT
 spark-component,1.0.1,MIT
 spark-component,1.1.0,MIT
 spark-component,1.1.2,MIT
 spark-component,1.1.3,MIT
 spark-component,1.1.5,MIT
+spark_cli,0.1.2,MIT
 sphinxtrain-ruby,0.0.3,MIT
 spicy-proton,2.1.4,MIT
 spree-last-address,2.2.1,BSD-3
@@ -419,7 +421,6 @@ straightedge-gosu,0.1.0,MIT
 string_ripper,0.0.3,""
 sum_all_number_combinations,0.1.2,MIT
 super_push,0.1.6,MIT
-Sutto-SABnzbd,0.3.0,""
 swagger-shell,0.0.3,MIT
 sweet_notifications,1.0.1,MIT
 syslog_multiline_log,0.1.0,MIT
@@ -439,8 +440,8 @@ toml_mega_lotto,0.5.0,MIT
 top_movies_of_the_year,0.2.0,MIT
 tortilla,1.0.0,MIT
 tradewind,1.3,MIT
-transaction_event_store,0.0.2,MIT
 transact_pro,1.1.2,BSD-3-Clause
+transaction_event_store,0.0.2,MIT
 tumblrer,0.0.1,MIT
 twentytwenty_rails,0.0.3,MIT
 twingly-url_cache,2.0.0,""
@@ -449,8 +450,8 @@ unicorn-timeout_backtracer,0.0.3,MIT
 unit_converter,0.0.0,""
 unversioned-gem,0,""
 us-mail-client,0.0.8,""
-vagrant-mongodb,0.1.0,""
 vagr_plugin,0.0.0,""
+vagrant-mongodb,0.1.0,""
 valcro,0.1.1,""
 vat_rates,0.0.2,MIT
 vigenere,0.1,""
@@ -467,7 +468,6 @@ watchit,1.0.0,MIT
 web_socket_chat_server,0.0.9,MIT
 what_is_it_about,0.1.3,MIT
 whos_in,0.0.4,MIT
-WinCommon,0.1.1,UNLICENSE
 wms,0.0.4,MIT
 workarea-google_product_feed,3.1.4,Business Software License
 workpattern,0.5.0,MIT
@@ -484,5 +484,5 @@ yolo,1.4.0,MIT
 zapwhite,2.16.0,""
 zapwhite,2.17.0,""
 zip_dsl,1.5.1,MIT
-zippy,0.2.3,MIT
 zip_search,0.2.0,MIT
+zippy,0.2.3,MIT

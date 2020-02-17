@@ -1,3 +1,10 @@
+CarRegistrationSweden,0.0.2,MIT
+GetAcademy,0.1.1,MIT
+GoogleReaderApi,0.5.0,""
+MagicNumber,0.0.1,MIT
+RubyApp,0.7.16,""
+StyleSass,0.1.5,MIT
+a_little_less,0.2.4,MIT
 abst_int,0.0.3,MIT
 actionview-encoded_mail_to,1.0.9,""
 active_annotation,0.0.1,MIT
@@ -6,17 +13,16 @@ active_job_resque_solo,1.0.0,MIT
 active_job_resque_solo,1.0.1,MIT
 active_payment,1.2.0,MIT
 active_record_group_count,0.0.1,""
-activerecord-jdbcsplice-adapter,0.1.4,MIT
-activerecord-time-scope,0.1.2,MIT
 active_seo,0.2.0,MIT
 active_seo,0.2.1,MIT
 active_spy,1.4.4,MIT
+activerecord-jdbcsplice-adapter,0.1.4,MIT
+activerecord-time-scope,0.1.2,MIT
 adequate_errors,0.1.2,MIT
 adhearsion-ivr,0.2.0,MIT
 administrate-field-markdown,0.0.2,MIT
 aesthetics,0.1.0,MIT
 aladin,1.0.0,MIT
-a_little_less,0.2.4,MIT
 aloha_world,0.0.3,MIT
 alphred,2.0.2,MIT
 amaoto,1.0.7,MIT
@@ -57,7 +63,6 @@ capistrano-syncback,0.1.0,MIT
 capistrano-upload-restart,1.0,MIT
 cardshark,0.0.1,""
 cardshark,0.0.2,""
-CarRegistrationSweden,0.0.2,MIT
 carrierwave-optimize-image,1.0.4,MIT
 casual_helper,0.0.15,""
 cbmes-contact,0.1.1,MIT
@@ -115,8 +120,8 @@ dep-selector-libgecode,1.3.1,MIT-|-Apache 2.0
 dep-selector-libgecode,1.3.5,MIT-|-Apache-2.0
 descriptive_statistics,2.5.1,MIT
 devcamp_view_tool_tutorial,0.1.0,""
-devise_password_history,0.3.1,""
 devise-warbler,2.2.3,""
+devise_password_history,0.3.1,""
 dhall-rails,0.1.0,GPL-3.0
 diameter,0.3.1,MIT
 diffing,0.2.2,MIT
@@ -184,10 +189,9 @@ function_object,0.1.0,""
 furatto,1.5.0,GPL
 fyoung_view_tool,0.1.0,""
 geekier_factory,0.1.5,""
+gem-versioner,1.1.1,BSD-3-Clause
 gem_average_speed,0.0.3,MIT
 gemreleasetest,0.1.2,""
-gem-versioner,1.1.1,BSD-3-Clause
-GetAcademy,0.1.1,MIT
 get_better,0.0.1,""
 ggoodale-acts_as_commentable,2.0.3,""
 ghq-cache,0.4.1,""
@@ -205,7 +209,6 @@ gohanlonllc-couchrest,0.2.3.1,""
 google-cloud-translate,2.1.0,Apache-2.0
 google-cloud-translate,2.1.1,Apache-2.0
 google_maps_service,0.4.2,Apache-2.0
-GoogleReaderApi,0.5.0,""
 gorg_message_sender,1.4.5,MIT
 govuk_navigation_helpers,9.2.1,MIT
 grawlix,0.1.0,MIT
@@ -221,9 +224,9 @@ haversine,0.3.2,MIT
 hebrew_date,1.0.25,MIT
 helm,0.0.2,MIT
 hierogloss,0.0.6,Public domain + other open source licenses
-holajlerma,0.0.0,MIT
 hola_van_winkle,0.0.0,""
 hola_will,0.0.0,MIT
+holajlerma,0.0.0,MIT
 home_page_blog,0.0.2,MIT
 httpit,0.4.9,MIT-|-GPL-2
 huqua,2.0.1,MIT
@@ -270,8 +273,8 @@ kitchen-lxd_cli,2.0.2,Apache 2.0
 kitchen-rightscale,0.1.0,Apache 2.0
 kitchen-wpar,0.4.2,Apache-2.0
 klaro-client,0.3.0,MIT
-kubicek-grit,1.1.1.1,""
 ku_ui,0.0.1,MIT
+kubicek-grit,1.1.1.1,""
 latinirb,1.0.3,""
 legal_markdown,0.4.11,MIT
 librato-rack,2.0.5,BSD-3-Clause
@@ -293,7 +296,6 @@ lycra,5.0.0,""
 machine_learner,0.0.4,MIT
 madness,0.7.6,MIT
 madness,0.8.0,MIT
-MagicNumber,0.0.1,MIT
 maprbcpp,0.9.1,MIT
 marathon-scooter,0.1.3,MIT
 material_design_lite-sass,1.3.0.1,MIT
@@ -323,9 +325,9 @@ monocle-print,1.1.1,MIT
 monorm,1.0.0,MIT
 monthify,1.0.1,""
 montoya_view_tool,0.1.1,MIT
-multimatrix,0.6,WTFPL
 multi_progress_bar2,0.4.0,""
 multi_zip,0.1.6.1,MIT
+multimatrix,0.6,WTFPL
 mumuki-elixir-runner,1.0.0,MIT
 munge,0.19.0,MIT
 mutant-license,0.0.0,""
@@ -336,15 +338,15 @@ mysql_to_pg_dump,0.2.7,MIT
 nbibler-yahoo_site_explorer,0.0.2,""
 netflowd,0.1.0,BSD
 newrelic_presto,0.1.2,MIT
+no_www,0.0.3,MIT
 norikra-listener-mackerel,0.1.1,GPLv2
 notion_rb,0.1.1,MIT
 notion_rb,0.1.2,MIT
-no_www,0.0.3,MIT
 ns-options,1.1.6,""
 numerale,0.0.7,""
 o3o,0.0.1,MIT
-oauth2-baidu,0.0.1,MIT
 oauth-one,0.0.5,MIT
+oauth2-baidu,0.0.1,MIT
 octoauth,1.5.6,MIT
 octoauth,1.6.0,MIT
 octopando,0.2.4,MIT
@@ -381,6 +383,7 @@ plat,0.0.1,MIT
 plugin_migrator,0.0.3,""
 podcasts,0.1.3,MIT
 postmark_spamcheck,0.0.2,""
+pr_ruby,0.1.0,MIT
 pract6,0.1.0,""
 practica6germanAT,0.1.0,""
 present-rails,0.0.1,MIT
@@ -389,7 +392,6 @@ progressbar_zobar,0.21.0.1,""
 prometheus-alert-buffer-client,0.2.0,Apache-2.0
 prometheus-alert-buffer-client,0.3.0,Apache-2.0
 prototype-rails,4.0.1,MIT
-pr_ruby,0.1.0,MIT
 pry-exception_explorer,0.2.3,""
 puppet-ci-testing,0.14.3,""
 puppet-ghostbuster,0.9.0,Apache-2.0
@@ -398,10 +400,11 @@ pupu,0.2.1,""
 quandl_operation,0.4.2,MIT
 quick-api,0.0.1,MIT
 quick_script,0.12.1,""
+r_factor,1.1.0,MIT
 rabbit-slide-kou-speee-cafe-meetup-02,2016.9.1.0,CC BY-SA 4.0
 rack-affiliates,0.4.0,MIT
-rack_dwsregistry,0.4.0,MIT
 rack-hatena_star,0.1.0,MIT
+rack_dwsregistry,0.4.0,MIT
 radev_view_tool,0.1.0,""
 rails_event_store,0.42.0,MIT
 rails_reroute,0.2.8,""
@@ -420,7 +423,6 @@ remi-rackbox,1.1.6,""
 require_pattern_xt,1.1.0,MIT
 resque-restriction,0.6.0,""
 revolutionhealth-masochism,0.0.1,""
-r_factor,1.1.0,MIT
 rfc3987,0.1.1,MIT
 rgraph-rails,5.00,GPL-3.0
 rika,1.6.0,""
@@ -435,19 +437,18 @@ roulette-wheel-selection,1.1.1,MIT
 rox-client-rspec,0.4.1,MIT
 rpc-mapper,0.3.0,""
 rrod-rails,0.0.1,MIT
+rs_spatial_adapter,1.2.0,""
 rscout,0.0.8,MIT
 rsemantic,0.3.0,MIT
 rspec-doc,1.0.0,MIT
 rspec-instrumentation-matcher,0.0.9,""
-rs_spatial_adapter,1.2.0,""
 rubinius-code,3.0,MPL-2.0
 rubospeller,1.0.3,MIT
 rubustrings,0.0.4,MIT
-RubyApp,0.7.16,""
 ruby-curl,1.0.2,MIT
 ruby-cute,0.12,CeCILL-B
-rubylove-playing_cards,0.0.1,MIT
 ruby-montage,1.3.0,MIT
+rubylove-playing_cards,0.0.1,MIT
 ruha,1.0.2,MIT
 rvm2-ui,0.9.1,Apache 2.0
 rvpc,0.0.3,MIT
@@ -458,8 +459,8 @@ saj_collector,0.5.3,MIT
 saj_collector,0.5.4,MIT
 saj_collector,0.5.6,MIT
 sbfaulkner-sequel_timestamped,1.0.4,""
-scaleapi-ruby,0.3.0,MIT
 sc-frank-ios,1.2.3,""
+scaleapi-ruby,0.3.0,MIT
 schematic,0.7.1,MIT
 schlick-active-matchers,0.3.1.1,""
 scottbarr-yahoo_currency,0.1.2,""
@@ -474,8 +475,8 @@ serverkit-s3,0.0.2,MIT
 serverspec,2.41.5,MIT
 sfx-rack-tracer,0.9.0.0,MIT
 shiftplanning,0.0.4,GPL-2
-sidekiq_proby,0.0.1,MIT
 sidekiq-repeating-jobs,0.0.4,MIT
+sidekiq_proby,0.0.1,MIT
 silent-fail-check,0.0.3,MIT
 simonmenke-ec,0.0.5,""
 simple_hl7,1.0.2,MIT
@@ -505,7 +506,6 @@ stanford_menus,0.0.1,MIT
 start,0.1.1,MIT
 strom,0.0.2,MIT
 studio_game_secor,1.0.0,MIT
-StyleSass,0.1.5,MIT
 subdb,0.1.6,""
 sumodev,1.9.0,MIT
 sunrise-cms,1.0.6,MIT
@@ -513,8 +513,8 @@ sunrise-cms,1.1.0,MIT
 sunspot_submodel_index,0.0.5,MIT
 swarm_orca,0.1.1,""
 symbolize_array,1.0.0,MIT
-tagistrano,0.0.1,MIT
 tag_redmonkey,0.0.1,""
+tagistrano,0.0.1,MIT
 tallyit,0.2.1,MIT
 technicalpickles-existing-project-with-version,1.5.3,""
 terraforming,0.18.0,MIT
