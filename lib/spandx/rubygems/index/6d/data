@@ -1,18 +1,13 @@
-CoC-Calc,1.2.5,MIT
-Eric,0.0.1,""
-MultiCache,0.1.0,MIT
-ReverseGeo,0.2.3,Apache License 2.0
-Trailfinder,0.0.1,MIT
 abr,0.1.8,MIT
 ace-rails-ap,4.2,MIT
 acromine,0.1.1,MIT
 act_as_audited,0.0.20,MIT
+activerecord-collection_cache_key,0.1.3,""
 active_record_union,1.3.0,Public Domain
+activerecord_yamless,0.1.0,""
 active_remote-bulk,0.1.0,MIT
 active_resource_changeable,0.1.0,MIT
 active_worker,0.51.0,MIT
-activerecord-collection_cache_key,0.1.3,""
-activerecord_yamless,0.1.0,""
 adapter-git,0.5.0,""
 address_engine,1.0.1,""
 aeden-aws-tools,0.0.3,""
@@ -66,10 +61,10 @@ calabash_steps,0.0.2,MIT
 callback-ruby,0.0.1,MIT
 camtool,0.1.2,MIT
 cap-drupal-multisite,0.3.2,MIT
+capistrano3-notifier,0.5.1,""
 capistrano-clockwork,1.0.1,MIT
 capistrano-scm-static,0.0.2,MIT
 capistrano-scm-static,0.0.3,MIT
-capistrano3-notifier,0.5.1,""
 catpants,2.5.1,MIT
 chaeyk-first,0.0.0,MIT
 check_host,0.0.1,GPL-3.0
@@ -83,6 +78,7 @@ cloudstack_cloner,0.0.5,MIT
 cmis-ruby,0.5.36,Apache-2.0
 coalla-deploy,0.1.11.3,""
 cobinhood_api,0.0.1,MIT
+CoC-Calc,1.2.5,MIT
 code_analyzer,0.4.8,MIT
 code_analyzer,0.5.1,MIT
 color,1.8,MIT
@@ -147,6 +143,7 @@ eml_to_pdf_ext,0.6.1,MIT
 energizer_bunny,0.3.0,MIT
 enklawa,0.2,MIT
 enorb,0.11.0,MIT
+Eric,0.0.1,""
 eskort,0.0.4,""
 exception_mailer,0.0.1,MIT
 excom,1.0.0,MIT
@@ -183,9 +180,9 @@ gen-test,0.1.1,MIT
 geohex-gen,0.0.2,MIT
 gigatools,0.0.4,MIT
 girocode,0.1.0,MIT
-git-trim,0.1.1,MIT
 github_overlays,0.0.2,""
 gitti-backup,0.2.0,Public Domain
+git-trim,0.1.1,MIT
 gluthman_palindrome,0.1.1,""
 gmap-fontawesome,1.0.0,MIT
 gnucash-invoice,0.1.4,""
@@ -219,8 +216,8 @@ hongkong-news-scrapers,0.5.1,MIT
 howler_js,0.1.2,MIT
 httpcap,0.0.0,MIT
 httpclient_link_header,0.0.1,""
-human_speakable,0.2.0,MIT
 humanize-number,0.3.0,MIT
+human_speakable,0.2.0,MIT
 hyperll,0.3.3,MIT
 inaho,0.0.1,MIT
 infinitepay-report-pos,1.0.3,MIT
@@ -244,10 +241,10 @@ jive_webhooks,0.0.2,MIT
 jla_view_tool,0.1.0,MIT
 jouba-sql,0.0.1,MIT
 journaltxt,1.0.1,Public Domain
-json-schema-generator,0.0.9,MIT
-json_inspector,0.1.0,MIT
-json_validate,0.0.1,MIT
 jsonapi-serializable,0.3.1,MIT
+json_inspector,0.1.0,MIT
+json-schema-generator,0.0.9,MIT
+json_validate,0.0.1,MIT
 justgage-rails,1.0.1.2,""
 jwilkins-rb-bsdiff,0.1.1,""
 kalibro_gem,0.0.5,LGPLv3
@@ -312,12 +309,13 @@ modelmaker,0.2.0,""
 momentJS,1.0.1,""
 money_swap,0.1.2,MIT
 motion-schemes,0.0.2,""
+MultiCache,0.1.0,MIT
 multilang,0.0.1,""
 mutton,0.0.12,MIT
 mxm-boilerplate,0.0.3,""
-my_string_extend_rvh,0.0.1,""
 mysh,0.6.14,MIT
 mysh,0.6.16,MIT
+my_string_extend_rvh,0.0.1,""
 nagios-promoo,1.7.1,Apache-2.0
 nakajima-protocov,0.0.3,""
 ncbi-taxonomy,0.2.11,Nonstandard
@@ -333,8 +331,8 @@ omniauth-draft,0.3.3,MIT
 omniauth-fiware,0.1.0,""
 one_conf_compare,0.0.3,""
 only_one_rake,0.0.4,MIT
-open_weather_service,0.0.0,MIT
 opencomponents-rails,0.2.0,MIT
+open_weather_service,0.0.0,MIT
 ottobar-logging,0.9.5.1,""
 packnga,1.0.4,LGPLv2
 padrino-jbuilder,0.0.8,""
@@ -354,8 +352,8 @@ plum-jekyll,0.1.1,MIT
 plupload4rails,1.0.1,MIT-|-GPL-2
 podwrap,0.1.0,""
 pontoon,0.1.0,MIT
-port_map,0.1.2,MIT
 portable-hole,1.0.4,""
+port_map,0.1.2,MIT
 powerand-ffmpeg,3.0.0,MIT
 pp,0.1.1,MIT
 print,0.0.1,MIT
@@ -371,9 +369,9 @@ r53z,0.3.4,gplv3
 rabbit,3.0.0,GPLv2+
 rabbit-slide-tommy-rubyencoding,1.0.0,""
 rabbit-slide-znz-rubykansai87-chat,2019.07.13.1,""
+rack_deflater_bypass,0.0.1,MIT
 rack-git,0.0.1,""
 rack-middleware,0.0.0,""
-rack_deflater_bypass,0.0.1,MIT
 rails-boilerplate,0.1.9,""
 rails-graft,0.0.1,MIT
 rails-intl-tel-input,0.1.2,MIT
@@ -383,8 +381,8 @@ rails_slb_middleware,0.1.2,MIT
 rails_validation,0.0.2,MIT
 rambutan,0.0.1,MIT
 random-set,1.0.0,MIT
-rang_rails,0.0.1,MIT
 range_array,0.0.1,MIT
+rang_rails,0.0.1,MIT
 rdoc-babel,1.0.4,MIT
 real_zip,1.1.8,MIT
 redisearch-rb,1.0.1,MIT
@@ -399,6 +397,7 @@ resin,0.4.0,""
 resque-integration,3.5.1,""
 restartable,1.1.1,MIT
 retr0h-that,0.0.0,""
+ReverseGeo,0.2.3,Apache License 2.0
 rf_logger,0.4.0,MIT
 riddl,0.100.8,LGPL-3.0
 riddl,0.100.9,LGPL-3.0
@@ -412,15 +411,15 @@ rspec-illustrate,0.2.5,MIT
 rspec-parser,0.1.0,MIT
 rubocop-itamae,0.1.1,MIT
 ruby-bitcoin_wallet,1.0.0,MIT
-ruby-gitter,0.1.0,MIT
 rubycas-server-memory,0.0.2,MIT
+ruby-gitter,0.1.0,MIT
 rubyist,0.1.1,MIT
 rubyno_shana,0.0.1.1,MIT
-rubys-whenever,0.3.1,""
 rubyserial,0.6.0,Apache 2.0
 rubysl-net-smtp,2.0.1,BSD
-run_every,0.1.9,MIT
+rubys-whenever,0.3.1,""
 rundock-plugin-hook-chatwork,0.1.1,MIT
+run_every,0.1.9,MIT
 rxcms-compliance_plugin,0.3.0,MIT
 ryanb-nifty-generators,0.1.7,""
 s3_sign,0.2.0,MIT
@@ -461,9 +460,9 @@ smartsend-ruby,0.5.1,MIT
 smendoz3-rubycalc,0.0.2,ARTISTIC
 sms-global,0.1.0,MIT
 snp_vk_parser,0.1.2,MIT
-so_repute,0.0.1,MIT
 solidus_oxxo_pay,1.1.0,MIT
 sonarqube-client,0.0.1,GPL-2.0
+so_repute,0.0.1,MIT
 soulchild,0.0.4,MIT
 spaceborne,0.1.23,MIT
 spec_snap,0.2.1,MIT
@@ -491,11 +490,11 @@ tbg_social,0.1.1,MIT
 tempest_time,2.0.1,MIT
 temporality,0.0.5,MIT
 tengine_event,1.2.2,MPL2.0/LGPLv3
-test_bisect,0.0.2,MIT
 testa,0.0.1,MIT
+test_bisect,0.0.2,MIT
 testhello,0.1,MIT
-testrail-cucumber,0.1.7,MIT
 testrail_api,1.1.6,MIT
+testrail-cucumber,0.1.7,MIT
 texel-gchart,0.5.0,""
 text_analysis,0.2.1,MIT
 texter,1.1.0,""
@@ -507,6 +506,7 @@ tlaloc-adapter-ospi,0.1.0,MIT
 tmpcov,0.0.0,MIT
 tome,1.0.3,MIT
 traffic_jam,1.2.0,MIT
+Trailfinder,0.0.1,MIT
 transactd,3.8.3,GPL-2.0
 transactd,3.8.4,GPL-2.0
 trex,1.0.9,""
@@ -529,8 +529,8 @@ video_screenshoter,0.2.4,MIT
 virtus-relations,1.0.0,MIT
 visionmedia-swarm,0.0.1,""
 voteable_gus,0.0.0,""
-walle-server,0.0.2,MIT
 wallee-ruby-sdk,2.0.1,Apache-2.0
+walle-server,0.0.2,MIT
 watchmonkey_cli,1.10.0,MIT
 watchmonkey_cli,1.8.5,MIT
 watchmonkey_cli,1.8.6,MIT
@@ -552,12 +552,12 @@ wonder_ways,1.0.0,MIT
 word_gen,0.0.4,MIT
 wwl-websocket-rails,0.7.3,MIT
 wymeditor-simple_form,0.0.5,""
-x_tensions,0.0.1,MIT
 xanthus,0.1.4,MIT
 xdelivery,1.0.0,MIT
 xml-to-json,1.0.2,MIT
 xo_emoji,0.0.2,MIT
 xpm,0.0.6,MIT
+x_tensions,0.0.1,MIT
 xxd,0.1.0,MIT
 yaml2sql,0.1.0,MIT
 yatoc,0.3.5,MIT

@@ -1,24 +1,15 @@
-DotCoverRakeTask,1.0.8,MIT
-PlayRo2kPaperScissorsGame,2.0.2,MIT
-RubyBtce,0.0.1,MIT
-XSpear,1.2.0,MIT
-XSpear,1.2.3,MIT
-XSpear,1.3.1,MIT
-XSpear,1.3.2,MIT
-XSpear,1.3.3,MIT
-XSpear,1.4.0,MIT
-ab-split,1.0.2,MIT
 abc-backend,0.0.2.1,""
+ab-split,1.0.2,MIT
+activeadmin_active_resource,0.1.3,MIT
 active_fulfillment,3.2.7,MIT
 active_fulfillment,3.2.8,MIT
+activejob-trackable,0.1.3,MIT
+activemodel-serializers-xml,1.0.2,MIT
 active_record_stash,0.1.3,""
 active_registry,0.1.1,MIT
 active_seed,1.0.5,""
 active_tools,0.2.5,""
 active_xml,0.0.4,MIT
-activeadmin_active_resource,0.1.3,MIT
-activejob-trackable,0.1.3,MIT
-activemodel-serializers-xml,1.0.2,MIT
 activity_consumer,0.5.4,""
 admin-theme,1.1.0,""
 aemninja,0.0.6,MIT
@@ -58,8 +49,8 @@ byebug-color-printer,0.1.0,MIT
 cakery,0.0.4,MIT
 call-of-duty,0.1.0,MIT
 camify,1.0.3,MIT
-capistrano-deployment-status,0.0.4,MIT
 capistrano_copy_with_remote_cache_strategy,0.1,""
+capistrano-deployment-status,0.0.4,MIT
 caracal,1.4.1,MIT
 cardboard_cms,0.3.1,GPLv3
 carter,0.8.1,MIT
@@ -69,8 +60,8 @@ character,1.0.6,MIT
 character-roller,0.1.4,MIT
 checkpercentage,0.2.1,""
 chef-gen-flavors,0.9.1,apache2
-chef-metal-crowbar,0.0.1,Apache 2
 cheflab,0.0.1,Apache 2.0
+chef-metal-crowbar,0.0.1,Apache 2
 chimp_rewriter,1.0.0,"Ruby, ISC, 2-clause BSD"
 chronosphere,0.1.0,MIT
 ci_infrastructure_cf_cli,0.0.3,MIT
@@ -102,8 +93,8 @@ colorbug,0.0.3,MIT
 comable-sample,0.7.1,MIT
 compact-glicko2,0.1.3,""
 cookbook-list-dependencies,1.1.2,MIT
-cool-view-tool,0.1.0,MIT
 coolerbibliogem,0.1.0,MIT
+cool-view-tool,0.1.0,MIT
 corn_starch,1.9.59,MIT
 cputs,0.1.2,MIT
 crass,1.0.5,MIT
@@ -135,6 +126,7 @@ dorsale,3.14.3,""
 dorsale,3.14.5,Nonstandard
 dorsale,3.14.6,Nonstandard
 dorsale,3.14.7,Nonstandard
+DotCoverRakeTask,1.0.8,MIT
 dragonfly_minimagick,0.0.1,""
 drewcoo-cops,0.1.1,MIT
 dronr,0.0.2,MIT
@@ -148,8 +140,8 @@ dxopal,1.4.3,MIT
 dxopal,1.4.4,MIT
 dxopal,1.5.0,MIT
 dxopal,1.5.1,MIT
-dynamo-record,1.3.0,MIT
 dynamodb-client,0.2.0,MIT
+dynamo-record,1.3.0,MIT
 e6-promise-rails,1.0.0,MIT
 ebics-love,1.1.2,LGPL-3.0
 ebs-attach,0.0.2,MIT
@@ -202,11 +194,11 @@ front_man,0.2.0,MIT
 fuzzy_matcher,0.0.4,""
 ghost_google-api-client,0.4.7.1,""
 giocopro,0.0.9,""
-git-gc-cron,0.0.4,""
 git_diff_map,0.1,MIT
+git-gc-cron,0.0.4,""
 gmail_todo,0.0.4,MIT
-go_translator,0.2.2,MIT
 gongora,0.0.1,""
+go_translator,0.2.2,MIT
 grnds-sso,0.0.4,MIT
 gtfs-orm,0.0.1,MIT
 guard-preek,0.0.9,MIT
@@ -294,11 +286,11 @@ minitest-screenshot-reporter,0.0.6,MIT
 mock_stdio,0.0.1,MIT
 modest_presenter,0.1.0,""
 modularis,6.4.3,""
+mongoid_counter_cache,0.0.2,""
 mongoid-denormalization,0.1.3,MIT
 mongoid-denormalization,2.0.0,MIT
 mongoid-denormalization,2.1.0,MIT
 mongoid-dsl,1.4.1,""
-mongoid_counter_cache,0.0.2,""
 moonshot,1.0.0,Apache-2.0
 motion-loco,0.3.0,MIT
 motion-smarticons,0.2,""
@@ -367,6 +359,7 @@ pixel_matcher,0.0.5,MIT
 pixel_matcher,0.0.6,MIT
 pixel_matcher,0.0.7,MIT
 pixeltrix-prowler,1.1.1,""
+PlayRo2kPaperScissorsGame,2.0.2,MIT
 png_comparison,1.0.8,MIT
 ppc,2.0.5,MIT
 priscilla,1.0.3,MIT
@@ -388,9 +381,9 @@ rack,2.2.2,MIT
 rack-cookie_rewrite,1.0.0,MIT
 rack-ssl,1.4.1,MIT
 rack-way,0.0.1,MIT
-rails-ess,1.0.0,""
 rails_build,1.2.0,MIT
 rails_db_admin,3.2.0,GPL-3-LICENSE
+rails-ess,1.0.0,""
 raisl,0.1.1,MIT
 ravanello,0.1.1,MIT
 rb_conclas,0.2.0,MIT
@@ -427,6 +420,7 @@ rspec-golden-files,0.1.4,MIT
 rspec-preloader,1.1.0,MIT
 rspec-tick-formatter,0.1.3,""
 rubocop-migrations,0.1.2,MIT
+RubyBtce,0.0.1,MIT
 ruby-hidden-service,0.0.2,MIT
 ruby-i2c,0.1.0,""
 rubysl-date,2.0.9,BSD
@@ -453,8 +447,8 @@ simonmenke-deals_with,0.0.4,""
 simple_attribute,0.1.6,MIT
 simple_imgur,0.0.9,MIT
 simple_state,0.1.0,MIT
-sinatra-extensions,2.0.0,MIT
 sinatra_auth_oauthed,0.0.2,MIT
+sinatra-extensions,2.0.0,MIT
 sitemap,0.3.3,""
 slayer,0.3.1,MIT
 sluggable_jason_nov,0.0.1,""
@@ -482,9 +476,9 @@ tabtools,0.0.2,GPL-3.0
 taskiq,0.1.1,""
 tauday,1.0.1,Simplified BSD License
 termgui,0.0.6,MIT
+testdeployment3,1.1.0,MIT
 test-drive,0.0.3,mit
 test_gem_001,0.1.0,MIT
-testdeployment3,1.1.0,MIT
 testrailv2,0.0.1,MIT
 thecore_print_commons,0.1.16,MIT
 tidyflash,0.9.9,""
@@ -531,6 +525,12 @@ widgeon,1.1.4,"Apache License, Version 2.0"
 wikifacts,0.1.1,MIT
 wrap,1.5.2,same as ruby's
 xmodem,0.1.1,Mozilla Public License 1.1
+XSpear,1.2.0,MIT
+XSpear,1.2.3,MIT
+XSpear,1.3.1,MIT
+XSpear,1.3.2,MIT
+XSpear,1.3.3,MIT
+XSpear,1.4.0,MIT
 yafr,0.0.1,MIT
 yaml_cache,0.1.0,MIT
 yaml_cache,0.2.0,MIT

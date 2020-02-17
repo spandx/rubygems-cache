@@ -1,9 +1,3 @@
-CLI_2,0.1.3,MIT
-DummyText,0.2.0,MIT
-MFOL-bugspots,0.2.1,MIT
-MrMurano,1.13.0,MIT
-P6-alu0101111254,0.1.0,""
-PackageChanger,0.1.0,MIT
 ack_rails_admin_jcrop,0.2.0.2,""
 acoustical,0.1.0,MIT
 activeadmin_globalize_inputs,1.0.0,""
@@ -65,13 +59,13 @@ bosh-monitor,1.3262.24.0,Apache 2.0
 bricolage-td,5.23.0,MIT
 brown,2.2.2,""
 c80_yax,0.1.0.25,MIT
-cache_shoe,0.0.1,MIT
 cacheable-csrf-token-rails,0.2.0,""
+cache_shoe,0.0.1,MIT
 calandroid-widget-extension,0.0.5,MIT
 capistrano-config-files-deploy,0.1.1,""
 capistrano-deploytags,1.0.7,BSD-2-Clause
-capistrano-passenger-restart,0.1.1,MIT
 capistrano_node_recipes,1.2.16,MIT
+capistrano-passenger-restart,0.1.1,MIT
 capistrano_sentinel,0.2.3,MIT
 carlo-retryable,1.2,""
 case_transform2,1.0.0,MIT
@@ -81,6 +75,7 @@ chef_locker,0.1.0,MIT
 chit,1.0.1,""
 cinch-dice,0.0.3,MIT
 civu,1.0.1,MIT
+CLI_2,0.1.3,MIT
 clockout,0.6,license.md
 cloudcover,0.2.4,""
 clutch-client,0.1.1,MIT
@@ -96,8 +91,8 @@ create-repo,1.0.0,MIT
 creature_feature,0.2.0,""
 crowdfund_jf,1.0.0,MIT
 csv-i18n,0.2.0,MIT
-csv-to-fog,1.0.0,MIT
 csv_rb,5.2.3.2,""
+csv-to-fog,1.0.0,MIT
 cypher-rack-dickbarblocker,0.2.2,""
 dandelion_s0,0.1.0,MIT
 dandelion_s0,0.2.0,MIT
@@ -126,6 +121,7 @@ dodgy_stalker,0.0.2,MIT
 domain,1.0.0,""
 dream-theme,0.1.0,MIT
 drive-ignition,0.0.3,MIT
+DummyText,0.2.0,MIT
 easy_filter,0.3.0,MIT
 ebookdealinfo,1.0.3,MIT
 eigenclass,2.0.4,MIT
@@ -169,15 +165,15 @@ geo_point,0.2.6,""
 geothird-linguist,2.6.8,""
 git_go,0.1.4,""
 glassdoor_scraper,0.1.0,MIT
-go-zxing-qrcode,0.1.3,MIT
 google-api-customization,0.0.2,NONE
 gotit,0.0.45,MIT
+go-zxing-qrcode,0.1.3,MIT
 graphsrb,0.1.0,MIT
 gravatar-ultimate,2.0.0,""
 gypsum,0.9.1,""
 haml-coffee-script,0.0.1,""
-hash_generator,1.1.0,MIT
 hasherize_csv,0.1.1,LGPL-3
+hash_generator,1.1.0,MIT
 hashlink,0.0.2,MIT
 hello-john,1.0.0,""
 hessian2,2.0.6,MIT
@@ -234,10 +230,10 @@ liquid_renderer,0.0.4,MIT
 lobbyliste,0.2.0,MIT
 local_data_cacher,0.0.3,MIT
 loco-liquid-filters,0.0.15,MIT
-log_parser_notifier,0.0.9,MIT
 logcamp-ruby,0.0.2,MIT
 logcat.rb,0.1.0,"Apache License, Version 2.0"
 logchimp,0.1.0,MIT
+log_parser_notifier,0.0.9,MIT
 logstash-input-faker,0.4.0,Apache License (2.0)
 logstash-input-rds,0.17.0,""
 lol_sortable,1.0.1,""
@@ -254,6 +250,7 @@ mediocregopher-sr-jimson,0.12.1,MIT
 meetup_client,1.0.0,MIT
 method_tracer,0.0.1,MIT
 metricsense,0.1.2,""
+MFOL-bugspots,0.2.1,MIT
 midas-touch,1.1.0,MIT
 minima-rock,0.11.0,MIT
 mmm,0.0.1,""
@@ -263,15 +260,16 @@ mongoid_extended_dirty_trackable,0.2.0,MIT
 montrose,0.11.2,MIT
 most_haunted,0.2.1,MIT
 mrhyde-tools,0.1.1,Public Domain
+MrMurano,1.13.0,MIT
 mumukit-sync,1.0.2,MIT
 mushroom,0.0.2,""
 my_form,0.0.1,MIT
 my_gemgu,0.0.3,MIT
 mypunchbowl-delayed_job,1.8.1,""
 mysql_manager,1.0.7,GPL3
-nano-service,0.0.1,MIT
 nanoc-deploy,0.0.5,MIT
 nanojs_rails,0.2.0,MIT
+nano-service,0.0.1,MIT
 next_date,0.1.1,MIT
 nfrb,0.1.2,""
 noam_lemma,0.2.1.3,MIT
@@ -296,8 +294,8 @@ omniauth-youku-oauth2,0.0.1,MIT
 onfido,0.15.0,MIT
 onfido,1.0.0,MIT
 oop,2.0.0,MIT
-open-dock,0.1.18,MIT
 opencourse,0.0.1,Apache License 2.0
+open-dock,0.1.18,MIT
 openvz-agent,1.0.1,Apache v.2
 ork-hooks,0.0.1,MIT
 oror,0.3.0,MIT
@@ -308,6 +306,8 @@ ougai,1.8.2,MIT
 outland-tag_runes,1.1.4,MIT
 overrides,0.10.0,MIT
 overwatch_stats,0.1.4,MIT
+P6-alu0101111254,0.1.0,""
+PackageChanger,0.1.0,MIT
 padma-deployment,0.2.1,""
 padrino-auth,0.0.12,MIT
 parsecom-importer,0.0.3,MIT
@@ -329,8 +329,8 @@ pluginaweek-styled_inputs,0.1.1,""
 pobject,0.1.1,MIT
 ponymizer,0.0.2,""
 prct06_alu0100948097,1.0.0,MIT
-price_log,0.0.82,MIT
 pricegem,0.1.0,""
+price_log,0.0.82,MIT
 proc_extensions,0.2,MIT
 profmem,0.0.2,MIT
 protobuf-cucumber,3.10.4,MIT
@@ -341,19 +341,17 @@ pry_testcase,0.3.0,CC0-1.0
 pxeger,0.1.0,MIT
 pxlite,0.1.0,MIT
 qunit-rails,0.0.7,Unlicense
-r_notify,0.0.1,MIT
-r_tcp_ip,0.0.2,MIT
 rabbit-slide-kou-hatohol-log-monitoring-2014-10,2014.10.7.2,CC0-1.0
 rabtf,0.0.3,MIT
+rack_custom_tmpdir,0.1.0,MIT
 rack-geofilter,0.1.2,MIT
 rack-http_cat,1.0.0,""
 rack-potentially-secure-cookies,1.0.1,MIT
-rack_custom_tmpdir,0.1.0,MIT
 rack_prof,0.1.1,MIT
 racleta,0.0.1,MIT
+rails_backward,0.0.2,MIT
 rails-for_select,1.1.0,MIT
 rails-jquery-ui-sortable,1.11.4,MIT
-rails_backward,0.0.2,MIT
 rails_wangeditor,0.2.0,MIT
 rake_roll,2.1.1,MIT
 ramsey,0.0.1,""
@@ -373,6 +371,7 @@ resourcery,0.0.1,""
 resque-logger,0.2.0,""
 rl_hiya_jure_srsen,0.0.1,""
 rlrw,0.0.1,MIT
+r_notify,0.0.1,MIT
 robostripper,0.0.3,""
 robut-cron,0.0.4,MIT
 roger_eslint,1.2.0,MIT
@@ -380,17 +379,18 @@ rok,0.0.1,MIT
 round_robin_tournament,0.0.1,MIT
 royal_mail_api,0.1.1,MIT
 rps_example_churrupupu_de_fresa,0.2.1,MIT
-rspec-rails-swagger,0.2.0,MIT
 rspec_api_docs,0.6.3,MIT
+rspec-rails-swagger,0.2.0,MIT
 rssly,0.0.10,MIT
 rsutphin-cf_case_check,0.1.2,""
+r_tcp_ip,0.0.2,MIT
 rubocop-cop-lint-negative_p,0.1.0,""
 rubocop-disallow-safe-navigation,0.0.1,MIT
 rubocop-flexport,0.4.0,MIT
 rubocop-flexport,0.5.0,MIT
-ruby-fcp,0.1.2,Unlicense
 ruby_da,0.0.2,MIT
 ruby_da,0.0.5,MIT
+ruby-fcp,0.1.2,Unlicense
 ruby_flipper,0.0.5,""
 rubygems-gman,0.0.4,MIT
 rubygems-tasks,0.2.4,""
@@ -439,8 +439,8 @@ source_win_bat,0.4.0,MIT
 source_win_bat,0.4.1,MIT
 specstar-models,1.0.0,MIT
 spine-restrictions,0.1.0,BSD-3-Clause
-spree_ip_geo,3.0.0,""
 spreefinery,0.0.1,""
+spree_ip_geo,3.0.0,""
 spring-commands-opal-rspec,1.0.1,""
 squash_matrix_api,1.0.0,proprietary
 sr-sidekiq,4.1.6,LGPL-3.0
@@ -452,8 +452,8 @@ staq-activerecord-postgresql-citext,0.2.0,MIT
 startmeup,0.0.6,MIT
 status_cake,0.1.2,MIT
 staugaard-comatose,2.0.3,""
-stellar-sdk,0.7.0,Apache 2.0
 stellar_jekyll_theme,0.1.1,MIT
+stellar-sdk,0.7.0,Apache 2.0
 stephenh-s3fsr,1.3,""
 strftime-rails,0.9.2,MIT
 support-for,1.0.7,GPL-2.0

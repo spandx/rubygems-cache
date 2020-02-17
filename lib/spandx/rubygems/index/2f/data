@@ -1,8 +1,5 @@
-BookStore,0.0.1,MIT
-Neurogami-wiiremotejruby,0.1.0,""
-Parsistence,0.4.0,""
-access_token,0.1.2,MIT
 accessibility_bridge,0.1.1,BSD 3-clause
+access_token,0.1.2,MIT
 act_as_nameable,0.0.3,""
 active_admin_map_index,0.1.1,MIT
 activejob_dj_overrides,0.2.0,""
@@ -24,13 +21,13 @@ al,0.1.1,MIT
 alinta-rest-client,2.2.0,MIT
 alno-app_generators,0.0.1,""
 altmetric.rb,0.0.5,""
-amazon-mws-plus,0.1.3,""
 amazonecho,1.0.9,MIT
+amazon-mws-plus,0.1.3,""
 amberbit-prawn-fast-png,0.2.1,""
 angularjs-rails-gem,1.1.2,""
 ant_hill,0.3.1,""
-api-pagination,4.8.2,MIT
 api_connect_client,0.3.0,MIT
+api-pagination,4.8.2,MIT
 apod,0.2.1,""
 ashmont,0.11.1,""
 ashton,0.1.6,MIT
@@ -55,6 +52,7 @@ bio-location-rdfize,0.0.0,MIT
 bit_toggle,0.0.1,MIT
 blackwinter-unidecoder,1.1.1.1,""
 blink1_rspec3_formatter,0.1.4,MIT
+BookStore,0.0.1,MIT
 bootstrap_progressbar,0.2.0,MIT
 boxc-ruby,0.0.1,GA
 bridge,0.2.0,MIT
@@ -86,8 +84,8 @@ cloudstack_api,1.0.1,MIT
 cloudwatch-metrics-linux,0.2.0,MIT
 clusterfsck,0.1.5.2,""
 coba-testrunner,0.0.6,MIT
-code_web,0.0.8,MIT
 codereviewer,0.0.1,MIT
+code_web,0.0.8,MIT
 comma-api-rb,0.3.2,GPL-3.0
 compass-bootstrap-rails,0.1.4.0,""
 conduit-suretax,1.1.3,""
@@ -127,8 +125,8 @@ easy_http,0.1.5,""
 eetee,0.0.10,""
 elasticsearch-paramedic-rack,0.2.1,""
 electric-book-classic-theme,0.1.3,MIT
-em-hyperdex-client,0.3.2,""
 ember-auth-request-dummy-rails,1.0.0,MIT license
+em-hyperdex-client,0.3.2,""
 endpoint-flux,1.1.4,MIT
 enumish,0.9.1,MIT
 evelpidon_core_ext,0.2.0,""
@@ -208,9 +206,9 @@ izimodal,1.4.0,""
 jakewendt-html_test,4.0.0,""
 jarl,0.9.0,MIT
 jedis_jar,0.0.2,MIT
+jekyll_retinamagick,1.0.2,""
 jekyll-theme-foundation,0.3.6,MIT
 jekyll-versioned_files,1.0.1,Apache-2.0
-jekyll_retinamagick,1.0.2,""
 jelastic,0.1.2,MIT
 jenstreetman_palindrome,0.2.0,""
 jimgur,0.1.1,MIT
@@ -274,6 +272,7 @@ nested_array,2.0.0,MIT
 nested_array,2.0.1,MIT
 nested_array,2.0.4,MIT
 netstorageapi,0.8.2,Apache
+Neurogami-wiiremotejruby,0.1.0,""
 neurohmmer,0.1.2,AGPL
 newspaper_works_fixtures,0.3.1,Apache-2.0
 nhs_number_validator,1.0.1,MIT
@@ -310,6 +309,7 @@ paperclip-watermark,1.0.0,""
 parallel_run,0.5,""
 parsel,0.3.0,""
 parsel,1.0.0,""
+Parsistence,0.4.0,""
 patience_diff,1.1.0,MIT
 paypal-sdk-merchant,1.117.2,PayPal SDK License
 pbl,0.0.6,""
@@ -321,8 +321,8 @@ pigment,0.2.3,MIT
 play_hangman,0.0.3,MIT
 podio,2.0.0,MIT
 poe_static,0.0.9,"Source: MIT, Glyphs/Fonts: SIL, Images: CC-By 3.0"
-pol-svn_ignore_rails,1.0.2,""
 politician_salad,0.2.1,MIT
+pol-svn_ignore_rails,1.0.2,""
 poots,0.1.0,MIT
 positive_string_support,0.1.3,MIT
 postcode_validator,1.0.0,Apache-2.0
@@ -343,9 +343,9 @@ rabbit-slide-tommy-mysqluc,1.0.0,""
 rabbit-slide-unasuke-omotesandorb-51,1.0.0,""
 rack-amqp-client,0.0.3,MIT
 rack-conditional_get,3.0.3,MIT
+rails_environment,0.0.3,""
 rails-fort,0.1.6,MIT
 rails-magic_link,0.0.1,MIT
-rails_environment,0.0.3,""
 rb-notifu,0.0.4,""
 reactive_resource,0.7.3,""
 reactomatic,0.1.1,MIT
@@ -386,13 +386,13 @@ rudux,1.0.0,MIT
 rus_bank_rails,1.5.3,""
 rust_playground_highlight,0.1.3,MIT
 rvm2-shell,0.0.1,Apache2
-saLOUt-kdegettext,0.9.3,""
 sad_squid,1.0.0,Apache 2.0
 safe-migrations,0.0.1,""
 safety_culture,0.0.1,MIT
 salesforce_streamer,0.5.0,MIT
 salesforce_streamer,1.0.0,MIT
 salesforce_streamer,1.1.0,MIT
+saLOUt-kdegettext,0.9.3,""
 scaffold_cn,0.2.0,""
 scrapinator,0.0.2,MIT
 scribd_fu,2.0.11,""
@@ -441,8 +441,8 @@ stripe,5.15.0,MIT
 stripe_fee,0.1.1,MIT
 stupid_downloader,1.0.0,MIT
 sub_zero,0.0.9,MIT
-super-poller,1.0.0,""
 superbad,0.1.2,""
+super-poller,1.0.0,""
 symbol_lookup,1.2.0,ISC
 system_command_helper,0.3.0,MIT
 tabata_timer,0.0.2.1,MIT
@@ -465,8 +465,8 @@ tubby,1.0,0BSD
 tubuyaki,0.0.5,MIT
 twit,0.0.3,MIT
 twitter-bootswatch-rails-fontawesome,4.3.0.0,MIT-|-GPL-2
-type-heading,0.0.16,MIT
 typeclass,0.3.0,MIT
+type-heading,0.0.16,MIT
 udacicharts,0.0.4,MIT
 unexceptional,0.0.2,MIT
 universaltranslator,1.1.0,MIT

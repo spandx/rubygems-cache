@@ -1,15 +1,7 @@
-BidManagerLoggerGem,0.0.0,""
-Crota,0.1.2,MIT
-ESBify,0.1.2,""
-Fingertips-internetkassa,0.9.4,""
-GarrettsRps,0.1.1,MIT
-LPP_alu0100966589,0.1.1,MIT
-LYBC,0.1.0,""
-STLExtract,1.0.1,MIT
 actionpack-page_caching,1.2.0,MIT
-active_record_api-request,0.3.11,MIT
 activeadmin-dragonfly,0.1.1,MIT
 activedocument,1.0,""
+active_record_api-request,0.3.11,MIT
 activerecord-auto_filter,0.1.0,""
 activigit,0.1.0,""
 acts_as_dasherize_vanity,0.0.3,MIT
@@ -23,8 +15,8 @@ alinta-testing,0.4.5,MIT
 alula-themes,0.4.27,MIT
 america,0.0.2,MIT
 anti_spam,0.0.2,MIT
-app-oil,0.3.0,""
 appbooster-server,0.1.0,MIT
+app-oil,0.3.0,""
 arc42-pandoc,1.1.0,Apache 2.0 License
 arkrb,0.6.0,MIT
 array_enum,1.2.0,MIT
@@ -32,21 +24,21 @@ asciidoctor-texnical,0.0.2,MIT
 asset_manager,0.1.0,""
 assets-library-for-hanami,3.0.0,MIT
 async-pool,0.2.0,""
-att-swift,1.0,MIT
 attr_asker,0.1.0,MIT
 attr_delegated,0.0.1,MIT
 attr_object,0.0.6,MIT
 attr_readonly,1.0.0,BSD
+att-swift,1.0,MIT
 audio_to_youtube,1.0.1,MIT
 authlogic_facebook_shim,0.5.1,""
 authorize_if,0.1.0,MIT
 automatthew-casuistry,0.2.2,""
 awesome_nested_set-tools,1.0.2,""
+aws_cred_vault,0.1.0,MIT
+awse_commerce_service,4.0.0,MIT
 aws-metadata-export,0.2.0,MIT
 aws-mfa,0.3.2,Apache-2.0
 aws-sdk-personalize,1.8.0,Apache-2.0
-aws_cred_vault,0.1.0,MIT
-awse_commerce_service,4.0.0,MIT
 azogi,0.1.0,MIT
 badboy-jabbot,0.1.2,""
 badge,0.11.0,MIT
@@ -63,6 +55,7 @@ beer-advocate-cli,0.2.4,MIT
 belgium_2050_model,0.0.5,MIT
 belgium_2050_model,0.0.7,MIT
 betalist,0.0.0,MIT
+BidManagerLoggerGem,0.0.0,""
 binToDec,0.0.8,MIT
 bmff,0.1.2,MIT
 bootstrap-combobox,1.2.6,MIT
@@ -100,6 +93,7 @@ compass-retina,1.0.1,""
 crimson,0.1.0,MIT
 crimson,0.1.3,MIT
 criterion,0.2.0,MIT
+Crota,0.1.2,MIT
 css2sass,0.0.10,MIT
 customs,1.1.0,""
 cut_to_files,0.0.1,MIT
@@ -118,8 +112,8 @@ digest-murmurhash,1.1.1,MIT
 discord-notifier,1.0.3,MIT
 distance_finder,1.0.4,MIT
 disyuntor,0.9.0,MIT
-docker_rails_proxy,0.1.13,MIT
 dockerfile_parser2,0.5.0,MIT
+docker_rails_proxy,0.1.13,MIT
 doing_stream,0.0.3,""
 dothtml,0.1.0,MIT
 dougcole-friendly_id,2.0.6,""
@@ -129,13 +123,14 @@ easygoing_active_model,0.1.2,""
 edgrid_rb,0.0.1.2,MIT
 edmodo-api,0.1.1,MIT
 edools_sdk,0.0.2,MIT
-em-websocket,0.5.1,""
 emagen,0.0.3,MIT
 ember-auth-response-dummy-source,1.0.1,MIT
 empty,1.0.0,0BSD
+em-websocket,0.5.1,""
 entropic,0.2.1,""
 eph_jpl,0.1.1,MIT
 erb_sandbox,0.1.2,MIT
+ESBify,0.1.2,""
 eventql,0.0.3,MIT
 excel_parser_pro,1.0.2,MIT
 extjs-rails,4.1.0,""
@@ -149,6 +144,7 @@ fastlane-plugin-napp_notifications,1.0.0,MIT
 ferver,1.4.0,MIT
 fetch,0.0.5,MIT
 findrr,0.0.5,LGPLv3 or later
+Fingertips-internetkassa,0.9.4,""
 firebase-auth-rails,0.1.2,MIT
 first_gem_matt_h44,0.0.3,MIT
 fizzgig,0.4.0,""
@@ -166,6 +162,7 @@ freeze,0.1.0,MIT
 fullcalendar-wrapper-rails,2.9.1,MIT
 fxxk_gen,0.1.1,MIT
 gaevents,1.03,MIT
+GarrettsRps,0.1.1,MIT
 genba-ruby,0.2.0,MIT
 geo-distance,0.2.2,MIT
 ggake,0.9.0,MIT
@@ -223,8 +220,8 @@ jeremyf-comma_pile,0.1.2,""
 jpartial-renderer,0.0.1,MIT
 jquery-dfp-rails,1.0.16,MIT
 jquery_transit-rails,0.9.9,""
-json-minify,0.0.3,MIT
 jsondocr,0.2,MIT
+json-minify,0.0.3,MIT
 jtask,0.3.0,MIT
 jvertica,0.2.5,MIT
 kafo_parsers,1.0.0,GPL-3.0+
@@ -245,8 +242,8 @@ light-mecab,0.0.5,MIT
 likeno,1.1.0,""
 line_log,0.1.1,MIT
 link_oracle,0.1.11,MIT
-live_update,0.1.1,MIT
 livescript,2.4.0,MIT
+live_update,0.1.1,MIT
 llama,0.3.0,""
 locale_setter,0.4.0,""
 log_logins,1.0.2,MIT
@@ -257,7 +254,9 @@ logstash-input-stdin,3.2.6,Apache License (2.0)
 logstash-output-custom-solr,0.1.17,Apache License (2.0)
 logstash-output-nsq,2.1.0,Apache License (2.0)
 logstash-output-stride,0.7.2,Apache-2.0
+LPP_alu0100966589,0.1.1,MIT
 lucie-cmd,0.1.2,""
+LYBC,0.1.0,""
 m4dbi,0.9.0,""
 maglove-engine,2.0.15,BSD-3-Clause
 mail-gpg,0.4.2,MIT
@@ -348,15 +347,15 @@ quarto,0.0.1,MIT
 query_string_builder,0.1.0,""
 question_mark_methods,0.0.1,""
 rabbit-slide-pmq20-embedding_mruby_into_c_and_an_actual_example,1.0.0,""
-rack-smart-app-banner,0.1.0,MIT
 rack_injection,0.2.0,MIT
+rack-smart-app-banner,0.1.0,MIT
 radd_djur,0.0.3,""
-rails-creds,0.3.0,MIT
-rails-es6,0.0.2,MIT
 rails_admin_sliding_nav,0.0.4,MIT
 rails_admin_standard_theme,0.1.0,MIT
 rails_ajax_formhandler,1.0.0,MIT
 rails_config,0.99.0,MIT
+rails-creds,0.3.0,MIT
+rails-es6,0.0.2,MIT
 rails_jskit,5.1.5,Apache-2.0
 rails_pallet,2.3.2,MIT
 rails_parse_fixes,2.3.0,""
@@ -386,12 +385,12 @@ ruboty-toggle_switch,0.4.2,Apache-2.0
 ruby-await-node,0.0.2,MIT
 ruby-bitly,0.2.1,MIT
 ruby-cldr,0.3.0,""
-ruby-lastpass,0.1.1,MIT
-ruby-units,2.3.1,MIT
 rubycs-nifty-generators-compass,0.0.1,""
+ruby-lastpass,0.1.1,MIT
 rubyswig,0.0.1,""
 rubytus,0.1.0,MIT
 rubyunit,0.4.25,Ruby
+ruby-units,2.3.1,MIT
 rulebow,0.4.0,BSD-2-Clause
 runjs,0.1.0,MIT
 rust_require,0.2.4,MIT
@@ -411,10 +410,10 @@ shellany,0.0.1,MIT
 shomen-yard,0.1.0,""
 shuttl,0.5.3,MIT
 simonmenke-xlsx,0.0.2,""
-simple_cv,0.1.0,MIT
-simple_pvr,1.1.0,""
 simpleapikeyengine,0.1.3,MIT
 simplecov_s3_codeclimate,0.3,MIT
+simple_cv,0.1.0,MIT
+simple_pvr,1.1.0,""
 simplesyslogger,0.0.3,MIT
 simulacrum,0.3.2,MIT
 site_announcements,1.3,""
@@ -430,9 +429,10 @@ ssh-host-lister,0.3.0,MIT
 ssn,1.0.2,""
 stars-checkers,0.1.2,""
 stealth-favs,0.0.2,MIT
-str_tajcalles,1.0.0,MIT
+STLExtract,1.0.1,MIT
 strace_log,0.2.1,""
 stratocumulus,0.0.7,MIT
+str_tajcalles,1.0.0,MIT
 stubbornly,0.2.0,MIT
 stz,0.0.1,""
 superbot,0.5.3,MIT
@@ -441,8 +441,8 @@ swaggard,1.1.0,MIT
 swaggard,1.1.1,MIT
 swagger-parser,0.2.6,Apache-2.0
 swissmatch-location,1.0.1,BSD 2-Clause License
-tag_ocelot,0.1.0,""
 tagged-lograge-sql,0.1.8,MIT
+tag_ocelot,0.1.0,""
 tanoshimu,1.0.0,MIT
 telos_lwcp,0.1.1,Apache-2.0
 test_locales,0.0.3,MIT
@@ -482,10 +482,10 @@ wicked-always_renderable,0.1.0,MIT
 wikiavro,0.0.2,GPL-3.0+
 work_calculator,1.0.2,MIT
 xml2js,0.1.1,MIT
-yEnc,0.0.32,""
-yaml-lint-ng,0.0.5,MIT
 yaml2json,0.0.2,MIT
+yaml-lint-ng,0.0.5,MIT
 yard-sd,0.0.4,""
 yawl_rails,0.3.0,MIT
+yEnc,0.0.32,""
 yibin,0.0.2,""
 youtube-crawler,0.0.1,MIT
