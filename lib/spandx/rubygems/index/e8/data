@@ -1,9 +1,19 @@
 3d_cache,0.0.021,MIT
+DFS-player-rankings,0.0.0,MIT
+DistelliServiceInterface,1.1,""
+IBAN,0.2.2,MIT
+My-Commerce_auth,1.1.0,""
+PerfectlyNormal-Twitorious,0.3.1,""
+STEMConstants,0.0.1,MIT
+SassyBitwise,1.1.2,""
+ScanSSL,0.0.2,MIT
+SilkSlider,0.2.2,MIT
+WPBDC,2016.1.4,GPL-3
 abcde-sappy,0.1.1,""
 active_admin_environment,1.0.0,MIT
 active_publisher,1.2.0,MIT
-activerecord_where_assoc,1.0.1,MIT
 active_wrapper,0.4.9,""
+activerecord_where_assoc,1.0.1,MIT
 actor_model,0.0.0,MIT
 admin_generator,0.1.1,MIT
 adzap-voice_form,0.3.0,""
@@ -22,8 +32,8 @@ audio-trimmer,0.0.6,MIT
 audited_logfile,0.0.12,""
 awetestlib,0.1.30,""
 awetestlib,1.2.4,""
-aws_site_monitor,0.1.3,MIT
 aws-tools,0.0.5,MIT
+aws_site_monitor,0.1.3,MIT
 aylien_news_api,3.0.0,Apache-2.0
 azimuth_spree_easy_contact,1.1.0,BSD
 babby,0.2.2,MIT
@@ -48,10 +58,10 @@ cabernet,0.1.2,MIT
 caboose-store,0.0.43,""
 canql,4.0.1,MIT
 caperoma,5.0.0,MIT
-capistrano3-newrelic,0.0.11,MIT
 capistrano-fpm,1.0.0,MIT
 capistrano-ssh,0.0.1,MIT
 capistrano-unison,0.0.1,""
+capistrano3-newrelic,0.0.11,MIT
 carrierwave-data-uri,0.2.0,MIT
 cartage-remote,2.2,MIT
 cartoonist-nginxtra,0.0.20,MIT
@@ -96,21 +106,19 @@ debounce,0.2.1,MIT
 dedicated_logger,0.0.4,""
 denkovi_daenetip2,0.0.2,MIT
 deploy_changes_notifier,0.1.1,MIT
-devcamp_veiw_tool,0.1.0,MIT
 dev_dock,0.3.1,MIT
+devcamp_veiw_tool,0.1.0,MIT
 devise-no-session,4.5.0,MIT
-DFS-player-rankings,0.0.0,MIT
 dimples,6.5.2,MIT
 dimples,6.5.3,MIT
 dimples,6.5.4,MIT
-DistelliServiceInterface,1.1,""
 dm_cloud,0.2.0,""
 dm_live_resources,0.1.2,MIT
 dog-breeds,0.1.0,MIT
 doop,0.0.5.2,MIT
 dpl-npm,1.10.14,MIT
-duckpuppy-string_extend,0.0.3,""
 duck_record,0.0.27,MIT
+duckpuppy-string_extend,0.0.3,""
 duelinmarkers-renum,1.2.0,""
 durable_call,0.1.0,MIT
 dust_assets,0.0.5,""
@@ -123,11 +131,11 @@ effective_posts,1.1.9,MIT
 elasticsearch-explain-response,0.2.4,MIT
 elibri_watermarking,0.9.9,""
 elusive-icons-sass-rails,1.0.0.0,""
+em-hot_tub,1.1.0,MIT
 email_octopus,0.1.0,MIT
 embulk-filter-azure_text_analytics,0.2.0,MIT
 embulk-output-db2,0.8.6,Apache 2.0
 embulk-output-db2,0.8.7,Apache 2.0
-em-hot_tub,1.1.0,MIT
 emoji_replace,0.0.0,MIT
 emotions,0.3.1,BSD 3-Clause
 escapement,2.0.0,""
@@ -148,8 +156,8 @@ flask,0.0.1,MIT
 flatten_record,1.0.11,MIT
 flexible_datatables,1.0.2,GPL-3.0+
 flickrage,0.1.8,MIT
-flowers-pony,0.3.2,""
 flow-reference,0.4.0,MIT
+flowers-pony,0.3.2,""
 fluent-plugin-kubernetes_sumologic,2.4.2,Apache-2.0
 fluent-plugin-sar,0.0.4,MIT
 fog-wunderlist,0.1,MIT
@@ -161,14 +169,14 @@ formatted-dates,0.1.0,""
 formatted_times,0.0.5,MIT
 forum-rivsc,0.0.1,""
 fpmache,0.0.1,MIT
-gemfiler,0.1.7,""
 gem_release_helper,1.0.2,MIT
+gemfiler,0.1.7,""
 genmodellean-linux,0.0.8,MIT
 genset,0.0.5,MIT
 gentle_man,0.1.0,MIT
 gettalong-webgen,0.5.9.20090626,""
-ghazel-newrelic_rpm,3.5.4,""
 gh-pub_keys,0.0.1,MIT
+ghazel-newrelic_rpm,3.5.4,""
 ghtrend,0.1.2,MIT
 gimuby,0.8.0,MIT
 git-dirty,1.0.1,MIT
@@ -177,9 +185,9 @@ gleam,0.1.65,""
 gnms,2.1.1,GPL-2.1
 google-api-middle_man,0.2.1,MIT
 google-directions,0.0.5,MIT
+google-taxonomy,0.0.2,MIT
 google_sdk,0.1.5,MIT
 google_spellcheck,1.0.1,MIT
-google-taxonomy,0.0.2,MIT
 graal,0.0.2,MIT
 grape_cookies,0.0.1,MIT
 graphql-active_record_batcher,0.3.2,MIT
@@ -204,7 +212,6 @@ hoobskubes,0.0.9,MIT
 hot_reload_proxy,0.3.0,MIT
 hq-formats,0.0.0,""
 htmldu,0.1.1,MIT
-IBAN,0.2.2,MIT
 igpay_atinlay,1.0,""
 imasgen,0.1.0,MIT
 impaler,0.0.1,MIT
@@ -221,8 +228,8 @@ itms_automation,1.5,MIT
 itms_automation,2.0,MIT
 jasper-api,0.0.8,BSD-3
 jbarnette-johnson,1.0.0.20090402155420,""
-jekyll_social_icons,0.1.0,MIT
 jekyll-theme-hyde,2.0.0,MIT
+jekyll_social_icons,0.1.0,MIT
 jeql,0.2.1,MIT
 jetty-rackup,7.2.0,""
 jlog,0.1.0,MIT
@@ -264,8 +271,8 @@ lzrtag-base,1.0.2,GPL-3.0
 machinist-mongoid,0.1.0,MIT
 mado,0.2.1,MIT
 magickcam,0.1.3,MIT
-mailboxer-without-notification,0.11.2,MIT
 mailbox_injector,0.0.0,MIT
+mailboxer-without-notification,0.11.2,MIT
 mailcover_rails,1.0.0,MIT
 mailgun,0.11,""
 mallard-logger,1.0.0,GPLv2
@@ -284,8 +291,8 @@ middleman-google-tag-manager,1.0.0,MIT
 middleman-neat,0.0.4,""
 middleware_healthcheck,1.0.1,MIT
 migrating_serializer,0.0.1,MIT
-million,0.1.0,""
 mil_vestal_versions,1.2.6,""
+million,0.1.0,""
 mina-logs,1.1.0,MIT
 minicount-rails,0.0.1,MIT
 modables_dsl,0.1.3,Apache-2.0
@@ -297,7 +304,6 @@ msdhcpdump,0.1.1,""
 mtwtfss_yaml_db_anonymizer,0.7,""
 mui-sass,0.9.35,MIT
 mwmitchell-solr-ruby,0.5.0,""
-My-Commerce_auth,1.1.0,""
 my_feeds,1.0.0,MIT
 my_timer,0.0.3,""
 nanoc-bibtex,1.0.0,MIT
@@ -316,8 +322,8 @@ omniauth-msunet,1.1.0,Nonstandard
 omniauth-odnoklassniki,0.0.8,""
 omniauth-samsung-account,1.0.2,MIT
 omniauth-squiddio,0.0.3,""
-one_pass,0.4.1,MIT
 on_tap_ibc,0.1.0,MIT
+one_pass,0.4.1,MIT
 opal-aasm,0.7.0,MIT
 opal_hot_reloader,0.1.7,MIT
 open_api_parser,1.3.0,MIT
@@ -336,7 +342,6 @@ pdkim,0.9,MIT
 peas-cli,0.7.1,GPL v2
 peekj,0.1.1,MIT
 percheron,0.8.1,MIT
-PerfectlyNormal-Twitorious,0.3.1,""
 perfect_retry,0.5.0,MIT
 phil,0.9.8,MIT
 phonehome,0.0.31,MIT
@@ -366,12 +371,12 @@ ra11y,0.0.1,MIT
 rabbit-slide-aycabta-rubykaigi-2019,2019.04.18.0,CC-BY-SA-4.0
 rack-content-hash,0.0.2,MIT
 rack-http-logger,0.2.1,MIT
-racknga,0.9.3,""
 rack-parser,0.7.0,""
 rack-translating_proxy,0.1.1,MIT
+racknga,0.9.3,""
 raffles_palindrome,0.1.0,""
-rails_filemanager,1.2.3,""
 rails-google-maps,0.0.16,""
+rails_filemanager,1.2.3,""
 ramdev,0.2.0,MIT
 ran_a_lytics,0.0.3,""
 ranger,1.1.0,MIT
@@ -380,8 +385,8 @@ raskell,0.1.3,MIT
 rcad,0.1.2,LGPLv2.1 or later
 rdo-postgres,0.0.11,""
 record_auditor,0.0.5,MIT
-redis_collection,0.2.0,MIT
 redis-objects-pagination,0.1.1,MIT
+redis_collection,0.2.0,MIT
 redmocha,0.0.0,MIT
 redmocha,0.3.9,MIT
 refinerycms-multisite,0.0.8,""
@@ -412,18 +417,16 @@ rubeepass,3.4.9,GPL-3.0
 rubocop-swallow-exception,0.1.1,MIT
 ruboty-karma,0.4.3,MIT
 ruboty-pick,0.1.0,MIT
-ruby_json_api_client,0.0.9,MIT
-rubylife,0.1.0,MIT
-ruby_parser-legacy,1.0.0,MIT
 ruby-php-serialization,1.0.0,MIT
-rubysl-net-imap,2.0.1,BSD
 ruby-vnu,0.0.1,MIT
+ruby_json_api_client,0.0.9,MIT
+ruby_parser-legacy,1.0.0,MIT
+rubylife,0.1.0,MIT
+rubysl-net-imap,2.0.1,BSD
 ruskino33_parser,0.1.2,MIT
 s3sizecalc,0.0.3,""
 salty-ui-rails,0.2.2,MIT
-SassyBitwise,1.1.2,""
 says_connect_avatar,0.4,MIT
-ScanSSL,0.0.2,MIT
 scheduled,0.1.0,MIT
 schema-xero,0.0.16,MIT
 scidea-cv-sco_completion,0.0.2,""
@@ -437,22 +440,21 @@ sensu,0.24.1,MIT
 sensu,1.8.0,MIT
 sensu,1.9.0,MIT
 sensu-plugins-eye,1.0.0,MIT
-sequel_caller_location,0.2.2,MIT
 sequel-replica-failover,2.0.0,MIT
-sfn-parameters,0.3.2,Apache-2.0
+sequel_caller_location,0.2.2,MIT
 sf_parks,0.1.4,MIT
+sfn-parameters,0.3.2,Apache-2.0
 shamir-secret-sharing,0.0.1,""
 shiny-generator,0.1.0,""
 shmidi,0.1.1,MIT
 shul,0.4.13,MIT
 siftery-wisper-sidekiq,0.0.2,MIT
-SilkSlider,0.2.2,MIT
 silly,0.0.2,http://www.opensource.org/licenses/MIT
 simple_analytics,0.0.2,""
 simple_attribute_mapper,0.0.3,""
 simple_graph,0.2.1,MIT
-slack_error_notifier,0.1.2,MIT
 slack-messenger,2.3.3,MIT
+slack_error_notifier,0.1.2,MIT
 slack_webhooks,0.2.1,MIT
 sleeping_king_studios-tasks,0.2.0,MIT
 slick-rails,0.0.3,MIT
@@ -471,7 +473,6 @@ stacko,0.1.0,MIT
 startcoin_client,0.0.6,MIT
 static_watcher,0.2.0,""
 statistrano,1.3.0,New-BSD
-STEMConstants,0.0.1,MIT
 stoor,0.1.12,MIT
 studio_fame_game,0.0.1,""
 studio_game_edward,1.0,MIT
@@ -491,8 +492,8 @@ thamble,1.1.0,MIT
 thecore_mssql_importer_common,0.1.3,MIT
 ticker_fetcher,0.5.0,MIT
 tilt-livescript,1.0.0,MIT
-timetoday,0.2.0,MIT
 time_zone_converter,0.2.5,MIT
+timetoday,0.2.0,MIT
 tinker,0.0.1,""
 tlearn,0.0.8,""
 tnt_mercurio,1.0.0,MIT
@@ -517,19 +518,18 @@ vagrant-nixos-plugin,0.2.2,MIT
 vagrant-snapshot,0.0.1,MIT
 vcr-uri-catcher,0.5.2,MIT
 viggles,0.1.0,MIT
-voteable_antoine,0.0.0,""
 voteable-gnt,0.0.1,""
+voteable_antoine,0.0.0,""
 vx_crypt,0.0.1,""
 wagn-dev,0.0.5,GPL
 waxy,0.1.0,NCSA
 wf4ever-rosrs-client,0.2.0,""
 wkhtmltopdf_for_rails,0.0.7,""
 wood,0.1.1,BSD
+work_in_progress,0.0.1,MIT
 workarea-share,1.3.0,Business Software License
 workarea-share,1.3.1,Business Software License
 working_man,1.2.0,""
-work_in_progress,0.0.1,MIT
-WPBDC,2016.1.4,GPL-3
 xdan-datetimepicker-rails,2.5.4,MIT
 xo,1.1.0,MIT
 yamp,1.0.0,MIT

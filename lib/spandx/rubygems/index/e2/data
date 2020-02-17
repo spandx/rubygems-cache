@@ -1,16 +1,27 @@
+CloudSesame,1.0.1,MIT
+Complexify,0.1.0,MIT
+DirectoryBuilder,0.0.1,MIT
+Empact-rbiphonetest,0.3.0,""
+LyricFind,0.1.7,MIT
+PeterCoulton-rotten-generators,0.7.12,""
+RaymondChou-thrift_client,0.9.3,Apache 2.0
+Roman2K-rails-test-serving,0.1.4.1,""
+TODO-come-up-with-a-real-name,0.0.2,WTFPL
+XcodeCI,0.0.1,MIT
+a_series_of_tubes,1.3.1,MIT
 act_as_attribute,0.0.2,MIT
 actionverb_s3_direct_upload,0.0.14,""
-activeadmin-globalize,0.6.3,""
 active_house,0.6.6,MIT
+activeadmin-globalize,0.6.3,""
 activr,1.0.1,""
 acts_as_relation,1.1.3,MIT
 addy_caddy_client,0.0.1,MIT
 aggregator,1.0.0,MIT
 aight-rails,0.1,Public Domain
+al_papi,1.0.4,""
 alicorn,0.4.2,MIT
 allq,0.3.97,MIT
 allure_turnip,0.4.0,Apache-2.0
-al_papi,1.0.4,""
 amcss,0.0.1,MIT
 anagrams,0.0.1,""
 another_toy_robot,0.1.13,MIT
@@ -18,13 +29,12 @@ apachecrunch,0.6,""
 api_bluerails,0.0.1,MIT
 apii,0.0.4,MIT
 apngasm-gui,0.0.1,GNU GPL v3
-application-insights,0.5.6,MIT
 app-runner,0.0.3,""
+application-insights,0.5.6,MIT
 apriori-ruby,0.0.9,MIT
 arctic-vendor,1.0.1,MIT
 ardm-serializer,1.2.2,MIT
 asana_snapshot,0.1.2,MIT
-a_series_of_tubes,1.3.1,MIT
 atlassian_upm,0.3,""
 authorization-next,0.1.0,MIT
 autocompl,0.2.2,MIT
@@ -56,9 +66,9 @@ calc_jsanch,0.0.2,ARTISTIC
 cap2,0.2.2,""
 capistrano-committed,0.0.18,MIT
 capistrano-procfile,0.1.2,MIT
-capistrano_rails-subdir,0.0.0,MIT
 capistrano-rsync-plugin,0.2.0,MIT
 capistrano-runit-rake,0.2.0,MIT
+capistrano_rails-subdir,0.0.0,MIT
 capybara-ember-inspector,1.6.2,MIT
 cedric-shorty,0.1,""
 cgi-query_string,0.1.0,MIT
@@ -70,9 +80,8 @@ cheetah-trousers,0.1.8,""
 chef-solo-enc,0.1.0,MIT
 citizen,0.0.1,""
 clipboard,1.3.3,MIT
-cloudpatrol,0.1.3,""
-CloudSesame,1.0.1,MIT
 cloud_spokes_api_model,0.1.2,""
+cloudpatrol,0.1.3,""
 cloverrb,0.3.3,MIT
 cm,0.1.8,"Apache License, Version 2.0"
 cognition,2.1.2,MIT
@@ -80,7 +89,6 @@ coinpare,0.2.0,AGPL-3.0
 commcare_api,0.3.3,MIT
 commit_art,0.0.7,MIT
 compass-helium,0.0.1,""
-Complexify,0.1.0,MIT
 confinicky,0.2.2,MIT
 console,1.6.0,""
 console,1.7.0,MIT
@@ -103,6 +111,7 @@ cvizena_palindrome,0.3.0,""
 cxf_formatter,0.1.1,MIT
 cyclops,0.3.0,AGPL-3.0
 czech_inflector,0.0.0,MIT
+d-parse,0.1,MIT
 da_client,0.1.0,MIT
 darkwasp99_foodie,0.2.0,MIT
 datetimetools,0.0.2,""
@@ -119,12 +128,10 @@ decorated_csv,1.0.0,""
 deferred_loader,0.0.2,MIT
 derpy,2.0.5,""
 dialy,0.4.1,""
-DirectoryBuilder,0.0.1,MIT
 discourse_imgur,0.0.1,MIT
 divvy,1.1,""
-dogger-gombose,0.1.1,MIT
 dogGifs,1.1.0,MIT
-d-parse,0.1,MIT
+dogger-gombose,0.1.1,MIT
 dradis-zap,3.15.0,GPL-2
 dw,0.0.1,MIT
 dw_test,0.1.2,MIT
@@ -138,7 +145,6 @@ ecwid_api,0.2.2,MIT
 eeny-meeny,2.2.2,MIT
 elapser,1.0.1,MIT
 ember-oauth2-rails,0.0.1,""
-Empact-rbiphonetest,0.3.0,""
 enabler,0.0.5,MIT
 encoding_with_bom,0.0.6,MIT
 eod_data,0.2.0,MIT
@@ -184,18 +190,18 @@ fuzzy-require,0.1.0,""
 garu,0.1.0,""
 gcoder,1.2.0,""
 gem-compact,0.5.0,Apache-2
-geminabox,1.1.1,MIT-LICENSE
 gem-newgem,0.1.3,MIT
 gem-wrappers,1.4.0,Apache 2.0
+geminabox,1.1.1,MIT-LICENSE
 genetic_algorithm,0.5,""
 gerricator,0.1.2,BSD
-github_sloc,1.0.4,MIT
 git_switch_branch,0.1.2,""
+github_sloc,1.0.4,MIT
 glebtv-compass-rails,2.0.4,MIT
 globetrotter,0.0.12,MIT
 glongman-ffiruby-filemagic,0.4.2,""
-graphqljs-rails,0.4.18,MIT
 graph-ruby,0.0.1,MIT
+graphqljs-rails,0.4.18,MIT
 gremlin_client,0.1.6,Apache-2.0
 gridinit-jmeter,1.1.1,""
 growi-image_converter,0.1.1,MIT
@@ -277,7 +283,6 @@ logstash-input-eventlog,2.0.3,Apache License (2.0)
 logstash-input-eventlog,4.1.3,Apache License (2.0)
 logstash-output-itda,0.1.0,Apache License (2.0)
 luminati,0.0.3,""
-LyricFind,0.1.7,MIT
 magic_tcg_finder,0.5.0,MIT
 mailcatcher-jruby,1.1.5,MIT
 make_dirs_from_list,0.1.3,MIT
@@ -305,11 +310,11 @@ motion-linear-animate,1.0,MIT
 motivational_quotes,0.1.2,MIT
 motomike-svn_toolbox,0.0.0,""
 ms-core,0.0.19,""
-munin-ruby,0.2.5,""
 mu-result,1.0.0,AGPL-3.0
 mu-result,1.1.0,AGPL-3.0
 mu-result,1.2.0,AGPL-3.0
 mu-result,2.0.0,AGPL-3.0
+munin-ruby,0.2.5,""
 mybot,0.2.0,MIT
 namelib,2.1.0,GPL-3.0
 nesta-plugin-contentfocus,0.0.20,MIT
@@ -343,7 +348,6 @@ paymax1,1.0.0,MIT
 pcloud-storage,0.0.8,MIT
 pdf-service,0.0.3,MIT
 penkit,0.0.2,MIT
-PeterCoulton-rotten-generators,0.7.12,""
 pfrpg_import,0.0.2,""
 phoenix_password,1.2.0,MIT
 pig_latin_translate,0.0.1,MIT
@@ -377,7 +381,6 @@ rain8net,1.1.0,""
 rakali,0.1.3,MIT
 raml_parser,0.2.5,MIT
 range_splitter,2.0.1,""
-RaymondChou-thrift_client,0.9.3,Apache 2.0
 rbga,0.1.0,MIT
 rbgraph,0.5.0,MIT
 readable_message,0.0.3,""
@@ -403,15 +406,14 @@ rickrolling_roulette,0.0.2,MIT
 riemann-ssllabs,0.0.6,""
 ripsum,0.1.3,MIT
 rm_vendor,0.3.3,MIT
-Roman2K-rails-test-serving,0.1.4.1,""
 roots,2.2.1,GPL-2.0+
 rozi,0.1.3,GPL
 rs_232,2.3.1,MIT
 rscaffold,0.1.1,MIT
 rtiss_soap4r,2.1.1,Ruby
 rubocop-nww,0.0.7,MIT
-ruby_clone,1.0.3,""
 ruby-ipfs-api,0.5.1,MIT
+ruby_clone,1.0.3,""
 ruby_pvwatts,0.1.0,MIT
 rudsl_rails,1.2.1,MIT
 rutcl,1.1.0,MIT
@@ -433,9 +435,9 @@ shikigami,0.1.11,MIT
 shoestrap-rails,0.0.1,MIT
 shot_libs,1.0.2,MIT
 shuttlecraft,0.0.1,MIT
-sidekiq_history,0.2.0,MIT
 sidekiq-throttler,0.5.1,MIT
 sidekiq-web,0.0.1,MIT
+sidekiq_history,0.2.0,MIT
 siliconsalad-settingslogic,2.0.9,""
 simple_captcha_reloaded,0.3.0,MIT
 skalar-bluepill,0.0.60.1,""
@@ -505,7 +507,6 @@ tinycaptcha,1.0.0,zlib
 tmis,0.1.4,GPLv3
 tms_client,0.6.0,""
 tns_payments,0.0.13,""
-TODO-come-up-with-a-real-name,0.0.2,WTFPL
 toque,1.7.0,MIT
 tree_struct,1.0.2,MIT
 try_to,1.2,MIT
@@ -539,7 +540,6 @@ wkhtmltox-binaries,0.12.3,MIT
 wordcloud,0.0.11,GPL
 wwwtf,0.0.1,""
 wx_ext,0.2.5,MIT
-XcodeCI,0.0.1,MIT
 xml-write-stream,1.1.0,""
 yaml_record_rails_4,0.1.0,""
 yandex_kassa,0.3.6,MIT
