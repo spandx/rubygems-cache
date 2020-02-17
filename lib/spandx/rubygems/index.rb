@@ -11,7 +11,7 @@ module Spandx
       end
 
       def licenses_for(name:, version:)
-        to_h.fetch(index_key_for(name, version), [])
+        @rubygems_file.data.fetch(index_key_for(name, version), [])
       end
 
       def each
@@ -40,14 +40,11 @@ module Spandx
 
       def build_optimized_index!
         files = index_data_files
-
         @rubygems_file.batch(size: count_items_from(files)) do |io|
           files.each do |data_file_path|
             IO.foreach(data_file_path) do |line|
               row = CSV.parse(line)[0]
-              io
-                .write(index_key_for(row[0], row[1]))
-                .write(row[2].split('-|-'))
+              io.write(index_key_for(row[0], row[1])).write(row[2].split('-|-'))
             end
           end
         end
