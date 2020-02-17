@@ -15,11 +15,9 @@ module Spandx
       end
 
       def each
-        to_h.each { |key, value| yield key, value }
-      end
-
-      def to_h
-        @rubygems_file.data
+        @rubygems_file.data.each do |key, value|
+          yield key, value
+        end
       end
 
       def update!
@@ -35,20 +33,21 @@ module Spandx
       end
 
       def sort_index!
-        index_data_files.each do |file|
-          system("awk '!visited[$0]++' #{file} > #{file}1 && mv -f #{file}1 #{file}")
+        [Spandx::Rubygems.root.join('checkpoints').to_s] + index_data_files.each do |file|
+          system('sort', '-u', '-o', file, file)
         end
       end
 
       def build_optimized_index!
         files = index_data_files
-        count = count_items_from(files)
 
-        @rubygems_file.batch(size: count) do |io|
+        @rubygems_file.batch(size: count_items_from(files)) do |io|
           files.each do |data_file_path|
             IO.foreach(data_file_path) do |line|
-              json = JSON.parse(line)
-              io.write(index_key_for(json['name'], json['version'])).write(json['licenses'])
+              row = CSV.parse(line)[0]
+              io
+                .write(index_key_for(row[0], row[1]))
+                .write(row[2].split('-|-'))
             end
           end
         end
@@ -67,14 +66,12 @@ module Spandx
           next if indexed?(tarfile)
 
           tarfile.each do |row|
-            open_data(row['name']) { |io| io.puts(map_from(row)) }
+            open_data(row['name']) do |io|
+              io << [row['name'], row['version'], extract_licenses_from(row['licenses']).join('-|-')]
+            end
           end
           checkpoint!(tarfile)
         end
-      end
-
-      def map_from(row)
-        JSON.generate(name: row['name'], version: row['version'], licenses: extract_licenses_from(row['licenses']))
       end
 
       def extract_licenses_from(licenses)
@@ -111,11 +108,11 @@ module Spandx
         Digest::SHA1.hexdigest(Array(components).join('/'))
       end
 
-      def open_data(name, mode: 'a')
+      def open_data(name, mode: 'ab')
         key = digest_for(name)
         FileUtils.mkdir_p(data_dir_for(key))
-        File.open(data_file_for(key), mode) do |file|
-          yield file
+        CSV.open(data_file_for(key), mode, force_quotes: true) do |csv|
+          yield csv
         end
       end
 

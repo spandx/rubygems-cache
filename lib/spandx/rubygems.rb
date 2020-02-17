@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+require 'csv'
 require 'digest'
 require 'msgpack'
 require 'net/hippie'
