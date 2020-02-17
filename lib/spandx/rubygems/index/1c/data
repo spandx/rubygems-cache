@@ -1,11 +1,12 @@
+AutoNic,1.0.3,MIT
 acmesmith-google-cloud-storage,0.1.3,MIT
 actionview-component-live,0.1.0,MIT
-activeadmin-axlsx,2.1.2,MIT
+active-record-vercomp,1.1.0,MIT
 active_kv,0.1.0,MIT
+active_triples-mongoid_strategy,0.1.0,Apache-2.0
+activeadmin-axlsx,2.1.2,MIT
 activerecord-mysql-awesome,0.0.9,MIT
 activerecord-slave,0.0.2,MIT
-active-record-vercomp,1.1.0,MIT
-active_triples-mongoid_strategy,0.1.0,Apache-2.0
 afip-public,0.0.2,MIT
 aflash,0.1.1,MIT
 ai_games-parser,0.4.0,MIT
@@ -20,7 +21,6 @@ ask,0.5.4,MIT
 asrake,0.14.1,MIT
 asset_sync_download,0.1.2,MIT
 asterisk_call_notifier,0.1.2,MIT
-AutoNic,1.0.3,MIT
 autoscaler,1.0.0,MIT
 aws-sdk-applicationdiscoveryservice,1.23.0,Apache-2.0
 aws-sdk-applicationdiscoveryservice,1.24.0,Apache-2.0
@@ -30,8 +30,8 @@ aws-sdk-elb-tagging,1.58.0,"Apache License, Version 2.0"
 aws-sessionstore-dynamodb,1.0.0,Apache License 2.0
 axe_core_rails,3.2.2,MIT
 banner-locator,0.1.0,MIT
-barby,0.6.8,""
 bar-of-progress,0.1.3,MIT
+barby,0.6.8,""
 beanstalkify,0.0.7,MIT
 beantool,0.4.0,MIT
 benburkert-randexp,0.1.0,""
@@ -85,18 +85,18 @@ cough-rails,0.0.0,MIT
 crunchr,0.0.4,MIT
 cryptos,0.0.3,""
 css_splitter_opp_fork,0.4.0,MIT
-csv_fast_importer,1.1.0,MIT
 csv-ldap,0.1.1,MIT
+csv_fast_importer,1.1.0,MIT
 cul_omniauth,0.6.0,MIT
 currency_to_words,0.0.2,MIT
 cyberark_credential,0.0.6,MIT
 danger-xcprofiler,0.4.0,MIT
 darmani_game40,0,""
 darmani_game5,0,""
-dasher-ruby,1.0.2,MIT
 dash_shell,0.0.1,MIT
-datatables_records_mapper,1.0.1,MIT
+dasher-ruby,1.0.2,MIT
 data_validation,1.0.2,MIT
+datatables_records_mapper,1.0.1,MIT
 db-evolve,0.3.6,GPLv2
 db-logger,0.0.0,MIT
 dbviz,1.0.7,MIT
@@ -148,10 +148,10 @@ gem-ripper-tags-optional,1.0.8,MIT
 geo_normalize,0.1.0,""
 getty_connect,0.0.4,""
 gir_ffi-gst,0.0.12,LGPL-2.1+
-gitaly-flamingo,0.30.0,MIT
 git-commit-story,0.1.6,""
-gitconfigio,1.1.2,GPLv3
 git-conform,1.3.0,MIT
+gitaly-flamingo,0.30.0,MIT
+gitconfigio,1.1.2,GPLv3
 github_merge_sign,1.0.0,MIT
 gitlab-akerl,4.0.0,BSD
 gitscrub,0.0.8,""
@@ -182,11 +182,11 @@ honeybadger-jets,0.4.0,MIT
 hsluv,1.0.1,MIT
 http_parser.rb,0.5.3,""
 http_parser.rb,0.6.0,MIT
+iGEL-shoulda,2.10.2,""
 ice_cube_conrad,0.8.0,""
 icharger-log,0.1.2,MIT
 icns,0.2.0,MIT
 iframely,0.1.0,MIT
-iGEL-shoulda,2.10.2,""
 initial_avatar,0.2.0,MIT
 inox_converter,1.0.1,MIT
 inspiredigital-engine_plugin_generator,0.0.3,""
@@ -265,8 +265,8 @@ manga,0.0.0,MIT
 mastercard_merchantidentifier,2.0.0,BSD-2-Clause
 mead_string_helper,1.0.0,MIT
 meal_finder,0.1.3,MIT
-menu_dietetico-alu0100826999,0.1.3,MIT
 menu-rails,0.1.0,MIT
+menu_dietetico-alu0100826999,0.1.3,MIT
 messenger-js,0.0.1,""
 metricdb,0.0.1,""
 mi100,1.0.0,MIT
@@ -305,9 +305,9 @@ omniauth-scaffold,0.1.30,""
 omniauth-td-ameritrade,0.0.2,MIT
 onconnect,1.0.1,MIT
 open_api-rswag-api,0.1.0,MIT
+open_taobao,0.2.2,MIT
 openfire_admin,0.0.4,""
 openid-token-proxy,0.1.8,MIT
-open_taobao,0.2.2,MIT
 opmac2html,0.0.4,MIT
 opml-handler,1.0.2,""
 oqgraph_rails,0.1.1,""
@@ -359,9 +359,6 @@ rabbit-slide-kou-sapporoonga-20140329,2014.3.29.0,CC BY-SA 3.0
 rack-cleancookies,0.1.2,""
 radiant-if_date_tags-extension,1.0.2,""
 radiant-reorder_children-extension,1.0.10,""
-rails_config_validator,3.2.0,MIT
-rails_critical_css_server,0.1.5,MIT
-rails_deprecated_syntax,0.0.2,MIT
 rails-pg-extras,0.1.0,MIT
 rails-pg-extras,0.3.0,MIT
 rails-pg-extras,0.4.1,MIT
@@ -371,6 +368,9 @@ rails-pg-extras,0.6.2,MIT
 rails-pg-extras,0.7.0,MIT
 rails-pg-extras,1.0.0,MIT
 rails-script,0.0.1,MIT
+rails_config_validator,3.2.0,MIT
+rails_critical_css_server,0.1.5,MIT
+rails_deprecated_syntax,0.0.2,MIT
 rails_webui,0.0.2,GPL-3.0
 ramlstyle,0.2.4,""
 rangesliderjs-rails,2.3.1,MIT
@@ -396,9 +396,9 @@ rmpma,0.0.8,MIT
 robin-rails,0.0.2,MIT
 rspec-roar_matchers,0.0.3,MIT
 rttweerweqwe,5.6.1,MIT
-rubyfocus,0.5.16,MIT
 ruby_search,0.1.0,MIT
 ruby_universign,1.1.1,MIT
+rubyfocus,0.5.16,MIT
 rufus-lua-win,5.1.5,MIT
 rufus-verbs,1.0.1,""
 runge,0.0.3,MIT
@@ -410,8 +410,8 @@ scaffold_assoc,0.0.2,""
 scheme_on_ruby,0.1.0,MIT
 scrapix,0.1.3,MIT
 scrivito_three_column_widget,1.0.3,MIT
-searchkit-rails,0.0.2,Apache-2.0
 search_mac_address,1.0.1,MIT
+searchkit-rails,0.0.2,Apache-2.0
 secure_cookies,0.0.1,MIT
 seed_migrations,1.3.0,""
 setting_accessors,2.0.0,MIT
@@ -451,9 +451,9 @@ team_api,0.0.13,CC0
 techinform,1.4.7,MIT
 temperature_converter_bl,1.0.0,MIT
 testgemp,0.6,MIT
+text_transform,0.1.0,""
 textalytics,0.0.4,MIT
 textmerge,0.1.5,MIT
-text_transform,0.1.0,""
 theme-knacss-a11y,0.2,MIT
 thrift-amqp-ruby,0.0.6,MIT
 thumblemonks-forklift,0.1.1,""
@@ -492,8 +492,8 @@ webpack-pipeline,0.3.0,MIT
 whitecms_news,0.0.4,""
 wordify_djungst2,1.1.1,MIT
 wt,0.1.0,""
-yamlcss,1.0.3,CC-BY 2.0
 yaml_path,0.1.0,MIT
+yamlcss,1.0.3,CC-BY 2.0
 yap-shell-addon-history,0.1.1,MIT
 yellow-sdk,0.0.6,Apache 2.0
 yetanothernguyen-delayed_job,0.0.1,""

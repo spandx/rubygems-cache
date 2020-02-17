@@ -1,3 +1,10 @@
+B_123,0.0.0,MIT
+EZsmtp,0.5.0,MIT
+GICodeWarrior-ci_reporter,1.6.2,""
+LeagueHelper,0.1.0,MIT
+Pr0d1r2-geokit,1.4.1,""
+RailCalc,0.0.3,""
+SMService,0.1.8,MIT
 a1616ts_gem,0.1.0,MIT
 aa_parser,0.1.0,MIT
 abscondment-rubyvor,0.1.2,""
@@ -28,7 +35,6 @@ aws-sdk-iotevents,1.6.0,Apache-2.0
 aws-sdk-iotevents,1.7.0,Apache-2.0
 axlsx_rails,0.6.0,""
 axlsx_rails,0.6.1,""
-B_123,0.0.0,MIT
 bacon-colored_output,1.1.1,""
 bag,1.0.2,""
 baidumap,0.2.0,MIT
@@ -46,9 +52,9 @@ bluetooth,1.0,""
 blurfaces,0.2.0,MIT
 bootic_cli,0.6.7,MPLv2
 bootic_cli,0.7.0,MPLv2
-bootstrap3_form_builder,1.0.5,MIT
 bootstrap-rails-helpers,0.0.7,""
 bootstrap-switch-rails-bcj-version,3.3.2.2,"MIT, Apache License v2.0"
+bootstrap3_form_builder,1.0.5,MIT
 borderlands,0.1.2,Apache-2.0
 bot_checker,0.0.2,MIT
 botvac,0.1.2,MIT
@@ -56,6 +62,7 @@ broach,0.3.0,""
 build_status_server,0.17,""
 bunup,0.2.0,MIT
 bup_bup_rb,0.0.1,MIT
+ca_virtex,0.0.1,MIT
 cac,0.0.7,MIT
 cacheable_attr,0.1.2,MIT
 callable-objects,0.1.0,MIT
@@ -64,7 +71,6 @@ capssh,0.0.8,MIT
 capwxwork,0.1.0,MIT
 carrierwave-imagesorcery,0.0.5,""
 cartocss_helper,5.0.3,CC0
-ca_virtex,0.0.1,MIT
 cellane_palindrome,1.0.0,""
 cells_slim_rails,0.1.1,MIT
 cfer-groups,0.1.1,MIT
@@ -89,8 +95,8 @@ couchrest_casted,0.0.1,""
 cowblame,0.0.4,""
 crayon,1.2.0,MIT
 csbook,0.0.1,MIT
-csvjson,1.0.1,Public Domain
 csv_object,0.1.1,MIT
+csvjson,1.0.1,Public Domain
 csvtomd,1.0.1,MIT
 curse_client,0.1.4,MIT
 cutara,0.0.1,""
@@ -135,14 +141,13 @@ esmeralda,0.0.2,MIT
 evil-metrics-prometheus,0.1.1,MIT
 examiner,0.2.0,MIT
 execution_checker,0.1.0,MIT
-EZsmtp,0.5.0,MIT
 factorylabs-metric_fu,0.8.0.5,""
 fancygrid,2.0.8,""
 fantasy_football_nerd,1.3.0,""
+fast-xml,1.1.3,MIT
 fastlane-plugin-device_image_selector,1.0.1,MIT
 fastlane-plugin-firebase_test_lab_android,1.0.0,MIT
 fastlane-plugin-firebase_test_lab_android,1.1.0,MIT
-fast-xml,1.1.3,MIT
 fcgi,0.9.2.1,MIT
 fedora_lens,0.0.14,APACHE2
 fetch-rails,2.0.1,MIT
@@ -160,12 +165,11 @@ gb-firestarter,0.4.0,MIT
 gdax,0.0.0,MIT
 geohex,2.0.1,""
 geppetto,0.9.8,""
-GICodeWarrior-ci_reporter,1.6.2,""
-githublaunch,0.1.4,""
-gitlab-cli,0.0.2,MIT
 git-lighttp,0.3.1,MIT
 git-lighttp,0.3.2,MIT
 git-notary,2.4.0,MIT
+githublaunch,0.1.4,""
+gitlab-cli,0.0.2,MIT
 global_weather,0.0.1,MIT or Do whatever you want with this gem!
 gmo_payment_gem,0.0.2,MIT
 gojee-sunspot-solr,2.0.5,""
@@ -194,9 +198,9 @@ heya,0.0.1,""
 hog,0.0.6,MIT
 hola_hohashi,0.0.0,n.a.
 hola_weinhouse,0.1.1,MIT
+http_codes,0.1.0,MIT
 httparty,0.17.3,MIT
 httpclient-uploadio,1.0.1,""
-http_codes,0.1.0,MIT
 hydra-file-access,5.4.1,""
 hystrix-ruby,0.0.1,""
 i18n_lookup,0.3.1,MIT
@@ -214,6 +218,7 @@ inu,0.0.0,""
 invfs,0.3.1,BSD-2-Clause
 iruby-rails,1.1.0,MIT
 itebooks,0.0.1,MIT
+j-materialize,0.3.0,MIT
 jaleb,0.1.2,MIT
 jandot-ruby-ensembl-api,0.9.2,""
 jekyll-argus,0.1.0,MIT
@@ -223,13 +228,12 @@ jekyll-theme-blp,1.1.2,MIT
 jekyll-theme-blp,1.2.1,MIT
 jekyll-theme-meliora,0.1.1,MIT
 jenkins_api_client,1.5.3,""
-j-materialize,0.3.0,MIT
 johnideal-activemerchant,1.4.11,""
 josebuilder,1.0.1,MIT
 josh-rack-test,0.4.2,""
 jquery-historyjs,0.3.0,""
-json_attribute,1.1.7,MIT
 js-rails-routes,1.0.0,MIT
+json_attribute,1.1.7,MIT
 jtzemp-tourbus,0.1.1,""
 juman,0.0.2,""
 kar_armst,0.0.1,MIT
@@ -241,7 +245,6 @@ kramdown-math-sskatex,1.0.0,MIT
 kuku_view_tool,0.1.0,""
 kyew,0.1.2,MIT
 lang_libs,0.1.0,""
-LeagueHelper,0.1.0,MIT
 leml,0.3.1,MIT
 lenjador-tracer,0.3.0,MIT
 lindenmayer,0.0.3,MIT
@@ -250,10 +253,10 @@ lita-meme,0.2.3,""
 locomotivecms_common,0.4.0,MIT
 locraft,1.6.6,MIT
 logging-validation-errors,0.1.1,MIT
-logstash_auditor,1.1.1,MIT
 logstash-input-imap,3.0.7,Apache License (2.0)
 logstash-output-graphite-mavlyutov,3.2.1,Apache License (2.0)
 logstash-output-java_output_example,1.0.0,Apache-2.0
+logstash_auditor,1.1.1,MIT
 lolink,0.0.8,MIT
 loudmouth,0.2.4,""
 maccman-juggernaut,0.5.9,""
@@ -279,11 +282,11 @@ mm_soft_deleted,0.0.5,MIT
 momentjs-rails,2.20.1,MIT
 monacoin-client,0.1.1,MIT
 monban-core,1.2.4,MIT
+mongo-parser-rb,0.0.12,""
+mongo-proxy,1.0.1,MIT
 mongoid-enum-i18n,0.8.1,MIT
 mongoid-publishing_logic,0.4.0,MIT
 mongomapper_fallback,0.1.0,""
-mongo-parser-rb,0.0.12,""
-mongo-proxy,1.0.1,MIT
 montague_view_tool,0.1.0,MIT
 monthly_periodic_withdrawals,1.0.0,MIT
 mortadella,1.1.0,MIT
@@ -295,8 +298,8 @@ mudbug,1.0.1.1,LGPL-3.0
 multibases,0.3.2,MIT
 mutest-rspec,0.0.10,MIT
 mvcoffee-rails,1.1.1,MIT
-nagiosharder,0.5.0,""
 nagios_mklivestatus,0.0.12,""
+nagiosharder,0.5.0,""
 network-projector,0.0.3,""
 niftie-cachable,0.3.0,""
 nonono_daemon,0.1.3,MIT
@@ -332,14 +335,13 @@ pods,0.0.1,BSD
 poise-monit,1.6.0,Apache 2.0
 post,2.0.4,""
 potatochop-erector,0.0.1,""
-Pr0d1r2-geokit,1.4.1,""
 predicator,1.2.0,MIT
 presso,1.0.2,""
 prkwars,0.0.8,MIT
+proc-throttle,0.1.1,""
 proc_compose,0.0.1,MIT
 process_observer,0.1.1,MIT
 proco,0.0.2,""
-proc-throttle,0.1.1,""
 prreport,1.0.0,""
 publisci-server,0.0.1,MIT
 pupa,0.2.4,MIT
@@ -350,9 +352,8 @@ quaker,0.3.3,MIT
 queue_classic_batches,0.0.2,MIT
 rack-undefined,0.2,MIT-|-WTFPL
 rack_web_console,0.1.4,MIT
-RailCalc,0.0.3,""
-rails2_rubygems2_compatibility,0.0.2,""
 rails-angular-xss,0.1.0,MIT
+rails2_rubygems2_compatibility,0.0.2,""
 rails_document_ready,1.0.1,""
 rails_logtruncate,0.0.3,MIT
 raise_test_exception,0.0.2,MIT
@@ -361,8 +362,8 @@ rapid_transit,0.0.5,""
 rb-pure25519,1.0.3,MIT
 rebi,0.4.2,MIT
 red-dog,0.0.1,MIT
-redmine-api,0.1.1,MIT
 red-opencv,1.0.0,BSD-3-Clause
+redmine-api,0.1.1,MIT
 reek-checkstyle-formatter,0.0.2,""
 regular_validation,0.0.2,""
 reindeer-etl,0.1.0,GPL
@@ -381,19 +382,19 @@ robojora,0.1.2,MIT
 roboscott,0.0.1,MIT
 rollbar_helper,0.3.0,MIT
 rollout_service,0.1.3,""
-romanbsd-gsl,1.11.2.2,""
 roman_convertor,0.1.2,MIT
+romanbsd-gsl,1.11.2.2,""
 roundhouse,0.8.6.0,""
 rpn_party,0.0.1,MIT
 rspec-autotest,1.0.2,MIT
-rspec_junit_formatter_bitbucket,0.1.0,MIT
 rspec-virtus,1.0.2,""
+rspec_junit_formatter_bitbucket,0.1.0,MIT
 rstatsd,0.3,""
+rub-pacman,0.0.2,MIT
 rubocop-nosolosoftware,0.1.0,MIT
 rubocop-nosolosoftware,0.2.0,MIT
 rubocop-nosolosoftware,0.3.0,MIT
 ruboty-toggl,0.0.1,MIT
-rub-pacman,0.0.2,MIT
 ruby-dbus,0.16.0,LGPL-2.1
 ruby-static-tracing,0.0.17,MIT
 ruby-typescript,0.1.2,MIT
@@ -421,12 +422,11 @@ sized_parallel,1.0.1,""
 sloth-rb,0.1.0,MIT
 sluggable_nick,0.0.0,""
 smart_blocks,0.0.1,MIT
-SMService,0.1.8,MIT
 snoopy_afip,4.0.1,MIT
 socialoud,0.1.4,""
 sottolio,0.2,GPL-3
-spacebunny,4.1.0,MIT
 space_cadet,0.8.1,""
+spacebunny,4.1.0,MIT
 sparse_matrix,1.6.0,MIT
 spot-rate,0.5.0,""
 spree_admin_insights,3.2.0,""
