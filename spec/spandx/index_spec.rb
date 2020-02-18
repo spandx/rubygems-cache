@@ -12,5 +12,16 @@ RSpec.describe Spandx::Rubygems::Index do
         ).to match_array(item[:licenses])
       end
     end
+
+    Dir['lib/spandx/rubygems/index/**/data'].shuffle.take(1).each do |filepath|
+      context filepath do
+        CSV.foreach(filepath) do |csv|
+          it "finds `#{csv[0]} #{csv[1]}`" do
+            result = subject.licenses_for(name: csv[0], version: csv[1])
+            expect(result).to match_array(csv[2].split('-|-'))
+          end
+        end
+      end
+    end
   end
 end
