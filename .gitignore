@@ -8,5 +8,4 @@
 /tmp/
 .rspec_status
 *.tar
-db
-data1
+/db
