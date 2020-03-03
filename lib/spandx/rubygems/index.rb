@@ -7,23 +7,27 @@ module Spandx
 
       def initialize
         @dir = Spandx::Rubygems.root.join('index')
-        @rubygems_file = DataFile.new(Spandx::Rubygems.root.join('rubygems.index'), default: {})
       end
 
       def licenses_for(name:, version:)
-        @rubygems_file.data.fetch(index_key_for(name, version), [])
+        search_key = [name, version].join
+        open_data(name, mode: 'r') do |io|
+          found = io.readlines.bsearch { |x| search_key <=> [x[0], x[1]].join }
+          found ? found[2].split('-|-') : []
+        end
       end
 
       def each
-        @rubygems_file.data.each do |key, value|
-          yield key, value
+        Dir[@dir.join('**/data')].each do |path|
+          CSV.open(path, 'r') do |io|
+            yield io.readline until io.eof?
+          end
         end
       end
 
       def update!
         update_expanded_index!
         sort_index!
-        build_optimized_index!
       end
 
       private
@@ -35,18 +39,6 @@ module Spandx
       def sort_index!
         [Spandx::Rubygems.root.join('checkpoints').to_s] + index_data_files.each do |file|
           system('sort', '-u', '-o', file, file)
-        end
-      end
-
-      def build_optimized_index!
-        files = index_data_files
-        @rubygems_file.batch(size: count_items_from(files)) do |io|
-          files.each do |data_file_path|
-            IO.foreach(data_file_path) do |line|
-              row = CSV.parse(line)[0]
-              io.write(index_key_for(row[0], row[1])).write(row[2].split('-|-'))
-            end
-          end
         end
       end
 
