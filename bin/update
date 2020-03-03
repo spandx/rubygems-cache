@@ -8,6 +8,9 @@ gem install bundler -v '~> 2.0'
 bundle install
 bundle exec ruby exe/spandx-rubygems update
 git add lib
-git status
-git commit -m 'Update index'
-git push origin
+if git status | grep 'nothing to commit'; then
+  echo 'Nothing to commit'
+else
+  git commit -m 'Update index'
+  git push origin
+fi
