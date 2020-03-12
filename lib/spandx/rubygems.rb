@@ -4,6 +4,7 @@ require 'csv'
 require 'digest'
 require 'net/hippie'
 require 'nokogiri'
+require 'pathname'
 require 'yaml'
 require 'zlib'
 
