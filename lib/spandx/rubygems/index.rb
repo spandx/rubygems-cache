@@ -38,7 +38,7 @@ module Spandx
 
       def sort_index!
         [Spandx::Rubygems.root.join('checkpoints').to_s] + index_data_files.each do |file|
-          system('sort', '-u', '-o', file, file)
+          IO.write(file, IO.readlines(file).sort.join)
         end
       end
 
