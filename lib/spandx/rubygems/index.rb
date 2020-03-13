@@ -100,7 +100,7 @@ module Spandx
       def open_data(name, mode: 'ab')
         key = digest_for(name)
         FileUtils.mkdir_p(data_dir_for(key))
-        CSV.open(data_file_for(key), mode, force_quotes: true) do |csv|
+        CSV.open(data_file_for(key), mode) do |csv|
           yield csv
         end
       end
