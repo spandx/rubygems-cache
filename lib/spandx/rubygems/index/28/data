@@ -6,7 +6,7 @@ Serdna,0.0.0,MIT
 SnowNasa,1.0.3,MIT
 VimeoFallback,0.0.3,Apache v2.0
 WEBSocket,0.1.1,""
-Watch-Joker-2020-Online-hd,1.2.6,https://t.co/8LFCzLZ4hA
+Watch-Joker-2020-Online-hd,1.2.6,"https://t.co/8LFCzLZ4hA"
 access_checker,0.0.2,MIT
 active_serializer,0.1.1,MIT
 activefacts-rmap,1.8.2,MIT
@@ -382,7 +382,7 @@ rake-tasks-for-installshield,0.0.18,""
 ransack_simple_form,0.1.2,MIT
 rapido-css,0.2.4,MIT
 rash_alt,0.4.8,""
-readline_buffer,1.0.0,"GPL 3 if you're compiling against Readline,
+readline_buffer,1.0.0,"GPL 3 if you're compiling against Readline,"
 redis-reactor,0.0.1,MIT
 redis-renew,0.0.2,""
 refile-filesystem-hashed,1.0.2,MIT
