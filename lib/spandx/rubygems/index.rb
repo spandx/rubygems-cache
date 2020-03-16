@@ -10,9 +10,9 @@ module Spandx
       end
 
       def licenses_for(name:, version:)
-        search_key = [name, version].join
+        search_key = [name, version].join(',')
         open_data(name, mode: 'r') do |io|
-          found = io.readlines.bsearch { |x| search_key <=> [x[0], x[1]].join }
+          found = io.readlines.bsearch { |x| search_key <=> [x[0], x[1]].join(',') }
           found ? found[2].split('-|-') : []
         end
       end
@@ -98,9 +98,9 @@ module Spandx
       end
 
       def open_data(name, mode: 'ab')
-        key = digest_for(name)
-        FileUtils.mkdir_p(data_dir_for(key))
-        CSV.open(data_file_for(key), mode) do |csv|
+        file = data_file_for(digest_for(name))
+        FileUtils.mkdir_p(File.dirname(file))
+        CSV.open(file, mode) do |csv|
           yield csv
         end
       end
