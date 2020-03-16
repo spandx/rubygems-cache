@@ -13,7 +13,7 @@ RSpec.describe Spandx::Rubygems::Index do
       end
     end
 
-    Dir['lib/spandx/rubygems/index/**/data'].sort.each do |filepath|
+    Dir['.index/**/rubygems'].sort.each do |filepath|
       context filepath do
         CSV.foreach(filepath) do |csv|
           it "finds `#{csv[0]} #{csv[1]}`" do

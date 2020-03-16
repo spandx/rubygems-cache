@@ -6,7 +6,7 @@ module Spandx
       COMMON_LICENSES = ['MIT', 'Apache-2.0', 'GPL-3.0', 'LGPL-3.0', 'BSD', 'BSD-3-Clause', 'WFTPL'].freeze
 
       def initialize
-        @dir = Spandx::Rubygems.root.join('index')
+        @dir = Spandx::Rubygems.root.join('../../../.index')
       end
 
       def licenses_for(name:, version:)
@@ -18,7 +18,7 @@ module Spandx
       end
 
       def each
-        Dir[@dir.join('**/data')].each do |path|
+        Dir[@dir.join('**/rubygems')].each do |path|
           CSV.open(path, 'r') do |io|
             yield io.readline until io.eof?
           end
@@ -33,11 +33,11 @@ module Spandx
       private
 
       def index_data_files
-        Dir["#{@dir}/**/data"]
+        Dir["#{@dir}/**/rubygems"]
       end
 
       def sort_index!
-        [Spandx::Rubygems.root.join('checkpoints').to_s] + index_data_files.each do |file|
+        [checkpoints_path] + index_data_files.each do |file|
           IO.write(file, IO.readlines(file).sort.uniq.join)
         end
       end
@@ -80,17 +80,20 @@ module Spandx
         checkpoints.include?(tarfile.to_s)
       end
 
+      def checkpoints_path
+        @checkpoints_path ||= File.join(@dir, 'rubygems.checkpoints')
+      end
+
       def checkpoints
         @checkpoints ||=
           begin
-            path = Spandx::Rubygems.root.join('checkpoints').to_s
-            FileUtils.touch(path) unless File.exist?(path)
-            IO.readlines(path).map(&:chomp)
+            FileUtils.touch(checkpoints_path) unless File.exist?(checkpoints_path)
+            IO.readlines(checkpoints_path).map(&:chomp)
           end
       end
 
       def checkpoint!(tarfile)
-        IO.write(Spandx::Rubygems.root.join('checkpoints').to_s, "#{tarfile}\n", mode: 'a')
+        IO.write(checkpoints_path, "#{tarfile}\n", mode: 'a')
       end
 
       def digest_for(components)
@@ -110,7 +113,7 @@ module Spandx
       end
 
       def data_file_for(key)
-        File.join(data_dir_for(key), 'data')
+        File.join(data_dir_for(key), 'rubygems')
       end
     end
   end
