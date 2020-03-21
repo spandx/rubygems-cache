@@ -120,6 +120,8 @@ drgdsl,1.2.0,MIT
 duet-bootstrap,1.1.2,Apache 2.0
 effective_resources,1.4.3,MIT
 effective_resources,1.4.4,MIT
+effective_resources,1.4.5,MIT
+effective_resources,1.4.6,MIT
 elzar_sw,0.0.0,""
 email-to_face,0.1.0,""
 emojione-rails,0.0.7,MIT-|-CC-by-sa 4.0
@@ -325,6 +327,7 @@ mmmurf-starling,0.9.8,""
 moac_eth,0.4.8,MIT
 mobylette,3.5,""
 modular_migration,0.0.4,MIT
+mondex,0.0.1,MIT
 mongodb_clone,0.2.0,""
 mongoid-audit,1.5.0,""
 mongoid_monkey,0.3.2,MIT
@@ -508,6 +511,7 @@ tmpfk,0.1.1,MIT
 tmptest,0.1.1,MIT
 to_range,0.0.2,MIT
 torasup,0.2.2,MIT
+torasup,0.2.3,MIT
 tracklib,0.1.7,Apache-2.0-|-MIT
 travis_dedup,0.6.0,MIT
 trema,0.10.1,GPL3

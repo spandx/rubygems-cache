@@ -11,6 +11,7 @@ abril_heartbeat,1.1.1,MIT
 activerecord-oracle_enhanced-adapter-with-schema,0.0.2,""
 activesupport,6.0.2,MIT
 activesupport,6.0.2.1,MIT
+activesupport,6.0.2.2,MIT
 activity_stream_client,0.0.16,""
 acts_rateable,0.1.0,MIT
 administrate-field-paperclip,0.0.5,MIT
@@ -81,6 +82,7 @@ compass-placeholders,1.1.1,""
 connect-four,0.0.1,MIT
 console_command,0.0.2,""
 console_runner,0.2.2,MIT
+console_runner,0.2.3,MIT
 copyscape,0.0.6,""
 corl,0.5.18,"Apache License, Version 2.0"
 couchbase-model-relationship,0.2.0,MIT
@@ -245,6 +247,7 @@ leads_to_highrise,0.3.19,MIT
 levinalex-liaison_labor,0.1.10,""
 liarsdice_cbarcroft,1.0.1,""
 libera,1.0.2,MIT
+libera,1.0.3,MIT
 libpuzzle,1.0.4,MIT
 libwebpayplus,2.0.3,MIT
 link-middleware,0.0.2,""
@@ -347,6 +350,7 @@ randomness,1.1.0,None
 randum,1.0.2,""
 ranked-model,0.4.4,MIT
 ranked-model,0.4.5,MIT
+ranked-model,0.4.6,MIT
 raph,0.0.3,MIT
 recall,0.0.4,MIT
 recline,0.2.0,MIT
@@ -390,6 +394,7 @@ rubycfn,0.4.8,MIT
 rubycfn,0.4.9,MIT
 rubycfn,0.5.0,MIT
 rubycfn,0.5.2,MIT
+rubycfn,0.5.3,MIT
 rubyhue,0.0.3,BAT
 rufus-lru,1.1.0,MIT
 ruml,1.0.0,""
@@ -486,6 +491,8 @@ vagrant-rspec-ci,1.1.2,""
 vagrant-vmware-appcatalyst,1.1.1,Apache License 2.0
 verto,0.1.0,MIT
 verto,0.2.0,MIT
+verto,0.2.1,MIT
+verto,0.3.0,MIT
 very_safe_rm,0.3.3,""
 vizzuality-sequel-rails,0.3.7,""
 vl_codebreaker,0.1.1,MIT

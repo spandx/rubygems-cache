@@ -49,6 +49,7 @@ auto_auth,0.0.4,MIT
 automatthew-cassandra,0.2.4,""
 aws-sdk-appconfig,1.0.0,Apache-2.0
 aws-sdk-appconfig,1.1.0,Apache-2.0
+aws-sdk-appconfig,1.3.0,Apache-2.0
 aws-sdk-wafv2,1.0.0,Apache-2.0
 aws-sdk-wafv2,1.1.0,Apache-2.0
 aws-sdk-wafv2,1.2.0,Apache-2.0
@@ -186,6 +187,7 @@ fwissr,1.0.2,""
 gala,0.4.0,MIT
 gapic-common,0.0.2,Apache-2.0
 gapic-common,0.1.0,Apache-2.0
+gapic-common,0.2.0,Apache-2.0
 gaston,0.6.0,MIT
 geet,0.3.15,GPL-3.0
 geo_api,1.0.0,MIT
@@ -388,6 +390,7 @@ rails_whitepages,0.1.3,MIT
 railsgarden-has_meta_data,0.1.1,""
 railties,6.0.2,MIT
 railties,6.0.2.1,MIT
+railties,6.0.2.2,MIT
 raise_js,0.0.2,""
 rake-migrations,0.2.0,MIT
 rake_command_filter,0.1.2,MIT

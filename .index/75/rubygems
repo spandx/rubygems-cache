@@ -37,10 +37,12 @@ aws-sdk-servicediscovery,1.19.0,Apache-2.0
 aws-sdk-servicediscovery,1.20.0,Apache-2.0
 aws-sdk-transfer,1.15.0,Apache-2.0
 aws-sdk-transfer,1.16.0,Apache-2.0
+aws-sdk-transfer,1.17.0,Apache-2.0
 axr,0.6.1,MIT
 axr,0.6.2,MIT
 aztec,0.0.1,MIT
 azure_mgmt_advisor,0.17.0,MIT
+azure_mgmt_advisor,0.17.1,MIT
 back_run,0.1.0,MIT
 backbone-filtered-collection,1.2.1,MIT
 backbone-support,0.5.1,MIT
@@ -155,6 +157,7 @@ esx,0.4.4,MIT
 ethereum.rb,2.2,MIT
 ethereum.rb,2.3,MIT
 ethereum.rb,2.4,MIT
+ethereum.rb,2.5,MIT
 evanwalsh-license,0.5.1,""
 eventbus,0.31.1,""
 evt-view_data-commands,0.1.0.1,MIT
@@ -179,6 +182,7 @@ fluff,0.1.2,MIT
 fluffle,1.1.0,MIT
 fog-azure-rm-temp,0.0.5,MIT
 font_assets,0.1.14,""
+forty_time,0.0.1,MIT
 fortytwo,0.1.2,MIT
 frameable,0.0.0,MIT
 franksi,1.0.2,MIT
@@ -447,6 +451,7 @@ s3_multi_upload,0.0.7,""
 sammcj-lita-xmpp,1.0.3,MIT
 sash,0.1.1,""
 sbpayment,0.10.2,MIT
+sbpayment,0.11.0,MIT
 scaleway,1.0.0,""
 scalm-RocketAMF,1.0.0,""
 screenshot,0.0.7,MIT
@@ -566,6 +571,7 @@ with_uuid,0.3.0,MIT
 workarea-cyber_source,1.0.3,Business Software License
 workarea-paypal,2.0.9,Business Software License
 workarea-paypal,3.0.0,Business Software License
+workarea-paypal,3.0.1,Business Software License
 world_postal_codes,0.5.1,MIT
 wp_scaffold,0.1.2,MIT
 xbox_leaders,3.0.0,MIT

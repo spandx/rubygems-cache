@@ -190,6 +190,7 @@ fluent-plugin-uri-parser,0.3.0,Apache-2.0
 fme-shoryuken,0.0.6,MIT
 foreman_scc_manager,1.7.0,GPL-3.0
 foreman_scc_manager,1.8.0,GPL-3.0
+foreman_scc_manager,1.8.2,GPL-3.0
 formal_wear,1.0.0,""
 formica,0.0.1,MIT
 formtastic_i18n,0.6.0,MIT
@@ -269,6 +270,8 @@ isodoc,1.0.17,BSD-2-Clause
 isodoc,1.0.18,BSD-2-Clause
 isodoc,1.0.19,BSD-2-Clause
 isodoc,1.0.20,BSD-2-Clause
+isodoc,1.0.21,BSD-2-Clause
+isodoc,1.0.22,BSD-2-Clause
 javascript_dlog-rails,1.0.1,""
 jekyll-pdf,0.1.7,GPL-3.0
 jekyll-swfobject,1.0.1,MIT
@@ -431,6 +434,7 @@ rails_structured_data,0.1.0,""
 rails_titleize_special_characters,0.0.3,MIT
 rails_views_path,0.1.0,MIT
 randomua,1.0.0,MIT
+randomua,1.1.0,MIT
 raster,0.2.3,MIT
 rdecorator,0.1.0,MIT
 red-datasets-arrow,0.0.2,MIT

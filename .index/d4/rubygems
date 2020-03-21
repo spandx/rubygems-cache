@@ -59,6 +59,7 @@ aws-sdk-transcribeservice,1.33.0,Apache-2.0
 aws-sdk-transcribeservice,1.34.0,Apache-2.0
 aws-sdk-transcribeservice,1.35.0,Apache-2.0
 aws-sdk-transcribeservice,1.36.0,Apache-2.0
+aws-sdk-transcribeservice,1.38.0,Apache-2.0
 azure_cognitiveservices_autosuggest,0.17.1,MIT
 baidu_api-geocoding,1.1.2,MIT
 bank_scrap,0.0.19,MIT
@@ -73,6 +74,9 @@ bioroebe,0.4.22,LGPL-2.1
 bioroebe,0.4.23,LGPL-2.1
 bioroebe,0.4.27,LGPL-2.1
 bioroebe,0.4.28,LGPL-2.1
+bioroebe,0.4.90,LGPL-2.1
+bioroebe,0.4.91,LGPL-2.1
+bioroebe,0.4.92,LGPL-2.1
 bitstamp-client,0.3.2,MIT
 blanket_wrapper,3.0.2,MIT
 blinky-tape-test-status-guard,1.1.2,MIT
@@ -401,6 +405,7 @@ provisioner,0.0.2,""
 puppet-library,0.17.0,GPL-3
 puppet-lint-unquoted_string-check,1.0.0,Apache-2.0
 puppetserver-ca,1.5.0,Apache-2.0
+puppetserver-ca,1.6.0,Apache-2.0
 push_woosher,0.0.1,MIT
 pxindex,0.2.2,MIT
 qiflib,0.6.0,GPL-3

@@ -1,3 +1,6 @@
+BookMD,0.1.1,MIT
+BookMD,0.1.2,MIT
+BookMD,0.1.6,MIT
 Directorio_de_trabajo_del_equipo,0.1.0,MIT
 FoneFinder,1.0.3,""
 GavinM-factory_grabber,1.0.1,""
@@ -186,7 +189,9 @@ foreman_probing_core,0.0.1,GPL-3.0
 forever_style_guide,3.6.1,MIT
 forever_style_guide,3.7.0,MIT
 forever_style_guide,3.7.1,MIT
+forever_style_guide,3.7.2,MIT
 freee-api,0.0.8,MIT
+freee-api,0.0.9,MIT
 functorflow,0.0.0,MIT
 gametel,0.8,MIT
 garbageman,0.3.7,MIT
@@ -427,6 +432,7 @@ realhq,0.0.2,MIT
 recaptcha,5.2.1,MIT
 recaptcha,5.3.0,MIT
 recaptcha,5.4.0,MIT
+recaptcha,5.4.1,MIT
 redis-cacheable,0.3.0,MIT
 redis-store,1.8.1,MIT
 redis-store,1.8.2,MIT

@@ -54,6 +54,7 @@ aws-sdk-securityhub,1.16.0,Apache-2.0
 aws-sdk-securityhub,1.17.0,Apache-2.0
 aws-sdk-securityhub,1.18.0,Apache-2.0
 aws-sdk-securityhub,1.19.0,Apache-2.0
+aws-sdk-securityhub,1.21.0,Apache-2.0
 aws_interactive_cli,0.0.2,MIT
 azure_mgmt_databox,0.17.0,MIT
 azure_mgmt_key_vault,0.17.5,MIT
@@ -401,6 +402,7 @@ revo-loans_api,0.0.17,""
 revo-loans_api,0.0.18,""
 revo-loans_api,0.0.19,""
 revo-loans_api,0.0.20,""
+revo-loans_api,0.0.21,""
 revo-loans_api,0.0.8,""
 revo-loans_api,0.0.9,""
 riemann-rpush,0.0.4,MIT
@@ -418,6 +420,7 @@ ruboty-gozaru,0.0.1,MIT
 ruboty-opening_sentence,1.0.1,MIT
 ruby-libvirt-catphish,0.7.1,LGPLv2
 ruby-limiter,1.0.1,MIT
+ruby-limiter,1.0.2,MIT
 ruby-liquid,0.1.7,MIT
 rubyXL-ptr,3.3.27,MIT
 ruby_front_matter,0.0.1,MIT
@@ -526,6 +529,11 @@ sorbet-static,0.5.5430,Apache-2.0
 sorbet-static,0.5.5434,Apache-2.0
 sorbet-static,0.5.5435,Apache-2.0
 sorbet-static,0.5.5439,Apache-2.0
+sorbet-static,0.5.5449,Apache-2.0
+sorbet-static,0.5.5450,Apache-2.0
+sorbet-static,0.5.5453,Apache-2.0
+sorbet-static,0.5.5456,Apache-2.0
+sorbet-static,0.5.5460,Apache-2.0
 sower,0.0.2,MIT
 spiffy_stores_api,4.11.1,MIT
 spoof,2.0.1,MIT

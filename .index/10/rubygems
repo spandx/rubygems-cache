@@ -37,6 +37,7 @@ arbetsformedlingen,0.7.0,MIT
 asciibook,0.0.0,MIT
 asciibook,0.0.1,MIT
 asciibook,0.0.2,MIT
+asciibook,0.0.3,MIT
 asciidoctor-html5s,0.2.0,MIT
 asciidoctor-html5s,0.2.1,MIT
 asciidoctor-html5s,0.3.0,MIT
@@ -353,6 +354,7 @@ rake_embedded,0.1.5,GPL-3.0
 randexp-japanese,0.0.1,MIT
 raty_ratings,1.2.0,MIT
 rayyan-formats-plugins,0.1.5,MIT
+rayyan-formats-plugins,0.1.6,MIT
 rbib,2.0.1,""
 rebot,0.0.3,MIT
 red_alert,0.1.0,""

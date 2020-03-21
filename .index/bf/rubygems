@@ -42,6 +42,7 @@ aws-sdk-connectparticipant,1.0.0,Apache-2.0
 aws-sdk-connectparticipant,1.1.0,Apache-2.0
 aws-sdk-health,1.20.0,Apache-2.0
 aws-sdk-health,1.21.0,Apache-2.0
+aws-sdk-health,1.22.0,Apache-2.0
 azure_mgmt_devtestlabs,0.18.0,MIT
 basic-password,0.1.1,BSD-2-Clause
 basics_edit,0.0.5,""
@@ -462,6 +463,7 @@ stash-query,0.1.3,GPL-3.0
 sterlet,0.1.1,MIT
 store-active_record,0.0.11,MIT
 string_pattern,2.2.1,MIT
+string_pattern,2.2.2,MIT
 string_plus,0.5.3,MIT
 stubsvc,0.1.6,""
 styles,0.0.1,""

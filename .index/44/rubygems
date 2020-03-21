@@ -31,6 +31,7 @@ avalon-mmRouter-rails,0.0.1,MIT
 awl_tags_twitter,1.0.2,MIT
 aws_cloudformation_helper,0.1.0,MIT
 azure_mgmt_compute,0.19.0,MIT
+azure_mgmt_compute,0.19.1,MIT
 baldowl-rupostrano,0.0.1,""
 ballonizer_proxy,0.0.8,Public domain
 barkdog,0.1.9,MIT
@@ -352,9 +353,12 @@ prima-twig,0.62.4,MIT
 prima-twig,0.62.5,MIT
 prima-twig,0.62.9,MIT
 prima-twig,0.63.1,MIT
+prima-twig,0.63.12,MIT
+prima-twig,0.63.13,MIT
 prima-twig,0.63.2,MIT
 prima-twig,0.63.3,MIT
 prima-twig,0.63.5,MIT
+prima-twig,0.63.7,MIT
 printr,0.6.2,""
 proc-unbind,0.1.0,""
 processwrapper,0.0.1,Apache 2

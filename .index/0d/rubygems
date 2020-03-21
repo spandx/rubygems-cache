@@ -21,6 +21,7 @@ afc_salesforce,0.1.23,MIT
 afc_salesforce,0.1.24,MIT
 afc_salesforce,0.1.25,MIT
 afc_salesforce,0.1.26,MIT
+afc_salesforce,0.1.27,MIT
 agent_fix,0.3.0,GPL
 aguids-publishable,0.1.6,""
 alexa_skillsdev,0.2.5,MIT
@@ -47,12 +48,14 @@ async-container,0.15.0,MIT
 async-container,0.16.0,MIT
 async-container,0.16.1,MIT
 async-container,0.16.2,MIT
+async-container,0.16.3,MIT
 atpay_tokens,4.0.0,""
 auditable,0.1.6,""
 autogc,0.0.3,MIT
 aws-healthcheck,1.0.1,MIT
 aws-sdk-codepipeline,1.27.0,Apache-2.0
 aws-sdk-codepipeline,1.28.0,Apache-2.0
+aws-sdk-codepipeline,1.29.0,Apache-2.0
 aws-sdk-pinpointsmsvoice,1.13.0,Apache-2.0
 aws-sdk-pinpointsmsvoice,1.14.0,Apache-2.0
 aws-sdk-redshift,1.34.0,Apache-2.0
@@ -60,6 +63,7 @@ aws-sdk-redshift,1.35.0,Apache-2.0
 aws-sdk-redshift,1.36.0,Apache-2.0
 aws-sdk-redshift,1.37.0,Apache-2.0
 aws-sdk-redshift,1.38.0,Apache-2.0
+aws-sdk-redshift,1.39.0,Apache-2.0
 azure_mgmt_stor_simple8000_series,0.17.2,MIT
 background_process,1.3,""
 baja,0.9.92,MIT
@@ -387,6 +391,7 @@ postgres-vacuum-monitor,0.7.0,""
 postgres-vacuum-monitor,0.9.0,""
 poundie,0.1.4,""
 prawn-markup,0.2.1,MIT
+prawn-markup,0.2.2,MIT
 primate,0.0.1,""
 profound,0.0.6,MIT
 programmable-ventouse,0.1.5,""

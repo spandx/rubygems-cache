@@ -172,6 +172,8 @@ git-status-all,1.1.3,MIT
 gitolite-rugged,1.2.2,MIT
 glot,0.1.0,MIT
 gocya,0.0.1,MIT
+google-cloud-logging,1.10.0,Apache-2.0
+google-cloud-logging,1.10.1,Apache-2.0
 google-cloud-logging,1.9.1,Apache-2.0
 google-cloud-logging,1.9.2,Apache-2.0
 google-cloud-logging,1.9.3,Apache-2.0
@@ -182,6 +184,7 @@ gpr-select,0.1.0,MIT
 granola-rails,0.2.0,MIT
 grape-generator,0.1.3,MIT
 graphql-autotest,0.1.1,MIT
+graphql-autotest,0.1.2,MIT
 grimm,0.0.5,MIT
 gripe,0.1.0,MIT
 groundworkcss-rails,0.2.12,""
@@ -274,6 +277,7 @@ metanorma-mpfd,0.3.10,BSD-2-Clause
 metanorma-mpfd,0.3.11,BSD-2-Clause
 metanorma-mpfd,0.3.13,BSD-2-Clause
 metanorma-mpfd,0.3.14,BSD-2-Clause
+metanorma-mpfd,0.3.15,BSD-2-Clause
 metanorma-mpfd,0.3.7,BSD-2-Clause
 metanorma-mpfd,0.3.8,BSD-2-Clause
 metanorma-mpfd,0.3.9,BSD-2-Clause
@@ -285,6 +289,7 @@ microby,0.0.3,""
 middleman-keycdn,0.1,""
 middleman-releases,0.3.0,""
 middleman-releases,0.3.1,""
+middleman-releases,0.3.2,""
 middleman-webpacker,1.2.0,MIT
 migrate_unless,0.0.2,MIT
 milk1000cc-acts_as_digested_on,0.0.1,""
@@ -510,6 +515,7 @@ will_paginate-foundation,6.2.1,MIT
 win32-changenotify,0.6.1,Artistic 2.0
 winkapp,0.0.1,MIT
 witei_web_api,0.2.4,CC0-1.0
+witei_web_api,0.2.6,CC0-1.0
 xcassets_exporter,0.1.0,""
 xing_backend_token_auth,0.1.32,WTFPL
 xml_patch,0.2.0,MIT

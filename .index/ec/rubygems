@@ -164,6 +164,8 @@ fitbit_client,0.1.4,MIT
 fluent-config-regexp-type,1.0.0,""
 fluent-plugin-cloudwatch-logs,0.7.6,MIT
 fluent-plugin-cloudwatch-logs,0.8.0,MIT
+fluent-plugin-cloudwatch-logs,0.8.1.1,MIT
+fluent-plugin-cloudwatch-logs,0.8.2,MIT
 fluent-plugin-detect-exceptions,0.0.13,Apache-2.0
 fluent-plugin-dogstatsd-soluto,0.0.1,MIT
 fluent-plugin-kafka-enchanced,0.5.35,""
@@ -186,6 +188,7 @@ genome-pipeline,0.0.3,MIT
 getto-params,1.3.1,MIT
 gimei,0.3.0,MIT
 gimei,0.4.0,MIT
+gimei,0.5.0,MIT
 gisterday,1.0.0,""
 git-fog,2.0.0,GPL-3.0
 git-multiple,0.1.5,MIT
@@ -439,6 +442,8 @@ scoped_attributes,0.1.2,""
 scopiform,0.1.1,MIT
 scopiform,0.1.2,MIT
 scopiform,0.1.4,MIT
+scopiform,0.2.0,MIT
+scopiform,0.2.2,MIT
 search_path,0.0.2,MIT
 selenium_standalone_dsl,0.1.7,MIT
 send_to_kindle,0.0.1,""
@@ -488,6 +493,7 @@ surbase,0.0.5,MIT
 t-bag,0.0.4,MIT
 tau_yandex_speller,0.0.1,MIT
 teej-alchemy,1.1.1,""
+terramodtest,0.4.0,MIT
 tfgm,0.0.6,MIT
 tic_tac_doh,0.2.0,""
 time-lord-chinese,0.0.2,""

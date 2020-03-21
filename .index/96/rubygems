@@ -1,6 +1,7 @@
 420-time,0.0.3,BSD
 P5_T_34,0.1.2,MIT
 RubySunrise,0.3.1,""
+RubySunrise,0.3.3,MIT
 UnderpantsGnome-sax-machine,0.0.14,""
 absorb_api,0.9.3,MIT
 aceroute,0.2.1,MIT
@@ -108,6 +109,7 @@ db_mod,0.0.6,MIT
 decidim-participatory_processes,0.19.1,AGPL-3.0
 decidim-participatory_processes,0.20.0,AGPL-3.0
 delete_commas,0.0.1,MIT
+depend_lister,0.1.0,MIT
 dependabot-docker,0.114.1,Nonstandard
 dependabot-docker,0.115.0,Nonstandard
 dependabot-docker,0.115.2,Nonstandard
@@ -122,6 +124,7 @@ dependabot-docker,0.116.6,Nonstandard
 dependabot-docker,0.117.0,Nonstandard
 dependabot-docker,0.117.1,Nonstandard
 dependabot-docker,0.117.2,Nonstandard
+dependabot-docker,0.117.3,Nonstandard
 dependy,0.1.0,MIT
 dftcc,0.1.0,MIT
 docgen,0.1.0,MIT
@@ -146,6 +149,9 @@ ec2-copy-snapshot,0.1.0,""
 ecj_jar,4.3.1.1,EPL 1.0
 eclipsed,0.6.7,MIT
 effective_email_templates,0.5.0,MIT
+effective_email_templates,1.0.0,MIT
+effective_email_templates,1.0.2,MIT
+effective_email_templates,1.0.5,MIT
 eldoorado,0.0.3,""
 elliottcable-refinery,0,""
 eloqua_api,0.0.11,MIT
@@ -369,6 +375,7 @@ pg,1.1.4,BSD-3-Clause
 pg,1.2.0,BSD-2-Clause
 pg,1.2.1,BSD-2-Clause
 pg,1.2.2,BSD-2-Clause
+pg,1.2.3,BSD-2-Clause
 phlox,0.1.1,MIT
 photofy,0.6.4,MIT-|-GPL-2.0
 poke-stick,0.0.1,MIT
@@ -471,6 +478,7 @@ soundcloud2,0.3.5,""
 spotify_cli,0.1.3,MIT
 spree_cmd,4.0.3,BSD-3-Clause
 spree_cmd,4.1.0,BSD-3-Clause
+spree_cmd,4.1.1,BSD-3-Clause
 sslserve,0.1.2,MIT
 staticme,0.4.0,MIT
 stax-examples,0.0.4,MIT
@@ -554,6 +562,7 @@ wnm_support,0.0.8,MIT
 wordpress_tools,1.4.1,MIT
 words_with_kris,0.3.0,MIT
 work_queue,2.5.4,MIT
+yabeda-prometheus-mmap,0.1.0,MIT
 yellow,0.0.0,MIT
 your_platform,1.0.1,""
 ytsongdw,0.2.0,GPL-2.0

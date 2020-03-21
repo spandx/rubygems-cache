@@ -114,6 +114,7 @@ cosine-active_record_encoding,0.9.5,""
 cosmos-unpacking_interface,1.0.0,MIT
 couchsurfing,0.1.0,MIT
 countries-phone_numbers,1.0.3,MIT
+covid19-rb,0.1.0,MIT
 crean_cop,1.0.2,MIT
 crypt_keeper_with_ransack,0.0.4,MIT
 csp_builder,0.2.0,MIT
@@ -138,6 +139,7 @@ dynport_tools,0.2.22,""
 ebay_client,0.3.1.1045,MIT
 editmode,0.0.9.14,MIT
 editmode,0.0.9.39,MIT
+editmode,0.0.9.61,MIT
 editmode,0.0.9.9,MIT
 eg,1.0,MIT
 elasticsearch_autocomplete,0.1.6,""
@@ -231,6 +233,7 @@ infinispan-ruby-client,0.0.2,""
 injectable,1.0.1,MIT
 injectable,1.0.2,MIT
 injectable,1.0.3,MIT
+injectable,2.0.0,MIT
 ip_reverse,1.2.0,MIT
 iplan-money-open-exchange-rates,0.1.8,MIT
 isis-plugin-devopsreactions,1.0.0,MIT
@@ -314,6 +317,7 @@ nexmo_markdown_renderer,0.0.2,MIT
 nexmo_markdown_renderer,0.0.3,MIT
 nexmo_markdown_renderer,0.1.0,MIT
 nexmo_markdown_renderer,0.1.1,MIT
+nexmo_markdown_renderer,0.2.0,MIT
 notes,0.1.2,""
 npr_cli_app,0.1.0,MIT
 numerical,0.0.2,""

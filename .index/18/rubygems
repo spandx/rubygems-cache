@@ -184,6 +184,7 @@ gibier,0.8.17,MIT
 git-newline-at-eof,0.1.7,MIT
 gitfetch,0.1.4,MIT
 gitfetch,0.1.5,MIT
+gitfetch,0.1.6,MIT
 gitloc-kristaanelson,0.1.0,MIT
 gluhu,0.0.9,""
 gorg_engine,1.2.4,MIT
@@ -483,6 +484,7 @@ superman,0.0.0,MIT
 svm_helper,0.2.1,""
 swagger-serializer,0.6.1,Zlib
 swagger-serializer,0.7.0,Zlib
+swagger-serializer,0.8.1,Zlib
 symmetry,1.1.0,""
 sync-sf,1.0.0,MIT
 tcc,0.1.1,BSD-|-LGPL

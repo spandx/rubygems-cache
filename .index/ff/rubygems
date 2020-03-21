@@ -7,6 +7,7 @@ aardvark,0.1.0,MIT
 absolute_time,1.0.0,BSD
 acrawriter,1.0.3,Apache 2.0
 action_service,1.0.3,MIT
+action_service,1.1.0,MIT
 activable,0.1.1,MIT
 active_record_stats,0.1.5,MIT
 active_triples-local_name,0.6.0,APACHE2
@@ -116,6 +117,7 @@ dear_inventory,0.3.0,MIT
 dear_inventory,0.4.1,MIT
 dear_inventory,0.6.0,MIT
 dear_inventory,0.6.2,MIT
+dear_inventory,0.6.3,MIT
 deckchair,0.0.11,""
 degica-style,0.1.0,""
 derelict,0.6.2,MIT
@@ -315,6 +317,7 @@ malcolm,0.1.0,""
 map_reduce,0.0.8,MIT
 markedly,0.0.2,MIT
 marty,10.0.0,MIT
+marty,10.0.2,MIT
 marty,8.5.0,MIT
 marty,9.3.0,MIT
 marty,9.3.3,MIT
@@ -385,6 +388,8 @@ ovirt_metrics,3.0.1,MIT
 palkaphoto_view_tool,0.1.3,MIT
 paper_rocks_scissors,0.1.3,MIT
 paper_trail-audit,0.0.7,MIT
+paper_trail-related_changes,1.0.1,MIT
+paper_trail-related_changes,1.0.2,MIT
 parallel_tests-extensions,0.1.0,""
 passive_circl,0.1.0,MIT
 patodo,0.1.1,GPL
@@ -483,6 +488,7 @@ sigame,0.0.1,""
 simple-ynab,1.1.0,MIT
 simplecov-shields-badge,0.1.0,mit
 sinatra-active-model-serializers,0.3.0,MIT
+sir_model,0.1.5,MIT
 skanev-bulgarianize,0.1.2,""
 skylab_genesis,1.0.5,Apache-2.0
 slack-api-wrapper,0.2.0,MIT
@@ -508,6 +514,7 @@ subarray,0.0.0,""
 subdomainbox,0.7.0,MIT
 subserver,0.4.0,MIT
 subserver,0.4.1,MIT
+subserver,0.4.2,MIT
 sunlightlabs-sunlight,1.0.0,""
 swdyh-comma,0.2.2,""
 syndi,0.1.3,FreeBSD
@@ -561,6 +568,7 @@ websocket-pipe,0.0.1,"Apache License, Version 2.0"
 webspicy,0.12.5,MIT
 webspicy,0.13.0,MIT
 webspicy,0.14.0,MIT
+webspicy,0.15.0,MIT
 wei_blogVote,0.1.0,MIT
 whenever-elasticbeanstalk,1.1.6,MIT
 win32-nio,0.2.2,Artistic 2.0

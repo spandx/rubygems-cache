@@ -335,6 +335,7 @@ omniauth-plangrade,0.1.13,MIT
 oolite,0.0.4,MIT
 opcua,0.16,LGPL-3.0
 opcua,0.17,LGPL-3.0
+opcua,0.18,LGPL-3.0
 ordinator,1.0.2,MIT
 ovh-api,1.1.1,MIT
 packershift-jekyll-purpose,0.1.0,MIT
@@ -494,6 +495,8 @@ string_transformer,1.0.2,MIT
 stylecheck,0.2.1,MIT
 stylio,0.4.1,MIT
 stylusc,0.0.1,""
+supai,0.2.0,MIT
+supai,0.2.3,MIT
 tag_eal,0.0.2,""
 tarsus-rails,0.0.1.1,MIT
 termapinator,0.0.2,""

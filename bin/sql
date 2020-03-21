@@ -1,3 +1,9 @@
-#!/bin/sh
+#!/bin/bash
 
-psql -h $PWD/tmp/sockets postgres "$@"
+if [[ -z $PGHOST ]]; then
+  psql -h "$PWD"/tmp/sockets postgres "$@"
+else
+  psql -U "$PGUSER" -h "$PGHOST" -d "$PGDBNAME" "$@"
+fi
+
+

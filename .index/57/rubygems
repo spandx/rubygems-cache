@@ -295,6 +295,7 @@ metanorma-csa,1.4.3,BSD-2-Clause
 metanorma-csa,1.4.4,BSD-2-Clause
 metanorma-csa,1.4.5,BSD-2-Clause
 metanorma-csa,1.4.6,BSD-2-Clause
+metanorma-csa,1.4.7,BSD-2-Clause
 middleman-flickr,0.0.1,""
 middleman-gibberish,0.7.0,same as ruby's
 middleman-react,0.13.3,MIT
@@ -458,6 +459,7 @@ specifier,1.0.1,MIT
 spree-coinbase,2.2.0.1,""
 spree_api,4.0.3,BSD-3-Clause
 spree_api,4.1.0,BSD-3-Clause
+spree_api,4.1.1,BSD-3-Clause
 sse,1.0.3,MIT
 stach,1.0.0,ISC
 startling_trello,0.0.4,MIT

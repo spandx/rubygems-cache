@@ -310,6 +310,7 @@ no_integrity,0.6.0,""
 nomadsl,0.2.0,CC0
 normalize_line_endings,0.0.1,MIT
 nt_gem,0.1.1,MIT
+nt_gem,0.1.2,MIT
 nusmods,0.0.4,MIT
 oauth-plugin,0.5.1,MIT
 observed-logstash,0.1.0,MIT

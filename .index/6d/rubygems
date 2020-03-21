@@ -65,6 +65,7 @@ brainblocks-js,1.0.9,MIT
 branches_tools,0.0.1,MIT
 brienw-linkedin,0.3.7,""
 brocade_api_client,0.1.2,Apache-2.0
+brocade_api_client,0.1.3,Apache-2.0
 brototype,0.9.4,MIT
 buckler-rack,0.0.1,MIT
 buffet,2.1.0,MIT
@@ -101,6 +102,7 @@ command_processor,0.1.7,MIT
 confgit,0.0.6,MIT
 configvar,0.1.0,MIT
 connect_n_game,0.0.2,MIT
+connect_n_game,0.0.4,MIT
 coredb-application-devopstools,0.1.0,MIT
 corkscrew,0.0.1,MIT
 creators-rails,0.0.1,""
@@ -115,6 +117,7 @@ czmq-ffi-gen,0.14.1,ISC
 czmq-ffi-gen,0.16.1,ISC
 dakarai,5.0.0,MIT
 dakarai,5.0.1,MIT
+dakarai,5.1.0,MIT
 danil-gem,0.0.0,""
 darmani_game59,0,""
 datacalc,0.0.1,GPL
@@ -293,6 +296,7 @@ left-pad-rb,0.0.0,WTFPL
 lindedata_view_tool,0.1.0,MIT
 line_by_line,0.9,GPL-3.0
 lita-onewheel-rolz,0.0.5,MIT
+lita-onewheel-rolz,0.0.6,MIT
 lita-onewheel-snowcrash,1.0.4,MIT
 lobby,0.0.27,""
 local_postal,0.1.1,MIT
@@ -305,6 +309,7 @@ lux,1.1.4,MIT
 lyber-utils,0.1.2,""
 macsay,0.1.0,""
 mail_autoconfig,0.0.2,MIT
+mallow-theme,0.1.0,GPL-3.0
 markw-wcwidth,0.0.3,""
 mastercard_repower,1.0.2,BSD-2-Clause
 material-blog-jp,0.3.0,MIT
@@ -428,6 +433,7 @@ rf_logger,0.4.0,MIT
 riddl,0.100.8,LGPL-3.0
 riddl,0.100.9,LGPL-3.0
 riddl,0.101.01,LGPL-3.0
+riddl,0.101.2,LGPL-3.0
 ringcentral-sdk,0.9.4,MIT
 rinku,2.0.6,ISC
 rist,0.0.2,MIT
@@ -523,6 +529,7 @@ testa,0.0.1,MIT
 testhello,0.1,MIT
 testrail-cucumber,0.1.7,MIT
 testrail-cucumber,0.1.8,MIT
+testrail-cucumber,0.1.9,MIT
 testrail_api,1.1.6,MIT
 texel-gchart,0.5.0,""
 text_analysis,0.2.1,MIT

@@ -35,6 +35,7 @@ ansiterm,0.3.2,MIT
 anusblaster,0.1.0,""
 any_ascii,0.1.2,ISC
 any_ascii,0.1.3,ISC
+any_ascii,0.1.4,ISC
 aoandon,0.0.5,MIT
 archimate,2.2.1,""
 arcserver.rb,0.1.5,MIT
@@ -472,6 +473,7 @@ sms_voice_flash,0.1.5,MIT
 smtlaissezfaire-gazelle,0.1.0,""
 soar_aspects,0.1.2,MIT
 solr_lite,0.0.16,MIT
+solr_lite,0.0.17,MIT
 sparkle-guides,0.1.12,Apache-2.0
 sparkle_motion,0.1.0,""
 specialcharacterchecker,0.0.1,""

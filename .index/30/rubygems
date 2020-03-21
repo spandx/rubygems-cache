@@ -365,6 +365,7 @@ prez,0.1.2,MIT
 procto,0.0.3,MIT
 prodder,1.7.6,MIT
 property_sets,3.4.0,MIT
+property_sets,3.5.0,MIT
 protest,0.6.0,MIT
 pson,1.0.1,GPL-3
 psp-toolchain,0.0.2,MIT
@@ -454,6 +455,8 @@ simianarmy-simianarmy-feedzirra,0.0.13,""
 simple-s3,1.0.20,""
 simple-secrets,2.1.0,MIT
 simple_json_log_formatter,0.2.0,MIT
+simple_json_log_formatter,0.2.1,MIT
+simple_json_log_formatter,0.3.0,MIT
 site_mapper,0.0.13,MIT
 skozlov-netzke_core,0.1.0,""
 slim_scrooge,1.0.14,""

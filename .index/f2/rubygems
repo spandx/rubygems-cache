@@ -411,6 +411,7 @@ sendgrid_cli_mailer,0.6.0,""
 sensu-plugins-postfix,1.0.0,MIT
 sequel-pg_schema_data,0.0.2,MIT
 seri,1.1.7,MIT
+seri,1.1.8,MIT
 serial-spec,0.4.1,MIT
 sf-theme-bs4,0.1.0,MIT
 sf_coffee,0.1.2,MIT

@@ -55,6 +55,7 @@ aws-sdk-cloudfront,1.24.0,Apache-2.0
 aws-sdk-cloudfront,1.25.0,Apache-2.0
 aws-sdk-cloudfront,1.26.0,Apache-2.0
 aws-sdk-glacier,1.26.0,Apache-2.0
+aws-sdk-glacier,1.27.0,Apache-2.0
 backarch,0.1.15,""
 bassy,0.1.1,Apache License Version 2
 beastbot,0.0.6,""
@@ -303,6 +304,7 @@ mwunsch-octocatnap,0.7.0,""
 nagios-manage,0.6.0,""
 narou,3.4.8,MIT
 narou,3.5.0.1,MIT
+narou,3.5.1,MIT
 navfund,1.2.0,MIT
 neat-rails,0.5.1,""
 nesting,0.0.1,zlib

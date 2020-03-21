@@ -10,6 +10,7 @@ actionview-component,1.12.0,MIT
 actionview-component,1.13.0,MIT
 actionview-component,1.14.1,MIT
 actionview-component,1.15.0,MIT
+actionview-component,1.16.0,MIT
 actionview-component,1.6.0,MIT
 actionview-component,1.6.1,MIT
 actionview-component,1.6.2,MIT
@@ -86,6 +87,7 @@ chruby,0.3,""
 cloudconfig,0.4.0,"Apache License, Version 2.0"
 clowder,0.0.1,MIT
 cobregratis,0.4.4,MIT
+cognitive_faculty,2.0.0,""
 collectiveidea-graticule,0.2.12,""
 command_exec,0.2.0,""
 commonthread-common_recipes,0.1.5,""
@@ -107,6 +109,7 @@ conjunction,0.22.7,MIT
 conjunction,0.23.1,MIT
 conjunction,0.23.1.1,MIT
 conjunction,0.23.1.2,MIT
+conjunction,0.23.2,MIT
 constree,0.1.3,MIT
 copyright_mafa,0.1.2,""
 coreymartella-universal_ruby_whois,1.2.1,""
@@ -143,6 +146,7 @@ dependabot-github_actions,0.116.6,Nonstandard
 dependabot-github_actions,0.117.0,Nonstandard
 dependabot-github_actions,0.117.1,Nonstandard
 dependabot-github_actions,0.117.2,Nonstandard
+dependabot-github_actions,0.117.3,Nonstandard
 developer,0.0.1,MIT
 dht-sensor-ffi,0.3.1,MIT
 diaspora_federation-json_schema,0.2.6,AGPL-3.0
@@ -156,6 +160,7 @@ directive,0.22.7,MIT
 directive,0.23.1,MIT
 directive,0.23.1.1,MIT
 directive,0.23.1.2,MIT
+directive,0.23.2,MIT
 dnd-namer,0.0.1,MIT
 docintegritycheck,0.0.1,GPL
 dockerc,0.0.1,MIT
@@ -560,6 +565,7 @@ wwood-rarff,0.2.5,""
 wysihtml5-rails,0.0.5,""
 xchannel,0.1.0,""
 xls2json,0.0.1,Eday Solutions
+yabeda-graphql,0.1.0,MIT
 yakovenko_riverbattle,0.1.5,MIT
 yaml_locales_jsonizer,0.1.4,MIT
 yard_ast_editable,0.1.4,""

@@ -170,6 +170,7 @@ eyes_core,3.16.5,Applitools
 eyes_core,3.16.6,Applitools
 eyes_core,3.16.7,Applitools
 eyes_core,3.16.8,Applitools
+eyes_core,3.16.9,Applitools
 facebook_js,0.0.3,""
 faker-bot,0.5.2,MIT
 faker-bot,0.5.3,MIT
@@ -352,6 +353,7 @@ net_http_wrapper,0.0.3,MIT
 nexmo-oas-renderer,0.7.0,MIT
 nexmo-oas-renderer,0.7.1,MIT
 nexmo-oas-renderer,0.8.0,MIT
+nexmo-oas-renderer,0.9.0,MIT
 niclasnilsson-json2objects,0.0.4,""
 nissen-collect,0.1.8,MIT
 nkpart-dget,0.3.1,""
@@ -467,6 +469,7 @@ semantic-administrate,0.10.1,MIT
 sensu-plugins-librato,1.0.0,MIT
 separa,0.0.3,MIT
 sequenceserver,1.0.12,GNU AGPL v3
+sequenceserver,1.0.13,GNU AGPL v3
 serverless_hub,1.0.6,""
 servicedesk,0.0.1,""
 sf_film_location_api_wrapper,0.1.1,MIT

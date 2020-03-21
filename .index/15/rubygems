@@ -90,6 +90,7 @@ clean-jekyll-theme,1.2.0,MIT
 clear_sale_clear_id,0.1,MIT
 cli-scripts-jakewmeyer,0.4.0,""
 cluda,0.0.2,MIT
+cluda,0.1.0,MIT
 cocoapods-install_tal,0.0.1,MIT
 codefuckery,0.0.1,MIT
 codeless_code,0.2.1,GPL-3.0
@@ -371,6 +372,7 @@ pdfmonkey,0.4.0,MIT
 peatio,0.6.3,""
 peatio,2.4.1,""
 peatio,2.4.2,""
+peatio,2.4.3,""
 peek-git,1.0.2,""
 peoplefinder,0.1.1,MIT
 perl,0.0.1,Apache 2.0

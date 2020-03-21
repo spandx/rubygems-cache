@@ -180,6 +180,7 @@ giturl,1.0.3,""
 giturl,1.0.5,""
 giturl,1.1.2,MIT
 giturl,1.1.4,MIT
+giturl,1.1.5,MIT
 gplan,0.2.1,""
 gradleww,1.0.1,MIT
 gran_pulse,0.0.1,MIT
@@ -269,6 +270,7 @@ license_finder,1.2,MIT
 license_finder,5.11.1,MIT
 license_finder,6.0.0,MIT
 license_finder,6.1.0,MIT
+license_finder,6.1.2,MIT
 liedetector,0.2.7,MIT
 lissio,0.1.0,""
 lita-doc,0.1.2,none
@@ -362,6 +364,7 @@ pause_output,0.2.0,MIT
 pause_output,0.2.1,MIT
 pdfmd,2.6.0,MIT
 pdsdk,0.7.4,MIT
+pdsdk,0.7.5,MIT
 pec2,0.7.1,MIT
 pfrpg_core,0.1.15,""
 phantom_pdf,0.0.2,""
@@ -433,6 +436,7 @@ ruboty-http_curl,0.1.0,MIT
 ruboty-sqs,0.1.0,MIT
 ruboty-ueno_park_event,1.0.0,MIT
 ruby-debug,0.10.6,""
+ruby-debug,0.11.0,""
 ruby-lokalise-api,2.10.0,MIT
 ruby-lokalise-api,2.8.0,MIT
 ruby-lokalise-api,2.9.0,MIT
@@ -493,6 +497,7 @@ slackup,0.1.1,MIT
 smart_proxy_spacewalk,0.1.0,GPLv3
 sms_bao_alt,0.0.1,""
 sniffer,0.3.2,MIT
+sniffer,0.4.0,MIT
 softledger,0.0.5,MIT
 some,0.0.9,""
 spanish_ccc_validator,0.0.4,""

@@ -143,6 +143,7 @@ dropbox_api_v2,0.1.7,MIT
 dropio-dropio,0.9.5,""
 ds18b20,0.2.0,MIT
 duck-hunt,0.0.6,""
+duck-hunt,0.1.0,""
 dutchman,0.0.2,MIT
 dyn-ruby-launchctl,0.1.2,MIT-|-GPL-2
 dynamic_fields_for_rails,1.0.0,MIT
@@ -298,6 +299,7 @@ kramdown-math-mathjaxnode,1.0.0,MIT
 kudzu-adapter-active_record,1.1.0,MIT
 langtastic,0.1.0,MIT
 lastpass,1.6.0,MIT
+lauragift,0.1.1,MIT
 lazy_as_json,0.1.0,""
 leafy-complete,0.3.1,MIT
 leafy-complete,0.6.2,MIT
@@ -399,6 +401,7 @@ postgres_ext-postgis,0.0.6,MIT
 prefixstorage,0.1.0,""
 presto,0.6.1,MIT
 prettier,0.17.0,MIT
+prettier,0.18.0,MIT
 preval,0.5.0,MIT
 preval,0.6.0,MIT
 procore,0.8.8,MIT

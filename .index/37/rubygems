@@ -464,6 +464,7 @@ splashrc,1.1.6,""
 spns,0.2.16,""
 spree_backend,4.0.3,BSD-3-Clause
 spree_backend,4.1.0,BSD-3-Clause
+spree_backend,4.1.1,BSD-3-Clause
 springmvc-scaffold,1.0.1,""
 square-circle-triangle-grit,1.1.4,""
 squirm_rails,0.0.2,""
@@ -506,6 +507,8 @@ unicode-tools,1.0.2,MIT
 unicode_japanese,0.3,MIT
 upfluence-utils,0.6.0,MIT
 upfluence-utils,0.6.1,MIT
+upfluence-utils,0.6.2,MIT
+upfluence-utils,0.6.3,MIT
 upnxt_frontend_aaa_login_engine,0,""
 usui,0.0.6.1,MIT
 vagrant-bundlewrap,0.2.0,MIT

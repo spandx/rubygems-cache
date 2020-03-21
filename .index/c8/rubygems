@@ -76,6 +76,7 @@ cal_heatmap_rails,0.0.3,MIT
 calculator-myshop,1.0.4,""
 campfire-bot_alexchee,1.0.2,""
 canonical-rails,0.2.6,""
+canonical-rails,0.2.8,""
 capistrano-cook,2.0.6,MIT
 capistrano-pumaio,3.1.6,MIT
 capistrano-symfony-light,1.0.1,MIT
@@ -121,6 +122,7 @@ disclose,0.9.1,MIT
 discrete_distribution,1.0.1,LGPL-2.1
 dmail,0.0.1,MIT
 dns_made_easy,0.0.5,MIT
+dnsdb,0.1.2,MIT
 dollum-grit_adapter,2.0.0,MIT
 dphil,0.1.4,Apache-2.0
 dreamcat4-moonshadow,0.0.5,""
@@ -142,6 +144,8 @@ erp_base_erp_svcs,4.2.0,GPL-3-LICENSE
 experiments,0.0.0,""
 failbot,2.3.1,MIT
 failbot,2.3.3,MIT
+failbot,2.4.0,MIT
+failbot,2.4.2,MIT
 fakerjs-rails,3.1.0,MIT
 fancy-gallery-rails,0.0.1,""
 fancy_table,0.1.0,""
@@ -390,6 +394,7 @@ rectify,0.13.0,MIT
 recurly,3.2.1,MIT
 recurly,3.2.2,MIT
 recurly,3.3.0,MIT
+recurly,3.3.1,MIT
 redbeard,0.0.0,""
 redshift_adapter,0.0.1,MIT
 refined,0.0.2,""

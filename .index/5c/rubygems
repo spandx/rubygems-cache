@@ -158,6 +158,9 @@ ecom_core,1.0.3,MIT
 ecom_core,1.0.5,MIT
 ecom_core,1.0.6,MIT
 ecom_core,1.0.7,MIT
+ecom_core,1.1.0,MIT
+ecom_core,1.1.1,MIT
+ecom_core,1.1.2,MIT
 elvarg,0.0.9,MIT
 em-deploy,0.0.1,MIT
 em-http-fetcher,0.1.1,""
@@ -290,6 +293,7 @@ lambda_wrap,1.1.2,Apache-2.0
 lazy_comments,0.1.2,MIT
 legion-exceptions,0.1.0,MIT
 legion-exceptions,1.0.1,MIT
+legion-exceptions,1.0.4,MIT
 libcdb-ruby,0.2.1,AGPL-3.0
 librr,0.0.2,MIT
 libvirt-ruby,2.0.0,""
@@ -469,6 +473,7 @@ scaffold_logic,2.0.0,""
 schema_plus_enums,0.1.8,MIT
 secondfactor,2.0.0,BSD-2-Clause
 sellsy-client,0.1.0,MIT
+sellsy-client,0.2.0,MIT
 sendgrid_cli,0.1.0,""
 sensu-plugins-logs,4.0.0,MIT
 sentimental,1.5.0,MIT
@@ -525,6 +530,7 @@ tapir,0.0.1,MIT
 techbook,0.2.3,""
 tempestphp,0.0.0,MIT
 tempus,1.0.1,MIT
+tempus,1.0.2,MIT
 test_gem_usman,0.1.1,MIT
 texticles,0.0.1,MIT
 the_role,3.9.0,""
@@ -557,6 +563,7 @@ virgild-resumetools,0.2.5.2,""
 visfleet-ternary_logic,1.0.1,""
 visionmedia-ruby-php-bridge,1.1.0,""
 vls,0.4.1,MIT
+vls,0.4.2,MIT
 voteable_woller,0.0.0,""
 web_parser,0.0.4,MIT
 whats-for-dinner,1.0.0,None
