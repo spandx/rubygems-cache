@@ -146,6 +146,7 @@ em-rocketio-client,0.1.2,MIT
 em-zipper,0.0.4,MIT
 embed-an-inkpad,0.0.2,MIT
 embulk-output-vertica,0.7.4,MIT
+embulk-parser-squid_clf_log,0.2.1,MIT
 enhanced-logger,0.2.2,MIT
 eric_weixin,0.4.2,MIT
 eu_central_bank,1.5.0,MIT
@@ -220,6 +221,7 @@ inch,0.8.0,MIT
 init_copy,0.1.0,MIT
 init_copy,0.1.1,MIT
 integration_point,0.1.1,MIT
+integration_point,0.1.2,MIT
 interactive_brokers_2_tasty_works,0.3.1,MIT
 j1m_lightbox,0.0.1,MIT
 jhjksdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsd,0.2.25555555555555555555555555555555555555555555555555555555,MIT
@@ -275,11 +277,13 @@ metanorma-ogc,0.2.9,BSD-2-Clause
 metanorma-ogc,1.0.0,BSD-2-Clause
 metanorma-ogc,1.0.1,BSD-2-Clause
 metanorma-ogc,1.0.2,BSD-2-Clause
+metanorma-ogc,1.0.3,BSD-2-Clause
 middledomain,0.1.1,MIT
 middleman-gist,0.1.1,Apache2
 minimal-mistakes-jekyll,4.17.2,MIT
 minimal-mistakes-jekyll,4.18.1,MIT
 minimal-mistakes-jekyll,4.19.0,MIT
+minimal-mistakes-jekyll,4.19.1,MIT
 mix-rails-core,0.26.3,""
 mobi,1.0.0,MIT
 mobilove,0.1.0,""
@@ -388,6 +392,7 @@ redis_hash,0.22.7,MIT
 redis_hash,0.23.1,MIT
 redis_hash,0.23.1.1,MIT
 redis_hash,0.23.1.2,MIT
+redis_hash,0.23.2,MIT
 redis_session_storage,0.0.7,MIT
 referer-parser,0.3.0,""
 refiner,1.0.2,""
@@ -419,6 +424,7 @@ ruby-search-engine,0.0.1,MIT
 rufus,0.8.2,MIT
 rvm-capistrano-ruby193deps-centos,0.1.0,""
 sample-template-generator-gem,0.3.2,BSD-3-Clause
+schema-quickbooks,0.3.0,MIT
 schema2plantuml,0.1.2,MIT
 scholar,0.1.1.1,MIT
 scrollmagicjs-rails,0.0.1,MIT
@@ -551,6 +557,7 @@ wml_action,0.0.4,MIT
 wolfpack,1.0.4,MIT
 wordmix,1.0.0,MIT
 work_together,1.0.7,MIT
+workarea-circuit_breaker,1.0.3,""
 wp2txt,0.9.1,""
 xgamerx-cap-recipes,0.1.4,""
 youtube_identifier,0.0.1,MIT

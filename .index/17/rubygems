@@ -126,6 +126,7 @@ datapimp,1.2.11,MIT
 dbshell-rails,0.0.2,LGPL-3.0+
 debride2okuribito,0.2.0,MIT
 delighted,1.8.0,MIT
+delighted,2.0.0,MIT
 device_map,0.1.2,Apache-2.0
 dir_tree,0.0.2,MIT
 disable_rails_json,0.0.0,""
@@ -163,6 +164,7 @@ eventq_base,1.18.0,MIT
 ext,1.1.3,MIT
 ez-permissions,0.4.0,MIT
 ez-permissions,0.4.1,MIT
+ez-permissions,0.4.3,MIT
 factor-connector-api,0.0.14,""
 fancy-open-struct,0.4.0,MIT
 fantassh,0.3.1,GPL-3.0

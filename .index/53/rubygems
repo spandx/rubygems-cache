@@ -214,6 +214,7 @@ haiku_grades,0.0.1,MIT
 happen,1.0.1,MIT
 haproxy-tools,0.6.0,MIT
 harvestdor,0.3.1,""
+harvestdor,0.3.2,""
 has_calculated_fields,1.0.2,MIT
 has_localization_table,0.4.3,""
 heartcheck-webservice,2.2.0,MIT
@@ -278,6 +279,7 @@ kiqit,2.4.0,""
 kontent-delivery-sdk-ruby,2.0.11,MIT
 kontent-delivery-sdk-ruby,2.0.12,MIT
 kontent-delivery-sdk-ruby,2.0.14,MIT
+kontent-delivery-sdk-ruby,2.0.16,MIT
 kris,0.0.4,""
 lazy_record,0.7.2,MIT
 ldap_disambiguate,0.0.5,APACHE2

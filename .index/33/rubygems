@@ -451,6 +451,7 @@ stowm,0.8.1,New BSD
 streetcreds,0.2.5,MIT
 string_colour_parser,1.0.8,GPL-2.0
 strum-io,1.0.1,MIT
+strum-io,1.0.3,MIT
 studio_game_railstar,0.0.01,""
 sucker_punch-persistence,0.0.1,MIT
 suit,0.3.0,MIT
@@ -465,6 +466,8 @@ tandarb,0.2.3,MIT
 te,0.0.1,MIT
 teleswagger,0.2.0,Apache 2.0
 tell_me_the_weather,0.0.2,GPL
+terradoc,0.1.4,MIT
+terradoc,0.1.9,MIT
 testing_gem_with_steve,0.0.2,MIT
 testrail_rspec_formatter,0.2.0,MIT
 text_adventure,0.1.1,""

@@ -106,6 +106,7 @@ dalli-elasticache,0.2.0,MIT
 danger-apkstats,0.2.0,MIT
 danger-typetalk,0.1.0,""
 data_structure_error_library,0.1.1,MIT
+data_structure_error_library,0.2.0,MIT
 datewari,1.0.3,""
 db_structure_writer,0.0.1,MIT
 ddd_domain,1.1.2,MIT
@@ -129,6 +130,7 @@ dependabot-maven,0.116.6,Nonstandard
 dependabot-maven,0.117.0,Nonstandard
 dependabot-maven,0.117.1,Nonstandard
 dependabot-maven,0.117.2,Nonstandard
+dependabot-maven,0.117.3,Nonstandard
 devise-security,0.14.3,MIT
 devise-tailwindcssed,0.1.0,MIT
 devise_multiple_token_auth,0.0.25,MIT
@@ -187,6 +189,7 @@ facet,0.22.7,MIT
 facet,0.23.1,MIT
 facet,0.23.1.1,MIT
 facet,0.23.1.2,MIT
+facet,0.23.2,MIT
 fast_cache,1.0.1,MIT
 fastlane-plugin-android_keystore,0.1.0,MIT
 fastlane-plugin-instabug_official,0.2.1,MIT
@@ -283,6 +286,7 @@ json-deep-compare,0.2.2,MIT
 jsonapi.rb,1.5.3,MIT
 jsonapi.rb,1.5.5,MIT
 jsonapi.rb,1.5.6,MIT
+jsonapi.rb,1.5.7,MIT
 jsonrates_client,0.1.0,MIT
 jsrender-rails,2.0,""
 jssh,0.0.3,MIT
@@ -359,6 +363,7 @@ ocfl-tools,0.9.1,Apache-2.0
 ocfl-tools,0.9.10,Apache-2.0
 ocfl-tools,0.9.11,Apache-2.0
 ocfl-tools,0.9.13,Apache-2.0
+ocfl-tools,0.9.14,Apache-2.0
 ocfl-tools,0.9.2,Apache-2.0
 ocfl-tools,0.9.4,Apache-2.0
 ocfl-tools,0.9.9,Apache-2.0
@@ -375,6 +380,8 @@ omniauth-wonde,0.1.0,MIT
 omniauth-your-membership-token,1.1.2,MIT
 onebusaway_ruby,0.1.4,MIT
 openssl-ccm,1.2.2,MIT
+opentracing-instrumentation,0.1.0,MIT
+opentracing-instrumentation,0.1.1,MIT
 optic-middleware,0.2.0,MIT
 orchparty,1.3.1,LGPL-3.0
 orchparty,2.0.1,LGPL-3.0

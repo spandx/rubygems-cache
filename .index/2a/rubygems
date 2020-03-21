@@ -77,6 +77,7 @@ card,1.99.1,GPL-2.0-|-GPL-3.0
 card,1.99.2,GPL-2.0-|-GPL-3.0
 card,1.99.3,GPL-2.0-|-GPL-3.0
 card,1.99.4,GPL-2.0-|-GPL-3.0
+card,1.99.5,GPL-2.0-|-GPL-3.0
 carrierwave-vips,1.2.0,""
 casual_support,3.0.2,MIT
 casual_support,4.0.0,MIT
@@ -301,6 +302,7 @@ mysql_getlock,0.2.3,MIT
 mysql_partition,0.0.1,MIT
 nagioscheck,0.0.2,MIT
 named_proc,1.1,MIT
+nanoc-github,1.0.1,MIT
 nanoc-nbconvert,0.1.1,MIT
 nanorpc,0.0.1,MIT
 napolean,1.0,""

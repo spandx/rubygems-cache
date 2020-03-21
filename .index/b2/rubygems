@@ -43,6 +43,7 @@ avro_schema_registry-client,0.3.0,MIT
 aws-sdk-cognitoidentityprovider,1.31.0,Apache-2.0
 aws-sdk-cognitoidentityprovider,1.32.0,Apache-2.0
 aws-sdk-cognitoidentityprovider,1.33.0,Apache-2.0
+aws-sdk-cognitoidentityprovider,1.34.0,Apache-2.0
 aws-sdk-iot1clickprojects,1.18.0,Apache-2.0
 aws-sdk-iot1clickprojects,1.19.0,Apache-2.0
 azure-auth,0.0.1,MIT

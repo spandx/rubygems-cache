@@ -49,6 +49,7 @@ awesome-bootstrap-checkbox,1.0.0,MIT
 aws-sdk-iotsecuretunneling,1.0.0,Apache-2.0
 aws-sdk-iotsecuretunneling,1.1.0,Apache-2.0
 aws-sdk-managedblockchain,1.7.0,Apache-2.0
+aws-sdk-managedblockchain,1.8.0,Apache-2.0
 axinite,0.0.11,MIT
 baidu-push,0.0.1,MIT
 bakedweb-model_notifier,0.2.0,""
@@ -234,6 +235,7 @@ hwloc,0.3.1,BSD-2-Clause
 imagesorter,1.0.1,MIT
 imap_guard,1.2.0,MIT
 in_array,1.0.0,MIT
+in_array,1.0.1,MIT
 includes-count,0.2,""
 inspector_dragit,0.0.2,""
 instagram_basic_display,0.1.0,""

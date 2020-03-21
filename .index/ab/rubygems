@@ -48,6 +48,7 @@ aws-sdk-sagemaker,1.48.0,Apache-2.0
 aws-sdk-sagemaker,1.49.0,Apache-2.0
 aws-sdk-sagemaker,1.50.0,Apache-2.0
 aws-sdk-sagemaker,1.51.0,Apache-2.0
+aws-sdk-sagemaker,1.52.0,Apache-2.0
 aws_one_click_staging,0.1.2,""
 awssume,1.0.1,MIT
 azure_cognitiveservices_customsearch,0.18.1,MIT
@@ -478,6 +479,7 @@ synergy,0.60.0,""
 sys-cpu,0.6.4,""
 sys-cpu,0.8.1,Apache-2.0
 sys-cpu,0.8.2,Apache-2.0
+sys-cpu,0.8.3,Apache-2.0
 tacape,0.0.6,MIT
 temp_ruby_gem,0.4.0,MIT
 template-inheritance,0.3.1,""

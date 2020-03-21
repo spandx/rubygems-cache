@@ -173,6 +173,7 @@ flip-flop,0.0.5,MIT
 floripa-public-transit,1.0.0,MIT
 fluent,0.7.5,MIT
 fluent-plugin-azurefunctions,0.2.0,Apache-2.0
+fluent-plugin-azurefunctions,0.2.1,Apache-2.0
 fluent-plugin-bin,0.2,APLv2
 fluent-plugin-chatwork,2.0.2,MIT
 fluent-plugin-hostname,0.0.2,""
@@ -265,6 +266,7 @@ kind,0.2.0,MIT
 kind,0.4.0,MIT
 kind,0.5.0,MIT
 kind,0.6.0,MIT
+kind,1.0.0,MIT
 kira,0.1,MIT
 kitchen-policyfile-nodes,1.2.2,Apache 2.0
 klunk,0.1.12,""
@@ -476,6 +478,7 @@ table_structure,0.3.17,MIT
 table_structure,0.3.18,MIT
 table_structure,0.3.19,MIT
 table_structure,0.3.20,MIT
+table_structure,0.3.21,MIT
 tannenbaum,0.0.1,MIT
 target_weight,0.0.6,""
 taxger,0.3.1,MIT

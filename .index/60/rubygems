@@ -71,6 +71,7 @@ bula,0.2.0,MIT
 busser-nose2,0.1.6,Apache 2.0
 c3d,0.5.7,""
 caerbannog,0.2.1,MIT
+calendario_api,0.1.0,MIT
 calliper,0.0.2,MIT
 capistrano-deploylog,0.3.0,MIT
 capistrano-hanami,0.2.0,""
@@ -101,6 +102,7 @@ coffee_without_nodejs,0.11.0,MIT
 commandoes,0.1.4,MIT
 committee-rails,0.4.0,MIT
 committee-rails,0.5.0,MIT
+committee-rails,0.5.1,MIT
 complish,0.0.1,MIT
 concern_builder,0.0.3,""
 concerto_template_scheduling,0.0.7,""
@@ -310,6 +312,7 @@ lolita-menu,0.4.2,MIT
 lolruby,0.1.0,""
 look_up_table,0.1.2,""
 luhn_checksum,0.1.1,""
+m9,1.0.0,MIT
 magi,0.1.6,MIT
 maiha-record_dumper,0.1,""
 mail_chess,0.2.0,""

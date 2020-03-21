@@ -49,6 +49,7 @@ automate_soup,0.2.6,MIT
 aws-eni,0.6.0,MIT
 aws-sdk-ebs,1.0.0,Apache-2.0
 aws-sdk-ebs,1.1.0,Apache-2.0
+aws-sdk-ebs,1.2.0,Apache-2.0
 aws_docker_utils,0.0.6,MIT
 aws_helper,0.0.12,""
 bankai-docker,0.2.0,""
@@ -195,6 +196,7 @@ fluent-plugin-windows-eventlog,0.4.6,Apache-2.0
 fluent-plugin-windows-eventlog,0.5.0,Apache-2.0
 fluent-plugin-windows-eventlog,0.5.1,Apache-2.0
 fluent-plugin-windows-eventlog,0.5.2,Apache-2.0
+fluent-plugin-windows-eventlog,0.5.3,Apache-2.0
 flying-sphinx,2.1.4,""
 foreman_virt_who_configure,0.5.0,GPLv3
 foreman_virt_who_configure,0.5.1,GPLv3
@@ -291,6 +293,7 @@ livetext,0.9.01,Ruby
 livetext,0.9.02,Ruby
 livetext,0.9.03,Ruby
 livetext,0.9.04,Ruby
+livetext,0.9.05,Ruby
 lmdb,0.4.8,MIT
 localeapp-handlebars_i18n,0.0.1,""
 lograge-tagged,0.3.2,MIT

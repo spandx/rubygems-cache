@@ -39,8 +39,12 @@ aws-sdk-core,3.89.1,Apache-2.0
 aws-sdk-core,3.90.0,Apache-2.0
 aws-sdk-core,3.90.1,Apache-2.0
 aws-sdk-core,3.91.0,Apache-2.0
+aws-sdk-core,3.91.1,Apache-2.0
+aws-sdk-core,3.92.0,Apache-2.0
 aws-sdk-serverlessapplicationrepository,1.23.0,Apache-2.0
 aws-sdk-serverlessapplicationrepository,1.24.0,Apache-2.0
+aws-sdk-serverlessapplicationrepository,1.25.0,Apache-2.0
+azure_mgmt_synapse,0.17.0,MIT
 baidu_lbs_sdk,0.0.2,MIT
 banjo-apn_sender,2.4.0,""
 bank_link,0.0.5,MIT
@@ -379,6 +383,7 @@ reattempt,0.1.0,MIT
 recipe-finder-cli-gem,0.1.1,MIT
 redactorjs-rails,9.1.4,""
 redis_prometheus,0.6.1,MIT
+redis_prometheus,0.6.4,MIT
 refinerycms-news,2.1.2,""
 refinerycms-stylesheets,1.0.2,""
 relpathname,0.0.9,MIT
@@ -439,6 +444,7 @@ seven_gallery,0.0.6,MIT
 sharing_policy,0.0.2,MIT
 shark-on-lambda,0.6.10,MIT
 shark-on-lambda,0.6.9,MIT
+shark-on-lambda,1.0.1,MIT
 shelike-pipe,0.2.0,MIT
 shopify_webhook,0.1.0,MIT
 shouhizei,0.5.0,MIT

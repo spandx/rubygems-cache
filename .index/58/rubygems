@@ -345,6 +345,7 @@ my_api_client,0.11.0,MIT
 my_api_client,0.12.0,MIT
 my_api_client,0.13.0,MIT
 my_api_client,0.14.0,MIT
+my_api_client,0.15.0,MIT
 mystrom,0.1.1,Apache-2.0
 nagios-api-client,0.4,MIT
 nakajima-nest-unit,0.1.0,""

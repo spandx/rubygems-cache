@@ -43,6 +43,7 @@ bearer-agent,1.0.0,""
 bearer-agent,2.0.0,""
 bearer-agent,2.0.10,""
 bearer-agent,2.0.11,""
+bearer-agent,2.0.12,""
 bearer-agent,2.0.2,""
 bearer-agent,2.0.3,""
 bearer-agent,2.0.4,""
@@ -106,6 +107,7 @@ dashing-weather,0.0.1,""
 data_collector,0.2.2,MIT
 data_collector,0.2.3,MIT
 data_collector,0.3.0,MIT
+data_collector,0.4.0,MIT
 data_janitor,0.4.0,Apache-2.0
 database_cleaner-remote_api,0.1.1,MIT
 date_and_time_input,0.0.2,The MIT License (MIT)
@@ -233,6 +235,7 @@ husc,0.2.1,MIT
 husc,0.2.2,MIT
 husc,0.3.0,MIT
 husc,0.4.0,MIT
+husc,0.4.1,MIT
 hwping,0.3.1,GPL-2
 i18n_flow,0.2.3,""
 icinga-web,0.0.1,""
@@ -451,6 +454,7 @@ sem,0.8.1,MIT
 sensu-plugin,4.0.0,MIT
 sensu-plugins-gearman,0.0.1,MIT
 sensu-plugins-kubernetes,4.0.0,MIT
+sensu-plugins-kubernetes,4.0.1,MIT
 sentiment_parser,0.0.1,MIT
 sequel-db_tasks,0.2.0,MIT
 sequence_generator,0.1.31,MIT

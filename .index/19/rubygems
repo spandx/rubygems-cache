@@ -154,6 +154,7 @@ ftpmvc-activerecord,0.0.1,MIT
 functional-light-service,0.2.5,MIT
 functional-light-service,0.3,MIT
 funkysystem,0.0.1,MIT
+fusuma-plugin-tap,0.1.0,MIT
 fuzzr,0.9.8,MIT
 gaapi,0.5.1,MIT
 garsh,0.1.1,MIT
@@ -361,6 +362,7 @@ rack-mini-profiler,1.1.4,MIT
 rack-mini-profiler,1.1.5,MIT
 rack-mini-profiler,1.1.6,MIT
 rack-mini-profiler,2.0.0,MIT
+rack-mini-profiler,2.0.1,MIT
 rack-webdav,0.4.5,MIT
 rackp,0.1.2,MIT
 rackprotection,0.0.1,WTFPL
@@ -560,6 +562,8 @@ willnet-amazon-ecs,0.5.6,""
 with_embedded_assets,0.2.0,""
 wmap,2.6.9,MIT
 wmap,2.7.2,MIT
+wmap,2.7.5,MIT
+wmap,2.7.6,MIT
 wordstress,0.70.0,MIT
 xebec,2.7.0,""
 xfrtuc,0.0.11,MIT

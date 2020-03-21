@@ -535,6 +535,7 @@ train-core,3.2.14,Apache-2.0
 train-core,3.2.20,Apache-2.0
 train-core,3.2.22,Apache-2.0
 train-core,3.2.23,Apache-2.0
+train-core,3.2.26,Apache-2.0
 train-core,3.2.5,Apache-2.0
 tram-page,0.1.7,MIT
 transip,0.4.3,MIT
@@ -594,6 +595,7 @@ zaikio-jwt_auth,0.1.3,MIT
 zaikio-jwt_auth,0.1.4,MIT
 zaikio-jwt_auth,0.1.5,MIT
 zaikio-jwt_auth,0.1.6,MIT
+zaikio-jwt_auth,0.1.7,MIT
 zlk,0.2.1,MIT
 zlown,0.0.4,MIT
 zsession,0.0.0,""

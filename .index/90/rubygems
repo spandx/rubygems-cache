@@ -114,6 +114,7 @@ cicloid-backdrop,0.1.0,""
 city_utc,1.0.5,MIT
 citybikes_api,2.0.1,MIT
 clicky_me,0.0.1,""
+client_side_validations-simple_form,10.0.0,MIT
 client_side_validations-simple_form,9.1.0,MIT
 client_side_validations-simple_form,9.2.0,MIT
 clientside,0.5,LGPL
@@ -197,6 +198,7 @@ fbsimctl_rb,0.1.2,MIT
 fcmpush,0.9.2,MIT
 fcmpush,1.0.0,MIT
 fcmpush,1.0.1,MIT
+fcmpush,1.1.0,MIT
 feature_gate,0.2.6,MIT
 filelang,0.0.2,MIT
 find_or_create_on_scopes,1.5.0,""

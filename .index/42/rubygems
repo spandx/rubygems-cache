@@ -83,6 +83,7 @@ cinch-url-scraper,1.3.2,LGPLv3
 circleci-bundle-update-pr,1.17.0,MIT
 circleci-bundle-update-pr,1.18.0,MIT
 circleci-bundle-update-pr,1.19.0,MIT
+circleci-bundle-update-pr,1.19.1,MIT
 classy_attribute,0.0.1,MIT
 cm_api,0.0.1,MIT
 cocoapods-ipub,0.0.2,MIT
@@ -315,6 +316,7 @@ ng-bank-parser,0.1.7,MIT
 nogara-ciunas,0.0.1,""
 noids_client,0.0.1,APACHE2
 ns_settings_ui,1.4.0,MIT
+ns_settings_ui,1.5.0,MIT
 oakdex-pokemon,0.0.15,MIT
 oauth2_facebook_grantable,0.6.0,""
 octadesk_api,0.1.3,MIT
@@ -338,6 +340,7 @@ pager-exception_notification,1.0.20080508,""
 panayo,0.0.3,MIT
 paper_trail-hashdiff,0.0.4,MIT
 paper_trail-hashdiff,0.0.6,MIT
+paper_trail-hashdiff,0.1.0,MIT
 particle_pool,0.1.2,MIT
 paytureman,1.0.0,MIT
 pdftotext,0.2.1,MIT
@@ -361,6 +364,7 @@ pulpcore_client,3.0.1,GPL-2.0+
 pulpcore_client,3.1.0,GPL-2.0+
 pulpcore_client,3.1.1,GPL-2.0+
 pulpcore_client,3.2.0,GPL-2.0+
+pulpcore_client,3.2.1,GPL-2.0+
 purple_hash,1.0.1,""
 puxun,0.0.3,MIT
 python,0.0.1,MIT

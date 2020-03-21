@@ -59,6 +59,7 @@ azure-tts,1.0.0,MIT
 azure_auth,0.2.4,MIT
 azure_cognitiveservices_contentmoderator,0.17.2,MIT
 azure_mgmt_policy_insights,0.17.5,MIT
+azure_mgmt_policy_insights,0.17.6,MIT
 backports,3.15.0,MIT
 backports,3.16.0,MIT
 backports,3.16.1,MIT
@@ -306,6 +307,7 @@ kyanite,0.8.4,""
 layer-rails,0.1.1,MIT
 ld-eventsource,1.0.1,Apache-2.0
 ld-eventsource,1.0.2,Apache-2.0
+ld-eventsource,1.0.3,Apache-2.0
 letsencrypt-cli,0.4.1,MIT
 lita-aws-ecs,0.1.0,MIT
 lita-aws-ecs,1.0.0,MIT
@@ -489,6 +491,7 @@ shopify_app,12.0.3,""
 shopify_app,12.0.4,""
 shopify_app,12.0.5,""
 shopify_app,12.0.7,""
+shopify_app,13.0.0,""
 showoffer,0.0.1,""
 sibilant-rails,0.0.1,MIT
 sigcdump,0.1.0,Ruby License

@@ -27,6 +27,7 @@ appmail-mailgem,1.0.0,MIT
 arborist-snmp,0.6.1,BSD-3-Clause
 args-handler,0.0.2,MIT
 arturo,2.4.2,APLv2
+arturo,2.5.0,APLv2
 asset_paths_from_manifest,0.0.6,MIT
 atduskgreg-dm-fql-adapter,0.0.2,""
 audio-trimmer,0.0.6,MIT
@@ -60,6 +61,7 @@ breakout_parser,0.0.31,""
 cabernet,0.1.2,MIT
 caboose-store,0.0.43,""
 canql,4.0.1,MIT
+canql,4.1.0,MIT
 caperoma,5.0.0,MIT
 capistrano-fpm,1.0.0,MIT
 capistrano-ssh,0.0.1,MIT
@@ -190,6 +192,7 @@ git_scratch,0.1.3,""
 gleam,0.1.65,""
 gnms,2.1.1,GPL-2.1
 google-api-middle_man,0.2.1,MIT
+google-cloud-secret_manager-v1,0.1.0,Apache-2.0
 google-directions,0.0.5,MIT
 google-taxonomy,0.0.2,MIT
 google_sdk,0.1.5,MIT
@@ -302,6 +305,7 @@ mil_vestal_versions,1.2.6,""
 million,0.1.0,""
 mina-logs,1.1.0,MIT
 minicount-rails,0.0.1,MIT
+mints,0.0.1,""
 modables_dsl,0.1.3,Apache-2.0
 model_attributes,0.0.3,MIT
 modulegem,0.0.2,MIT

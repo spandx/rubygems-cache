@@ -48,6 +48,7 @@ aw-highstock_rails,7.0.3,MIT
 aws-sdk-efs,1.23.0,Apache-2.0
 aws-sdk-efs,1.24.0,Apache-2.0
 aws-sdk-efs,1.25.0,Apache-2.0
+aws-sdk-efs,1.26.0,Apache-2.0
 azure_cognitiveservices_videosearch,0.18.1,MIT
 bamboo-id,0.1.2,MIT
 bankgiro-inbetalningar,1.2.0,""
@@ -204,6 +205,7 @@ gapic-generator-cloud,0.1.2,Apache-2.0
 gapic-generator-cloud,0.1.3,Apache-2.0
 gapic-generator-cloud,0.1.4,Apache-2.0
 gapic-generator-cloud,0.1.5,Apache-2.0
+gapic-generator-cloud,0.1.7,Apache-2.0
 garnierjm-webrat,0.4.5,""
 geekpark_api,0.1.3,""
 geetestlib,0.0.2,""
@@ -339,6 +341,7 @@ mongoid-day_time,0.1.0,MIT
 mschuerig-easy_enums,0.0.7,""
 mumukit-login,7.0.0,MIT
 mumukit-login,7.1.0,MIT
+mumukit-login,7.1.1,MIT
 my_bitcasa,1.0.1,MIT
 nadir,1.1.9,MIT
 namesgenerator,0.1.1,MIT
@@ -446,6 +449,9 @@ raygun-apm-rails,1.0.14,""
 raygun-apm-rails,1.0.16,""
 raygun-apm-rails,1.0.17,""
 raygun-apm-rails,1.0.18,""
+raygun-apm-rails,1.0.19,""
+raygun-apm-rails,1.0.20,""
+raygun-apm-rails,1.0.21,""
 raygun-apm-rails,1.0.3,""
 raygun-apm-rails,1.0.5,""
 raygun-apm-rails,1.0.7,""
@@ -537,9 +543,11 @@ spicerack-styleguide,0.22.7,MIT
 spicerack-styleguide,0.23.1,MIT
 spicerack-styleguide,0.23.1.1,MIT
 spicerack-styleguide,0.23.1.2,MIT
+spicerack-styleguide,0.23.2,MIT
 spree_br_common,3.0.1,""
 spree_core,4.0.3,BSD-3-Clause
 spree_core,4.1.0,BSD-3-Clause
+spree_core,4.1.1,BSD-3-Clause
 spree_wishlist,1.3,""
 sskirby-sskirby-prawn-layout,0.1.0,""
 standalone_migrations,5.2.7,MIT
@@ -602,6 +610,7 @@ weather_guy,0.0.7,MIT
 web_optimizer,0.0.7,MIT
 webcommand,0.1.1,MIT
 webcommand,0.1.3,MIT
+webcommand,0.1.4,MIT
 webinfo,0.1.2,MIT
 weed,0.0.0,MIT
 what_to_run,1.0.2,MIT

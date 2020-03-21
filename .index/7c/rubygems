@@ -185,6 +185,7 @@ ffaker,2.13.0,MIT
 ffaker,2.14.0,MIT
 ffcrm_google_oauth2,0.0.2,MIT
 fibon,0.0.6,""
+fibonacci_lines,0.1.0,""
 file_browser,0.3.0,""
 file_crawler,0.6.0,MIT
 find_n_biggest_numbers_in_text,0.1.1,MIT
@@ -537,6 +538,7 @@ waifu2x,0.3.0,""
 waifu2x,0.3.1,""
 webmat-woulda,0.1.7,""
 weka,0.7.1,MIT
+weka,0.7.2,MIT
 weppos-google_analytics_on_rails,0.1.1,""
 whaler,0.1.1,MIT
 whmcs,1.1.1,MIT

@@ -313,6 +313,7 @@ mighty_struct,0.2.0,MIT
 mina-ec2,0.0.1,MIT
 mithril-specs,0.2.0,""
 mkmf-lite,0.3.1,Apache-2.0
+mkmf-lite,0.3.2,Apache-2.0
 mmplayer,0.0.12,Apache-2.0
 mno_enterprise-nimbus,0.1.2,Apache-2.0
 mods,2.4.1,""
@@ -401,6 +402,7 @@ purecloudplatformclientv2,76.0.0,MIT
 purecloudplatformclientv2,77.0.0,MIT
 purecloudplatformclientv2,78.0.0,MIT
 purecloudplatformclientv2,79.0.0,MIT
+purecloudplatformclientv2,80.0.0,MIT
 qiniu,6.9.0,MIT
 qlive-rspec,0.4.3,""
 quandl-slack,0.0.2,MIT

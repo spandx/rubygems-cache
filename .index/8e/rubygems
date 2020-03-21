@@ -41,6 +41,7 @@ authentic-jwt,1.2.0,""
 autotest-git,0.0.1,""
 aws-mason,0.0.2,MIT
 azure-loganalytics-datacollector-api,0.1.5,MIT
+azure-loganalytics-datacollector-api,0.1.6,MIT
 batch-actions,0.0.2,MIT
 batch_api2,0.3.2,""
 beaker,4.14.1,Apache2
@@ -49,6 +50,7 @@ beaker,4.16.0,Apache2
 beaker,4.17.0,Apache2
 beaker,4.18.0,Apache2
 beaker,4.19.0,Apache2
+beaker,4.20.0,Apache2
 bigben,0.0.1,""
 bitbond,0.0.5,MIT
 bitbucket2,0.3.0,MIT
@@ -80,6 +82,7 @@ capistrano3-ubuntu-server-prepare,0.0.8,MIT
 castle-rb,3.5.2,MIT
 castle-rb,3.6.0,MIT
 castle-rb,3.6.1,MIT
+castle-rb,4.0.0,MIT
 cats,0.1.1,MIT
 cesar,0.0.1,""
 chaintown,0.1.5,MIT
@@ -144,6 +147,7 @@ dependabot-hex,0.116.6,Nonstandard
 dependabot-hex,0.117.0,Nonstandard
 dependabot-hex,0.117.1,Nonstandard
 dependabot-hex,0.117.2,Nonstandard
+dependabot-hex,0.117.3,Nonstandard
 draper-extensions,0.1.2,MIT
 dvelp_api_auth,0.5.0,""
 ea-area_lookup,0.2.3,The Open Government Licence (OGL) Version 3
@@ -211,6 +215,7 @@ gooddata,2.1.9,BSD
 google_sign_in,1.1.2,MIT
 graphql-metrics,2.0.1,MIT
 graphql-metrics,3.0.0,MIT
+graphql-metrics,3.0.1,MIT
 gravatarnize,1.0.2,""
 guard-exec,0.1.2,""
 guesswhat,1.1.3,MIT
@@ -357,6 +362,7 @@ ptolemy,0.0.2,""
 pub_sub_model_sync,0.1.0,MIT
 pub_sub_model_sync,0.1.1,MIT
 pub_sub_model_sync,0.1.2,MIT
+pub_sub_model_sync,0.1.3,MIT
 puma-runtime_env-k8s,0.0.2,MIT
 puppet-herald-client,1.0.0,Apache-2.0
 puppet_auditor,0.2.0,MIT
@@ -444,6 +450,7 @@ slate-installer,1.2.0,MIT
 slow_server,0.1.3,MIT
 smart_proxy_omaha,0.0.5,GPLv3
 smess,2.0.4,MIT
+smess,2.0.5,MIT
 soar_am,0.1.2,MIT
 social_web-activity_pub,0.1,MIT
 socky-server,0.5.0,""
@@ -463,6 +470,7 @@ steenzout-dao,0.1.0,""
 stenotype,0.1.10,MIT
 stenotype,0.1.12,MIT
 stenotype,0.1.13,MIT
+stenotype,0.1.15,MIT
 stenotype,0.1.2,MIT
 stenotype,0.1.4,MIT
 stenotype,0.1.5,MIT
@@ -539,6 +547,7 @@ workarea-testing,3.5.3,Business Software License
 workarea-testing,3.5.4,Business Software License
 workarea-testing,3.5.5,Business Software License
 workarea-testing,3.5.6,Business Software License
+workarea-testing,3.5.7,Business Software License
 wtf_chord,0.5.0,""
 xavius-core,0.1.0,MIT
 xpath-simplify,0.1.6,MIT

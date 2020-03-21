@@ -203,6 +203,9 @@ gitlab-qa,4.19.2,MIT
 gitlab-qa,4.19.3,MIT
 gitlab-qa,4.20.0,MIT
 gitlab-qa,5.0.0,MIT
+gitlab-qa,5.0.3,MIT
+gitlab-qa,5.1.0,MIT
+gitlab-qa,5.1.1,MIT
 go_script,0.1.9,CC0
 gooddata_s3,0.1.7,MIT
 googleplus_markdown,0.2.2,MIT
@@ -246,6 +249,7 @@ internode,1.1.0,""
 invokable,0.1.1,MIT
 invokable,0.4.0,MIT
 invokable,0.4.1,MIT
+invokable,0.4.2,MIT
 ipaddress2,0.0.1,MIT
 irix,0.1.1,CC-BY-NC-ND-4.0
 irix,2.4.1,""
@@ -297,6 +301,7 @@ metadatajson2puppetfile,0.1.2,""
 metanorma-un,0.3.1,BSD-2-Clause
 metanorma-un,0.3.2,BSD-2-Clause
 metanorma-un,0.3.3,BSD-2-Clause
+metanorma-un,0.3.4,BSD-2-Clause
 metaparticle,0.0.0.13,MIT
 metasploit_payloads-mettle,0.5.16,"3-clause (or ""modified"") BSD"
 metasploit_payloads-mettle,0.5.17,"3-clause (or ""modified"") BSD"
@@ -361,6 +366,7 @@ pod-synchronize,0.5.0,MIT
 podcast-book-club,1.0.3,MIT
 power_resource,0.0.3,MIT
 premailer-rails,1.10.3,MIT
+premailer-rails,1.11.0,MIT
 probe,0.0.0,""
 prometheus-api-client,0.6.1,Apache-2.0
 prometheus-api-client,0.6.2,Apache-2.0

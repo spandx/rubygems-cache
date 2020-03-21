@@ -384,6 +384,7 @@ purzelrakete-boomloop,1.0,""
 pxcbackup,0.2.3,MIT
 quando,0.0.6,MIT
 quarantine,1.0.3,MIT
+quarantine,1.0.4,MIT
 rabbit-mm,1.1.0,MIT
 rack-session-php,0.1.0,MIT
 rails-asset-localization,0.2.1,MIT

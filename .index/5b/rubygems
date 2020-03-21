@@ -34,6 +34,7 @@ authifer,0.0.3,MIT
 authtrail,0.2.0,MIT
 autolinks,0.2.0,MIT
 aws-sdk-dax,1.19.0,Apache-2.0
+aws-sdk-dax,1.20.0,Apache-2.0
 aws-sdk-greengrass,1.28.0,Apache-2.0
 aws-sdk-greengrass,1.29.0,Apache-2.0
 aws_blue_green_deploy,0.0.1,MIT
@@ -41,6 +42,7 @@ awssh,0.3.2,MIT
 azure_mgmt_event_grid,0.17.10,MIT
 azure_mgmt_event_grid,0.17.8,MIT
 azure_mgmt_event_grid,0.17.9,MIT
+azure_mgmt_event_grid,0.18.0,MIT
 b2-client,1.0.5,MIT
 bachue-socksify,1.6.0,""
 bamboohr,0.0.1,MIT

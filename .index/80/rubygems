@@ -111,6 +111,7 @@ devise_sms_confirmable,0.1.21,MIT
 dfa_client,0.0.1,""
 diacritics,0.0.10,MIT
 dicer,0.3.0,MIT
+digest-base32,0.0.1,MIT
 dkiselbach_palindrome,0.1.1,""
 dnl_palindrome,0.1.25,MIT
 dnsbl-client,1.0.4,MIT
@@ -235,6 +236,7 @@ knicks_history,0.1.1,MIT
 knife-server,1.4.0,""
 koszmail,0.0.1,MIT
 ksconnect,0.3.0,MIT
+laboratory,0.1.0,MIT
 lappen,0.0.0,MIT
 launchy,2.4.3,ISC
 launchy,2.5.0,ISC
@@ -253,6 +255,7 @@ logstash-output-solr_post,0.1,MIT
 lory-rails,0.2.2,MIT
 lowkiq,1.0.0,""
 lowkiq,1.0.1,""
+lowkiq,1.0.2,LGPL-|-EULA
 lx_data_validation,0.0.12,MIT
 lyrix,0.0.1,""
 m7d-merb_has_rails_plugins,0.1.2,""
