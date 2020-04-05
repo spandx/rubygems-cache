@@ -5,5 +5,3 @@ if [[ -z $PGHOST ]]; then
 else
   psql -U "$PGUSER" -h "$PGHOST" -d "$PGDBNAME" "$@"
 fi
-
-
