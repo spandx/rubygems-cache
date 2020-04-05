@@ -7,7 +7,7 @@ cd "$(dirname "$0")/.."
 gem install bundler -v '~> 2.0'
 bundle install
 bundle exec ruby exe/spandx-rubygems update
-git add
+git add .index/
 if git status | grep 'nothing to commit'; then
   echo 'Nothing to commit'
 else
