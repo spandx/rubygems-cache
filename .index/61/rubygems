@@ -105,6 +105,7 @@ copy_my_conf,0.1.1,""
 correlations,1.0.0,MIT
 counted_cache,0.2.0,MIT
 counted_cache,0.2.1,MIT
+counted_cache,0.2.2,MIT
 creditsafe,0.6.3,MIT
 creepy-crawler,1.0.2,MIT
 cresip,0.9.0,MIT
@@ -183,6 +184,7 @@ git-pc,0.0.2,MIT
 git_curate,0.7.2,MIT
 git_curate,0.7.3,MIT
 git_curate,0.7.4,MIT
+git_curate,0.7.5,MIT
 gitcopier,0.1.9,MIT
 gitloggl,0.33,MIT
 gnuside-carrierwave-mongoid,0.6.9,MIT
@@ -384,6 +386,7 @@ phcthemes_web_theme_pack,1.2.9,MIT
 phcthemes_web_theme_pack,1.3.0,MIT
 phcthemes_web_theme_pack,1.3.2,MIT
 phcthemes_web_theme_pack,1.3.3,MIT
+phcthemes_web_theme_pack,1.6.0,MIT
 pluginizer,0.3.1,MIT
 png_stitcher,0.1.2,MIT
 posthorn,0.0.7,MIT

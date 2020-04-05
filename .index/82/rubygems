@@ -1,5 +1,6 @@
 FilePrepender,0.0.0.0.1,""
 GABRIEL-QUIRSCHFELD-thermostat-exercise,0.1.1,""
+HelloWorldAA,0.0.1,MIT
 aba_numbers,0.0.1,""
 active_mappers,1.4.4,MIT
 active_pivot,0.1.5,MIT
@@ -98,6 +99,7 @@ database_collector,0.1.3,""
 datatable_utils,0.0.2,MIT
 datescope,0.0.6,""
 deagol,0.0.1,""
+devise-jwt-cookie,0.2.0,MIT
 dhlgm-track,1.0.0,""
 dijkstraruby,0.0.2,MIT
 disquo,0.3.3,Apache-2.0
@@ -238,8 +240,12 @@ liangzan_omniauth-smugmug,1.0.1,""
 libvirt_ffi,0.2.0,MIT
 libvirt_ffi,0.3.0,MIT
 libvirt_ffi,0.4.1,MIT
+libvirt_ffi,0.5.0,MIT
+libvirt_ffi,0.5.1,MIT
+libvirt_ffi,0.5.4,MIT
 licence_plate_parser,0.2.0,MIT
 line_liff,0.1.4,MIT
+line_liff,0.1.5,MIT
 lita-campfire,0.3.0,MIT
 lita-docker-hub,0.2.2,MIT
 live_resource-rspec,0.0.1,MIT
@@ -354,6 +360,7 @@ provizioning,0.9.19,""
 proximity,1.1.0,MIT
 pry-byebug,3.7.0,MIT
 pry-byebug,3.8.0,MIT
+pry-byebug,3.9.0,MIT
 pubcontrol,1.2.3,MIT
 puppet-lint-array_formatting-check,0.9.0,MIT
 pushapp,0.2.10,MIT
@@ -438,6 +445,7 @@ spree_one_page_checkout,1.0.0,""
 sprockets-resilience,0.0.1,MIT
 sql-builder,0.1.0,MIT
 sql-builder,0.2.0,MIT
+sql-builder,0.3.0,MIT
 sql_migrations,2.6.1,MIT
 squash_padrino,0.0.1,Apache 2.0
 sr-atom-test,0.0.3,""

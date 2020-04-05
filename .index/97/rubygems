@@ -83,6 +83,7 @@ condor-job,1.3.14,MIT
 conduit-plintron,1.5.11,MIT
 conduit-plintron,1.5.12,MIT
 conduit-plintron,1.5.13,MIT
+conduit-plintron,1.5.14,MIT
 conduit-plintron,1.5.9,MIT
 correspondent,1.0.0,MIT
 cra.ge,0.2.2,""
@@ -137,6 +138,7 @@ erb_sql_templates,0.2,MIT
 eric1234-sinatra-authorization,1.1,""
 escape_escape_escape,1.7.0,MIT
 eutils,0.2.1,""
+evertils-gist,5.1.5,MIT
 fanli,0.4.0,MIT
 faraday-cdn-metrics,0.1.0,MIT
 farm_twitter_bootstrap,0.0.4,""
@@ -252,6 +254,7 @@ jets,2.3.11,MIT
 jets,2.3.12,MIT
 jets,2.3.13,MIT
 jets,2.3.14,MIT
+jets,2.3.15,MIT
 jets,2.3.8,MIT
 jets,2.3.9,MIT
 jia,0.0.1,MIT
@@ -270,6 +273,7 @@ julien51-em-http-request,0.1.11,""
 k-templator,0.2.2,""
 kamigo,0.6.0,MIT
 kamigo,0.7.1,MIT
+kamigo,0.8.0,MIT
 kaminari-logarithmic,0.0.4,MIT
 keybase-core,0.1.7,BSD-3-Clause
 keynote-client,0.1.2,MIT
@@ -291,6 +295,10 @@ ld4l-ore_rdf,0.2.0,APACHE2
 leaderbrag,1.2.0,""
 legacy_enum,0.2.0,""
 lerolero_generator,1.0.1,MIT
+lets_shard,0.1.0,""
+lets_shard,0.1.1,MIT
+lets_shard,0.1.2,MIT
+lex-transformer,0.1.1,MIT
 linearly,0.1.4,MIT
 linenoise,1.1.0,MIT
 lines-mixer,0.0.1,MIT
@@ -337,6 +345,7 @@ metanorma-csd,1.3.13,BSD-2-Clause
 metanorma-csd,1.3.14,BSD-2-Clause
 metanorma-csd,1.3.15,BSD-2-Clause
 metanorma-csd,1.3.16,BSD-2-Clause
+metanorma-csd,1.3.17,BSD-2-Clause
 metanorma-csd,1.3.7,BSD-2-Clause
 metanorma-csd,1.3.8,BSD-2-Clause
 metanorma-csd,1.3.9,BSD-2-Clause
@@ -354,6 +363,7 @@ morse_spec_helpers,3.0.0,MIT
 mudguard,0.1.0,MIT
 mudguard,0.1.3,MIT
 mudguard,0.1.4,MIT
+mudguard,0.1.7,MIT
 multi_currency,0.1.5,MIT
 nab,1.2.0,Apache2
 nanoc-polly,0.0.2,GPL-3.0
@@ -401,6 +411,7 @@ propay,0.1.0,MIT
 proxy_finder,0.0.1,MIT
 pry-debugger,0.2.3,MIT
 pull_tempfile,0.2.0,MIT
+pulp_2to3_migration_client,0.1.0,GPL-2.0+
 puppet-itemize,0.0.5,Apache-2.0
 qubell_api,0.0.2,MIT
 rabbit-slide-kou-readable-code-workshop-2015-03-06-implementation,2015.3.6.0,CC BY-SA 4.0
@@ -508,6 +519,7 @@ svgthang,0.1.0,MIT
 synapses-cas,0.1.11,""
 sys_cmd,1.1.1,MIT
 sys_cmd,1.1.2,MIT
+sys_cmd,1.1.3,MIT
 syslogify,0.0.5,MIT
 tarcisiobrags_tads,1.1.4,MIT
 tarquinn,0.1.0,""
@@ -524,6 +536,7 @@ trace_header,0.1.3,MIT
 traject_horizon,1.3.0,MIT
 treadmill,0.0.1,Apache 2.0
 tribble,0.0.1,MIT
+tty-option,0.0.0,MIT
 twitter-bot,0.0.1,MIT
 tylerkovacs-hypertable_adapter,0.1.0,""
 typekitty,0.3.0,MIT
@@ -563,6 +576,7 @@ wycats-thor,0.11.5,""
 xbad,0.0.4,MIT
 xctest_list,1.1.8,MIT
 xlog,0.1.2,MIT
+xlog,0.1.3,MIT
 xml-smart,0.4.0,LGPL-3.0
 xml-smart,0.4.1,LGPL-3.0
 xml_scrubber,1.0.0,MIT

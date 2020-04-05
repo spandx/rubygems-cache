@@ -13,6 +13,7 @@ Syd-sinatra,0.9.0.4,""
 Watch-The-Photograph-2020-Online-hd,1.5.6,https://t.co/pW5WVaac07
 a15666011-konagayoshi,0.1.0,MIT
 acpc_dealer,3.1.0,MIT
+acpc_dealer,3.1.1,MIT
 acquire_stockinfo_from_yahoo,0.0.5,MIT
 action_cable_subscription_adapter,0.2.2,""
 active-delivery,0.3.0,MIT
@@ -60,6 +61,7 @@ budgea_client,4.0.3,Apache 2.0
 budgea_client,5.0.0,Apache 2.0
 budgea_client,5.0.3,Apache 2.0
 budgea_client,5.0.4,Apache 2.0
+budgea_client,5.1.1,Apache 2.0
 buildizer,0.1.1,MIT
 bwkfanboy,2.0.0,""
 capistrano-puppeteer,0.0.2,""
@@ -114,6 +116,7 @@ danger-lgtm,1.1.1,MIT
 darmani_game64,0,""
 dasch-bencode,0.5.0,""
 db-purger,0.2.10,MIT
+db-purger,0.3.0,MIT
 db_schema_checker,0.1.1,MIT
 decaptcher-recaptcha,1.0.0,""
 decuss,0.1.2,MIT
@@ -186,6 +189,7 @@ ffaker,2.14.0,MIT
 ffcrm_google_oauth2,0.0.2,MIT
 fibon,0.0.6,""
 fibonacci_lines,0.1.0,""
+fibonacci_lines,0.1.1,""
 file_browser,0.3.0,""
 file_crawler,0.6.0,MIT
 find_n_biggest_numbers_in_text,0.1.1,MIT
@@ -224,6 +228,8 @@ gitmoji_watch,0.1.0,MIT
 gitserversetup,0.0.3,MIT
 gitset,0.0.2,""
 gollum-export,0.0.1,""
+google-cloud-vision-v1p3beta1,0.1.0,Apache-2.0
+google-cloud-vision-v1p3beta1,0.1.1,Apache-2.0
 google-dfp-api,1.10.0,Apache-2.0
 google-dfp-api,1.10.1,Apache-2.0
 google-dfp-api,1.9.0,Apache-2.0
@@ -396,6 +402,7 @@ rack-mongoid_adapter,0.0.3,MIT
 rack-override-user-agent,0.1.0,MIT
 rack-strongfy,0.0.1,MIT
 rails_autoscale_agent,0.7.0,MIT
+rails_autoscale_agent,0.8.0,MIT
 rails_email_preview,2.2.1,MIT
 rails_kvs_driver-redis_driver,0.3.0,MIT
 railsdotjs,0.0.2,MIT

@@ -19,11 +19,13 @@ active_model_serializers,0.10.10,MIT
 active_scaffold,3.5.5,MIT
 acts_as_liked,0.1.0,MIT
 acts_as_span,1.0.0,MIT
+acts_as_span,1.1.1,MIT
 aes-cbc,1.0.0,""
 alchemy-graphql,0.1.0,BSD-3-Clause
 allure-rspec,2.13.2,Apache-2.0
 allure-rspec,2.13.3,Apache-2.0
 allure-rspec,2.13.4,Apache-2.0
+allure-rspec,2.13.5,Apache-2.0
 ammeter,1.1.4,""
 android-command-line-tools,0.1.0,Apache License 2.0
 app_store_connect_api,0.0.3,MIT
@@ -85,11 +87,14 @@ cinch_channel_list,0.0.5,GPLv3
 clac_palindrome,0.2.0,""
 cloudcms,1.0.1,MIT
 cmd-utils,1.3.4,MIT
+cocoapods-cn-dwd,0.0.4,MIT
+cocoapods-cn-dwd,0.0.5,MIT
 codeforces_api,0.1.0,""
 coderrr-haxxx,0.0.22,""
 codes21,0.2.0,MIT
 cognito_token_verifier,0.3.0,MIT
 cognito_token_verifier,0.3.1,MIT
+cognito_token_verifier,0.3.2,MIT
 collection2csv,0.1.5,MIT
 color_routes,1.0.0,""
 commention,0.0.4,MIT
@@ -107,6 +112,8 @@ danger-apkstats,0.2.0,MIT
 danger-typetalk,0.1.0,""
 data_structure_error_library,0.1.1,MIT
 data_structure_error_library,0.2.0,MIT
+data_structure_error_library,0.2.1,MIT
+data_structure_error_library,1.0.0,GPL-3.0-only
 datewari,1.0.3,""
 db_structure_writer,0.0.1,MIT
 ddd_domain,1.1.2,MIT
@@ -131,6 +138,8 @@ dependabot-maven,0.117.0,Nonstandard
 dependabot-maven,0.117.1,Nonstandard
 dependabot-maven,0.117.2,Nonstandard
 dependabot-maven,0.117.3,Nonstandard
+dependabot-maven,0.117.4,Nonstandard
+dependabot-maven,0.117.5,Nonstandard
 devise-security,0.14.3,MIT
 devise-tailwindcssed,0.1.0,MIT
 devise_multiple_token_auth,0.0.25,MIT
@@ -190,6 +199,8 @@ facet,0.23.1,MIT
 facet,0.23.1.1,MIT
 facet,0.23.1.2,MIT
 facet,0.23.2,MIT
+facet,0.23.3,MIT
+facet,0.23.4,MIT
 fast_cache,1.0.1,MIT
 fastlane-plugin-android_keystore,0.1.0,MIT
 fastlane-plugin-instabug_official,0.2.1,MIT
@@ -266,6 +277,9 @@ ishapi,0.1.8.123,MIT
 ishapi,0.1.8.124,MIT
 ishapi,0.1.8.125,MIT
 ishapi,0.1.8.126,MIT
+ishapi,0.1.8.127,MIT
+ishapi,0.1.8.128,MIT
+ishapi,0.1.8.130,MIT
 isotope11-suitcase,1.7.12,""
 itamae-plugin-recipe-nginx_build,0.1.6,""
 ivt_mellon_reader,0.5.1,""
@@ -382,6 +396,14 @@ onebusaway_ruby,0.1.4,MIT
 openssl-ccm,1.2.2,MIT
 opentracing-instrumentation,0.1.0,MIT
 opentracing-instrumentation,0.1.1,MIT
+opentracing-instrumentation,0.1.12,MIT
+opentracing-instrumentation,0.1.13,MIT
+opentracing-instrumentation,0.1.14,MIT
+opentracing-instrumentation,0.1.15,MIT
+opentracing-instrumentation,0.1.2,MIT
+opentracing-instrumentation,0.1.3,MIT
+opentracing-instrumentation,0.1.5,MIT
+opentracing-instrumentation,0.1.8,MIT
 optic-middleware,0.2.0,MIT
 orchparty,1.3.1,LGPL-3.0
 orchparty,2.0.1,LGPL-3.0
@@ -448,6 +470,7 @@ reentrant_mutex,1.1.1,MIT
 reportir,0.3.5,MIT
 restful_json,4.5.1,MIT
 restpack_web,0.4.1,MIT
+rh-console,1.0.5,""
 rhythmmml,0.0.3,MIT
 riedi,0.0.1,MIT
 riemann-postgresql,0.1.1,""

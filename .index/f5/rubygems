@@ -92,6 +92,8 @@ commendo,2.1.0,MIT
 commonjs,0.2.7,""
 comptaline,0.1.0,MIT
 configmonkey_cli,1.0.2,MIT
+configmonkey_cli,1.0.3,MIT
+configmonkey_cli,1.0.4,MIT
 connection_url_resolver,1.0.0,MIT
 consul_kv_backup,0.0.4,""
 consul_kv_backup,0.0.5,""
@@ -131,6 +133,8 @@ dependabot-omnibus,0.117.0,Nonstandard
 dependabot-omnibus,0.117.1,Nonstandard
 dependabot-omnibus,0.117.2,Nonstandard
 dependabot-omnibus,0.117.3,Nonstandard
+dependabot-omnibus,0.117.4,Nonstandard
+dependabot-omnibus,0.117.5,Nonstandard
 desponders,0.3.0,MIT
 developish-name-generator,0.0.2,""
 dhall-xml,0.1.0,GPL-3.0
@@ -196,9 +200,11 @@ google-api-client,0.36.4,Apache-2.0
 google-api-client,0.37.0,Apache-2.0
 google-api-client,0.37.1,Apache-2.0
 google-api-client,0.37.2,Apache-2.0
+google-cloud-bigquery-storage,0.1.0,Apache-2.0
 gotqn_first_gem,0.0.1,MIT
 grafana,0.10.2,MIT
 groovy_oneliner,1.3.0,MIT
+hanami-db_schema_dump,0.1.1,MIT
 handsome_fencer_test,0.1.2,MIT
 has-magic_fields,0.2.1,MIT
 hash-diff,0.1.0,MIT
@@ -268,11 +274,13 @@ mailqun,0.2.1,MIT
 manageiq-appliance_console,5.3.0,Apache-2.0
 manageiq-appliance_console,5.3.1,Apache-2.0
 manageiq-appliance_console,5.3.2,Apache-2.0
+manageiq-appliance_console,5.3.3,Apache-2.0
 mandelbrot,0.1.4,""
 marc2linkeddata,0.2.1,Apache-2.0
 mb_string,0.1.9,MIT
 md_simple_editor,0.5.0,MIT
 media_monster_client,2.0.7,""
+megafon_sms,1.0.1,MIT
 metanorma-iso,1.3.11,BSD-2-Clause
 metanorma-iso,1.3.12,BSD-2-Clause
 metanorma-iso,1.3.13,BSD-2-Clause
@@ -282,6 +290,7 @@ metanorma-iso,1.3.17,BSD-2-Clause
 metanorma-iso,1.3.18,BSD-2-Clause
 metanorma-iso,1.3.19,BSD-2-Clause
 metanorma-iso,1.3.20,BSD-2-Clause
+metanorma-iso,1.3.21,BSD-2-Clause
 method_decorator.rb,0.1,MIT
 metonym,1.0.0,MIT
 metonym,1.0.1,MIT
@@ -344,6 +353,7 @@ powerdns_pipe,1.1,MIT
 ppkit,0.1.1,""
 prdns,0.1.0,""
 prdns,0.1.1,GPL-3.0
+prdns,0.1.2,GPL-3.0
 prefatory,0.1.2,MIT
 preprocessor,0.1.3,""
 pretty_hash,0.0.2,MIT
@@ -386,6 +396,8 @@ relaton-bib,0.6.0,BSD-2-Clause
 relaton-bib,0.7.0,BSD-2-Clause
 relaton-bib,0.8.0,BSD-2-Clause
 relaton-bib,0.8.1,BSD-2-Clause
+relaton-bib,0.9.0,BSD-2-Clause
+relaton-bib,0.9.1,BSD-2-Clause
 release-notes,4.2.0,MIT
 repsheet_visualizer,1.1.0,MIT
 rescata,0.1.1,MIT
@@ -449,6 +461,7 @@ spicycode-hardcore_forking_action,4.0.2,""
 spoon,0.0.6,Apache-2.0
 sporf,0.0.1,MIT
 spot-parser,0.0.2,MIT
+spottie,0.1.0,MIT
 spree_address_populator,1.0,""
 spree_product_documents,3.0.0.1,""
 spring-commands-rack-console,0.1.0,MIT
@@ -465,6 +478,7 @@ supplejack_api,1,MIT
 supplejack_client,1.0.7,""
 svg_charts,2.3,""
 synchronised_migration,2.1.1,""
+syspass-client,0.1.0,MIT
 table_salt,1.0.0,""
 tamashii-common,0.2.0,""
 tee_logger,3.2.2,MIT
@@ -489,6 +503,7 @@ toolmantim-teapot,1.0.1,""
 touch_action,1.3.3,MIT
 trailblazer-developer,0.0.10,LGPL-3.0
 trailblazer-developer,0.0.11,LGPL-3.0
+trailblazer-developer,0.0.12,LGPL-3.0
 transactional,0.1.0,MIT
 transducers,0.4.94,Apache License 2.0
 trinidad,1.4.6,MIT-|-Apache-2.0

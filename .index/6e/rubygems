@@ -77,6 +77,7 @@ capistrano-docker-cloud,0.2.2,""
 capistrano-kyan,0.3.0,MIT
 capistrano-scm-strategy,0.2.0,MIT
 capobvious,0.2.95,""
+capybara-choices,0.1.0,MIT
 char_gen,0.1,MIT
 check_url,0.0.1,MIT
 chef-consul,1.0.0,Apache 2.0
@@ -157,6 +158,7 @@ eventually_jekyll_theme,1.2,MIT
 eventy,0.0.3,MIT
 ez_token,1.0.1,""
 facebook-messenger,1.4.1,MIT
+fastlane-plugin-carthage_cache_res,0.1.2,MIT
 fastlane-plugin-promo_code,0.1.0,MIT
 fastlane-plugin-update_device_name,0.1.3,MIT
 fbox,0.1.2,BSD
@@ -311,6 +313,7 @@ myasteriskconf,0.1.2,MIT
 nadb,0.0.2,MIT
 nifcloud-dns,0.1.1,""
 nintendo_eshop,0.2.0,MIT
+nintendo_eshop,0.2.1,MIT
 nittanygamecenter,0.0.2,""
 notifyme,1.1.5,""
 nov-smartfm,1.0.2,""
@@ -488,6 +491,9 @@ testrail-rspec,0.1.4,MIT
 testrail-rspec,0.1.5,MIT
 testrail-rspec,0.1.6,MIT
 testrail-rspec,0.1.7,MIT
+testrail-rspec,0.1.8,MIT
+testrail-rspec,0.1.9,MIT
+testrail-rspec,0.2.0,MIT
 thanks,0.4.3,MIT
 the1kbgrid-css-rails,1.1.3,MIT
 thesweaters_game,1.0.0,MIT
@@ -514,6 +520,10 @@ unitwise-193,1.0.4,MIT
 universal_ruby_whois,1.2.10,""
 uvc,0.1.0,MIT
 view_component,1.16.0,MIT
+view_component,2.0.0,MIT
+view_component,2.1.0,MIT
+view_component,2.2.0,MIT
+view_component,2.2.1,MIT
 vimfluence,0.0.4,BSD
 visual_db,0.1.2,MIT
 visualisation-utils,0.8.1,""

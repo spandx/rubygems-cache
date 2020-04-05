@@ -474,6 +474,7 @@ sass-a11y,0.1.0,MIT
 savanna-outliers,0.0.1,MIT
 scvcs,0.2.6,MIT
 sdl2-bindings,0.0.2,Zlib
+sdl2-bindings,0.0.3,Zlib
 semverly,1.0.0,MIT
 sensu-plugins-sidekiq-latency,0.1.6,""
 sentgen,0.0.1,""
@@ -590,6 +591,7 @@ who_called_me,0.1.1,""
 wintr,1.1.0,MIT
 wisper_interactor,0.1.0,MIT
 wobapphelpers,4.0.0,MIT
+wobapphelpers,4.1.0,MIT
 wordtriez,0.1.6,""
 wx_opendata,0.1.2,MIT
 xgem,0.0.2,""

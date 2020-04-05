@@ -63,6 +63,8 @@ biovision-post,0.28.191126.0,MIT
 bitbroker,0.1.5,MIT
 blended_config,0.2.1,MIT
 booker_ruby,3.3.11,MIT
+booker_ruby,3.3.12,MIT
+booker_ruby,3.3.13,MIT
 bootstrap_flash_messages,1.0.2,""
 breezy_pdf_lite,0.0.1,GPLv3
 breezy_pdf_lite,0.0.3,GPLv3
@@ -100,6 +102,7 @@ combination_generator,0.1.2,""
 commons-dbcp-jars,1.4,Apache 2.0
 concord_cacher,0.1.15,""
 concourse-deployer,0.3.0,MIT
+concourse-deployer,0.5.0,MIT
 concurrency,1.0.0,MIT
 conduit-atom,2.0.1,""
 conduit-atom,2.0.2,""
@@ -111,6 +114,7 @@ danger-android_permissions_checker,0.0.2,MIT
 danger-android_permissions_checker,0.0.3,MIT
 dashing-rails,2.6.2,MIT
 data_provider,0.1.3,MIT
+date_validator,0.10.0,""
 date_validator,0.9.0,""
 davidtrogers-steamer,0.1.3.2,""
 dawupxlrgo,1.1,MIT
@@ -194,6 +198,7 @@ gitloc-megannnnnnn,0.2.0,MIT
 glebtv-mongoid-paperclip,0.6.0,""
 globalsms,1.0.7,MIT
 google_search_results,1.2.0,MIT
+google_search_results,1.3.0,MIT
 goto_gem,0.1.0,MIT
 govuk_seed_crawler,2.0.1,MIT
 gpgr,0.1.0,MIT
@@ -271,6 +276,7 @@ kangal,1.2.3,MIT
 karafka,1.3.1,MIT
 karafka,1.3.3,MIT
 karafka,1.3.4,MIT
+karafka,1.3.5,MIT
 kencharro,0.1.0,MIT
 kevincolyar-rbsync,0.1.0,""
 kickoff_rails,0.0.6,MIT
@@ -361,6 +367,7 @@ out_put,2.3.1,MIT
 overloader,0.1.0,""
 overloader,0.2.1,CC0-1.0
 oxen_account,0.4.14,MIT
+oxide,0.1.10,MIT
 oxide,0.1.9,MIT
 packer-client,0.2.0,MIT
 padrino-relative,0.0.3,""
@@ -377,6 +384,7 @@ planet_express,1.0.0,""
 plant_info_scraper,0.1.0,MIT
 podcast_agent_parser,0.1.1,MIT
 podcast_agent_parser,0.1.2,MIT
+podcast_agent_parser,0.1.3,MIT
 polist,1.2.0,MIT
 popcorn_notify,0.1.0,MIT
 poro_repository,0.2.0,""
@@ -423,6 +431,8 @@ relaton-ogc,0.4.0,BSD-2-Clause
 relaton-ogc,0.5.0,BSD-2-Clause
 relaton-ogc,0.6.0,BSD-2-Clause
 relaton-ogc,0.6.1,BSD-2-Clause
+relaton-ogc,0.7.0,BSD-2-Clause
+relaton-ogc,0.7.1,BSD-2-Clause
 reliefweb_scraper,0.6.0,""
 repop,0.1.0,""
 respond_with,0.0.4,""
@@ -527,6 +537,8 @@ ultraspeed-epp,1.0.8,""
 unicode-numeric_value,1.6.0,MIT
 unicode-numeric_value,1.7.0,MIT
 update_or_delete_or_create,4.1.7.0,MIT-|-GPL-2
+upframework,0.1.1,MIT
+upframework,0.2.0,MIT
 upkey-track_stylebase,1.0.1,MIT
 user-choices-pathname,1.0.0,ISC
 vagrant-docker-exec,0.1.4,MIT

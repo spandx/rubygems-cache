@@ -10,6 +10,7 @@ activemodel-email_address_validator,2.0.0,MIT
 activerecord-mysql2rgeo-adapter,6.0.0,BSD
 activerecord-utils,0.4.0,Public Domain
 activerecord-utils,0.4.1,Public Domain
+activestorage-exif-analyzer,0.1.0,""
 acts_as_paranoid,0.6.2,MIT
 acts_as_paranoid,0.6.3,MIT
 alandipert-ruby-aaws,0.7.2,""
@@ -79,6 +80,7 @@ cloudhub_wrapper,0.1.3,MIT
 cloudscrape-client,0.5.1,MIT
 cocoapods-acknowledgements-addons,0.2.0,MIT
 cocoapods-acknowledgements-addons,0.3.0,MIT
+cocoapods-packager-hira,1.5.6,MIT
 collin-google_ajax_feed_api,0.0.4,""
 command_post,0.0.6,MIT
 compass-warning,1.0,""
@@ -238,6 +240,7 @@ jumpcloud,0.4.0,Mozilla Public License v2.0 (https://www.mozilla.org/MPL/2.0/)
 just_time,0.1.1,MIT
 jwilkins-nilsimsa,1.0.5,""
 jwtf,0.1.1,MIT
+jwtf,0.2.0,MIT
 keepass-static,0.1.1,MIT
 keyboard,0.0.1,""
 keyrack,0.3.2,MIT
@@ -266,7 +269,9 @@ logster,2.6.2,MIT
 logster,2.6.3,MIT
 logster,2.7.0,MIT
 logster,2.7.1,MIT
+logster,2.8.0,MIT
 logstream,0.0.7,MIT
+logstream,2.0.0,MIT
 loripsum-client,0.1.0,MIT
 lsegal-yard,0.2.3.5,""
 luban-fluentd,0.1.11,MIT
@@ -364,6 +369,7 @@ pgbackups-archive,1.1.0,MIT
 phcdevworks_active_menus,1.0.4,MIT
 phcdevworks_active_menus,1.0.5,MIT
 phcdevworks_active_menus,1.0.6,MIT
+phcdevworks_active_menus,1.1.0,MIT
 pipe_dream,0.1.0,""
 pivotal-screw-unit,0.5.3,""
 platelayer,0.1.0,MIT
@@ -385,6 +391,7 @@ puggle,0.0.1,MIT
 purging-images,0.1.2,MIT
 pushie,0.1.2,MIT
 pwnedkeys-filter,0.1.0,""
+pwnedkeys-filter,0.2.0,""
 pwork,1.5.1,MIT
 qna_maker,0.3.0,MIT
 qoolife-api,0.0.3,MIT
@@ -526,6 +533,7 @@ vagrant-nitrousio,0.0.2,MIT
 vagrant-r10k,0.4.1,Apache-2.0
 valid_email2,3.1.3,MIT
 valid_email2,3.2.0,MIT
+valid_email2,3.2.1,MIT
 vault_api,1.0.2,MIT
 veewee,0.4.5.1,MIT
 viator,0.1.1.1,MIT

@@ -194,6 +194,10 @@ george-sanitize_email,0.2.0,""
 girl,0.50.0,MIT
 girl,0.50.1,MIT
 girl,0.50.3,MIT
+girl,0.51.1,MIT
+girl,0.52.0,MIT
+girl,0.53.0,MIT
+girl,0.54.0,MIT
 git-plan,0.1.3,MIT
 git_duplicator,1.0.0,LGPL-3
 git_rav,0.1.2,MIT
@@ -211,6 +215,7 @@ groupwise,0.0.1,MIT
 grpc,1.25.0,Apache-2.0
 grpc,1.26.0,Apache-2.0
 grpc,1.27.0,Apache-2.0
+grpc,1.28.0,Apache-2.0
 guard-pusher,0.0.3,""
 guard-teabag,0.0.2,""
 guillaumegentil-rspactor,0.5.2,""
@@ -379,6 +384,7 @@ phcthemes_admin_panel_pack,1.4.3,MIT
 phcthemes_admin_panel_pack,1.4.5,MIT
 phcthemes_admin_panel_pack,1.4.7,MIT
 phcthemes_admin_panel_pack,1.5.0,MIT
+phcthemes_admin_panel_pack,1.6.0,MIT
 picatrix,0.5.5,MIT
 pig_sniffer,0.1.1,MIT
 pjit-sms_api,0.1.3,MIT
@@ -420,6 +426,7 @@ rails-mailgun-plus,0.2.6,""
 rails-newrelic_metrics,0.0.1,MIT
 rails_angularui_bootstrap,0.1.1,MIT
 rails_cache_it,0.0.2,MIT
+rails_ping,0.1.1,MIT
 rails_sitemap,0.5.1,MIT
 railsbricks,3.7.0,GPL-3.0
 ralyxa-lambda,1.9.0,MIT

@@ -185,6 +185,7 @@ goa_model_gen,0.9.7,MIT
 google-authenticator-rails,2.0.0,""
 google-cloud-billing,0.1.0,Apache-2.0
 google-cloud-billing,0.1.1,Apache-2.0
+google-cloud-billing,0.1.2,Apache-2.0
 google_apps,0.9,MIT
 grape-orchestra,0.0.0,MIT
 grape-transformations,0.0.5,MIT
@@ -248,6 +249,7 @@ kansuji,1.0.1,MIT
 khepri_connector,0.2.0,MIT
 kitchen-azurerm,0.15.0,Apache-2.0
 kitchen-azurerm,0.15.1,Apache-2.0
+kitchen-azurerm,0.15.2,Apache-2.0
 kitchen-transport-speedy,0.1.2,""
 koara-html,0.15.0,Apache-2.0
 kontena-plugin-packet,0.2.7,Apache-2.0
@@ -284,6 +286,7 @@ mina-infinum,1.5.0,MIT
 mina-infinum,1.6.0,MIT
 mjml-rails,4.3.1,MIT
 mjml-rails,4.3.2,MIT
+mjml-rails,4.4.0,MIT
 mjml-remote-rails,0.1.0,""
 mobile_detect,0.0.3,""
 mocker,0.0.1,MIT
@@ -297,6 +300,7 @@ myo-ruby-wrapper,0.0.2,MIT
 name_tagged_cee_syslogger,0.1.4,MIT
 navigator,4.1.4,Apache-2.0
 navigator,5.0.0,Apache-2.0
+navigator,5.1.0,Apache-2.0
 ncbo_resource_index_client,1.6.0,""
 neo4apis-activerecord,0.9.1,MIT
 nesta-plugin-drop,0.0.15,MIT
@@ -354,6 +358,7 @@ puppet-blacksmith,5.0.0,""
 puppet-blacksmith,5.1.0,""
 push_me,0.1.0,""
 pushover,3.0.2,MIT
+pushover,3.0.3,MIT
 quay,0.0.1,MIT
 queue_ding,0.1.6,MIT
 quke,0.10.0,The Open Government Licence (OGL) Version 3
@@ -456,6 +461,8 @@ spree_ignitor_ipay88,0.0.4,MIT
 spree_sample,4.0.3,BSD-3-Clause
 spree_sample,4.1.0,BSD-3-Clause
 spree_sample,4.1.1,BSD-3-Clause
+spree_sample,4.1.2,BSD-3-Clause
+spree_sample,4.1.3,BSD-3-Clause
 sprockets-almond,0.0.1,""
 spyt,1.1.0,MIT
 srvy,0.0.1,MIT
@@ -482,6 +489,8 @@ tablesalt,0.23.1,MIT
 tablesalt,0.23.1.1,MIT
 tablesalt,0.23.1.2,MIT
 tablesalt,0.23.2,MIT
+tablesalt,0.23.3,MIT
+tablesalt,0.23.4,MIT
 tashiro,0.1.0,""
 tasks-migration,0.0.2,MIT
 tcpsnitch_analyzer,0.0.1,GPL-3.0

@@ -29,6 +29,9 @@ asset_cloud,2.2.9,""
 asset_cloud,2.3.0,""
 asset_cloud,2.3.1,""
 asset_cloud,2.4.0,""
+asset_cloud,2.5.0,""
+asset_cloud,2.5.1,""
+asset_cloud,2.5.2,""
 assets-libraries,1.0.1,MIT
 attentive,0.3.9,MIT
 auser-macmap,0.0.2,""
@@ -140,6 +143,7 @@ easy_portfolio,0.0.4,MIT
 ebook_renamer,0.2.5,MIT
 ebx,0.0.2,MIT
 ecg,0.3.1,MIT
+ecg,0.3.2,MIT
 ecm_references2,2.0.1,""
 ela.js,5.0.0,MIT
 elastics-scopes,1.3.3,MIT
@@ -241,6 +245,7 @@ jekyll-recker,0.2.0,GPLv3
 jekyll-recker,0.4.0,GPLv3
 jekyll-recker,0.5.0,GPLv3
 jekyll-recker,1.2.0,GPLv3
+jekyll-recker,1.2.2,GPLv3
 jekylljournal,0.0.5,GPL-3.0
 jmesapa1-rubycalc,0.0.2,ARTISTIC
 jordandcarter-rugalytics,0.3.2,""
@@ -275,6 +280,7 @@ limited_release,0.1.6,MIT
 liquid-tag-parser,1.9.0,MIT
 liquid-tag-parser,2.0.0,MIT
 liquid-tag-parser,2.0.1,MIT
+liquid-tag-parser,2.0.2,MIT
 liquid_queries,0.0.8,MIT
 lita-awyiss,0.1.2,MIT
 lita-bitbucket-wehbhook,0.0.1,MIT

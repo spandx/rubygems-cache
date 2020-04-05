@@ -87,6 +87,7 @@ clean-architecture,4.0.1,""
 clever_elements,0.0.5,""
 cloud_snapshooter,1.0.4,MIT
 cloudformation_rspec,0.1.0,""
+cloudformation_rspec,0.2.0,""
 cocoapods-archive,0.0.2,MIT
 code_eval,0.0.4,MIT
 code_zauker,0.1.0,""
@@ -110,6 +111,7 @@ danger-conflict_checker,0.0.3,MIT
 darmani_game8,0,""
 decidim-generators,0.19.1,AGPL-3.0
 decidim-generators,0.20.0,AGPL-3.0
+decidim-generators,0.20.1,AGPL-3.0
 delay_henka,0.5.0,MIT
 deliver_asap,0.1.0,Unlicense
 desktopen,0.5.1,MIT
@@ -325,6 +327,7 @@ paperclip-google-drive,0.3.3,MIT
 paperclip-upyun,0.1.3,MIT
 parlour,1.0.0,MIT
 parlour,2.0.0,MIT
+parlour,2.1.0,MIT
 parslet-ext,0.0.1,GPLv3
 partial_parameters,0.0.3,MIT
 party_time,0.0.2,MIT
@@ -362,6 +365,11 @@ radar-api,0.14.0,MIT
 radar-api,2.0.1,MIT
 radar-api,2.1.1,MIT
 radar-api,2.2.2,MIT
+radar-api,2.3.0,MIT
+radar-api,2.4.0,MIT
+radar-api,2.5.0,MIT
+radar-api,2.6.0,MIT
+radar-api,2.7.1,MIT
 rails-domain,0.0.1,MIT
 rails_panel,0.0.1,MIT
 rails_treeview,0.1.2,MIT
@@ -429,6 +437,7 @@ shuber-awesome_nested_set,1.1.4,""
 sidekiq-opentracing,1.0.0,Apache-2.0
 signpost,0.1.0,MIT
 simple_encryptable,0.1.0,MIT
+simple_encryptable,0.1.1,MIT
 simple_form_materialize,1.2.0,MIT
 simple_navigation_renderers,1.0.2,MIT
 sinatra-bells,0.4.1,AGPL-3.0
@@ -443,6 +452,7 @@ smart_sms,0.1.1,MIT
 smokescreen,0.0.1,MIT
 social_profile,0.3.2,MIT
 socials,1.0.1,MIT
+somecache,0.1.0,MIT
 sord,0.10.0,MIT
 sord,1.0.0,MIT
 sord,2.0.0,MIT
@@ -461,6 +471,7 @@ star_ethernet,0.1.12,MIT
 statsd-default_instrumentation,0.4.0,""
 steam-trade,0.3.2,GPL-3.0
 stellar-base,0.21.0,Apache 2.0
+stellar-base,0.22.0,Apache 2.0
 string-stats-rp,0.1.0,MIT
 stripe-toolkit,0.0.0,MIT
 subnet_calc,0.3.3,MIT

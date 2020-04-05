@@ -33,6 +33,8 @@ api_guard,0.3.0,MIT
 apocalypse-404,0.0.2,MIT
 appl,1.6,BSD-2-Clause
 appl,1.6.2,BSD-2-Clause
+appl,1.8,BSD-2-Clause
+appl,1.9,BSD-2-Clause
 apple_music,0.1.0,MIT
 aquel,0.0.4,MIT
 artwork,1.0.0,MIT
@@ -134,6 +136,8 @@ dumon,0.3.0,"Apache License, v2.0"
 dynect_rest,0.4.6,""
 eac_users_support,0.4.0,MIT
 eac_users_support,0.5.0,MIT
+eac_users_support,0.5.1,MIT
+eac_users_support,0.6.0,MIT
 easemob,0.3.5,MIT
 easemob,0.3.6,MIT
 ecs_ship,1.0.0,MIT
@@ -343,6 +347,9 @@ paperclip-tinify,0.0.2,MIT
 passw3rd,0.2.5,""
 paulcarey-relaxdb,0.3.5,""
 pb-serializer,0.1.0,MIT
+pb-serializer,0.2.0,MIT
+pb-serializer,0.2.1,MIT
+pb-serializer,0.3.0,MIT
 peeek,1.0.4,MIT
 percentchange,0.0.0,""
 perfect_money_merchant,0.1.2,MIT
@@ -488,6 +495,8 @@ va_common,0.4.4,""
 vagrant-allegro-nfs,1.0.2,Apache 2.0
 vagrant-recreate,0.1.4,""
 varejonline,0.8.0,""
+viniBaxter-spa_landing,0.3.0,""
+viniBaxter-spa_landing,0.4.0,""
 vmit,0.0.3.99,""
 vym,0.1.4,MIT
 web_admin,0.1.0,MIT

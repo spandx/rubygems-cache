@@ -108,8 +108,10 @@ date_range_overlap,0.0.0,MIT
 db_mod,0.0.6,MIT
 decidim-participatory_processes,0.19.1,AGPL-3.0
 decidim-participatory_processes,0.20.0,AGPL-3.0
+decidim-participatory_processes,0.20.1,AGPL-3.0
 delete_commas,0.0.1,MIT
 depend_lister,0.1.0,MIT
+depend_lister,0.1.2,MIT
 dependabot-docker,0.114.1,Nonstandard
 dependabot-docker,0.115.0,Nonstandard
 dependabot-docker,0.115.2,Nonstandard
@@ -125,6 +127,8 @@ dependabot-docker,0.117.0,Nonstandard
 dependabot-docker,0.117.1,Nonstandard
 dependabot-docker,0.117.2,Nonstandard
 dependabot-docker,0.117.3,Nonstandard
+dependabot-docker,0.117.4,Nonstandard
+dependabot-docker,0.117.5,Nonstandard
 dependy,0.1.0,MIT
 dftcc,0.1.0,MIT
 docgen,0.1.0,MIT
@@ -142,6 +146,7 @@ eac_rails_base0,0.28.3,MIT
 eac_rails_base0,0.29.0,MIT
 eac_rails_base0,0.29.1,MIT
 eac_rails_base0,0.29.2,MIT
+eac_rails_base0,0.29.3,MIT
 easy-drive,0.0.4,Apache 2.0
 easy_audio,0.1.0,BSD
 ebay-enterprise_affiliate_network,1.0.3,MIT
@@ -209,6 +214,7 @@ gocardless_pro,2.16.1,MIT
 gocardless_pro,2.17.0,MIT
 gocardless_pro,2.17.1,MIT
 gocardless_pro,2.18.0,MIT
+gocardless_pro,2.18.1,MIT
 gooder_data,0.0.34,MIT
 greetings,0.0.0,MIT
 greyjoy_ink,0.1.0,MIT
@@ -236,6 +242,7 @@ ignore_nsec,0.0.1,MIT
 imagemagick-identify,0.0.1,MIT
 imagetools,1.0.1,MIT
 imagetools,1.1.0,MIT
+imagetools,1.2.0,MIT
 instagram-scraper,0.0.1,MIT
 io-afc,0.0.4,MIT
 ipfs-http-client,0.3.2,MIT
@@ -292,6 +299,7 @@ lyber-core,5.5.0,Apache-2.0
 lyber-core,5.5.1,Apache-2.0
 lyber-core,6.0.0,Apache-2.0
 lyber-core,6.1.0,Apache-2.0
+lyber-core,6.1.1,Apache-2.0
 mac_rotator,0.0.2,""
 madison,0.5.0,MIT
 magic_logic,0.0.3,MIT
@@ -379,6 +387,8 @@ pg,1.2.3,BSD-2-Clause
 phlox,0.1.1,MIT
 photofy,0.6.4,MIT-|-GPL-2.0
 poke-stick,0.0.1,MIT
+porkadot,0.1.0,""
+porkadot,0.2.1,""
 posixpsutil,0.1.0,new BSD
 prct6,0.1.0,""
 pres,1.6.0,MIT
@@ -401,6 +411,7 @@ rack_detect_robots,0.0.3,""
 rails_bootstrap_sortable,2.0.7,MIT
 range_operations,0.1.0,MIT
 ravelin,0.1.21,MIT
+ravelin,0.1.23,MIT
 ravendb-api-client,0.1.1,""
 rawhid,0.1.8,MIT
 rb-trace,0.7,""
@@ -479,6 +490,8 @@ spotify_cli,0.1.3,MIT
 spree_cmd,4.0.3,BSD-3-Clause
 spree_cmd,4.1.0,BSD-3-Clause
 spree_cmd,4.1.1,BSD-3-Clause
+spree_cmd,4.1.2,BSD-3-Clause
+spree_cmd,4.1.3,BSD-3-Clause
 sslserve,0.1.2,MIT
 staticme,0.4.0,MIT
 stax-examples,0.0.4,MIT

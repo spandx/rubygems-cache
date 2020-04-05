@@ -30,6 +30,7 @@ ataru,0.2.0,MIT
 auther,10.2.3,Apache-2.0
 auther,11.0.0,Apache-2.0
 auther,11.0.1,Apache-2.0
+auther,11.1.0,Apache-2.0
 authorized_rails_scaffolds,0.0.17,MIT
 auto_cron,0.1.16,""
 avmtrf1-tools,0.16.0,""
@@ -42,6 +43,8 @@ avmtrf1-tools,0.19.0,""
 avmtrf1-tools,0.20.0,""
 avmtrf1-tools,0.21.0,""
 avmtrf1-tools,0.22.0,""
+avmtrf1-tools,0.22.1,""
+avmtrf1-tools,0.23.0,""
 awesome-gem,0.0.1,""
 awesome_link,0.0.6,MIT
 aws-s3crets,0.0.3,MIT
@@ -59,6 +62,7 @@ bake-toolkit,2.57.0,MIT
 bake-toolkit,2.58.0,MIT
 bake-toolkit,2.59.0,MIT
 bake-toolkit,2.60.0,MIT
+bake-toolkit,2.60.2,MIT
 banisterfiend,0.1.0,""
 batch-translations,0.1.3,""
 bdsync,1.0.0,MIT
@@ -91,6 +95,7 @@ calil,0.0.2,MIT
 camelot_key_converter,0.1.0,MIT
 capifony,2.8.6,MIT
 capybara-box,0.3.0,MIT
+capybara-box,0.4.0,MIT
 capybara-fill-many,0.1.2,MIT
 car,0.0.1,MIT
 card-rails,0.0.1,MIT
@@ -120,6 +125,7 @@ colszowka-cucumber_table_formatter,0.2.4,""
 composable_operations,0.10.1,MIT
 composite_rng,0.1.2,MIT
 composite_rng,0.1.3,MIT
+composite_rng,0.1.4,MIT
 conference_tracker,1.1.1,""
 config_this,0.1.0,MIT
 consistency_check,0.2.0,MIT
@@ -172,6 +178,8 @@ edgar,0.0.12,""
 edouard-rchardet,1.3.4.1,""
 embulk-filter-key_in_redis,0.1.3,MIT
 erlang-terms,2.0.1,MIT
+error_hunter,0.1.2,MIT
+error_hunter,0.1.3,MIT
 es-query-builder,0.0.4,MIT
 esendex,0.6.0,Nonstandard
 event_sourcery-rails,0.2.1,MIT
@@ -212,6 +220,7 @@ fr8,0.0.1,MIT
 fr8,0.0.2,MIT
 freeclimb,1.0.0,Unlicense
 freeclimb,1.0.1,Unlicense
+freeclimb,1.0.3,Unlicense
 freshservice_apiv2,0.2.0,MIT
 friends_ajax_core,0.0.55,MIT
 frontend,0.0.1,""
@@ -230,6 +239,8 @@ globalized_method,0.1.1,MIT
 globalized_method,0.1.2,MIT
 gmaps4rails,2.1.2,""
 gogogo,0.0.2,MIT
+google-cloud-vision-v1,0.1.0,Apache-2.0
+google-cloud-vision-v1,0.1.1,Apache-2.0
 google_currency_rails_cache,1.2,""
 grafter,0.0.1,MIT
 grape-extra_validators,1.0.0,MIT
@@ -249,11 +260,13 @@ hammer_cli_foreman,0.19.6,GPL-3.0+
 hammer_cli_foreman,0.19.7,GPL-3.0+
 hammer_cli_foreman,2.0.0,GPL-3.0+
 hammer_cli_foreman,2.0.1,GPL-3.0+
+hammer_cli_foreman,2.0.2,GPL-3.0+
 hello_translator,0.0.2,MIT
 herb,0.0.1,MIT
 hola-test,0.0.1,""
 hola_rjswenson,0.0.3,MIT
 hola_yall,0.0.0,MIT
+homepage-template,0.1.0,MIT
 hq-graphql,2.0.7,MIT
 hrr_rb_relaxed_xml,0.1.1,MIT
 hrr_rb_relaxed_xml,0.2.0,MIT
@@ -354,6 +367,7 @@ natural_lang_date_parser,0.1.2,MIT
 net-ping,1.6.1,Artistic 2.0
 net-ping,1.7.6,Artistic 2.0
 net-ping,2.0.6,Artistic 2.0
+net-ping,2.0.7,Artistic 2.0
 networking,1.1.0,""
 neutrino_audiomatic_rails,0.1.12,MIT
 nevzorov,0.2.0,""
@@ -361,6 +375,7 @@ nexmo,6.1.0,MIT
 nexmo,6.2.0,MIT
 nexmo,6.3.0,MIT
 nf-conductor,0.0.7,MIT
+nydp-caxlsx,0.1.0,MIT
 o_stream_catcher,0.0.1,MIT
 oakdex-pokedex,0.4.5,MIT
 octokitty,1.2.6,MIT
@@ -489,6 +504,7 @@ simple_cached_settings,0.1.1,MIT
 simple_detail,0.1.7,""
 simple_events,0.0.1,MIT
 simple_navigation_bootstrap,1.2.0,MIT
+simple_navigation_bootstrap,1.3.0,MIT
 simplecov-shield,0.0.3,MIT
 simplefsm,0.2.4,""
 slack-cli-webhook,0.0.14,MIT
@@ -526,6 +542,7 @@ table_extraction,0.0.1,MIT
 taglib-ruby,0.6.0,MIT
 taglib-ruby,0.7.1,MIT
 taglib-ruby,1.0.0,MIT
+taglib-ruby,1.0.1,MIT
 tame,1.0.1,MIT
 tastebook-respond_to_parent,0.0.3,""
 taylorbarstow-simple_pagination,0.1.2,""
@@ -579,5 +596,6 @@ wonderdog,0.2.0,Apache 2.0
 wordcut,0.0.5,LGPL-3.0
 workarea-api,4.5.0,Business Software License
 workarea-api,4.5.2,Business Software License
+workarea-api,4.5.3,Business Software License
 yi_string_extend,0.0.1,""
 yml_translate_rails,0.2.0,MIT

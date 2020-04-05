@@ -185,6 +185,7 @@ gitlab-triage,1.5.1,MIT
 gitlab-triage,1.6.0,MIT
 gitlab-triage,1.6.1,MIT
 gitlab-triage,1.7.0,MIT
+gitlab-triage,1.7.1,MIT
 gitroom,0.0.2,MIT
 gmail_extractor,0.0.1,""
 gocd-slack-server,0.0.26,MIT
@@ -245,6 +246,8 @@ i18n_manylang_patch,0.0.2,""
 imgproxy,1.1.0,MIT
 instamsg-ruby,0.0.121,MIT
 ioext_c,0.1.0,""
+isbndb-ruby,0.1.0,MIT
+isbndb-ruby,0.1.1,MIT
 ispector,0.1.0,MIT
 isurvey,0.1.4,MIT
 iterm-imgcat,0.1.0,MIT
@@ -344,6 +347,7 @@ netzke-has-many,0.0.1,MIT
 nexus_api,1.0.0,MIT
 nexus_api,1.0.1,MIT
 nexus_api,1.0.3,MIT
+nexus_api,1.0.4,MIT
 nfeplace-client,0.2.2,MIT
 nombre,0.1.0,MIT
 noodall-components-promo-driver,1.0.0,""
@@ -413,8 +417,10 @@ rents,1.0.8,MIT
 restforce-db,4.1.1,MIT
 rgb2hex,0.0.5,MIT
 rl_hiya_preyer_johnny,0.0.1,""
+robson_view_tool,0.1.0,MIT
 roda-proxy,1.0.2,MIT
 roda-proxy,1.0.4,MIT
+roda-proxy,1.0.5,MIT
 roman_numerals_converter,0.1.0,""
 rotor_machine,1.4.0,Apache-2.0
 rswift-tvos,0.1.0,MIT
@@ -482,6 +488,7 @@ sr-jimson,0.11.0,MIT
 stackdriver_simple,0.0.1,MIT
 standalone_validator,0.2.3,MIT
 strava-ruby-client,0.3.1,MIT
+strava-ruby-client,0.3.2,MIT
 stripe_model_callbacks,0.1.2,MIT
 strongtyping,2.0.7,""
 structured_menus,0.0.2,MIT
@@ -502,6 +509,7 @@ tlc59116,0.1.3,MIT
 to_shuffle,0.0.2,MIT
 tocer,10.0.0,Apache-2.0
 tocer,10.0.1,Apache-2.0
+tocer,10.1.0,Apache-2.0
 tocer,9.1.2,Apache-2.0
 toggl_api,0.0.2,MIT
 toiler,0.6.0,LGPLv3
@@ -530,6 +538,9 @@ twirp_rails,0.2.1,MIT
 twirp_rails,0.3.0,MIT
 twirp_rails,0.3.1,MIT
 twirp_rails,0.3.2,MIT
+twirp_rails,0.4.0,MIT
+twirp_rails,0.4.1,MIT
+twirp_rails,0.4.2,MIT
 tzispa_rig,0.5.11,MIT
 ubiquity-vdms,1.0.0,MIT
 ucb_groups,0.0.8,MIT
@@ -544,6 +555,8 @@ vagrant-helpers,1.5.1,MIT
 valid_items,0.0.11,MIT
 validation_error_reporter,0.1.0,MIT
 varia_model,0.6.0,Apache 2.0
+view_component-live,0.2.1,MIT
+view_component-live,0.2.2,MIT
 view_component-rails,0.0.1,MIT
 wcs,0.1.2,LGPL
 webdriver-user-agent,7.6,""
@@ -555,12 +568,14 @@ wordify_larkin,0.2.0,MIT
 wpa_cli_web,0.0.17,Apache
 wrenchmode-rack,0.1.0,MIT
 xcode-install,2.6.3,MIT
+xcode-install,2.6.4,MIT
 xsv,0.1.1,MIT
 xsv,0.1.2,MIT
 xsv,0.2.0,MIT
 xsv,0.2.2,MIT
 xsv,0.3.1,MIT
 xsv,0.3.10,MIT
+xsv,0.3.11,MIT
 xsv,0.3.2,MIT
 xsv,0.3.5,MIT
 xsv,0.3.7,MIT

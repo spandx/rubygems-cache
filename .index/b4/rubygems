@@ -159,6 +159,7 @@ fast_blank_ocaml,0.0.0,MIT
 fast_xls_to_hash,0.2.0,MIT
 fastlane-plugin-flutter_version,0.1.4,MIT
 fastlane-plugin-flutter_version,0.1.5,MIT
+fastlane-plugin-flutter_version,0.1.7,MIT
 fearless_flyer,0.1.1,MIT
 fetch_if_url,0.1.1,MIT
 fibur,1.0.0,""
@@ -400,6 +401,10 @@ raygun-apm,1.0.18,""
 raygun-apm,1.0.19,""
 raygun-apm,1.0.2,""
 raygun-apm,1.0.20,""
+raygun-apm,1.0.21,""
+raygun-apm,1.0.23,""
+raygun-apm,1.0.24,""
+raygun-apm,1.0.25,""
 raygun-apm,1.0.3,""
 raygun-apm,1.0.4,""
 raygun-apm,1.0.5,""
@@ -491,6 +496,8 @@ talkie,0.4.1,MIT
 taq_simple_calendar,0.0.1,""
 tarantool16,0.1.1,MIT
 telegraf,0.5.0,LGPLv3
+telegraf,0.6.0,LGPLv3
+telegraf,0.6.1,LGPLv3
 terrafied,0.7.0,MIT
 test-model,0.2.1,MIT
 test1,0.0.2,MIT

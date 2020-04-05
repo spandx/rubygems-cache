@@ -140,6 +140,7 @@ dynamic_error_pages,0.1.0,MIT
 dynamic_image,2.0.18,MIT
 dynamic_image,2.0.19,MIT
 dynamic_image,2.0.20,MIT
+dynamic_image,2.0.21,MIT
 dynect_email,0.0.2,""
 easy_shell,0.0.1,""
 edgycircle_toolbox,0.1.0,MIT
@@ -151,6 +152,8 @@ embulk-output-dynamodb,0.1.4,Apache-2.0
 ensure_it,1.0.0,MIT
 esignatur,1.2.6,MIT
 fakeit,0.4.2,MIT
+fakeit,0.5.2,MIT
+fakeit,0.5.3,MIT
 fantastic_robot,0.1.2,MIT
 faster_rails_partial_lookup,0.1.0,""
 fastlane-plugin-dmg,0.1.1,MIT
@@ -215,6 +218,7 @@ hola_dylang,0.0.2,MIT
 html-pipeline-negarmoji,0.1.0,GPL-3.0
 html-pipeline-negarmoji,0.1.2,GPL-3.0
 html-pipeline-negarmoji,0.1.3,GPL-3.0
+html-pipeline-negarmoji,0.1.4,GPL-3.0
 hutch-xamplr-pp,1.1.2,""
 hyriosu,0.1.0,MIT
 i18n-export,1.0.2,""
@@ -518,6 +522,7 @@ twofaas,0.0.1,MIT
 typographical,1.1.11,MIT
 typographical,1.1.15,MIT
 typographical,1.1.16,MIT
+typographical,1.1.18,MIT
 u10d,0.2.1,MIT
 uix_validations,0.5.1,MIT
 unicoder,0.1.0,MIT
@@ -525,6 +530,7 @@ unicorn-formatter,0.1.3,""
 upmin-admin,0.1.3,MIT
 urbanopt-scenario,0.1.0,""
 urbanopt-scenario,0.1.1,""
+urbanopt-scenario,0.2.0,""
 url_meta_data,0.1.0,MIT
 vagrant-gitlabauth,0.0.1,GPL-2.0
 vagrant-puppet-install,6.0.1,Apache 2.0

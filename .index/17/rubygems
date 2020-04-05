@@ -110,6 +110,7 @@ color_splat,0.0.1,MIT
 comics_packager,1.0.0,GPL-2.0
 companies_house_client,0.0.2,MIT
 conditional_validation,1.0.0,MIT
+confinement,0.0.1,MIT
 control_spec_helper,0.0.2,Apache-2.0
 corenlp,0.0.6,MIT
 crawler_detect,0.1.10,MIT
@@ -150,6 +151,7 @@ encoder-tools,1.0.0,MIT
 esteem,0.0.2,ISC
 event_store_client,0.1.10,MIT
 event_store_client,0.1.11,MIT
+event_store_client,0.1.15,MIT
 event_store_client,0.1.2,MIT
 event_store_client,0.1.3,MIT
 event_store_client,0.1.4,MIT
@@ -309,6 +311,7 @@ my97-rails,0.0.4,""
 mymo,0.1.0,MIT
 nagios_analyzer,0.0.5,""
 nanoc-sprockets-filter,0.1.1,""
+nested_inherited_jruby_include_package,0.1.0,MIT
 new_gem_yura,0.1.0,MIT
 nivo-rails-am,0.0.2,""
 nordea-filetransfer,0.2.1,""
@@ -327,6 +330,7 @@ oj,3.10.1,MIT
 oj,3.10.2,MIT
 oj,3.10.3,MIT
 oj,3.10.5,MIT
+oj,3.10.6,MIT
 omg-networked-rfid,2.1.1,Commercial
 omniauth-eloqua,0.2.1,GPL v3
 omniauth-ews,0.1.3,GPL-2.0+
@@ -387,6 +391,7 @@ rails-healthcheck,1.1.1,MIT
 rails-healthcheck,1.1.2,MIT
 rails-healthcheck,1.1.3,MIT
 rails-healthcheck,1.1.4,MIT
+rails-healthcheck,1.1.5,MIT
 rails-real-email,0.1.1,MIT
 rails-tracer,0.5.0,Apache-2.0
 rails3-before_action,0.3.1,""
@@ -469,6 +474,7 @@ splat,0.1.5,""
 split_file,0.1.0,MIT
 split_into,1.2,BSD
 sql_to_csv_stream,0.2.0,MIT
+sql_to_csv_stream,0.2.1,MIT
 sspec-mirror-test,3.8.0,MIT
 stack-agent,0.1.3,MIT
 stampitjs-rails,2.1.0.0,MIT
@@ -509,6 +515,7 @@ vagrant-fix-nfs,0.0.3,MIT
 vagrant-mcs,0.8.39,MIT
 vagrant-templated,0.2.0,MIT
 vagrant-vsphere,1.13.3,MIT
+vagrant-vsphere,1.13.4,MIT
 vincent_view_tool,0.1.0,MIT
 virility,0.4.0,MIT-|-Beerware
 virtualearth,0.2.1,MIT

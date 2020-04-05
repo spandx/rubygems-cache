@@ -43,6 +43,7 @@ azure_mgmt_event_grid,0.17.10,MIT
 azure_mgmt_event_grid,0.17.8,MIT
 azure_mgmt_event_grid,0.17.9,MIT
 azure_mgmt_event_grid,0.18.0,MIT
+azure_mgmt_event_grid,0.19.0,MIT
 b2-client,1.0.5,MIT
 bachue-socksify,1.6.0,""
 bamboohr,0.0.1,MIT
@@ -120,6 +121,8 @@ djson_selzlein_view_tool,0.1.0,MIT
 djwrapper,0.0.12,""
 dlister,0.0.2,""
 dotenv-android,0.1.1,MIT
+dotenv-android,0.1.2,MIT
+dotenv-android,0.2.2,MIT
 dragoon_system,0.1.7,""
 drhenry,0.4.0,MIT
 dsf_checker,1.1.0,""
@@ -128,6 +131,8 @@ elasticshelf,0.0.5,MIT
 elir_json,0.1.0,MIT
 embulk-filter-google_translate_api,0.2.1,MIT
 embulk-output-multi,0.4.1,MIT
+emoji2020,0.1.4,MIT
+emoji2020,0.2.0,MIT
 enju_bookmark,0.3.1,""
 enumerable_object_space,0.1.0,MIT
 eprayim,0.1.1,""
@@ -159,6 +164,9 @@ fuselage,0.0.4,""
 gaku_core,0.3.0,GPL-3.0-|-AGPL-3.0
 gallery,0.0.16,""
 gamefic-sdk,1.7.0,MIT
+gamefic-sdk,2.0.1,MIT
+gamefic-sdk,2.0.2,MIT
+gamefic-sdk,2.0.3,MIT
 generate_lotto,1.0.1,MIT
 geodesy,0.0.4,MIT
 gistyle,1.0.2,""
@@ -171,6 +179,7 @@ gitlab-exporter,5.2.1,MIT
 gitlab-exporter,5.2.2,MIT
 gitlab-exporter,6.0.0,MIT
 gitlab-exporter,6.1.0,MIT
+gitlab-exporter,7.0.0,MIT
 gnuplot-multiplot,0.0.1,MIT
 google_analytics_feeds,0.1.2,""
 grape-throttler,1.1.0,MIT
@@ -270,6 +279,8 @@ mac_setup,0.9.0,MIT
 madweblibs,0.0.2,""
 maintenance,0.0.3,""
 makeloc,0.2.2,MIT
+maprename,0.1.0,MIT
+maprename,0.1.1,MIT
 marc4j4r,1.4.2,""
 marc4j4r,1.4.3,MIT
 march,0.0.2,""
@@ -415,11 +426,13 @@ runnerbean,0.1.0,MIT
 s3_file_field,1.3.0,MIT
 saimonmoore-god,0.7.9,""
 sale,0.3.0,""
+sale,0.3.1,""
 sander6-daijobu,0.3.0,""
 sass-yaml,0.0.1,MIT
 sattvika-fluent-plugin-grafana-loki,1.1.0,Apache-2.0
 scalehero,0.0.3,""
 scheduled_value,1.2.2,MIT
+scheduled_value,1.3.0,MIT
 score-scraper,0.1.4,MIT
 scrivito_ace_editor,0.0.1,LGPL-3.0
 seekable_hash,1.0.0,MIT

@@ -25,6 +25,7 @@ apiday,0.1.0,MIT
 apollo-federation,1.0.0,MIT
 apollo-federation,1.0.1,MIT
 apollo-federation,1.0.2,MIT
+apollo-federation,1.0.3,MIT
 appetizer-activerecord,0.1.0,""
 apw_articles,0.0.0,MIT
 arest,0.9.1.1,MIT
@@ -34,10 +35,13 @@ assetsio,0.0.2,""
 audio_glue-sox_adapter,0.0.1,MIT
 auser-parenting,0.0.4,""
 authlogic_crypto_zero,1.0.0,MIT
+auto-rswag,0.1.0,MIT
+auto-rswag,0.1.1,MIT
 auto_paragraph,1.0.0,MIT
 aws-sdk-mediaconnect,1.16.0,Apache-2.0
 aws-sdk-mediaconnect,1.17.0,Apache-2.0
 aws-sdk-mediaconnect,1.18.0,Apache-2.0
+aws-sdk-mediaconnect,1.19.0,Apache-2.0
 aws-sdk-mediapackage,1.24.0,Apache-2.0
 aws-sdk-mediapackage,1.25.0,Apache-2.0
 aws-sdk-mediapackage,1.26.0,Apache-2.0
@@ -115,6 +119,7 @@ cultome_player,2.0.2,MIT
 cumo,0.4.3,BSD-3-Clause
 cursor_pagination,0.0.3,MIT
 custom_inputs,0.1.0,MIT
+custom_inputs,0.1.4,MIT
 cyclid-lxd-plugin,0.2.0,Apache-2.0
 dag_wereld,0.0.1,MIT
 daily_brakeman,0.0.1,MIT
@@ -209,6 +214,7 @@ freak,0.0.1,MIT
 freeRangeEggs,0.0.1,""
 fully_freeze,0.1.0,MIT
 fully_freeze,0.1.1,MIT
+fully_freeze,0.1.2,MIT
 fuzzbert,1.0.4,MIT
 fuzzy_money,0.0.2,MIT
 fwt_bootstrap_rails,0.5.0,MIT
@@ -255,6 +261,7 @@ harness-rabbitmq,0.1.0,MIT
 hash_ext,0.5.0,MIT
 haveapi-client,0.13.2,MIT
 haversine_fast,0.0.2,MIT
+hb_gems,0.1.2,""
 heroku_config_vars,1.1.0,""
 hilink,0.1.2,GPLv3
 hkamm_view_tool,0.1.0,""
@@ -302,6 +309,7 @@ json_fields,0.2.2,MIT
 jsoning,0.8.0,MIT
 jtest,0.2.6,MIT
 just_normalize_css,2.1.0,MIT
+klastera,1.0.1,MIT
 knife-rds,0.0.1,""
 koko-ai-ruby,0.0.6,MIT
 komachi_heartbeat,2.5.0,""
@@ -390,6 +398,7 @@ omniauth-octobat,0.0.1,MIT
 omniauth-octobat,0.0.2,MIT
 omniauth-stripe-connect,2.10.1,""
 ooxml_parser,0.4.1,AGPL-3.0
+ooxml_parser,0.5.1,AGPL-3.0
 openai-ruby,0.1.0,MIT
 opssh,0.0.1,""
 p2e_builder,0.1.5,MIT
@@ -429,6 +438,7 @@ rails_web_cache,0.7.0,MIT
 rails_web_cache,0.7.2,MIT
 rails_web_cache,0.7.3,MIT
 rails_web_cache,0.7.4,MIT
+rails_web_cache,0.7.5,MIT
 railsworks,0.2.2,GPL
 ramp,0.2.1,""
 rbconfig-update,0.0.3,BSD-2-Clause
@@ -561,6 +571,7 @@ umf_pay_service_ruby,1.0.0,MIT
 user_info_normalizer,0.3.1,MIT
 vagrant-destroyer,0.0.1,MIT
 viagogo,0.0.1,MIT
+viniBaxter-spa_directory,0.1.0,""
 vinted-mmenu,5.2.0,MIT
 vlad-assets,0.0.1,MIT
 volume_visualizer,0.0.1,MIT

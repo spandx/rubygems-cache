@@ -226,6 +226,7 @@ intermediator,0.0.2,MIT
 intrigue-ident,0.73,BSD
 intrinio-sdk,5.0.0,GPL-3.0
 intrinio-sdk,5.1.0,GPL-3.0
+intrinio-sdk,5.2.0,GPL-3.0
 invoracle,0.0.4,MIT
 iodized,0.0.3,Copyright Envato - All rights reserved.
 isolated_server,0.4.12,""
@@ -411,6 +412,7 @@ rbattlenet,1.1.3,MIT
 rbattlenet,2.0.0,MIT
 rbbt-sources,3.1.41,""
 rbbt-sources,3.1.42,""
+rbbt-sources,3.1.43,""
 rc_gems,0.0.1,MIT
 rca,0.0.0,MIT
 rdaux,0.1.4,MIT
@@ -441,6 +443,7 @@ rqrcode_core,0.1.2,MIT
 rspec-intercept,0.0.2,MIT
 rspec-routes_coverage,0.1.6,""
 rswag-ui,2.2.0,MIT
+rswag-ui,2.3.0,MIT
 rubocop-iknow,0.0.2,MIT
 rubocop-iknow,0.0.3,MIT
 ruboty-dmm,0.0.5,MIT
@@ -562,6 +565,7 @@ wm_okta_helper,0.3.0,MIT
 wordify_jakesorce,0.1.1,MIT
 workarea-api-storefront,4.5.0,Business Software License
 workarea-api-storefront,4.5.2,Business Software License
+workarea-api-storefront,4.5.3,Business Software License
 worochi,0.0.18,MIT
 wtnabe-vbox_config_admin,0.0.2,""
 xcharts-rails,0.1.3,""

@@ -17,6 +17,7 @@ activemerchant,1.103.0,MIT
 activemerchant,1.104.0,MIT
 activemerchant,1.105.0,MIT
 activemerchant,1.106.0,MIT
+activemerchant,1.107.1,MIT
 activerecord-money,0.0.1,""
 activerecord-native_db_types_override,0.3.0,MIT
 activerecord_html_stripper,0.0.2,""
@@ -118,6 +119,7 @@ compass_twitter_bootstrap,2.3.1,""
 conduit-telispire,1.10.1,""
 conduit-telispire,1.10.2,""
 conduit-telispire,1.10.3,""
+conduit-telispire,1.10.4,""
 copy-expander,0.0.3,MIT
 copybar,0.0.1,""
 cosmos,4.0.3,GPL-3.0
@@ -204,6 +206,7 @@ fluent-plugin-querycombiner,0.0.3,"Apache License, Version 2.0"
 fluxapi,0.6.1,MIT
 fontello_rails_converter,0.4.6,MIT
 foreman_rescue,2.0.1,GPL-3.0
+foreman_rescue,3.0.0,GPL-3.0
 francois-webby,0.9.4.1,""
 fuubar,2.5.0,MIT
 gadabout,0.5.3,""
@@ -375,6 +378,7 @@ phcdevworks_members,5.1.0,MIT
 phcdevworks_members,5.1.1,MIT
 phcdevworks_members,6.0.0,MIT
 phcdevworks_members,6.1.0,MIT
+phcdevworks_members,6.2.0,MIT
 pinball_wizard,1.0.0,MIT
 pmrpc-rails,1.0.1,Apache 2.0
 podspecpush,0.9.4,MIT
@@ -519,6 +523,7 @@ themis-checker-server,3.0.0,MIT
 theysaidso,0.1.2,MIT
 thredded_create_app,0.2.0,MIT
 thredded_create_app,0.2.1,MIT
+thredded_create_app,0.2.2,MIT
 tixriss,0.2.0,MIT
 tordist,0.2.0,MIT
 torquebox-web,3.2.0,Public Domain

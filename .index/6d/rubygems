@@ -120,12 +120,14 @@ dakarai,5.0.1,MIT
 dakarai,5.1.0,MIT
 danil-gem,0.0.0,""
 darmani_game59,0,""
+databrain,0.1.0,MIT
 datacalc,0.0.1,GPL
 davetron5000-gliffy,0.9.5,""
 db_url_helper,0.2.3,""
 debloater,0.2.0,MIT
 decidim-assemblies,0.19.1,AGPL-3.0
 decidim-assemblies,0.20.0,AGPL-3.0
+decidim-assemblies,0.20.1,AGPL-3.0
 dee_bee,0.0.4,MIT
 deep_pluck,1.1.3,MIT
 deep_pluck,1.1.4,MIT
@@ -289,6 +291,7 @@ lark-sdk,1.0.0,MIT
 lark-sdk,1.0.2,MIT
 lark-sdk,1.0.4,MIT
 lark-sdk,1.0.6,MIT
+lark-sdk,1.0.7,MIT
 latex_eval,0.1.0,MIT
 lazy_const,0.1.3,MIT
 lccnorm,1.0.0,MIT
@@ -308,6 +311,7 @@ loupe,0.0.3,MIT
 lux,1.1.4,MIT
 lyber-utils,0.1.2,""
 macsay,0.1.0,""
+macsay,0.1.1,MIT
 mail_autoconfig,0.0.2,MIT
 mallow-theme,0.1.0,GPL-3.0
 markw-wcwidth,0.0.3,""
@@ -347,6 +351,7 @@ my_string_extend_rvh,0.0.1,""
 mysh,0.6.14,MIT
 mysh,0.6.16,MIT
 mysh,0.6.17,MIT
+mysh,0.6.18,MIT
 nagios-promoo,1.7.1,Apache-2.0
 nakajima-protocov,0.0.3,""
 ncbi-taxonomy,0.2.11,Nonstandard
@@ -369,6 +374,7 @@ packnga,1.0.4,LGPLv2
 padrino-jbuilder,0.0.8,""
 pangrammic_surplus,1.0.1,""
 pantaloon-cli,0.0.1,MIT
+paradin,0.1.1,""
 parsi-date,0.3.1,MIT
 party_foul,1.5.5,MIT
 path-builder,0.1.3,MIT
@@ -390,6 +396,7 @@ powerand-ffmpeg,3.0.0,MIT
 pp,0.1.1,MIT
 print,0.0.1,MIT
 producer-stdlib,0.1.3,""
+profilizer,0.1.0,MIT
 prrd,0.2.0,MIT
 puppet-lint-security-plugins,0.2.0,MIT
 pwup,0.0.8,""
@@ -520,6 +527,7 @@ swagger-core,0.3.0,Apache-2.0
 tabs_for,0.2.6,MIT
 tax_jp,1.1.2,MIT
 tax_jp,1.1.3,MIT
+tax_jp,1.1.4,MIT
 tbg_social,0.1.1,MIT
 tempest_time,2.0.1,MIT
 temporality,0.0.5,MIT
@@ -530,6 +538,8 @@ testhello,0.1,MIT
 testrail-cucumber,0.1.7,MIT
 testrail-cucumber,0.1.8,MIT
 testrail-cucumber,0.1.9,MIT
+testrail-cucumber,0.2.0,MIT
+testrail-cucumber,0.2.1,MIT
 testrail_api,1.1.6,MIT
 texel-gchart,0.5.0,""
 text_analysis,0.2.1,MIT
@@ -547,6 +557,7 @@ transactd,3.8.4,GPL-2.0
 trex,1.0.9,""
 trix_on_rails,0.2.0,MIT
 trope,0.0.0,""
+truemail-client,0.1.0,MIT
 tupelo,0.22,BSD
 uber_select_rails,0.1.8,""
 unicode-display_width,1.6.0,MIT

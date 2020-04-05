@@ -38,6 +38,7 @@ awspec,1.18.2,MIT
 awspec,1.18.3,MIT
 awspec,1.18.4,MIT
 awspec,1.18.5,MIT
+awspec,1.18.6,MIT
 awsstack,0.2.2,MIT
 azure-armrest,0.9.14,Apache 2.0
 azure-armrest,0.9.15,Apache 2.0
@@ -49,6 +50,7 @@ bdd-helper,0.0.4,MIT
 beaker-puppet,1.18.11,Apache2
 beaker-puppet,1.18.13,Apache2
 beaker-puppet,1.18.14,Apache2
+beaker-puppet,1.18.15,Apache2
 beardley-open_sans,0.1.0,MIT
 beatport_play-scraper,0.1.0,MIT
 beawesomeinstead-rubyglot,0.1.0,""
@@ -139,6 +141,7 @@ email_address,0.1.12,MIT
 email_address,0.1.13,MIT
 email_address,0.1.14,MIT
 email_address,0.1.15,MIT
+email_address,0.1.16,MIT
 embulk-filter-base64,0.2.0,MIT
 embulk-output-salesforce,0.1.4,MIT
 emconvert,1.0.5,Apache2
@@ -197,6 +200,7 @@ governor_thinking_sphinx,0.1.4,""
 gramos-robbie,0.0.2,""
 grape_api_signature,0.0.6,MIT
 gravedigger,0.1.1,MIT
+gravedigger,0.1.2,MIT
 greeting_message,0.0.0,MIT
 grosser-autotest,4.0.4,""
 gs2-ruby-sdk-realtime,0.1.0,Apache-2.0
@@ -213,6 +217,7 @@ hayato1980-tomcatmanager,0.1.1,""
 hello-authentication,0.0.0,MIT
 hello_lcw,0.0.0,MIT
 hiera-secrets-manager,1.1.0,MIT
+hmc_vios_aix,0.0.1,CC-BY-NC-SA-4.0
 hobson,0.1.0,MIT
 hola_dunstontc,0.0.5,MIT
 homura,0.2.4,MIT
@@ -226,6 +231,7 @@ ignored_removed_columns,0.1.0,MIT
 imprint,1.5.0,MIT
 increment_semver,0.0.4,MIT
 ios7crypt,0.3,FreeBSD
+iot_services,0.1.0,""
 iron_core,1.0.12,""
 isolator,0.6.1,MIT
 isolator,0.6.2,MIT
@@ -295,8 +301,17 @@ lono,7.2.3,https://boltops.com/boltops-community-license
 lono,7.3.0,https://boltops.com/boltops-community-license
 lono,7.3.1,https://boltops.com/boltops-community-license
 lono,7.3.2,https://boltops.com/boltops-community-license
+lono,7.4.1,https://boltops.com/boltops-community-license
+lono,7.4.2,https://boltops.com/boltops-community-license
+lono,7.4.4,https://boltops.com/boltops-community-license
+lono,7.4.5,https://boltops.com/boltops-community-license
+lono,7.4.6,https://boltops.com/boltops-community-license
 lotus_admin,0.5.1,MIT
 lotus_admin,1.1.1,MIT
+lotus_admin,1.2.2,MIT
+lotus_admin,1.3.0,MIT
+lotus_admin,1.4.1,MIT
+lotus_admin,1.4.4,MIT
 lumberjack_redis_device,1.0.0,MIT
 mainstreet,0.2.1,MIT
 mandriller,0.2.0,MIT
@@ -340,6 +355,7 @@ number_inverter,0.1.0,MIT
 oa-mailru_alexandrov,0.0.6,""
 oai,1.0.0,""
 oai,1.0.1,""
+oai,1.1.0,""
 object_spy,0.0.1,MIT
 omniauth-fdc,0.1.0,""
 omniauth-quizlet,0.0.1,""
@@ -439,6 +455,7 @@ simple_forecast,0.0.3.1,MIT
 simple_form_bootstrap_inputs,0.1.0,MIT
 simple_format,0.0.2,MIT
 simplecov-json,0.2,""
+simplecov-json,0.2.1,""
 simplify_rb,0.4.0,MIT
 sinatra-websocket,0.3.1,""
 sitediff,0.0.6,GPL-2.0

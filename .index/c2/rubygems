@@ -28,6 +28,7 @@ anderson_jessie_view_tool,0.1.0,MIT
 anjlab-bootstrap-rails,3.0.3.0,""
 ao,0.1.4,MIT
 apple_id,0.3.0,MIT
+apple_id,0.6.0,MIT
 artifactory-cleaner,1.0.1,MIT
 artifactory-cleaner,1.0.2,MIT
 ascii_drawing_generator,0.1.0,MIT
@@ -95,6 +96,7 @@ conwy,1.0.1,MIT
 cousin_roman,1.0.8,MIT
 crossbar,0.0.5,MIT
 crux_drlctr,0.0.1,MIT
+cucumber-cucumber-expressions,10.0.0,MIT
 cucumber-cucumber-expressions,8.3.1,MIT
 cucumber-cucumber-expressions,9.0.0,MIT
 cucumber-symbolic-hashes,0.0.3,MIT
@@ -235,6 +237,8 @@ jfrench-mimetype-fu,0.1.0,""
 jinda,0.4.4,MIT
 jinda,0.4.5,MIT
 jinda,0.4.6,MIT
+jinda,0.4.7,MIT
+jinda,0.4.9,MIT
 jkestr-rets4r,1.1.10,""
 jonli_view_tool,0.1.0,MIT
 jos-test-gem-a,1.1.0,MIT
@@ -348,6 +352,7 @@ paymaya,0.1.7,MIT
 paytm,0.1.5,""
 peatio-ripple,2.4.0,MIT
 peatio-ripple,2.5.0,MIT
+peatio-ripple,2.5.1,MIT
 pivotal-elementor,0.0.2,""
 player001_view_tool,0.1.1,MIT
 portuguese_pluralizer,0.0.0,MIT
@@ -355,6 +360,7 @@ pox,0.2.2,""
 ppbench,0.0.5,MIT
 pr-comment,0.0.2,MIT
 prawn_plus,10.0.0,Apache-2.0
+prawn_plus,10.1.0,Apache-2.0
 prawn_plus,9.1.4,Apache-2.0
 pre_and_post_initialize,0.0.2,""
 process,0.0.1,""
@@ -389,6 +395,7 @@ rails_jwt_auth,1.6.1,MIT
 rails_model_visualizer,0.1.2,MIT
 rails_use_case,0.0.3,MIT
 rails_use_case,0.0.4,MIT
+rails_use_case,0.0.5,MIT
 rainux-rails-sqlserver-2000-2005-2008-adapter,2.2.15,""
 rake-extensions,0.3.0,MIT
 random_org_http_api,0.0.3.1,MIT
@@ -497,6 +504,7 @@ stylio,0.4.1,MIT
 stylusc,0.0.1,""
 supai,0.2.0,MIT
 supai,0.2.3,MIT
+supai,0.2.4,MIT
 tag_eal,0.0.2,""
 tarsus-rails,0.0.1.1,MIT
 termapinator,0.0.2,""

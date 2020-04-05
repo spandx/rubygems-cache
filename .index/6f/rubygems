@@ -54,6 +54,7 @@ aws-sdk-s3,1.60.1,Apache-2.0
 aws-sdk-s3,1.60.2,Apache-2.0
 aws-sdk-s3,1.61.0,Apache-2.0
 aws-sdk-s3,1.61.1,Apache-2.0
+aws-sdk-s3,1.61.2,Apache-2.0
 azure_mgmt_logic,0.18.1,MIT
 badcards,0.3.1,MIT
 ballmer,1.0.1,MIT
@@ -82,6 +83,7 @@ capistrano-slackbot,0.1.0,MIT
 capper,2.0.0,""
 carnivore-http,0.3.6,Apache 2.0
 cassandra-driver,3.2.3,Apache License 2.0
+cassandra-driver,3.2.4,Apache License 2.0
 cassette-rack,0.10.0,MIT
 cassiano-model_lookup,0.1.11,""
 casual-api,3.0.9,MIT
@@ -127,6 +129,7 @@ dboard,1.1.0,MIT
 debug_timer,0.1.0,MIT
 decidim-proposals,0.19.1,AGPL-3.0
 decidim-proposals,0.20.0,AGPL-3.0
+decidim-proposals,0.20.1,AGPL-3.0
 deep_thought-capistrano_2,0.1.0,""
 device_wizard,1.0.1,MIT
 devise_auto_sign_out,0.1.0,MIT
@@ -163,6 +166,8 @@ factory_girl_profiling,0.0.1,MIT
 fakeetc,0.3.0,MIT
 faraday-client_error_handling,0.0.4,MIT
 fast-polylines,1.0.0,MIT
+fast-polylines,2.0.0,MIT
+fast-polylines,2.0.1,MIT
 fastlane-plugin-remove_setting,0.1,MIT
 fatjam-acts_as_revisable,0.9.7,""
 fdfinder,1.0.1,MIT
@@ -248,6 +253,7 @@ jackdempsey-rpx_now,0.5.8,""
 jbootstrap,0.0.5.1,""
 jekyll-linkpreview,0.2.0,MIT
 jekyll-linkpreview,0.3.0,MIT
+jekyll-linkpreview,0.3.1,MIT
 jekyll-locales,0.1.6,GPL-3.0
 jekyll-locales,0.1.7,GPL-3.0
 jekyll_frontmatter_tests,0.1.0,CC0
@@ -288,6 +294,8 @@ kcc-gem-theme,1.44.25,MIT
 kcc-gem-theme,1.48.26,MIT
 kcc-gem-theme,1.49.26,MIT
 kcc-gem-theme,1.50.28,MIT
+kcc-gem-theme,1.51.31,MIT
+kcc-gem-theme,1.51.34,MIT
 keycounter,0.1.5,MIT
 kitchen-config,0.2.0,MIT
 knife-killer,0.1.2,Apache 2.0
@@ -300,6 +308,7 @@ lastfmbb,0.1.3,MIT
 launchd,0.2.1,MIT
 lazy_enumerator,2.0.0,MIT
 leaseweb-rest-api,1.1.6,Apache
+leaseweb-rest-api,2.0.0,Apache-2.0
 libnotify,0.9.4,MIT
 licensario,0.0.3,""
 line-em-up,2.0.4,MIT
@@ -351,6 +360,7 @@ multi_exiftool,0.12.0,MIT
 multi_exiftool,0.13.0,MIT
 multi_exiftool,0.14.0,MIT
 multi_exiftool,0.14.1,MIT
+multi_exiftool,0.15.0,MIT
 muse,0.0.12,""
 mutant-melbourne,2.0.3,""
 n42translation,0.1.2,MIT
@@ -463,6 +473,11 @@ sensu-plugins-beanstalk,3.0.0,MIT
 sequel-batches,1.0.0,MIT
 setupWatirCucumber,0.2.0,MIT
 sibit,0.13.1,MIT
+sibit,0.14.3,MIT
+sibit,0.17.0,MIT
+sibit,0.18.0,MIT
+sibit,0.18.4,MIT
+sibit,0.18.5,MIT
 sidekiq-status,1.1.4,MIT
 sigfox_api,0.2.1,MIT
 sigfox_api,0.3.1,MIT

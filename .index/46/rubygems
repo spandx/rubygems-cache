@@ -7,6 +7,7 @@ Watch-The-Invisible-Man-2020-Online-hd,1.5.6,https://t.co/wbKQQA6LI8
 Wheniwork-api,0.0.1,MIT
 a1436mm_age,0.0.3,MIT
 active_record_shards,3.16.0,MIT
+active_record_shards,3.17.0,MIT
 activeadmin-therole,0.0.4,MIT
 activerecord-postgres-postgis,0.1.0,MIT
 activerecord_sortable,0.1.0,MIT
@@ -82,9 +83,12 @@ clearly-query,1.1.0,MIT
 cli_nbadraft2019,0.1.0,MIT
 cloud-templates,0.3.0,Apache 2.0
 cloudsmith-api,0.44.4,Apache-2.0
+cloudsmith-api,0.49.118,Apache-2.0
 cloudsmith-api,0.49.15,Apache-2.0
 cloudsmith-api,0.49.21,Apache-2.0
 cloudsmith-api,0.49.9,Apache-2.0
+cloudsmith-api,0.49.94,Apache-2.0
+cloudsmith-api,0.49.98,Apache-2.0
 cm-carrierwave_dav,0.1.2.1,MIT
 cmd_plot,0.0.1,GPL-2.0
 cocot,1.1.3,cocot
@@ -130,6 +134,7 @@ dropio-mock_record,0.1.0,""
 droplet,0.0.1,MIT
 dry-graphql,2.1.0,MIT
 dry-graphql,2.2.0,MIT
+dry-rails,0.1.0,MIT
 dry-result_matcher,0.4.0,MIT
 dstk,0.50.3,""
 each_line_reverse,1.0.0,MIT
@@ -154,6 +159,7 @@ fOOrth,0.6.10,MIT
 faker,2.10.0,MIT
 faker,2.10.1,MIT
 faker,2.10.2,MIT
+faker,2.11.0,MIT
 faker,2.9.0,MIT
 fancy-progress-bars,0.1.0,""
 fast_port_scanner,0.1.0,MIT
@@ -293,6 +299,7 @@ lm2doc,0.0.3,""
 lmb-developers,1.2.1,MIT
 lock_and_cache_msgpack,4.1.0,MIT
 logstash-filter-record_split,0.1.0,Apache-2.0
+logstash-filter-record_split,0.1.3,Apache-2.0
 logstash-output-azure,2.1.0,Apache-2.0
 lorem_ipsum_test,0.0.1,""
 lottery,0.0.5,MIT
@@ -331,6 +338,7 @@ neco,0.2.0,MIT
 neifelheim-forem,0.0.2,""
 ngauthier-active-listener,0.3.3,""
 nice_acl,0.0.0,MIT
+nice_acl,0.1.0,MIT
 nokogiri-xmlsec-instructure,0.9.6,MIT
 nova-tcp,1.1,MIT
 ntee,1.0.0,""
@@ -344,6 +352,7 @@ old_style,1.4.5,MIT
 ole-qa-framework,3.18.1,ECLv2
 omniauth-cortex,0.1.0,Apache-2.0
 onsi,1.3.1,MIT
+onsi,2.0.1,MIT
 oojspec,0.3.0,""
 opal,1.0.2,MIT
 opal,1.0.3,MIT
@@ -385,6 +394,9 @@ puppet_litmus,0.13.1,Apache-2.0
 puppet_litmus,0.14.0,Apache-2.0
 puppet_litmus,0.15.0,Apache-2.0
 puppet_litmus,0.16.0,Apache-2.0
+puppet_litmus,0.17.0,Apache-2.0
+puppet_litmus,0.18.0,Apache-2.0
+puppet_litmus,0.18.1,Apache-2.0
 pure_form,0.0.2,MIT
 queue_classic_plus,1.1.0,MIT
 quick-search,0.9.0,MIT
@@ -393,6 +405,7 @@ rack-post_body_msgpack_parser,0.1.0,""
 rack-raml,0.1.2,MIT
 rackspace_lb_cli,0.2.2,Apache-2.0
 radikocopy,0.6.0,MIT
+radikocopy,0.7.0,MIT
 radiosonde2terraform,0.1.3,""
 radiosonde2terraform,0.1.6,""
 raidzklart_palindrome,0.2.0,""
@@ -470,6 +483,7 @@ smiley_rating,0.1.0,MIT
 sms_center,0.0.4,""
 sms_center,0.0.6,""
 sms_center,0.0.7,""
+sms_center,0.0.8,""
 social_web-webmention,0.1,MIT
 soju,0.0.0,GPLv3
 solidus_trackers,1.1.0,BSD-3-Clause
@@ -559,6 +573,7 @@ workarea,3.5.4,Business Software License
 workarea,3.5.5,Business Software License
 workarea,3.5.6,Business Software License
 workarea,3.5.7,Business Software License
+workarea,3.5.8,Business Software License
 wxl_console,0.1.0,MIT
 xdomain-rails,1.0.4,MIT
 yank,1.1.0,""

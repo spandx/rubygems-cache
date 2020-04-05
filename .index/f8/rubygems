@@ -13,6 +13,7 @@ actionview,6.0.2.1,MIT
 actionview,6.0.2.2,MIT
 active_model_serializers_pg,0.0.6,MIT
 active_record_store,0.0.4,MIT
+active_record_store,0.3.0,MIT
 active_sample,1.0.2,Apache 2.0
 activejob-audited,0.0.1,""
 activejob_spec,1.0.0,MIT
@@ -55,14 +56,20 @@ avm-tools,0.33.0,""
 avm-tools,0.33.1,""
 avm-tools,0.34.0,""
 avm-tools,0.35.0,""
+avm-tools,0.36.0,""
+avm-tools,0.37.1,""
+avm-tools,0.39.0,""
+avm-tools,0.40.0,""
 awesome_nested_fields,0.6.4,""
 aws-sdk-cognitoidentity,1.18.0,Apache-2.0
 aws-sdk-cognitoidentity,1.19.0,Apache-2.0
+aws-sdk-cognitoidentity,1.20.0,Apache-2.0
 aws-sdk-opsworkscm,1.26.0,Apache-2.0
 aws-sdk-opsworkscm,1.27.0,Apache-2.0
 aws-sdk-opsworkscm,1.28.0,Apache-2.0
 aws-sdk-opsworkscm,1.29.0,Apache-2.0
 aws-sdk-opsworkscm,1.30.0,Apache-2.0
+aws-sdk-opsworkscm,1.31.0,Apache-2.0
 azure_cognitiveservices_qnamaker,0.17.2,MIT
 azure_cognitiveservices_qnamaker,0.18.0,MIT
 azure_mgmt_recovery_services,0.17.3,MIT
@@ -159,6 +166,7 @@ envcrypt,0.1.2,MIT
 enwrap,0.0.1,""
 erber,0.1.2,MIT
 ethereum_tree,0.2.0,MIT
+ethereum_tree,0.2.1,MIT
 eventmachinealignedperiodic,2.1.2,MIT
 ey_instance_api_client,0.1.11,""
 fabricio,1.3.0,MIT
@@ -290,6 +298,7 @@ machery,0.0.1,MIT
 markdown_mail_sender,0.2.1,MIT
 mass-hooker,0.0.1,MIT
 math_demo,0.4.0,GPL-3.0
+math_demo,0.5.0,GPL-3.0
 matron-client,0.1.0,""
 memoize_delegate,0.1.0,MIT
 messenger_pigeon,0.3.0,MIT
@@ -333,6 +342,8 @@ nimbleshop,0.0.23,""
 nkallen-cash,0.1.1,""
 node,1.0.0,MIT
 node,2.0.0,MIT
+node,2.0.2,MIT
+node,2.1.0,GPL-3.0
 nonsensor,0.1.1,MIT
 notepunch-git-media,0.1.3,""
 npr_stories,0.1.0,MIT
@@ -373,6 +384,8 @@ positive_kernel_support,0.1.0,MIT
 possibly,1.0.1,MIT
 postfix_daemon,0.1.0,MIT
 preservation,0.5.0,MIT
+prettyrb,0.1.0,MIT
+prettyrb,0.2.0,MIT
 prgm,0.1.1,MIT
 procview,0.9.6,MIT
 pssh_box,0.1.0,MIT
@@ -431,6 +444,13 @@ rcfiles,1.1.1060,GPL-2.0
 rcfiles,1.1.1061,GPL-2.0
 rcfiles,1.1.1062,GPL-2.0
 rcfiles,1.1.1063,GPL-2.0
+rcfiles,1.1.1064,GPL-2.0
+rcfiles,1.1.1065,GPL-2.0
+rcfiles,1.1.1066,GPL-2.0
+rcfiles,1.1.1067,GPL-2.0
+rcfiles,1.1.1068,GPL-2.0
+rcfiles,1.1.1069,GPL-2.0
+rcfiles,1.1.1070,GPL-2.0
 rcfiles,1.1.749,GPL-2.0
 rcfiles,1.1.751,GPL-2.0
 rcfiles,1.1.756,GPL-2.0
@@ -572,10 +592,13 @@ strong_migrations,0.5.1,MIT
 strong_migrations,0.6.0,MIT
 strong_migrations,0.6.1,MIT
 strong_migrations,0.6.2,MIT
+strong_migrations,0.6.3,MIT
 studio_game_ar,1.0.0,MIT
 summer_residents,0.0.9,""
 sunny_12345,1.2.0,MIT
 super_module,1.2.2,MIT
+super_module,1.3.0,MIT
+super_module,1.3.1,MIT
 surface_master,0.6.0,""
 symbolink,0.0.7,""
 system_keychain,1.0.0,MIT
@@ -646,6 +669,7 @@ xls_to_csv-paperclip-processor,0.4.5,MIT
 xml_uglifier,0.0.2,MIT
 yakc,1.0.0,MIT
 yakischloba-drizzle-ffi,0.0.4,""
+yamlm,0.1.0,MIT
 yao-oj,0.3.1,MIT
 yaqut,0.0.1,MIT
 yard-ghpages,0.0.2,""

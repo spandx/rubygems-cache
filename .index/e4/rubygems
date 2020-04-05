@@ -187,8 +187,10 @@ forbes-finder,0.1.2,MIT
 foreman-katello-engine,0.0.19,GPL-3
 format_engine,0.7.7,MIT
 format_engine,0.7.8,MIT
+format_engine,0.7.9,MIT
 format_parser,0.20.0,MIT (Hippocratic)
 format_parser,0.20.1,MIT (Hippocratic)
+format_parser,0.21.0,MIT (Hippocratic)
 fpm-cookery,0.34.0,""
 fpm-cookery,0.35.1,""
 freeze_tag,0.1.6,MIT
@@ -242,6 +244,7 @@ hola_jams,0.0.0,MIT
 hola_kirk,0.2.3,""
 hola_yangqing,0.0.0,MIT
 hone-lockdown,1.2.3,""
+html-pipeline-task_list,0.0.1,MIT
 html5-boilerplate,2.1.0,""
 hung_secondGem,0.1.1,MIT
 hungarian_algorithm,1.0.0,GPL-3.0-only
@@ -454,6 +457,7 @@ sportdb-clubs,0.4.0,Public Domain
 sportdb-clubs,0.4.1,Public Domain
 sportdb-clubs,0.4.2,Public Domain
 sportdb-clubs,0.4.3,Public Domain
+sportdb-clubs,0.4.4,Public Domain
 sportdb-leagues,0.2.2,Public Domain
 sportdb-leagues,0.2.3,Public Domain
 spree_social,1.1,""
@@ -500,6 +504,7 @@ twitter-bootstrap4-rails,0.1.1,MIT
 twitter_image_parser,0.0.3,MIT
 unicorn-timeout,1.0.0,""
 universa,3.13.2.2,MIT
+universa,3.14.2.1,MIT
 urit,0.0.0,MIT
 user_space,3.0.0,MIT
 usesguid,1.1.0,MIT

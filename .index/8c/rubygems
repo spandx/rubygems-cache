@@ -44,6 +44,7 @@ aws-architect,1.0.4.0,BSD-3-Clause
 aws-sdk-fms,1.20.0,Apache-2.0
 aws-sdk-fms,1.21.0,Apache-2.0
 aws-sdk-fms,1.22.0,Apache-2.0
+aws-sdk-fms,1.23.0,Apache-2.0
 azure_mgmt_relay,0.17.2,MIT
 babysitter,0.0.15,""
 backenup,0.0.8,""
@@ -69,6 +70,7 @@ bulletin,0.0.6,""
 bunq-client,0.4.2,MIT
 bunq-client,0.5.0,MIT
 bunq-client,0.7.0,MIT
+bunq-client,0.7.2,MIT
 byte,0.0.0,MIT
 byte_helper,0.0.2,MIT
 camaras_valencia_es,0.0.2,""
@@ -76,6 +78,7 @@ cans,0.2.3,""
 canubby,0.0.0.1,GPL-3.0
 canvas_statsd,2.0.4,MIT
 capistrano-bundler,1.6.0,MIT
+capistrano-docker_cluster,1.0.1,MIT
 capistrano-kemal,0.1.0,""
 capistrano-rails-server,2.0.2,""
 carbon-core,0.2.1,MIT
@@ -131,9 +134,12 @@ dependabot-python,0.117.0,Nonstandard
 dependabot-python,0.117.1,Nonstandard
 dependabot-python,0.117.2,Nonstandard
 dependabot-python,0.117.3,Nonstandard
+dependabot-python,0.117.4,Nonstandard
+dependabot-python,0.117.5,Nonstandard
 despeck,0.3.0,MIT
 devise_revocable_session,0.1.1,MIT
 devise_revocable_session,0.1.2,MIT
+devise_revocable_session,0.1.4,MIT
 diffxml,0.3.0,MIT
 dimscan,0.2.3,MIT
 discrete_math,0.0.12,MIT
@@ -141,6 +147,7 @@ distyll,1.0.0,MIT
 dockerdns,0.1.0,MIT
 docx-html,0.1.0,""
 docxi,0.0.6,MIT
+doggo,0.0.3,MIT
 dotenv-heroku,0.0.1,MIT
 drndump,1.0.1,GPLv3 or later
 dsl_block,2.0.0,MIT
@@ -197,6 +204,7 @@ grape_on_rails_routes,0.3.2,MIT
 graphite-api,1.1.1,LGPL-3.0
 graphql-docs,1.9.1,MIT
 graphql-docs,2.0.0,MIT
+graphql-docs,2.0.1,MIT
 greentext,0.3.1,MIT
 guides_style_mbland,0.1.0,ISC
 gv,0.1.0,MIT
@@ -213,6 +221,7 @@ html_writer,0.2.0,""
 huginn_mailgun_agent,1.0,MIT
 i18n-continent-translations,0.1.3,""
 i18n-hygiene,1.0.2,MIT
+i18n-hygiene,1.1.0,MIT
 iarrogant,0.0.2,MIT
 igem,0.0.0,MIT
 ignore,0.0.2,""
@@ -221,6 +230,7 @@ informed,1.1.1,MIT
 insta_readability,0.0.1,""
 instagram_basic_display_api,0.0.1,MIT
 io_request,1.1.0,MIT
+io_request,1.2.0,MIT
 iphoto_backup,1.1.1,MIT
 ipscanner,0.3.0,MIT
 is_association,0.0.2,""
@@ -245,7 +255,9 @@ latex_formula_converter,0.1.1,""
 lb-operation,0.0.2,MIT
 left_pad,0.0.1,""
 letter_avatar,0.3.7,GPL-2.0
+letter_avatar,0.3.8,GPL-2.0
 lhc-core-interceptors,3.0.0,GPL-3
+lib5k-theme,0.1.0,CC0-1.0
 libxslt-ruby,1.1.0,""
 libxslt-ruby,1.1.1,""
 liquid-cli,0.0.1,MIT
@@ -306,12 +318,14 @@ omniauth-wrike,1.0.0,MIT
 opal-actioncable,0.2.3,""
 openminds_deploy,1.0.8,""
 opennorth-represent,0.1.0,MIT
+openstudio-aedg,0.1.1,""
 orpg,1.1.0,MIT
 ownlan,0.4.6,MIT
 page_number,0.2.0,MIT
 pages_cms,3.0.0,MIT
 palettetown,0.2.2,MIT
 parasut_ruby_sdk,0.1.1,""
+passive,0.0.2,MIT
 passrock,0.0.8,MIT
 pasv_lib,0.4.1,""
 phcdevworks_tutorials,5.2.1,MIT
@@ -321,6 +335,9 @@ phcdevworks_tutorials,6.1.0,MIT
 phcdevworks_tutorials,6.3.1,MIT
 phcdevworks_tutorials,6.4.0,MIT
 phcdevworks_tutorials,6.5.0,MIT
+phcdevworks_tutorials,6.6.0,MIT
+phcdevworks_tutorials,6.6.1,MIT
+phcdevworks_tutorials,6.6.4,MIT
 philae,0.3.2,BSD-3-Clause
 plastic_wrap,0.2.0,""
 plupload-assets,0.0.1,GPLv2
@@ -331,6 +348,7 @@ polaris_tokens,2.10.0,MIT
 polaris_tokens,2.11.0,MIT
 polaris_tokens,2.12.0,MIT
 polaris_tokens,2.12.1,MIT
+polaris_tokens,2.12.2,MIT
 polaris_tokens,2.7.0,MIT
 polaris_tokens,2.8.0,MIT
 polaris_tokens,2.8.2,MIT
@@ -366,7 +384,10 @@ rails_sandbox_server,0.0.3,MIT
 rapidoc,0.0.7,MIT
 rayyan-formats-core,0.1.6,MIT
 rayyan-formats-core,0.2.1,MIT
+rayyan-formats-core,0.2.3,MIT
+rayyan-formats-core,0.2.4,MIT
 rbbt-image,0.1.36,MIT
+rbbt-image,0.1.37,MIT
 rbrsync,0.0.8,""
 realityforge-braid,0.9.9,""
 recache,0.1.0,""

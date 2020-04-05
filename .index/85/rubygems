@@ -12,16 +12,20 @@ ThunderKey-rubocop,0.0.23,MIT
 ThunderKey-rubocop,0.0.24,MIT
 ThunderKey-rubocop,0.0.25,MIT
 ThunderKey-rubocop,0.0.26,MIT
+ThunderKey-rubocop,0.0.27,MIT
 TimerJS,0.0.1,MIT
 acm,0.4.2,MIT
 acm,0.5.0,MIT
 acm,0.5.1,MIT
 acm,0.6.0,MIT
+acm,0.7.0,MIT
 active-merchant-mollie,0.1.1,""
 active-model_serializers_validator,1.2,BSD 3-Clause
 active_record_analyzer,0.2.1,MIT
 adminix,0.2,MIT
 advanced-sneakers-activejob,0.1.0,MIT
+advanced-sneakers-activejob,0.2.0,MIT
+advanced-sneakers-activejob,0.2.2,MIT
 adyen,2.4.0,MIT
 aemo,0.3.5,MIT
 aemo,0.3.6,MIT
@@ -98,6 +102,7 @@ cool,0.0.0,MIT
 coreos-fleet-api,0.1.0,""
 cortex-exceptions,0.0.4,MIT
 country_data,0.2.0,MIT
+covid19_api,0.0.4,MIT
 credit_card_bins,0.0.3,MIT
 cucumber-calliope_importer,0.1.10,MIT
 daf,0.3.0,MIT
@@ -227,6 +232,7 @@ hullio,0.4.0,MIT
 ializer,0.2.0,MIT
 ializer,0.3.0,MIT
 ializer,0.4.0,MIT
+ializer,0.5.0,MIT
 image_vise,0.8.0,MIT
 imagecache,0.0.3,MIT
 info_vault,0.0.4,MIT
@@ -236,6 +242,8 @@ jekyll-theme-lcsb-default,0.3.0,MIT
 jekyll-theme-lcsb-default,0.3.10,MIT
 jekyll-theme-lcsb-default,0.3.11,MIT
 jekyll-theme-lcsb-default,0.3.13,MIT
+jekyll-theme-lcsb-default,0.3.14,MIT
+jekyll-theme-lcsb-default,0.3.15,MIT
 jekyll-theme-lcsb-default,0.3.3,MIT
 jekyll-theme-lcsb-default,0.3.6,MIT
 jnunemaker-crack,0.1.4,""
@@ -259,6 +267,8 @@ ledger,0.0.6,""
 likethat,0.1.5,""
 lines,0.9.1,MIT
 linux_input,1.0.0,MIT
+linux_input,1.1.0,MIT
+linux_input,1.1.1,MIT
 lisbn,0.3.1,""
 load_more,0.0.5,MIT
 logs-tf,0.0.4,""
@@ -317,6 +327,7 @@ oci8-auto-binder,0.2.1,MIT
 oci8-auto-binder,1.0.0,MIT
 okf-pub-theme,0.2.21,MIT
 okf-pub-theme,0.2.22,MIT
+okf-pub-theme,0.2.23,MIT
 oldmoe-activerecord-neverblock-postgresql-adapter,0.1.0,""
 omniauth-imagerelay,1.0.0,""
 omniauth-makersquare,0.0.5,MIT
@@ -405,6 +416,8 @@ rspice,0.23.1,MIT
 rspice,0.23.1.1,MIT
 rspice,0.23.1.2,MIT
 rspice,0.23.2,MIT
+rspice,0.23.3,MIT
+rspice,0.23.4,MIT
 rubocop-regexp,0.0.0,MIT
 rubocop_auto_corrector,0.3.0,MIT
 ruboty-talk,0.0.5,MIT
@@ -488,8 +501,11 @@ suhovius-itunes-receipt,1.1.1,""
 swiftype-enterprise,3.0.3,""
 syck,1.4.0,MIT
 tapestry,0.7.0,MIT
+tapsoob,0.3.11,MIT
+tapsoob,0.3.13,MIT
 tapsoob,0.3.4,MIT
 tapsoob,0.3.5,MIT
+tapsoob,0.3.8,MIT
 tasks_management,0.1.4,MIT
 telegraph-parser,0.0.5,MIT
 temperature_nvdb,1.0.0,MIT

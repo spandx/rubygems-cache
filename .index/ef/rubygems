@@ -49,6 +49,7 @@ bracket_error_suggestion,0.0.1,MIT
 brakecheck,0.2.2,MIT
 brandon,0.0.1,""
 breakout,0.0.3,""
+breezer,0.10.0,MIT
 breezer,0.7.2,MIT
 breezer,0.9.1,MIT
 brew_dg,0.0.2,MIT
@@ -105,6 +106,7 @@ csv-importer,0.7.0,MIT
 csv2other,0.0.4,""
 csv2xlsx,0.0.1,MIT
 csv_patch,1.1.0,""
+csv_patch,1.1.1,""
 cucumber-expressions,8.3.0,MIT
 cucumber-step_writer,0.1.2,""
 cure_rails3_acts_as_paranoid,0.1.1,""
@@ -375,6 +377,7 @@ query_trail,1.0,MIT
 race_partner_registrations,0.0.1,MIT
 rack-allowed_hosts,0.0.4,""
 rack-contrib,2.1.0,MIT
+rack-contrib,2.2.0,MIT
 rack-entrance,0.1.0,MIT
 rack-env-notifier,0.0.6,MIT
 radiant-parameterized_snippets-extension,1.0.1,""
@@ -417,6 +420,7 @@ salestation,3.2.2,MIT
 salestation,3.3.0,MIT
 salestation,3.4.0,MIT
 salestation,3.5.0,MIT
+salestation,3.5.1,MIT
 saml-kit-cli,0.3.8,MIT
 sampler,0.0.5,""
 sanna_view_tool,0.1.0,MIT
@@ -515,6 +519,7 @@ trestle-jsoneditor,0.1.0,LGPL-3.0
 trumpy,2.1.0,""
 ts_json_api,0.2.10,""
 turbograft,0.4.6,MIT
+turkish_cities,0.1.1,MIT
 twurl,0.9.4,MIT
 twurl,0.9.5,MIT
 txcatcher,0.2.4,MIT

@@ -240,6 +240,7 @@ kiik,0.2.3,MIT
 killbill-avatax,1.0.0,MIT
 killbill-avatax,2.0.0,MIT
 kitchen-digitalocean,0.10.5,Apache-2.0
+kitchen-digitalocean,0.10.6,Apache-2.0
 lana,0.0.0,MIT
 lb,0.0.0,MIT
 libyajl2,2.0.0,Apache-2.0
@@ -318,6 +319,7 @@ parse-conf,0.0.3,MIT
 pd_metrics,1.0.0,""
 peatio-litecoin,2.4.0,MIT
 peatio-litecoin,2.5.0,MIT
+peatio-litecoin,2.5.1,MIT
 peek-host,1.0.0,""
 peek-vars,1.0.0,""
 peentar_id,1.0.1,MIT
@@ -399,6 +401,7 @@ rumale,0.17.3,BSD-2-Clause
 rumale,0.18.0,BSD-2-Clause
 rumale,0.18.1,BSD-2-Clause
 rumale,0.18.2,BSD-2-Clause
+rumale,0.18.3,BSD-2-Clause
 s3_media_server_api,0.1.3,MIT
 sacback,0.0.4,MIT
 safety_pin,0.0.8,""
@@ -436,6 +439,7 @@ slide-down-alerts-rails,0.0.2,""
 slim_validation,0.0.3,""
 slop,4.7.0,MIT
 slop,4.8.0,MIT
+slop,4.8.1,MIT
 slt_xcodeproj_helper,0.1.01,MIT
 smart_proxy_dns_dnsmasq,0.6,GPL-3.0
 smtlaissezfaire-simply,0.2.1,""

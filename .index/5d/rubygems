@@ -289,6 +289,7 @@ mp3filename,1.0.3,MIT
 mr_smime,0.1.0,""
 mr_smime,0.2.0,""
 mulang,5.1.0.2,MIT
+mulang,5.2.0,MIT
 my_string_extend_mepis,0.1.0,MIT
 my_string_extend_sivan,0.0.1,""
 mypki,4.0.4,""
@@ -309,6 +310,7 @@ object_tree,1.1.2,MIT
 odesk-jobfetch,0.0.1,MIT
 offsite_payments,2.7.21,MIT
 offsite_payments,2.7.22,MIT
+offsite_payments,2.7.24,MIT
 omniauth-lifen,0.1.0,""
 omniauth-qnyp,1.0.1,MIT
 omnicat-svm,0.0.2,MIT
@@ -373,6 +375,7 @@ roqua-csv_export,0.1.0,MIT
 rsformat,1.0.0,SB
 rspec_on_failure,1.0.0,""
 rswag-api,2.2.0,MIT
+rswag-api,2.3.0,MIT
 rtp,0.1.5,""
 rubill,0.2.1,MIT
 rubimc,0.2.2,MIT
