@@ -8,11 +8,15 @@ RegExpr,0.0.2,""
 SEATC,0.4.0,MIT
 abcde-atthemovies,0.0.7,""
 accountability,0.1.1,MIT
+accountability,0.2.1,MIT
+accountability,0.2.2,MIT
+accountability,0.2.3,MIT
 acmesmith_google-cloud-dns,0.2.0,MIT
 active_record-when_change,0.0.4,MIT
 active_storage_validations,0.8.5,MIT
 active_storage_validations,0.8.6,MIT
 active_storage_validations,0.8.7,MIT
+active_storage_validations,0.8.8,MIT
 activecrypto,0.2.8,MIT
 acts_as_template,0.1.0,MIT
 adtekio_adnetworks,0.0.5,LGPL-2.0
@@ -50,6 +54,7 @@ aws-sdk-iotsecuretunneling,1.0.0,Apache-2.0
 aws-sdk-iotsecuretunneling,1.1.0,Apache-2.0
 aws-sdk-managedblockchain,1.7.0,Apache-2.0
 aws-sdk-managedblockchain,1.8.0,Apache-2.0
+aws-sdk-managedblockchain,1.9.0,Apache-2.0
 axinite,0.0.11,MIT
 baidu-push,0.0.1,MIT
 bakedweb-model_notifier,0.2.0,""
@@ -236,6 +241,7 @@ imagesorter,1.0.1,MIT
 imap_guard,1.2.0,MIT
 in_array,1.0.0,MIT
 in_array,1.0.1,MIT
+in_array,1.0.2,MIT
 includes-count,0.2,""
 inspector_dragit,0.0.2,""
 instagram_basic_display,0.1.0,""
@@ -250,6 +256,7 @@ jekyll-everypolitician,0.7.0,MIT
 jekyll-jam-theme,0.1.0,MIT
 jekyll-paginate-cats,1.0.6,MIT
 jekyll-pig,0.0.2,MIT
+jekyll-pig,0.0.3,MIT
 jekyll-theme-minimal-elcymon,0.0.1,CC0-1.0
 jenkins-status-tool,0.0.8,""
 jewday,0.0.1,MIT
@@ -347,6 +354,7 @@ olya,0.1.1,MIT
 pageflow-support,15.0.2,""
 pageflow-support,15.1.0,""
 pageflow-support,15.1.1,""
+pageflow-support,15.2.1,""
 papa,1.2.0,MIT
 paperclip_upload,1.2.4,MIT
 pastebin,2.1.0,""
@@ -390,6 +398,7 @@ prpr-review_label,0.1.1,MIT
 public_keys,0.0.1,MIT
 puree,2.8.1,MIT
 puree,2.9.0,MIT
+puree,2.9.1,MIT
 query-interface-client,1.3.5,ISC
 quirkey-restful_query,0.3.0,""
 quora_notify,0.0.14,""
@@ -555,6 +564,7 @@ very_simple_menu,0.0.2,MIT
 view_assets,1.1.1,MIT-LICENSE
 view_tracker,0.0.1,""
 vips,8.8.4,MIT
+vips,8.9.1,MIT
 vkhater-social_stream,0.16.3.3,""
 voluntary_georeferencing,0.0.1,MIT
 voteablize,0.0.0,""

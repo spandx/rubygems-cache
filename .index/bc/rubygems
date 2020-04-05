@@ -25,6 +25,7 @@ archive_uploader,0.2,MIT
 arke,0.1.0,MIT
 assert_matches_snapshot,1.2.0,MIT
 asset_symlink,0.3.1,MIT
+asset_symlink,0.3.2,MIT
 assoc_whisperer,2.1.0,MIT
 astree,1.1.1,MIT
 at-validations,0.1.1,""
@@ -50,6 +51,7 @@ bosh_common,1.3262.24.0,Apache 2.0
 bozo-scripts,0.18.5,""
 braille_ueb,0.0.3,""
 brain_freeze,1.0.0,MIT
+brain_freeze,1.1.1,MIT
 brickset-api,0.0.3,MIT
 bub,0.0.1,MIT
 c_lexer,2.6.4.1.1,""
@@ -75,6 +77,7 @@ chriskite-anemone,0.1.0,""
 cineworld,0.1.0,""
 clieop,1.0.1,""
 cm-sms,0.2.7,MIT
+cocoapods-miBin,0.1.0,MIT
 combinaut_director,1.2.2,""
 commande,0.4.1,MIT
 compass-validator,3.0.1,""
@@ -116,6 +119,8 @@ dependabot-cargo,0.117.0,Nonstandard
 dependabot-cargo,0.117.1,Nonstandard
 dependabot-cargo,0.117.2,Nonstandard
 dependabot-cargo,0.117.3,Nonstandard
+dependabot-cargo,0.117.4,Nonstandard
+dependabot-cargo,0.117.5,Nonstandard
 detach,0.2.0,MIT
 devise_authenticator,0.0.3,""
 devlog,0.3.3,MIT
@@ -128,6 +133,7 @@ docraptor-cli,0.1.1,MIT
 dover_to_calais,0.2.1,MIT
 draper-cancancan,1.1.1,MIT
 duo_splitter,0.1.0,MIT
+duo_splitter,0.2.0,MIT
 duplicati,3.0.0,""
 dxf_dummy_generator,0.0.4,""
 e1614hn_calc,0.1.0,""
@@ -348,9 +354,11 @@ omniauth-deezer,0.4.0,""
 omniauth-twitchtv,0.2.2,""
 omniauth-typeform,0.0.0,MIT
 onceover-lookup,0.1.1,Apache-2.0
+one_off,1.1.0,MIT
 onebox,1.9.24,MIT
 onebox,1.9.25,MIT
 onebox,1.9.26,MIT
+onebox,1.9.27.1,MIT
 oni,4.1.2,MIT
 ook,0.0.2,""
 open_graph_protocol,0.1.1,""
@@ -371,6 +379,10 @@ phonejack,1.2.0,MIT
 plivo,4.3.3,MIT
 plivo,4.3.4,MIT
 plivo,4.3.5,MIT
+plivo,4.4.0,MIT
+plivo,4.5.0,MIT
+plivo,4.6.0,MIT
+plivo,4.6.1,MIT
 plr-speedtest,0.3.6,MIT
 poise-application-ruby,4.1.0,Apache 2.0
 poke,0.0.1,MIT
@@ -507,6 +519,7 @@ tboetto_palindrome,0.3.0,""
 testare,0.0.4,MIT
 thingamabob,0.0.2,MIT
 time_difference,0.7.0,MIT
+time_pricing,0.0.0,MIT
 tkxxs,0.1.3,MIT
 tmux-connector,1.0.8,""
 tors,0.5.0,MIT
@@ -567,6 +580,7 @@ workarea-storefront,3.5.4,Business Software License
 workarea-storefront,3.5.5,Business Software License
 workarea-storefront,3.5.6,Business Software License
 workarea-storefront,3.5.7,Business Software License
+workarea-storefront,3.5.8,Business Software License
 wysihtml5_gem,0.3.0,""
 xcop,0.6,MIT
 yelp,2.1.5,MIT

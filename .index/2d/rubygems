@@ -55,6 +55,7 @@ aws-sdk-securityhub,1.17.0,Apache-2.0
 aws-sdk-securityhub,1.18.0,Apache-2.0
 aws-sdk-securityhub,1.19.0,Apache-2.0
 aws-sdk-securityhub,1.21.0,Apache-2.0
+aws-sdk-securityhub,1.22.0,Apache-2.0
 aws_interactive_cli,0.0.2,MIT
 azure_mgmt_databox,0.17.0,MIT
 azure_mgmt_key_vault,0.17.5,MIT
@@ -161,6 +162,7 @@ eureka-bot-tg,2.0.11,MIT
 evt-event_store-http-connect,0.1.0.0,MIT
 exchange_rates_api,0.9.1,MIT
 ezwadl,0.1.0,Apache License 2.0
+fastlane-plugin-postmark,0.1.0,MIT
 fastlane-plugin-ram_disk,0.1.0,MIT
 fibman,2.0.6,MIT
 finite_machine,0.12.1,MIT
@@ -403,6 +405,8 @@ revo-loans_api,0.0.18,""
 revo-loans_api,0.0.19,""
 revo-loans_api,0.0.20,""
 revo-loans_api,0.0.21,""
+revo-loans_api,0.0.22,""
+revo-loans_api,0.0.23,""
 revo-loans_api,0.0.8,""
 revo-loans_api,0.0.9,""
 riemann-rpush,0.0.4,MIT
@@ -534,6 +538,13 @@ sorbet-static,0.5.5450,Apache-2.0
 sorbet-static,0.5.5453,Apache-2.0
 sorbet-static,0.5.5456,Apache-2.0
 sorbet-static,0.5.5460,Apache-2.0
+sorbet-static,0.5.5468,Apache-2.0
+sorbet-static,0.5.5469,Apache-2.0
+sorbet-static,0.5.5470,Apache-2.0
+sorbet-static,0.5.5472,Apache-2.0
+sorbet-static,0.5.5478,Apache-2.0
+sorbet-static,0.5.5480,Apache-2.0
+sorbet-static,0.5.5497,Apache-2.0
 sower,0.0.2,MIT
 spiffy_stores_api,4.11.1,MIT
 spoof,2.0.1,MIT
@@ -605,6 +616,7 @@ wally,0.0.47,""
 warrenseen-gemjour,1.0.1,""
 watir_visual_diff,0.0.3,MIT
 webinarjam_api,1.0.2,MIT
+webscraping_ai,1.0.0,MIT
 website_inspector,0.0.4,MIT
 weekends,0.1.1,MIT
 weeler,1.6.0,MIT

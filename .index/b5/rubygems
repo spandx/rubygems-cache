@@ -228,6 +228,7 @@ hq-script,0.0.0,""
 hsume2-browserify-rails,0.2.1,MIT
 htmlgrid,1.1.4,GPL v2.1
 hubspot-api-client,1.0.1,Unlicense
+hubspot-api-client,2.0.0,Unlicense
 i18n-missing,0.1.1,MIT
 i18n-object,0.1.5,MIT
 image_validator,0.2.0,""
@@ -290,6 +291,7 @@ lknovel,0.0.7,MIT
 logstash-input-mqtt,0.0.2,Apache License (2.0)
 lol_dba,2.1.8,MIT
 lol_dba,2.1.9,MIT
+lol_dba,2.2.0,MIT
 lxc_ssh,0.0.1,GPL-2.0
 madoli-jekyll-theme,2.1.0,MIT
 magnetite,0.0.1,""
@@ -306,6 +308,7 @@ minimalist-theme,0.1.4,MIT
 minimalist-theme,0.1.7,MIT
 minimalist-theme,0.1.9,MIT
 minimalist-theme,0.2.0,MIT
+minimalist-theme,0.2.2,MIT
 minitest-perf_regression,0.0.2,GPLv3
 mixed_models,0.1.1,BSD-3-Clause
 molecule,0.2.4,MIT
@@ -387,6 +390,7 @@ plaid,8.4.0,MIT
 plaid,8.5.0,MIT
 plaid,8.6.0,MIT
 plaid,8.7.0,MIT
+plaid,8.8.0,MIT
 planning_client,0.0.7,""
 pluggable_lite,0.0.1,MIT
 pp_login,0.0.3,MIT
@@ -399,6 +403,7 @@ pry-fkeys,0.2.3,""
 pug-ruby,2.0.1,MIT
 puppet_pdf,0.2.0,MIT
 puppet_pdf,0.2.1,MIT
+puppet_pdf,0.2.2,MIT
 quark,0.4.1,""
 quickstats,2.1.0,LGPL-2.1-or-later
 quirkey-qadmin,0.2.3,""
@@ -456,6 +461,7 @@ rubysl-monitor,2.1,BSD
 rubywho,0.4.0,""
 rugged,0.28.4.1,MIT
 rugged,0.99.0,MIT
+rugged,1.0.0,MIT
 runby_pace,0.62.7,MIT
 ryanking-aws-s3,0.5.1.200811101723,""
 rz_shoutout,0.0.7,MIT
@@ -582,6 +588,8 @@ verhoeff,2.1.0,MIT
 versacommerce-cli,0.2.3,MIT
 vinyldns-ruby,0.9.0,Apache-2.0
 virtualbox-ws,0.0.8,MIT
+vitrina,0.1.2,MIT
+vitrina,0.1.3,MIT
 voog_api,0.0.14,MIT
 voteable_tomlee,0.0.1,""
 wcag_color_contrast,0.1.0,MIT

@@ -38,6 +38,7 @@ auto_flick,0.1.2,MIT
 aws-sdk-elasticsearchservice,1.29.0,Apache-2.0
 aws-sdk-elasticsearchservice,1.30.0,Apache-2.0
 aws-sdk-elasticsearchservice,1.31.0,Apache-2.0
+aws-sdk-elasticsearchservice,1.32.0,Apache-2.0
 aws_student_accounts,0.2.0,MIT
 azure_mgmt_container_instance,0.17.4,MIT
 badgerkit,0.0.12,MIT
@@ -49,6 +50,7 @@ bandwidth-sdk,2.1.1,MIT
 bandwidth-sdk,2.2.0,MIT
 bandwidth-sdk,2.2.1,MIT
 bandwidth-sdk,2.2.2,MIT
+bandwidth-sdk,3.0.0,MIT
 bank_routing,1.0.3,MIT
 base_logic_theme,0.1.2,BSD
 bc-prometheus-ruby,0.1.5,MIT
@@ -185,6 +187,7 @@ fmod,0.9.6,MIT
 fog-ukcloud,0.1.0,MIT
 football_league,0.1.1,MIT
 footballdb-clubs,2019.12.16,Public Domain
+footballdb-clubs,2020.3.30,Public Domain
 foreman_enc_matcher_value_only,0.0.2,""
 formtastic-globalize3,0.2.0,MIT
 frappuccino,0.3.0,MIT
@@ -208,6 +211,8 @@ google-cloud-redis,0.6.2,Apache-2.0
 google-cloud-redis,0.7.0,Apache-2.0
 google-cloud-redis,0.7.1,Apache-2.0
 google-cloud-redis,0.8.0,Apache-2.0
+google-cloud-redis,0.8.1,Apache-2.0
+google-cloud-redis,0.8.2,Apache-2.0
 google-content-api,0.1.7,MIT
 grape-kaminari,0.1.9,MIT
 grape-middleware-logger,1.12.0,MIT
@@ -243,6 +248,7 @@ infermedica,0.0.2,MIT
 insert-into,0.0.1,MIT
 insouciant,0.1.1,MIT
 insouciant,0.1.2,MIT
+insouciant,0.1.3,MIT
 ireporter,0.2.3,MIT
 is_heroku,1.0.1,MIT
 iso,0.3.0,MIT
@@ -251,6 +257,7 @@ jaimito,0.1.1,MIT license (MIT)
 jasl_tenpay,1.1.1,MIT
 jcnetdev-auto_migrations,1.4,""
 jekyll-google-tag-manager,1.0.3,MIT
+jekyll-nightlight,0.0.2,MIT
 jekyll-site-config,0.1.0,MIT
 jinrai,1.1.2,MIT
 job_interview,0.1.6,GPLv3
@@ -287,9 +294,11 @@ launchdarkly_api,2.0.29,Unlicense
 launchdarkly_api,2.0.30,Unlicense
 launchdarkly_api,2.0.31,Unlicense
 launchdarkly_api,2.0.32,Unlicense
+launchdarkly_api,2.0.33,Unlicense
 launchsupport,0.0.2,MIT
 leafy-metrics,0.3.0,MIT
 leafy-metrics,0.6.2,MIT
+lex-health,0.1.0,MIT
 lexr,0.4.0,""
 light_enum,0.0.1,""
 linkedin-scraper,2.1.1,MIT
@@ -451,6 +460,7 @@ rspec-hash_matchers,0.2.0,UNLICENSE
 rssf_brazil_parser,0.0.1,""
 rtcbx,0.0.5,MIT
 rubocop-stamped,0.0.1,MIT
+rubocop-stamped,1.0.0,MIT
 ruboty-rin_chan,0.2.0,MIT
 ruby-debug-base19x,0.11.32,""
 ruby-playing_cards,0.0.2,MIT
@@ -539,6 +549,7 @@ trimark,0.2.0,MIT
 trontz_palindrome,0.1.0,MIT
 tumblife,2.1.0,MIT
 tweet-words,0.1.0,""
+tweetbot,0.4.0,MIT
 twigg-cache,0.0.5,MIT
 twiml_template,2.0.0,MIT
 twitter_client,1.2.3,""

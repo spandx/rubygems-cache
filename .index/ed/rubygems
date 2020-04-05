@@ -115,6 +115,9 @@ cookstyle,5.20.0,Apache-2.0
 cookstyle,5.21.9,Apache-2.0
 cookstyle,5.22.6,Apache-2.0
 cookstyle,6.0.19,Apache-2.0
+cookstyle,6.1.6,Apache-2.0
+cookstyle,6.2.5,Apache-2.0
+cookstyle,6.2.9,Apache-2.0
 copy_to_clipboard,0.0.2,MIT
 corals,0.0.1,""
 country_select_yaml,1.2.0,""
@@ -280,10 +283,12 @@ kjlite,0.1.0,MIT
 knife-azure,2.0.10,Apache 2.0
 knife-azure,2.0.11,Apache 2.0
 knife-azure,2.0.13,Apache 2.0
+knife-azure,2.0.17,Apache 2.0
 knife-azure,2.0.2,Apache 2.0
 knife-azure,2.0.6,Apache 2.0
 knife-partial-search,0.0.4,Apache 2.0
 koala-rails,0.1.9,""
+lanky_mate,0.1.0,MIT
 lc-api,1.0.0,""
 libv8-tmpfork,3.16.14.13,MIT
 lifx_http,0.2.1,MIT
@@ -295,9 +300,12 @@ lita-estimate,0.1.7,MIT
 lita-external,0.1.2,MIT
 lita-link-library,0.1.0,[MIT]
 lmtp,0.0.1,BSD
+local_date_time_attributes,0.1.2,""
+local_date_time_attributes,0.1.3,""
 loft,0.4.1,MIT
 logstash-codec-json_lines,3.0.6,Apache License (2.0)
 logstash-filter-docker_container,0.2.1,Apache License (2.0)
+logstash-filter-docker_container,0.2.3,Apache-2.0
 logstash-filter-kubernetes_metadata,1.0.1,AGPL-3.0
 logstash-filter-memorize,1.0.0,Apache License (2.0)
 loljira,0.0.1,""
@@ -347,6 +355,9 @@ needs,0.1.0,MIT
 nested_attributes_serializer,0.1.0,MIT
 net-openvpn,0.8.7,MIT
 next,0.1.0,MIT
+nextbot,1.1.17,MIT
+nextbot,1.1.24,MIT
+nextbot,1.1.9,MIT
 ninjudd-geni-memcache-client,1.5.0.3,""
 nulogy-gettext_i18n_rails,0.5.3.2,""
 nvd3-rails,0.0.1.1,""
@@ -372,6 +383,7 @@ paint-shortcuts,2.0.0,MIT
 paperclip-staging,0.2.0,MIT
 param_store,0.0.1,MIT
 param_store,1.0.0,MIT
+param_store,1.0.1,MIT
 parse_fasta,2.5.2,MIT
 partydrone-rt_capistrano,0.1.0,""
 payture_api,0.2.0,MIT
@@ -381,6 +393,7 @@ pettanr_pettan_public_v01_licenses,0.1.11,MIT
 pheme,3.3.3,MIT
 pheme,3.4.0,MIT
 pheme,4.0.0,MIT
+pheme,4.0.1,MIT
 pingable_ipam_plugin,0.0.2,GPL-3.0
 pingable_ipam_plugin,0.0.3,GPL-3.0
 pingable_ipam_plugin,0.0.4,GPL-3.0
@@ -465,6 +478,7 @@ ruby_omx,0.0.38,""
 rubygrep,0.0.5,MIT
 rucaptcha,2.5.1,MIT
 rucaptcha,2.5.2,MIT
+rucaptcha,2.5.3,MIT
 rudder,0.3.1,MIT
 runch,0.0.3,MIT
 ruphy-skema,0.2.0,""
@@ -489,6 +503,8 @@ sdr-client,0.17.2,""
 sdr-client,0.18.0,""
 sdr-client,0.19.0,""
 sdr-client,0.2.1,""
+sdr-client,0.20.0,""
+sdr-client,0.21.0,""
 sdr-client,0.3.1,""
 sdr-client,0.4.0,""
 sdr-client,0.5.0,""

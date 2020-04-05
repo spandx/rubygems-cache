@@ -130,6 +130,7 @@ daveyeu-daveyeu-nightcap,0.0.3,""
 db_obfuscation,0.0.1,MIT
 decidim-comments,0.19.1,AGPL-3.0
 decidim-comments,0.20.0,AGPL-3.0
+decidim-comments,0.20.1,AGPL-3.0
 declension,0.0.2,MIT
 deezer-lookup,1.2,MIT
 deploy_changes,0.1.1,MIT
@@ -181,6 +182,7 @@ fluent-plugin-dstat,1.0.0,Apache-2.0
 fluent-plugin-oui-filter,0.0.6,MIT
 fluent-plugin-rds-mysql-slow-log,0.3.0,MIT
 fluent-plugin-rewrite-tag-filter,2.2.0,Apache-2.0
+fluent-plugin-rewrite-tag-filter,2.3.0,Apache-2.0
 fluent-plugin-xml-parser,1.0.0,MIT
 forkwell_cop,0.10.0,""
 forkwell_cop,0.7.0,""
@@ -217,6 +219,10 @@ futuro,0.6.6,MIT
 futuro,0.6.7,MIT
 futuro,0.6.8,MIT
 futuro,0.6.9,MIT
+futuro,0.7.1,MIT
+futuro,0.7.2,MIT
+futuro,0.7.3,MIT
+futuro,0.7.4,MIT
 fuzzy_gherkin,0.1.0,MIT
 g-unit-testing,0.1.0,MIT
 garnierjm-dont_repeat_yourself,0.3.0,""
@@ -238,6 +244,7 @@ github_labeler,0.1.0,MIT
 gitkeep_cleaner,0.1.0,MIT
 glacier_on_rails,1.0.0,""
 gooddata_eloqua,0.1.4,MIT
+google-cloud-security_center,0.10.0,Apache-2.0
 google-cloud-security_center,0.4.2,Apache-2.0
 google-cloud-security_center,0.4.3,Apache-2.0
 google-cloud-security_center,0.5.0,Apache-2.0
@@ -256,6 +263,8 @@ guard-rails,0.8.1,MIT
 hackerone-client,0.14.0,MIT
 hackerone-client,0.14.1,MIT
 hackerone-client,0.15.0,MIT
+hackerone-client,0.17.0,MIT
+hackerone-client,0.18.0,MIT
 handler_registerable,0.0.1,Apache-2.0
 harmonic,0.0.1,MIT
 harness-resque,0.1.0,MIT
@@ -285,6 +294,11 @@ jbe-goethe,1.0.0,""
 jekyll-categorize-pages,0.2.4,MIT
 jekyll-collection-multiplier,0.1.0,MIT
 jekyll-config-variables,0.1.1,MIT
+jekyll-lux-covid-theme,0.0.10,MIT
+jekyll-lux-covid-theme,0.0.13,MIT
+jekyll-lux-covid-theme,0.0.4,MIT
+jekyll-lux-covid-theme,0.0.6,MIT
+jekyll-lux-covid-theme,0.1.0,MIT
 jekyll_icon_list,0.6.0,MIT
 joint,0.6.2,""
 jquery-ui-middleman,4.1.0,MIT
@@ -369,6 +383,8 @@ params_transformer,0.0.2,MIT
 partisan,0.5.1,BSD 3-Clause
 pdfwalker,1.0.0,GPL-3.0+
 peatio-dogecoin,0.2.0,MIT
+peatio-dogecoin,0.2.56,MIT
+peatio-dogecoin,0.2.7,MIT
 peatio-thought,2.4.0,MIT
 peepmem,0.0.1,2-clause BSD-style
 pera1,0.0.4,MIT
@@ -421,6 +437,8 @@ reidline,0.1.0,""
 relaton-ietf,0.10.0,BSD-2-Clause
 relaton-ietf,0.11.0,BSD-2-Clause
 relaton-ietf,0.11.1,BSD-2-Clause
+relaton-ietf,0.12.0,BSD-2-Clause
+relaton-ietf,0.12.1,BSD-2-Clause
 relaton-ietf,0.7.2,BSD-2-Clause
 relaton-ietf,0.7.3,BSD-2-Clause
 relaton-ietf,0.8.0,BSD-2-Clause
@@ -475,6 +493,7 @@ sinatra-cmd,0.1.1,MIT
 sinatra_template,0.0.6,MIT
 sixarm_ruby_xid,4.0.0,BSD-|-GPL-|-MIT-|-PAL-|-Various
 slack_log_device,5.1.4,MIT
+slack_log_device,5.1.5,MIT
 sms_portal,0.1.0,MIT
 snapci,0.0.1,MIT
 snfoil,0.1.0,MIT
@@ -501,9 +520,11 @@ string-stats-rh,0.1.0,MIT
 sub_string,1.2,MIT
 sublime_text_kit,8.5.2,Apache-2.0
 sublime_text_kit,9.0.0,Apache-2.0
+sublime_text_kit,9.1.0,Apache-2.0
 swearifier,0.0.3,MIT
 synapse-core,0.6.1,Apache 2.0
 sync_attr_with_auth0,0.2.0,MIT
+sync_attr_with_auth0,0.2.1,MIT
 tag_field,0.0.4,""
 tagcrumbs-tagcrumbs,0.3.1,""
 tape_measure,0.0.8,GNU v3
@@ -561,6 +582,7 @@ wisper-sequel,1.0.1,MIT
 word_wrapper,0.5.0,bsd
 work-on,0.1.3,""
 workarea-wish_lists,3.1.0,Business Software License
+workarea-wish_lists,3.1.1,Business Software License
 wrest,3.0.0,""
 wsdirector-core,0.0.1,MIT
 wt_s3_signer,0.1.0,MIT (Hippocratic)

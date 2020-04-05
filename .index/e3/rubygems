@@ -74,6 +74,7 @@ brawlhalla-api,0.3.2,MIT
 breadcrumb_trail,0.2.1,MIT
 brpm_content,0.1.53,MIT
 bstard,0.2.4,MIT
+bugsnag-maze-runner,1.1.0,MIT
 business_time,0.9.3,MIT
 busser-mamba,0.2.2,Apache 2.0
 cadmus_navbar,0.1.0,""
@@ -147,6 +148,7 @@ endorser-receipt,1.0.1,MIT
 eolclub_scraper,0.1.0,MIT
 errbit_fogbugz_plugin,0.1.0,MIT
 estella,5.0.0,MIT
+estella,5.0.1,MIT
 euca-deploy-formatter,0.0.2,""
 eventq_rabbitmq,1.17.0,MIT
 eventq_rabbitmq,1.19.0,MIT
@@ -172,6 +174,7 @@ fluent-plugin-elasticsearch-ssl-verify,0.0.2,MIT
 fluent-plugin-filter-docker_metadata,0.0.1,MIT
 fluent-plugin-hrforecast,0.0.2,APLv2
 fluent-plugin-resolv-filter,0.0.3,MIT
+fluent-plugin-tagged_udpa,0.0.7,MIT
 fluent-plugin-tcp_output,1.0.0,Apache-2.0
 foreman_osc,0.3.1,GPL-3
 fortune_teller_iraq,0.1.3,MIT
@@ -297,6 +300,7 @@ megaraid-collectd,0.5.1,""
 mellat,0.1.7,WTFPL
 metanorma,0.3.18,BSD-2-Clause
 metanorma,1.0.0,BSD-2-Clause
+metanorma,1.0.1,BSD-2-Clause
 metastore,0.4.0,MIT
 micetrap,0.1.1,""
 minimo,0.0.1,MIT
@@ -382,6 +386,8 @@ polyphony,0.30,MIT
 polyphony,0.31,MIT
 polyphony,0.32,MIT
 polyphony,0.33,MIT
+polyphony,0.34,MIT
+polyphony,0.36,MIT
 pragma-rails,2.3.0,MIT
 prct007,0.1.2,""
 prct10,0.0.1,MIT
@@ -400,6 +406,7 @@ rabbit-slide-okkez-rubykaigi2016,1.0.0,CC BY-SA 4.0
 radiant-feefo-extension,0.0.3,""
 rails-ahoy,0.2.4,MIT
 rails-monitoring,0.3.0,MIT
+rails-monitoring,0.3.1,MIT
 rails_admin_impersonate,0.0.5,MIT
 rails_pattern_view,0.2.4,MIT
 rails_routes_csv,0.1.0,MIT
@@ -447,6 +454,7 @@ sensu-plugins-filenr,0.0.2,MIT
 sensu-plugins-odoo,0.0.1,MIT
 sensu-plugins-particle,0.0.2,MIT
 sensu-plugins-puppet,2.2.0,MIT
+sensu-plugins-puppet,3.0.0,MIT
 sequel-bit-fields,0.2.0,""
 sevenwire-rubocop,1.1.3,""
 simonmenke-view_slots,0.0.4,""

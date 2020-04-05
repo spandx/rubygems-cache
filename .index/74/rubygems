@@ -46,6 +46,8 @@ bake,0.4.3,MIT
 bake,0.4.4,MIT
 bake,0.5.1,MIT
 bake,0.6.0,MIT
+bake,0.7.0,MIT
+bake,0.9.0,MIT
 bantic-ruby-opencv,0.0.8,""
 beanstalkd-stats,0.0.6,MIT
 bestselling_games,0.1.0,MIT
@@ -114,6 +116,7 @@ csvsql,0.2.0,MIT
 culturecode-track_changes,0.1.2,MIT
 cura-termbox,0.0.3,MIT
 d2s3,0.0.2,""
+danger-brakeman_scanner,0.1.0,MIT
 ddr-antivirus,3.0.0,BSD-3-Clause
 debstep,0.0.7,""
 decaptcher,1.0.1,""
@@ -136,6 +139,7 @@ elasticsearch-index-transfer,0.1.0,MIT
 elite_universe,0.1.1,MIT
 embulk-input-dynamodb,0.2.0,MIT
 embulk-input-dynamodb,0.3.0,MIT
+embulk-input-dynamodb,0.3.1,MIT
 emoticon_fontify,1.0.2,""
 enum_for,0.1.0,MIT
 envoi-mam-agent,1.4.0,MIT
@@ -178,6 +182,7 @@ generic_view_mapper,0.1.2,MIT
 gfspark,0.2.1,""
 git-rollback,0.0.1,MIT
 git-scripts,0.9.2,""
+git-scripts,0.9.3,""
 gitgud,0.1.1,MIT
 gitgud,0.1.2,MIT
 githubris,0.0.7,""
@@ -230,6 +235,7 @@ itamae-plugin-resource-brew_tap,0.1.0,MIT License
 jasmine-sinon-railsbk,0.1,""
 jbcm,0.0.3,MIT
 jcontroller,1.0.5,MIT
+jekyll-formspree,0.0.7,MIT
 jekyll-galleries,0.8.2,MIT
 jekyll_constant_values,0.1.0,MIT
 jm81-ruby-whois,0.5.0,""
@@ -274,6 +280,7 @@ lwgeom,0.2.2,MIT
 madride-with-jquery,1.7.2.1,""
 magic_stylez,0.1.1,MIT
 magiq,0.1.0,MIT
+mail_provider,0.1.0,MIT
 mailchecker,0.0.4,""
 mapon_client,0.2.1,MIT
 maul,0.1.0,""
@@ -292,6 +299,7 @@ metanorma-nist,1.0.0,BSD-2-Clause
 metanorma-nist,1.0.1,BSD-2-Clause
 metanorma-nist,1.0.2,BSD-2-Clause
 metanorma-nist,1.0.3,BSD-2-Clause
+metanorma-nist,1.0.4,BSD-2-Clause
 metrognome,0.0.2,""
 micro-cf-plugin,1.0.0,""
 military_operations,0.0.2,MIT
@@ -309,6 +317,7 @@ mtodd-silverpop_mailer,0.1.4,""
 muchkeys,0.7.1,MIT
 multi_range,0.0.1,MIT
 multi_range,0.0.3,MIT
+multi_range,0.0.4,MIT
 mumuki-wollok-runner,1.1.0,MIT
 mustwin-stripe-ruby-mock,1.8.5.00,MIT
 myprecious_python,0.0.7,MIT
@@ -404,6 +413,7 @@ rest-ftp-daemon,1.1.1,MIT
 retina_rails,2.0.5,MIT
 rfc,0.0.5,MIT
 rfc,0.0.7,MIT
+rfc,0.1.1,MIT
 rickmorty,1.0.3,MIT
 rideliner,0.3.6,MPL-2.0
 rinfo,0.2.0,MIT
@@ -448,6 +458,7 @@ simple_ams,0.2.1,""
 simple_ams,0.2.2,""
 simple_ams,0.2.3,""
 simple_ams,0.2.4,""
+simple_ams,0.2.5,""
 simple_grid_rails,0.1.0,MIT
 simplecov-tdd,0.2.0,""
 simplereq,1.1.3,Apache-2.0

@@ -91,6 +91,8 @@ crate_api,0.1.2,""
 crypto-laser,0.0.5,""
 cuba-react,1.0.0,MIT
 cypher_builder,0.0.5,MIT
+data_structure_library,0.1.0,GPL-3.0-only
+data_structure_library,1.0.0,GPL-3.0-only
 deep-hash-struct,0.1.6,MIT
 delayed_job_web,1.4.3,MIT
 demalculator,0.1.0,MIT
@@ -103,6 +105,8 @@ diesis,0.0.1,MIT
 directlog,0.0.6,MIT
 disco_client,0.1.0,MIT
 ditty,0.8.0,MIT
+ditty,0.9.0,MIT
+ditty,0.9.1,MIT
 dm-is-reflective,1.3.2,Apache License 2.0
 dm-ldap-adapter,0.4.6,""
 dm-ldap-adapter,0.4.8,""
@@ -144,6 +148,7 @@ fishplate,1.0.0,MIT
 fishplate,1.0.1,MIT
 fishplate,1.0.2,MIT
 fishplate,1.0.3,MIT
+fishplate,1.0.4,MIT
 flickr_collage,0.0.1,MIT
 fluent-plugin-pi,0.0.11,OSISoft LLC
 fluent-plugin-rds-log,0.3.2,MIT
@@ -333,6 +338,7 @@ prometheus-client-tracer,1.0.0,MIT
 prometheus-client-tracer,1.1.0,MIT
 provideal-moo,1.0.1,""
 prx_auth-rails,0.2.0,MIT
+prx_auth-rails,0.3.0,MIT
 pyaru,0.0.1,MIT
 qat-cucumber,6.0.3,GPL-3.0
 rack-exclusive-verbs,1.0.0,MIT
@@ -404,6 +410,7 @@ scribl-rails,1.1.3,""
 season,0.3,MIT
 send_to_kindle_jp,0.0.1,MIT
 send_with_us,4.2.0,Apache-2.0
+send_with_us,4.2.1,Apache-2.0
 sequel_pg_ltree,0.1.8,MIT
 sequel_translatable,0.2.0,""
 shape2work,0.0.1,MIT

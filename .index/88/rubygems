@@ -104,6 +104,7 @@ da_funk,3.16.1,MIT
 da_funk,3.16.2,MIT
 da_funk,3.16.3,MIT
 da_funk,3.17.0,MIT
+da_funk,3.18.0,MIT
 daily-trending-apps,0.1.8,MIT
 danger-xccov_summary,0.0.10,MIT
 daq_flow,1.0.4,MIT
@@ -139,6 +140,8 @@ forest-time-jekyll,0.3.3,MIT
 formtastic_leaflet_map_editor_input,0.0.1,MIT
 forty,0.4.0,MIT
 foundationstone,0.0.4,""
+frontview,0.1.0,MIT
+frontview,0.1.1,MIT
 gcloud-cli,0.2.3,MIT
 gem_stats,0.0.2,""
 giraffesoft-classy_resources,0.3.1,""
@@ -396,6 +399,7 @@ sqlar,0.1.0,MIT
 square.rb,4.0.0.20191217,Apache-2.0
 square.rb,4.1.0.20200122,Apache-2.0
 square.rb,5.0.0.20200226,Apache-2.0
+square.rb,5.1.0.20200325,Apache-2.0
 sqwiggle-ruby,0.1.1,MIT
 ssh-shell,0.4.2,MIT
 ssmd,0.7.6,MIT
@@ -441,6 +445,7 @@ voxer-chef-formatter,0.0.1,MIT
 vultrlife,0.0.2,MIT
 waitlisted,0.1.1,MIT
 warden_omniauth-jonrowe,0.3.1,""
+warning_cleaner,0.0.1,""
 wavefront-client,3.6.2,Apache License 2.0
 wealthforge-ruby,2.2.7,MIT
 web_package,0.4.1,MIT

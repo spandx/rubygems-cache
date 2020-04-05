@@ -29,6 +29,7 @@ almost-sinatra,1.0.0,Public Domain
 alpaka,0.1.0,GPL-3.0
 alpaka,0.11.0,GPL-3.0
 alpaka,0.11.1,GPL-3.0
+alpaka,0.11.2,GPL-3.0
 alpaka,0.2.1,GPL-3.0
 alpaka,0.3.0,GPL-3.0
 alpaka,0.3.1,GPL-3.0
@@ -185,6 +186,7 @@ entrance-publisher,0.1.3,""
 erubis_for_rails23,0.1.1,GPLv3
 estratto,1.0.5,MIT
 evertils-common,0.3.12,MIT
+evertils-common,0.3.18,MIT
 exact_target_rest,0.2.6,MIT
 excon-rails,1.0.0,MIT
 fancy_irb,1.2.1,MIT
@@ -207,10 +209,13 @@ formstack-api,0.0.7,MIT
 formstack_client,0.2.0,MIT
 framed_uploader,0.0.2,""
 freud,0.0.1,Apache-2.0
+fun_nmax,0.1.1,MIT
 fx_exchange_rate,1.0.0,MIT
 gd-racc,1.4.11,MIT
 gemika,0.4.0,MIT
 geocore,0.4.0,""
+ghreview,0.1.0,GPLv2
+ghreview,0.2.0,GPLv2
 git-p4-sync,0.2.0,""
 git_flo,0.0.3,BSD-3-Clause
 github-graphql-client,0.1.1,MIT
@@ -360,6 +365,8 @@ norikra-udf-percentile,0.0.2,GPLv2
 notifiable-sms-twilio,0.1.0,Apache 2.0
 notification-settings,3.0.2,MIT
 obake,0.2.0,MIT
+obs_deploy,0.1.0,""
+obs_deploy,0.1.2,""
 octicons,9.3.1,MIT
 octicons,9.4.0,MIT
 octicons,9.5.0,MIT
@@ -394,6 +401,14 @@ qrcode,0.0.1,""
 query_cop,0.1.1,MIT
 r_socks,0.1.1,""
 r_socks,0.1.2,Apache-2.0
+r_socks,0.1.6,Apache-2.0
+r_socks,0.1.7,Apache-2.0
+r_socks,0.1.8,Apache-2.0
+r_socks,0.2.0,Apache-2.0
+r_socks,0.2.3,Apache-2.0
+r_socks,0.2.4,Apache-2.0
+r_socks,0.2.5,Apache-2.0
+r_socks,0.2.6,Apache-2.0
 rabbit-theme-starqle,1.0.0,MIT
 rack-ip_blocker,1.0.0,""
 rack-micro_service-signed_request,0.0.1,MIT

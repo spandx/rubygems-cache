@@ -45,6 +45,7 @@ aws-sdk-codestarnotifications,1.1.0,Apache-2.0
 aws-sdk-xray,1.21.0,Apache-2.0
 aws-sdk-xray,1.22.0,Apache-2.0
 aws-sdk-xray,1.23.0,Apache-2.0
+aws-sdk-xray,1.24.0,Apache-2.0
 babelish_rnc,1.0.0,MIT
 bai-maruku,0.5.9,""
 bankgiro_inbetalningar,1.2.0,""
@@ -54,6 +55,8 @@ blankman,1.0.0,MIT
 blazer-rails,0.1.1,MIT
 blurhash,0.1.3,MIT
 blurhash,0.1.4,MIT
+bookends,10.0.0,""
+bookends,10.0.1,""
 bookends,9.0.12,""
 bookends,9.0.13,""
 bookyt_projects,1.1.2,MIT
@@ -167,6 +170,7 @@ foreman_maintain,0.5.1,GPL-3.0
 foreman_maintain,0.6.0,GPL-3.0
 foreman_maintain,0.6.1,GPL-3.0
 foreman_maintain,0.6.2,GPL-3.0
+foreman_maintain,0.6.3,GPL-3.0
 fosbury,0.9.5.1,Apache-2.0
 friendly_digest,1.1,""
 fwb,0.1.0,MIT
@@ -181,6 +185,7 @@ gem-shut-the-fuck-up,1.0.0,""
 gemfilelint,0.2.0,MIT
 gemfilelint,0.2.1,MIT
 gemr,0.0.5,""
+gemr,0.0.6,""
 gems-status,1.78.0,MIT
 geohashing,0.0.1,""
 geoutm,1.0.2,""
@@ -237,6 +242,7 @@ idservice_client,0.0.1,""
 iguvium,0.9.1,MIT
 ilsal-aleph,0.0.1,MIT
 imageboss-rb,1.0.3,MIT
+imageboss-rb,2.0.0,MIT
 import_csv,1.0.3,MIT
 involuntary,0.0.1,MIT
 ioughta,0.3.0,MIT
@@ -295,6 +301,7 @@ knife-ec2,1.0.26,Apache-2.0
 knife-ec2,1.0.28,Apache-2.0
 knife-ec2,1.0.31,Apache-2.0
 knife-ec2,1.0.32,Apache-2.0
+knife-ec2,1.0.33,Apache-2.0
 knife-hardware,0.0.1,""
 kushojin,0.1.4,MIT
 kushojin,0.1.5,MIT
@@ -365,6 +372,7 @@ nytimes-top-stories,0.1.6,MIT
 obbistrano,1.1.168,MIT
 offsite_payments_pay2go,0.1.1,MIT
 omniauth-jd-oauth2,0.0.1,MIT
+omniauth-kitt,0.1.0,MIT
 omniauth-ldap-ifpe,1.0.5,MIT
 omniauth-matique,0.1.5,MIT
 omniauth-ticketbud,1.0.1,MIT
@@ -450,6 +458,7 @@ sensitive_data_filter,0.5.0,MIT
 sensu-extensions-influxdb2,0.1.1,""
 sensu-plugins-meta,1.0.10,MIT
 sensu-plugins-nginx,3.0.0,MIT
+sensu-plugins-nginx,3.1.2,MIT
 sensu-plugins-twilio,2.0.0,MIT
 sensu-plugins-zfs,2.1.0,MIT
 sensu-plugins-zfs,2.2.0,MIT
@@ -530,6 +539,7 @@ ucb_orgs,1.0.0,MIT
 ultex-axe,0.2.1,MIT
 umount-many,0.2.0,""
 uniform-ui,2.2.2,MIT
+uniform-ui,2.3.2,MIT
 unitylock,0.1.0,MIT
 url_status,0.0.4,""
 url_trimmer,0.1.0,MIT

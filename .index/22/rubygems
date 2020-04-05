@@ -135,6 +135,7 @@ danger,6.2.0,MIT
 danger,6.2.2,MIT
 danger,6.3.0,MIT
 danger,6.3.1,MIT
+danger,6.3.2,MIT
 darmani_game22,0,""
 data_structure_error_impl,1.4.1,MIT
 data_structure_error_impl,1.4.2,MIT
@@ -142,12 +143,15 @@ data_structure_error_impl,1.4.3,MIT
 data_structure_error_impl,1.4.4,MIT
 data_structure_error_impl,1.4.5,MIT
 data_structure_error_impl,1.5.0,MIT
+data_structure_error_impl,1.5.1,MIT
+data_structure_error_impl,2.0.0,GPL-3.0-only
 datetime_formatter,0.1.0,MIT
 davinci-text,1.0.1,MIT
 dbc-faker,0.0.1,MIT
 debitech,1.6.0,""
 decidim-consultations,0.19.1,AGPL-3.0
 decidim-consultations,0.20.0,AGPL-3.0
+decidim-consultations,0.20.1,AGPL-3.0
 defunkt-github,0.3.4,""
 dhash,0.0.2,MIT
 docktor,0.2.0,MIT
@@ -178,6 +182,7 @@ fastlane-plugin-appcenter,1.7.1,MIT
 fastlane-plugin-appcenter,1.8.0,MIT
 fastlane-plugin-auth0_shipper,0.4.1,MIT
 fastlane-plugin-ci_changelog,0.5.7,MIT
+fastlane-plugin-ci_changelog,0.6.0,MIT
 fastlane-plugin-load_json,0.0.1,MIT
 favt,0.2.1,MIT
 feldpost-actionwebservice,2.3.3,""
@@ -302,6 +307,7 @@ lita-jls,0.0.12,MIT
 location-one,0.0.10,""
 logstash-input-event-hub,1.0.0,Apache License (2.0)
 lorkhan,3.1.0,MIT
+lorkhan,3.2.0,MIT
 lottery_picker,0.5,MIT
 ltsview,0.0.7,""
 m2config,0.9.1,MIT
@@ -325,6 +331,7 @@ mincer,0.2.18,MIT
 mincer,0.2.19,MIT
 mini_term,0.1.1,MIT
 mini_term,0.1.2,MIT
+mini_term,0.1.3,MIT
 minidbc,0.1.0,""
 minienigma,0.1.0,MIT
 mixlib-archive,1.0.1,Apache-2.0
@@ -368,6 +375,8 @@ ox-builder,1.0.2,MIT
 page_record,1.0.4,MIT
 paillier,1.2.1,LGPL-3.0
 pandoc-ruby,2.0.2,MIT
+pandoc-ruby,2.1.3,MIT
+pandoc-ruby,2.1.4,MIT
 parsnip,0.0.5,""
 paul_revere,3.1.0,MIT
 pcduino,0.0.1,MIT
@@ -447,6 +456,8 @@ renalware-core,2.0.140,MIT
 renalware-core,2.0.142,MIT
 renalware-core,2.0.144,MIT
 renalware-core,2.0.145,MIT
+renalware-core,2.0.146,MIT
+renalware-core,2.0.147,MIT
 resize-aws-instance,0.2.0,Apache 2.0
 resque-batch,0.2.1,MIT
 ring-sqa,0.4.3,Apache-2.0
@@ -461,6 +472,7 @@ rubinius-bridge,3.0,MIT
 rubiojr-iorb,0.5.90,""
 rubocop-devdiary-security,0.1.1,MIT
 rubocop-shopify,1.0.0,MIT
+rubocop-shopify,1.0.1,MIT
 ruboty-kintai,1.0.2,MIT
 ruboty-mtgcard,0.1.3,MIT
 ruboty-mtgcard,0.1.4,MIT
@@ -468,6 +480,7 @@ ruby-gr,0.0.11,MIT
 ruby-gr,0.0.12,MIT
 ruby-gr,0.0.13,MIT
 ruby-gr,0.0.14,MIT
+ruby-gr,0.0.15,MIT
 ruby-gr,0.0.8,MIT
 ruby-gr,0.0.9,MIT
 ruby-web-crawler,0.1.0,MIT
@@ -564,6 +577,7 @@ truncate_html_sentence,0.5.6,""
 turba_chronos,5.2.0,MIT
 twitchus,0.1.8,""
 txdb,4.2.0,""
+txdb,4.2.1,""
 tylerkovacs-custom_benchmarks,0.4.0,""
 type-enforcer,0.0.3,""
 uglifier,4.2.0,MIT
@@ -574,6 +588,7 @@ vagrant-rhel7_no_net_mgr,0.0.1,GPLv2
 vagrant-simple_cloud,1.0.10,""
 vagrant-vm-info,0.0.5,MIT
 valued,0.1.0,MIT
+valued,0.1.3,MIT
 vcap_common,4.0.5,""
 visible,0.0.1,MIT
 vkontakte_api,1.4.4,MIT

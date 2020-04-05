@@ -30,6 +30,8 @@ arkaan,2.1.0,MIT
 arkaan,2.3.0,MIT
 arkaan,2.4.0,MIT
 arkaan,2.4.1,MIT
+arkaan,2.5.0,MIT
+arkaan,2.6.0,MIT
 aspec_rb,0.0.18,MIT
 assertion,0.2.5,MIT
 astarisk,0.2.0,MIT
@@ -311,6 +313,7 @@ logstash-output-stdout,3.1.4,Apache License (2.0)
 lolita-menu,0.4.2,MIT
 lolruby,0.1.0,""
 look_up_table,0.1.2,""
+lsif_parser,0.1.0,MIT
 luhn_checksum,0.1.1,""
 m9,1.0.0,MIT
 magi,0.1.6,MIT

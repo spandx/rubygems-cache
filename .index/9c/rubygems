@@ -40,6 +40,7 @@ aws-sdk-robomaker,1.18.0,Apache-2.0
 aws-sdk-robomaker,1.19.0,Apache-2.0
 aws-sdk-robomaker,1.20.0,Apache-2.0
 aws-sdk-robomaker,1.21.0,Apache-2.0
+aws-sdk-robomaker,1.22.0,Apache-2.0
 aws_public_ips,1.0.7,MIT
 background_bunnies,0.0.6,MIT
 banjo,0.0.5,MIT
@@ -68,9 +69,11 @@ cehoffman-acts_as_ferret,0.4.4,""
 changes_since,0.1.1,MIT
 chupa-text-decomposer-libreoffice-word,1.0.0,LGPL-2.1+
 circuit_client,0.0.4,MIT
+circuit_client,1.0.0,MIT
 citrus-mail,0.2.1,MIT
 claudius,0.0.5,MIT
 cli-mastermind,1.2.5,MIT
+cli-mastermind,1.3.1,MIT
 closure-compiler,1.1.14,Apache-2.0
 cm-devise_token_auth,0.1.30.1,WTFPL
 codeclimate-collector-pagerduty,0.0.1,Nonstandard
@@ -175,6 +178,7 @@ google-cloud-os_login,0.5.1,Apache-2.0
 google-cloud-os_login,0.5.2,Apache-2.0
 google-cloud-os_login,0.5.3,Apache-2.0
 google-cloud-os_login,0.6.0,Apache-2.0
+google-cloud-os_login,0.6.1,Apache-2.0
 google_custom_search_api,2.0.0,""
 govuk_content_models,47.0.0,""
 grabli,0.2.1,wtfpl
@@ -225,6 +229,10 @@ istox,0.1.125,""
 istox,0.1.127,""
 istox,0.1.128,""
 istox,0.1.129,""
+istox,0.1.132,""
+istox,0.1.134,""
+istox,0.1.135,""
+istox,0.1.137,""
 jamie-ec2,0.3.0,""
 jbuilder-json_api,1.0.0,MIT
 jekyll-smartcropper,0.0.3,""
@@ -254,6 +262,7 @@ list_spider,2.2.0,MIT
 list_spider,2.3.0,MIT
 list_spider,2.4.0,MIT
 list_spider,2.5.0,MIT
+list_spider,2.6.0,MIT
 lita-queue,0.4.0,MIT
 lita-whatthecommit,0.1.1,MIT
 ll-vagrant,0.0.1,""
@@ -291,6 +300,7 @@ metanorma-vsd,1.0.0,BSD-2-Clause
 metanorma-vsd,1.0.1,BSD-2-Clause
 metanorma-vsd,1.0.2,BSD-2-Clause
 metanorma-vsd,1.0.3,BSD-2-Clause
+metanorma-vsd,1.0.4,BSD-2-Clause
 metaverse,0.1.10,MIT
 mi,1.0.0,CC0-1.0
 middleman-slim,0.2.2,MIT
@@ -333,11 +343,13 @@ null_delivery,1.0.0,""
 num,0.0.0,MIT
 nx,0.1.1,MIT
 nx,0.1.3,MIT
+nx,0.1.4,MIT
 omniauth-gds,3.2.1,""
 omniauth-mixi,1.1.0,""
 omniauth-tripit,0.1.0,""
 omniship,0.4.7,MIT
 once-ler,0.1.4,""
+once-ler,1.0.0,""
 onceover-metrics,0.1.0,Apache-2.0
 opay,1.3.2,""
 open_api-loader,0.0.1,MIT
@@ -362,6 +374,7 @@ pg_array_parser,0.0.9,""
 phcdevworks_core,1.0.4,MIT
 phcdevworks_core,1.0.5,MIT
 phcdevworks_core,1.0.6,MIT
+phcdevworks_core,1.1.0,MIT
 photographer,0.0.1,MIT
 pingpong,1.0.0,""
 poddb_client,0.2.8,""
@@ -393,6 +406,7 @@ rbs_rails,0.1.0,""
 rdf-vocab,3.1.0,Unlicense
 rdf-vocab,3.1.1,Unlicense
 rdf-vocab,3.1.2,Unlicense
+rdf-vocab,3.1.4,Unlicense
 rdoc,6.2.0,Ruby
 rdoc,6.2.1,Ruby
 redis-activesupport,5.2.0,MIT
@@ -417,12 +431,14 @@ rspec-lets,0.1.2,""
 rsync,1.0.9,MIT
 rubg,0.2.3,MIT
 rubocop-discourse,1.0.2,MIT
+rubocop-discourse,2.0.1,MIT
 rubocop-sensible,0.2.0,MIT
 rubocop-sensible,0.3.0,MIT
 ruboty-pux,0.0.1,MIT
 ruby-druid,0.10.2,MIT
 ruby-llvm,3.5.0,""
 ruby-osc,0.40.0,MIT
+ruby-osc,1.0.0,MIT
 ruby-zipkin,0.2.909,""
 ruby_hlr_client,0.0.18,Apache-2.0
 rultor,0.4.4,BSD

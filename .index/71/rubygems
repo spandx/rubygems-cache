@@ -55,6 +55,7 @@ bennetts_magical_gem,1.0.0,MIT
 betty_resource,0.0.20,MIT
 bidu-core_ext,1.2.5,""
 biran,0.1.10,MIT
+biran,0.1.11,MIT
 bless,0.1.0,MIT
 blueimp-gallery,2.11.0.1,MIT
 bookable_cloud,0.0.1,MIT
@@ -145,6 +146,7 @@ ea-address_lookup,0.3.3,The Open Government Licence (OGL) Version 3
 easy-exist,0.5.0,MIT
 ecm_core_info_backend,0.0.6,MIT
 ecs_cmd,0.1.7,MIT
+ecs_cmd,0.2.0,MIT
 ee_jammit,0.6.6,""
 eldr-rendering,0.0.1,MIT
 email_assessor,0.5.0,MIT
@@ -163,6 +165,9 @@ eyes_core,3.15.47,Applitools
 eyes_core,3.15.48,Applitools
 eyes_core,3.16.0,Applitools
 eyes_core,3.16.1,Applitools
+eyes_core,3.16.10,Applitools
+eyes_core,3.16.11,Applitools
+eyes_core,3.16.12,Applitools
 eyes_core,3.16.2,Applitools
 eyes_core,3.16.3,Applitools
 eyes_core,3.16.4,Applitools
@@ -340,6 +345,7 @@ motion-config-vars,0.1.0,MIT
 mredis,1.0.5,MIT
 multi_schema,0.0.1,""
 mumukit-assistant,0.2.0,MIT
+mumukit-assistant,0.2.1,MIT
 myGrid-taverna-scufl,0.6.0,""
 my_obfuscate,0.5.4,""
 my_string_extend_pankajprasun,0.0.1,""
@@ -523,6 +529,7 @@ textlocal-india,0.1.2,MIT
 textveloper,0.2.0,MIT
 the_hulk,0.0.10,MIT
 the_pb,0.0.1,MIT
+the_pb,0.0.2,MIT
 thincloud-auth,0.1.2,""
 tilt-mote,0.0.5,MIT
 time_as_words,0.0.0,MIT

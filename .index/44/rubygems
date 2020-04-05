@@ -312,6 +312,7 @@ opennebula,5.10.3,Apache-2.0
 operators-client,0.1.0,MIT
 opmlparser,0.1.0,Public Domain
 opmlparser,1.0.0,Public Domain
+opmlparser,1.0.1,Public Domain
 orgmode-code-extractor,0.0.5,MIT
 osrm,0.5.0,MIT
 outoftime-record_filter,0.8.0,""
@@ -355,7 +356,11 @@ prima-twig,0.62.9,MIT
 prima-twig,0.63.1,MIT
 prima-twig,0.63.12,MIT
 prima-twig,0.63.13,MIT
+prima-twig,0.63.15,MIT
+prima-twig,0.63.17,MIT
+prima-twig,0.63.18,MIT
 prima-twig,0.63.2,MIT
+prima-twig,0.63.20,MIT
 prima-twig,0.63.3,MIT
 prima-twig,0.63.5,MIT
 prima-twig,0.63.7,MIT
@@ -367,6 +372,7 @@ puppet-module-win-dev-r2.3,0.4.2,Apache-2.0
 puppet-module-win-dev-r2.3,0.4.3,Apache-2.0
 puppet-module-win-dev-r2.3,0.4.4,Apache-2.0
 qrush-beardo,0.1.0,""
+qubitro-mqtt,0.0.11,MIT
 quick_look,0.1.0,MIT
 r5_fog,1.10.0,""
 rabbit-slide-giosakti-201710-coding-conventions-ruby,2017.10.16.2,MIT

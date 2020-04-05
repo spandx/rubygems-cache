@@ -56,6 +56,10 @@ blogaze,0.2.0,""
 boletoman,0.0.4,MIT
 borneo,0.0.2,MIT
 bricolage-mysql,5.26.1,MIT
+bricolage-mysql,5.27.0,MIT
+bricolage-mysql,5.27.1,MIT
+bricolage-mysql,5.27.2,MIT
+bricolage-mysql,5.27.3,MIT
 brita,0.10.0,MIT
 buffered-logger,2.0.0,""
 cafepress-api,0.3.2,""
@@ -66,6 +70,7 @@ cany,0.5.7,MIT
 capistrano-raygun-deployment,1.2.0,MIT
 capistrano-syncback,0.1.0,MIT
 capistrano-upload-restart,1.0,MIT
+carcalculator,0.3.0,MIT
 cardshark,0.0.1,""
 cardshark,0.0.2,""
 carrierwave-optimize-image,1.0.4,MIT
@@ -191,6 +196,7 @@ fme-shoryuken,0.0.6,MIT
 foreman_scc_manager,1.7.0,GPL-3.0
 foreman_scc_manager,1.8.0,GPL-3.0
 foreman_scc_manager,1.8.2,GPL-3.0
+foreman_scc_manager,1.8.3,GPL-3.0
 formal_wear,1.0.0,""
 formica,0.0.1,MIT
 formtastic_i18n,0.6.0,MIT
@@ -223,6 +229,7 @@ google-cloud-translate,2.1.0,Apache-2.0
 google-cloud-translate,2.1.1,Apache-2.0
 google-cloud-translate,2.1.2,Apache-2.0
 google-cloud-translate,2.2.0,Apache-2.0
+google-cloud-translate,2.3.0,Apache-2.0
 google_maps_service,0.4.2,Apache-2.0
 gorg_message_sender,1.4.5,MIT
 govuk_navigation_helpers,9.2.1,MIT
@@ -272,6 +279,7 @@ isodoc,1.0.19,BSD-2-Clause
 isodoc,1.0.20,BSD-2-Clause
 isodoc,1.0.21,BSD-2-Clause
 isodoc,1.0.22,BSD-2-Clause
+isodoc,1.0.23,BSD-2-Clause
 javascript_dlog-rails,1.0.1,""
 jekyll-pdf,0.1.7,GPL-3.0
 jekyll-swfobject,1.0.1,MIT
@@ -379,6 +387,7 @@ omniauth-onvedeo,1.1.0,MIT
 omniauth-signnow,0.6.0,""
 omniauth-wechat,0.1.24,MIT
 omniscientjs,0.1.0,MIT
+opentelemetry-adapters-faraday,0.3.0,Apache-2.0
 optipng,0.2.1,""
 oregano,0.1.0,GPL-3
 organic_hash,1.0.2,"Apache License, Version 2.0"
@@ -470,6 +479,7 @@ rubospeller,1.0.3,MIT
 rubustrings,0.0.4,MIT
 ruby-curl,1.0.2,MIT
 ruby-cute,0.12,CeCILL-B
+ruby-cute,0.13,CeCILL-B
 ruby-montage,1.3.0,MIT
 rubylove-playing_cards,0.0.1,MIT
 rubynews,0.0.1,Public Domain

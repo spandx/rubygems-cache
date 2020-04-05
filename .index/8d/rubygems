@@ -78,6 +78,7 @@ caesar-tax,0.1.2,MIT
 calendar-to-queue,0.0.3,MIT
 camertron-rails-assets-codemirror,4.2.0,""
 canada_eh,0.0.3,MIT
+canada_eh,0.0.4,MIT
 candland_view_tool,0.1.0,""
 cannon,0.0.2,""
 cap-chown,0.0.6,""
@@ -122,6 +123,7 @@ cuba-sprockets,0.1.0,MIT
 cwru_directory,0.1.0,MIT
 dark-minima,0.1.1,MIT
 darmani_game81,0,""
+data_library,0.1.0,GPL-3.0-only
 db_facet,0.1.0,MIT
 dbg,0.0.1,MIT
 dcm4chee,0.1.0,""
@@ -230,6 +232,7 @@ h8,0.5.5,MIT
 hancock_cms,2.0.1.3,MIT
 has_web_fallback,0.2.0,""
 hello_world_sj,0.1.0,MIT
+helply,0.1.0,MIT
 here_geocoder,0.0.2,MIT
 heroku-deploy,0.0.4,""
 hiera-postgres-backend,0.0.7,""
@@ -243,6 +246,7 @@ hyperion-sql,0.2.0,Eclipse Public License
 i18n_lazy_scope,1.0.0,MIT
 iciba,0.0.20,""
 icinga-cert-service,0.18.4,LGPL-2.1+
+icinga-cert-service,0.20.0,LGPL-2.1+
 ictusrye,0.4.2,ISC
 infrared,0.1.0,""
 insidious,0.3,MIT
@@ -464,6 +468,7 @@ role,0.0.2,""
 rspec-ftp,0.0.3,MIT
 rspec-rails,3.9.0,MIT
 rspec-rails,3.9.1,MIT
+rspec-rails,4.0.0,MIT
 rspec_rabl,0.0.4,MIT
 rubicus,0.1.1,""
 rubocop-config-cowtech,1.0.2,MIT
@@ -482,8 +487,11 @@ scoutie,0.0.2,MIT
 scrivito_teaser_widget,0.1.2,LGPL-3.0
 sdo-account,1.0.2,""
 sekrit,0.1.0,MIT
+sekrit,0.2.0,MIT
 semaphore_client,3.3.0,MIT
 sensu-install,0.1.0,MIT
+sensu-plugins-aws-boutetnico,1.0.6,MIT
+sensu-plugins-aws-boutetnico,1.2.0,MIT
 sensu-plugins-entropy-checks,1.0.0,MIT
 sensu-plugins-plivo,0.0.1,MIT
 sensu-plugins-sidekiq-donotuse,0.0.3,MIT

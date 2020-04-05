@@ -70,6 +70,7 @@ chrome,0.1.0,""
 cimma,0.1.2,""
 cld-2018,1.1.3,""
 click,0.2.0,MIT
+cm_shared,0.1.1,MIT
 cocoapods-release,0.3.1,MIT
 code_terminator,0.6.0,MIT
 codepicnic,0.1.12,MIT
@@ -116,6 +117,7 @@ dyndrop,0.0.2,""
 eac_launcher,0.6.6,MIT
 eac_launcher,0.6.7,MIT
 eac_launcher,0.6.8,MIT
+eac_launcher,0.7.0,MIT
 easy_dice,0.0.2,GPL-3
 echosign,1.5.2,MIT
 ecm_contact2_backend,0.0.5,MIT
@@ -160,6 +162,7 @@ fluent-plugin-documentdb,0.3.1,Apache-2.0
 fluent-plugin-elasticsearch-ruby,0.0.3,""
 fluent-plugin-filecounts,0.1.1,Apache-2.0
 fluent-plugin-grafana-loki,1.2.10,Apache-2.0
+fluent-plugin-grafana-loki,1.2.11,Apache-2.0
 fluent-plugin-grafana-loki,1.2.5,Apache-2.0
 fluent-plugin-grafana-loki,1.2.6,Apache-2.0
 fluent-plugin-grafana-loki,1.2.7,Apache-2.0
@@ -170,6 +173,7 @@ fluent-plugin-statsd-output,1.4.2,MIT
 fluent-plugin-string-scrub,1.0.0,MIT
 fluent-plugin-systemd,1.0.2,Apache-2.0
 focus-utils,0.0.8,""
+fontist,0.1.0,BSD-2-Clause
 fotonauts-capistrano,2.5.2,""
 frankly-ruby,1.0.2,MIT
 gem_hadar,1.11.0,MIT
@@ -197,6 +201,7 @@ hatefreeweb,0.1.1,MIT
 hawaiian,0.1.0,GPLv3
 headless_html_editor,0.0.1,MIT
 heartcheck-cache,1.0.2,MIT
+heartcheck-cache,2.0.0,MIT
 help_desk_dashboard,0.1.0,""
 heroku_multi_backup,0.0.6,MIT
 hola-juanmaflyer,0.0.1,MIT
@@ -282,6 +287,7 @@ middleman-postdated,0.5.1,MIT
 mikeycgto-sinatra-rest,0.4.4,""
 minipack,0.3.3,MIT
 minipack,0.3.4,MIT
+minipack,0.3.5,MIT
 minitest-bender,0.0.3,MIT
 minitest-given,3.8.0,MIT
 misty,1.5.4,Apache-2.0
@@ -341,6 +347,7 @@ pakyow-reflection,1.0.5,LGPL-3.0
 pars,0.0.0,MIT
 passr,0.1.1,MIT
 pattern_bibz,1.0.0,MIT
+pattern_bibz,1.1.1,MIT
 paygate,0.1.3,MIT
 payoneer_ruby_sdk,0.1.4,MIT
 pcbr,0.4.1,MIT
@@ -518,6 +525,7 @@ trebbiatrice,0.3.1,WTFPL
 trestle-simplemde,0.1.1,LGPL-3.0
 trestle-simplemde,0.1.2,LGPL-3.0
 trilogy,0.0.1,""
+tty-logger-raven,0.3.2,MIT
 tube_frame,0.0.1,MIT
 tuktuk-rails,0.0.10,MIT
 twitter_filter,0.0.5,""
@@ -539,6 +547,8 @@ wavy,0.0.5,MIT
 wdk-view-toolkit,0.0.2,MIT
 webget-array_extensions,1.2.6,""
 webpacker,4.2.2,MIT
+webpacker,5.0.0,MIT
+webpacker,5.0.1,MIT
 websms,0.0.3,MIT
 wilco,0.1.0,MIT
 world_time,0.1.0,MIT
@@ -581,3 +591,5 @@ zuora_api,1.7.52,""
 zuora_api,1.7.53,""
 zuora_api,1.7.56,""
 zuora_api,1.7.57,""
+zuora_api,1.7.58,""
+zuora_api,1.7.59,""

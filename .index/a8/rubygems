@@ -169,6 +169,11 @@ font-awesome-more-less-rails,2.0.0.1,""
 food_fish_parser,0.1.0,MIT
 food_fish_parser,0.2.1,MIT
 food_fish_parser,0.3.3,MIT
+food_fish_parser,0.3.4,MIT
+food_fish_parser,0.3.5,MIT
+food_fish_parser,0.3.7,MIT
+food_fish_parser,0.3.8,MIT
+food_fish_parser,0.3.9,MIT
 foreman-export-initscript,0.0.1,""
 fs_auth,0.0.1,""
 function-composite,0.1.1,""
@@ -244,6 +249,7 @@ kaltura-client,15.14.0,AGPL-3.0
 kaltura-client,15.16.0,AGPL-3.0
 kaltura-client,15.17.0,AGPL-3.0
 kaltura-client,15.19.0,AGPL-3.0
+kaltura-client,15.20.0,AGPL-3.0
 kaminari_bootstrap_paginator,0.1.0,""
 kaykay-vlad,1.2.0.1,""
 keka,0.1.0,MIT
@@ -322,11 +328,13 @@ mynyml-unindent,0.8.0,""
 mysql2-sp,0.3.10,""
 nbio-csshttprequest,1.0.3,""
 neofiles,2.1.0,MIT
+nerdvision-api,0.0.0,Intergral GmbH
 netinlet-sweat_shop,1.1.1,""
 newrelic-ping-rails,0.1.0,MIT
 next_erp_bridge,1.0.0,""
 nikeplusgem,0.1.0,MIT
 nilio,1.0.0,""
+noops_hexbot,0.1.0,""
 normalizr-rails,2.2.1,MIT
 nr,0.9.1,""
 object_inspector,0.6.1,MIT
@@ -409,6 +417,7 @@ ruby_yappl,0.1.5,MIT
 rubyqrpay,0.3.0,MIT
 rumbrl,1.1.0,MIT
 ruolo,0.3.0,Apache-2.0
+ruolo,0.4.0,Apache-2.0
 rx,0.0.3,"Apache License, v2.0"
 safe_env,0.1.0,MIT
 sampling_prof,0.4.8,MIT
@@ -486,6 +495,7 @@ tpm-key_attestation,0.4.0,Apache-2.0
 tpm-key_attestation,0.5.0,Apache-2.0
 tpm-key_attestation,0.6.0,Apache-2.0
 tpm-key_attestation,0.7.0,Apache-2.0
+tpm-key_attestation,0.8.0,Apache-2.0
 traceable,1.5.0,MIT
 track_rate,0.1.0,MIT
 translations_sync,0.4.14,MIT

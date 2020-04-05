@@ -26,6 +26,7 @@ alipay-escrow,0.1.3,MIT
 allure-ruby-commons,2.13.2,Apache-2.0
 allure-ruby-commons,2.13.3,Apache-2.0
 allure-ruby-commons,2.13.4,Apache-2.0
+allure-ruby-commons,2.13.5,Apache-2.0
 amerine-btexty,0.1.2,""
 angular-ui-rails,0.4.0.3,MIT
 apfel,0.0.5,""
@@ -53,6 +54,8 @@ aws-sdk-eks,1.30.0,Apache-2.0
 aws-sdk-eks,1.31.0,Apache-2.0
 aws-sdk-eks,1.32.0,Apache-2.0
 aws-sdk-eks,1.33.0,Apache-2.0
+aws-sdk-eks,1.34.0,Apache-2.0
+aws-sdk-eks,1.35.0,Apache-2.0
 azure_mgmt_privatedns,0.17.1,MIT
 babylonia-rails,0.1.3,MIT
 back_to_anchor,1.0.1,MIT
@@ -193,6 +196,7 @@ google-cloud-kms,1.3.1,Apache-2.0
 google-cloud-kms,1.4.0,Apache-2.0
 google-cloud-kms,1.4.1,Apache-2.0
 google-cloud-kms,1.5.0,Apache-2.0
+google-cloud-kms,1.5.1,Apache-2.0
 google_tz,0.3.2,MIT
 googlecloud,0.0.7,""
 gracenote-rb,0.1.1,MIT
@@ -206,6 +210,9 @@ handlebars-source,4.7.0,MIT
 handlebars-source,4.7.1,MIT
 handlebars-source,4.7.2,MIT
 handlebars-source,4.7.3,MIT
+handlebars-source,4.7.4,MIT
+handlebars-source,4.7.5,MIT
+handlebars-source,4.7.6,MIT
 has_secure_password,0.1.0,""
 hash_params,2.0.7,MIT
 hashdiff,1.0.0,MIT
@@ -263,6 +270,7 @@ json_rander,0.0.2,MIT
 jtrupiano-story-helper,0.2.0,""
 jylis-rb,0.2.0,MIT
 keycloak-admin,0.7.4,MIT
+keycloak-admin,0.7.5,MIT
 knife-solo_data_bag,2.1.0,""
 koine-event_manager,2.1.1,MIT
 l2e_vocab_blacklist,1.4.4,"All rights reserved, for now"
@@ -354,6 +362,8 @@ pasting,0.0.5,MIT
 pathspec,0.2.1,Apache-2.0
 peatio-nexbit,0.1.1,MIT
 peatio-nexbit,0.1.2,MIT
+peatio-nexbit,0.1.3,MIT
+peatio-nexbit,0.1.5,MIT
 pec_calc_client,1.1.1,MIT
 penthotal,0.0.1,MIT
 persistent-cache-storage-ram,0.1.3,MIT
@@ -367,6 +377,7 @@ pompous,0.0.3,MIT
 probe-dock-rspec,0.5.2,MIT
 pronto-flake8,0.2.0,Apache-2.0
 pronto-flake8,0.3.0,Apache-2.0
+pronto-flake8,0.4.0,Apache-2.0
 proxmox,0.0.5,MIT
 public_activity_multi_recipients,0.1.4,MIT
 publish_to_web,2.5.0,MIT
@@ -374,6 +385,7 @@ puppet-lint-absolute_template_path,1.0.1,MIT
 qtc-sdk,0.5.0,MIT
 quartz,1.5.0,MIT
 r_creds,1.0.1,MIT
+r_creds,1.0.2,MIT
 rabbit-slide-kou-apache-arrow-tokyo-meetup-2019,2019.12.11.3,CC-BY-SA-4.0
 rack-freeze,1.2.0,""
 rack-freeze,1.3.1,""
@@ -470,6 +482,7 @@ tables,0.0.14,""
 taft,0.2.0,MIT
 tdiary-style-etdiary,0.0.2,MIT
 telegram-bot-types,0.6.1,MIT
+telegram-bot-types,0.6.2,MIT
 telstramessagingdemo,1.0.0,MIT
 termdump,0.3.0,MIT
 the_lone_dyno,1.0.0,MIT

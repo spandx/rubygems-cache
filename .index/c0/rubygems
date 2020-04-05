@@ -75,6 +75,7 @@ bluetail,1.0,MIT
 bodhi,0.1.1,""
 bogo,0.2.14,Apache 2.0
 bosh-gen,0.101.1,""
+bosh-gen,0.101.2,""
 bowtie-io,1.3.5,MIT
 boxenprofiler,0.0.1,MIT
 brace,0.1.0,MIT
@@ -137,6 +138,8 @@ ddtrace,0.31.1,BSD-3-Clause
 ddtrace,0.32.0,BSD-3-Clause
 ddtrace,0.33.0,BSD-3-Clause
 ddtrace,0.33.1,BSD-3-Clause
+ddtrace,0.34.0,BSD-3-Clause
+ddtrace,0.34.1,BSD-3-Clause
 debride-haml,1.0.0,MIT
 derussian,0.0.5,MIT
 detectfaces,0.1.0,MIT
@@ -278,6 +281,7 @@ logstash-output-aerospike,0.3.1,Apache License (2.0)
 lorempixel_helper,1.1.0,MIT
 lucid-helpers,0.1.0,MIT
 lumbersexual,0.3.16,MIT
+lumbersexual,0.4.0,MIT
 lydia,0.1.4,MIT
 mafia_amqp,0.1.1,MIT
 magelex,0.1.9,GPL-3.0
@@ -446,6 +450,7 @@ scstreverser,0.0.2,MIT
 sdl-ng,0.1.7,Apache-2.0
 seca_manos,0.0.1,MIT
 seeing_is_believing,3.6.1,WTFPL
+seeing_is_believing,4.0.0,WTFPL
 semantic_form_for,0.5.1,""
 sensu-plugins-datadog,1.0.1,MIT
 sensu-plugins-numa,0.0.2,MIT
@@ -538,6 +543,7 @@ vrt-ec2-tags,0.1.0,""
 waffilter,0.0.1,""
 wallaby,6.0.2,MIT
 wallaby,6.1.0,MIT
+wallaby,6.1.1,MIT
 weakly,0.1.0,MIT
 webconsole,0.2.1,""
 whenever-ray,0.3.7,""

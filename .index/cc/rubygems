@@ -43,6 +43,7 @@ aws-sdk-globalaccelerator,1.13.0,Apache-2.0
 aws-sdk-globalaccelerator,1.14.0,Apache-2.0
 aws-sdk-globalaccelerator,1.14.1,Apache-2.0
 aws-sdk-globalaccelerator,1.15.0,Apache-2.0
+aws-sdk-globalaccelerator,1.16.0,Apache-2.0
 azure_mgmt_kusto,0.19.0,MIT
 azure_mgmt_kusto,0.19.1,MIT
 badmail,0.0.0,""
@@ -110,6 +111,8 @@ collectible,0.23.1,MIT
 collectible,0.23.1.1,MIT
 collectible,0.23.1.2,MIT
 collectible,0.23.2,MIT
+collectible,0.23.3,MIT
+collectible,0.23.4,MIT
 combinatorial_puzzle_solver,0.1.6,MIT
 command_translate,0.0.2,MIT
 community_cookbook_releaser,1.2.0,Apache-2.0
@@ -150,6 +153,7 @@ dekernel,0.0.1,""
 delorean,2.1.0,""
 denormalize_fields,1.0.0,MIT
 denormalize_fields,1.0.1,MIT
+denormalize_fields,1.1.1,MIT
 develop_with_pleasure,0.0.1,MIT
 devenv,0.0.0,MIT
 devise-doorkeeper,1.1.2,MIT
@@ -187,6 +191,7 @@ excursion,0.2.1,MIT
 facebook-profile-scraper,1.0.0,MIT
 facebook_app,0.0.34,""
 factory_bot,5.1.1,MIT
+factory_bot,5.1.2,MIT
 fake_smith,0.6.3,GPL-3
 fast_serializer,1.1.1,MIT
 fast_serializer,1.1.2,MIT
@@ -215,6 +220,8 @@ fronkin_bandcamp,0.2.0,MIT
 fronkin_bandcamp,0.3.0,MIT
 furaffinity-mailer,0.0.5,MIT
 fuzzy-date,0.2.1,MIT
+gamefic-tty,2.0.0,MIT
+gamefic-tty,2.0.1,MIT
 gatecoin,0.3.0,MIT
 gdk_pixbuf2,3.2.9,LGPL-2.1+
 gdk_pixbuf2,3.4.1,LGPL-2.1+
@@ -228,6 +235,7 @@ git-cop,3.5.3,Apache-2.0
 git-cop,4.0.0,Apache-2.0
 git-cop,4.0.1,Apache-2.0
 git-cop,4.0.2,Apache-2.0
+git-cop,4.1.0,Apache-2.0
 git_wit,0.0.6,""
 github_commenter,0.1.0,MIT
 global_error_handler,1.2.3,MIT
@@ -277,6 +285,7 @@ immigrate,0.1.0,MIT
 immutabler,0.3.0,MIT
 inbox-sync,0.4.1,""
 inky-rb,1.3.7.5,MIT
+inky-rb,1.3.8.0,MIT
 instagram_graph_api,0.0.10,MIT
 internal_api,0.1.0,MIT
 irb_reload,0.0.2,MIT
@@ -442,6 +451,13 @@ rbbt-util,5.26.149,MIT
 rbbt-util,5.26.150,MIT
 rbbt-util,5.26.151,MIT
 rbbt-util,5.26.154,MIT
+rbbt-util,5.26.155,MIT
+rbbt-util,5.26.156,MIT
+rbbt-util,5.26.157,MIT
+rbbt-util,5.26.159,MIT
+rbbt-util,5.26.161,MIT
+rbbt-util,5.26.163,MIT
+rbbt-util,5.26.164,MIT
 rbbt-util,5.26.93,MIT
 rdf-microdata,3.1.0,Unlicense
 rds_backup,0.1.0,MIT

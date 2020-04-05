@@ -72,6 +72,8 @@ change_health,0.0.1,MIT
 change_health,0.3.0,MIT
 change_health,0.4.0,MIT
 change_health,0.5.0,MIT
+change_health,0.6.0,MIT
+change_health,0.8.0,MIT
 class_names,0.1.1,MIT
 class_names,0.1.2,MIT
 cldr-plurals-runtime-rb,1.0.1,""
@@ -142,6 +144,7 @@ faceted_search,3.3.5,MIT
 faceted_search,3.4,MIT
 faceted_search,3.4.1,MIT
 faceted_search,3.4.2,MIT
+faceted_search,3.4.3,MIT
 fastlane-plugin-create_github_issue,0.1.0,MIT
 fastlane-plugin-twine,1.0.0,MIT
 fastlane-plugin-xcode8_srgb_workaround,0.1.0,MIT
@@ -179,6 +182,7 @@ gmap_markers,0.0.2,""
 godfat-friendly_format,0.7.0,""
 godmin-uploads,0.11,MIT
 going,1.1.0,MIT
+golden-objects,0.1.0,MIT
 google_drive_companion,0.1.0,""
 goose_game,1.0.0,MIT
 gottabeafraid,0.0.5,""
@@ -208,6 +212,7 @@ hola_reetika,0.0.1,""
 holst_copyright_tool,0.1.0,MIT
 hornetseye-opencv,0.3.5,GPL-3+
 hrr_rb_lxns,0.1.0,MIT
+hrr_rb_lxns,0.1.1,MIT
 hsbc_pdf_statement_parser,1.0.1,MIT
 htmless,0.4.2,MIT
 hyper_api,0.1.1,MIT
@@ -229,6 +234,7 @@ jandot-ruby-ucsc-api,0.9,""
 jayzes-akamai_purger,0.1.7,""
 jazzy,0.13.0,MIT
 jazzy,0.13.1,MIT
+jazzy,0.13.2,MIT
 jekyll-lunr-js-search-plusplus,0.2.7,MIT
 jekyll-theme-space,1.1.0,MIT
 jeremylightsmith-piston,1.9.3,""
@@ -330,6 +336,8 @@ nose,0.1.2,GPL-3.0
 notch8-cucumber,0.1.99.23,""
 nutrientes,0.1.1,""
 nxt_schema,0.1.0,MIT
+nxt_schema,0.1.1,MIT
+nxt_schema,0.1.2,MIT
 observed-fluentd,0.2.0,MIT
 odeon_uk,4.0.1,AGPL-|-MIT
 olam,0.1.1,""
@@ -348,6 +356,7 @@ optbind,0.5.2,MIT
 or-tools,0.1.0,MIT
 or-tools,0.1.1,MIT
 or-tools,0.1.2,MIT
+or-tools,0.1.3,MIT
 osdb,0.2.2,MIT
 oshpark,1.0.0,MIT
 painless-table,0.1.0,MIT
@@ -528,6 +537,7 @@ verifi_data,0.1.11,MIT
 versionaire,7.3.4,Apache-2.0
 versionaire,8.0.0,Apache-2.0
 versionaire,8.0.1,Apache-2.0
+versionaire,8.1.0,Apache-2.0
 vizi_logger,0.1.0,""
 vlc360,0.1.0,MIT
 voteable_tae,0.0.1,""

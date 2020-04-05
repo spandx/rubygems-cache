@@ -311,6 +311,7 @@ migrer,0.1.3,MIT
 mini_colors-rails,1.0.5,""
 mini_erb,0.1.1,MIT
 mini_erb,0.1.2,MIT
+mini_erb,0.1.3,MIT
 minirails,0.2.0,MIT
 minitest-rails-assertions,0.1.0,MIT
 minos,0.3.7,MIT
@@ -417,6 +418,7 @@ rake_leiningen,0.14.0,MIT
 rake_leiningen,0.16.0,MIT
 rake_leiningen,0.18.0,MIT
 rake_leiningen,0.2.0,MIT
+rake_leiningen,0.20.0,MIT
 rake_leiningen,0.4.0,MIT
 rake_leiningen,0.8.0,MIT
 range-set,1.0.0,""
@@ -459,6 +461,7 @@ satoshi_ruby,0.0.1,MIT
 sbellity-couchrest,0.23,""
 schema-model,0.5.6,MIT
 schema-model,0.6.0,MIT
+schema-model,0.6.1,MIT
 schemer_rails,0.0.3,MIT
 scli,0.0.8,MIT
 scratch-gui,1.0.1,MIT
@@ -484,6 +487,7 @@ sorceror_poseidon_cluster,0.4.2,""
 sorts_ESN,0.0.1,MIT
 spark_api,1.4.29,Apache 2.0
 spark_api,1.4.31,Apache 2.0
+spark_api,1.4.32,Apache 2.0
 spec_support,0.0.12,""
 spotify_http_remote,0.1.0,MIT
 spovich-strongbox,0.2.1,""

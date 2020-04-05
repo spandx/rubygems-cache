@@ -37,6 +37,7 @@ apache_felix_api_client,0.1.1,Apache-2.0
 apidone-client,0.0.3,""
 apimatic_calculator_headers_issue,5.1.0,MIT
 aptible-auth,1.0.1,MIT
+aptible-auth,1.1.0,MIT
 ar_indexer,0.3.2,GPL-2
 area-code_validator,0.0.6,MIT
 arethusa_cli,0.1.16,MIT
@@ -145,6 +146,8 @@ easy_sax,0.1.0,MIT
 edsinclair-git-pair,0.4.0,""
 elt,0.0.1,MIT
 embulk-input-aster,0.1.5,MIT
+embulk-input-cloudwatch_logs,0.1.0,MIT
+embulk-input-cloudwatch_logs,0.1.1,MIT
 enhance,0.1.0,""
 eventioz-pdf-writer,1.2.4,MIT
 excel-esv,3.0.0,MIT
@@ -375,6 +378,7 @@ pdf_gem,1.0.9,Apache-2.0
 pdf_gem,1.1.0,Apache-2.0
 pdf_maker,0.0.4,""
 pdf_outline_editor,0.1.0,Apache-2.0
+pdf_outline_editor,0.1.1,Apache-2.0
 peatio-stellar,0.1.0,Proprietary
 phildarnowsky-merb_hoptoad_notifier,1.0.2.6,""
 phpfaker,0.0.1,GPLv3
@@ -403,6 +407,7 @@ purecloudplatformclientv2,77.0.0,MIT
 purecloudplatformclientv2,78.0.0,MIT
 purecloudplatformclientv2,79.0.0,MIT
 purecloudplatformclientv2,80.0.0,MIT
+purecloudplatformclientv2,82.0.0,MIT
 qiniu,6.9.0,MIT
 qlive-rspec,0.4.3,""
 quandl-slack,0.0.2,MIT
@@ -488,6 +493,8 @@ sequel_acts_as_cacheable,1.4,MIT
 sequence_on,0.1.0,MIT
 serpico,0.0.0,""
 sidekiq-cron-tasks,0.4.0,MIT
+sidekiq_unique_digests_cleaner,1.0.0,MIT
+sidekiq_unique_digests_cleaner,1.0.1,MIT
 sideload,0.1.0,BSD-2-Clause
 siefca-httpage,0.2.8,""
 simple_d3,0.0.1,MIT
@@ -519,6 +526,7 @@ stash-clone-tool,1.0.9,""
 step_render,0.2.1,MIT
 storage_room,0.3.24,""
 store_attribute,0.6.0,MIT
+store_attribute,0.7.0,MIT
 string_entropy,0.1.0,MIT
 string_to_point,0.1.0,""
 submit,0.0.1,""
@@ -578,6 +586,7 @@ whatnot,1.0,""
 wikipedia_rest_client,0.1.4,MIT
 winrm-transport,1.0.4,Apache 2.0
 wisp-schema,0.15.0,MIT
+wisp-schema,0.16.0,MIT
 words-filter,0.0.1,MIT
 workflow-sequel,0.2.0,MIT
 xapix_client,1.1.0,MIT

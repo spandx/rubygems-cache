@@ -35,14 +35,18 @@ asciidoctor-bibtex,0.7.1,OWL
 asker-tool,2.1.2,GPL-3.0
 asker-tool,2.1.3,GPL-3.0
 asker-tool,2.1.5,GPL-3.0
+asker-tool,2.1.6,GPL-3.0
 astapor,0.0.3,MIT
 async-rails,3.0.1,""
 atheme,0.1.0,MIT
 attachment-magick,0.3.6,""
+auth1,0.2.0,MIT
 auth_client,0.0.3,MIT
 authorization-rails,1.0.13,""
 avgrund_to,0.0.2,""
 backlog_bulk,0.1.0,MIT
+badpixxel-jekyll-flickr,0.0.2,MIT
+badpixxel-jekyll-flickr,0.0.3,MIT
 banzai,0.1.3,MIT
 baseapi,0.3.2,MIT
 baseboard,1.0.4,""
@@ -62,6 +66,8 @@ blacklight-citeproc,0.0.2,Apache-2.0
 blacklight-citeproc,0.0.4,Apache-2.0
 blacklight_range_limit,7.4.0,Apache 2.0
 blacklight_range_limit,7.5.0,Apache 2.0
+blacklight_range_limit,7.6.0,Apache 2.0
+blacklight_range_limit,7.7.0,Apache 2.0
 bleep,0.1.7,MIT
 blueimp-templates-rails,3.8.0,MIT
 bodyguards,0.3.1,MIT
@@ -128,6 +134,7 @@ ecb,0.0.45,""
 elasticmusic,0.0.2,MIT
 embulk-input-datastore,0.1.3,MIT
 embulk-input-zendesk,0.3.7,MIT
+embulk-input-zendesk,0.3.8,""
 embulk-output-wendelin,0.1.2,MIT
 emoji_lang,0.1.0,GPLv3
 emotion,0.0.1,MIT
@@ -145,6 +152,7 @@ factory_bot_any_instance,1.0.0,MIT
 fantasia-cli,0.1.3,MIT
 faraday,0.17.1,MIT
 faraday,1.0.0,MIT
+faraday,1.0.1,MIT
 faraday-request-timer,0.2.0,MIT
 fb_util,0.9.2,""
 fech-ftp,0.2.0,MIT
@@ -162,6 +170,7 @@ fluent-plugin-kvp-parser,0.0.6,"Apache License, Version 2.0"
 fonecal,0.3.0,MIT
 foreman_kubevirt,0.1.7,GPL-3.0
 foundation-rails,6.6.1.0,MIT
+foundation-rails,6.6.2.0,MIT
 fub_client,0.1.1,MIT
 gapinc-fog,1.14.0,MIT
 gawe,0.1.0,MIT
@@ -184,6 +193,7 @@ gooddata_datawarehouse,0.0.10,MIT
 googledocviewer,1.7.5,MIT
 goomoji-translator,0.0.4,MIT
 gramp,0.0.2,""
+graphql-engine,0.1.0,MIT
 guard-pdflatex,0.0.3,""
 handcrafted-factory_girl,1.1.14,""
 harleytt-ansitags,0.1.5,""
@@ -234,6 +244,7 @@ jekyll-target-blank,2.0.0,MIT
 jekyll-theme-8bit,0.3.0,MIT
 jekyll-theme-glueckkanja,1.2.11,Nonstandard
 jekyll-theme-glueckkanja,1.2.13,Nonstandard
+jekyll-theme-glueckkanja,1.2.14,Nonstandard
 jekyll_image_encode,0.0.4,MIT
 jmcnevin-rghost-barcode,0.8.8,""
 jordan-brough-hpricot,0.7.229,""
@@ -271,6 +282,7 @@ ltree_hierarchy,2.0.0,MIT
 lwqzx,0.0.6,MIT
 lxdev,0.1.7,MIT
 lxdev,0.1.8,MIT
+lxdev,0.2.0,MIT
 m_cfdi,0.3.1,MIT
 machinegun,0.2.1,MIT
 maiha-dm-ys,0.4.1,""
@@ -354,6 +366,7 @@ rally_rest_api,1.1.0,""
 rb_safe,0.1.0,MIT
 rbvmomi,2.2.0,MIT
 rbvmomi,2.3.0,MIT
+rbvmomi,2.3.1,MIT
 rdata,0.2.1,""
 recaptcha-prx,4.6.6,MIT
 red-arrow-gsl,0.0.2,Apache-2.0

@@ -17,12 +17,14 @@ alertify-rails,0.2.0,""
 altcoin,0.0.1,MIT
 alu0100905885,0.1.0,""
 ami_spec,1.5.0,""
+ami_spec,1.6.0,""
 angell_view_tool,0.1.0,MIT
 angus-router,0.0.3,MIT
 apidragon,1.8.0,MIT
 appfuel-service,0.4.2,MIT
 aquatone,0.5.0,MIT
 arraybuffer,0.0.3,MIT
+arraybuffer,0.0.4,MIT
 ars-familiar,0.2.0,MIT
 arver,0.1.7,""
 arver,0.1.8,""
@@ -56,6 +58,7 @@ capistrano-karaf,1.8.11,bsd
 capistrano-webpacker-precompile,0.2,MIT
 capistrano_lazy,0.2.1,""
 caramelize,0.3.0,MIT
+caramelize,0.4.0,MIT
 carraway,1.5.0,MIT
 carthframie,0.1.0,MIT
 castiel,0.0.1,MIT
@@ -179,6 +182,7 @@ hash-utils,2.2.0,MIT
 haste,0.2.3,MIT License
 hb_exporter,0.1.1,MIT
 helena,2.0.1,GPL-3.0+
+helena,2.0.2,GPL-3.0+
 hello_antonioricardo,0.1.1,MIT
 himekami-markdown,0.1.8,MIT
 hobo_clean_admin,2.2.6,""
@@ -445,6 +449,7 @@ stackbuilders-campfire_export,0.5.1,Apache 2.0
 starter_generators,0.9.6,MIT
 statebus-rails,0.0.6,MIT
 static_data_model,0.2.0,Apache 2.0
+static_data_model,0.2.1,Apache 2.0
 stephencelis-acts_as_singleton,0.0.2,""
 stringify_date,0.1.0,MIT
 strong_parameters_rails2,0.1.9,MIT
@@ -474,6 +479,8 @@ tinct,0.0.2,MIT
 tiqets,0.4.2,MIT
 token_of_fire,0.0.3,MIT
 tp_client,0.2.2,MIT
+tp_client,0.2.4,MIT
+tp_client,0.2.6,MIT
 transferwise,0.2.6,MIT
 trck,0.0.0,""
 trocla,0.3.0,GPLv3
@@ -523,5 +530,8 @@ zemu,0.2.0,GPL-3.0
 zemu,0.2.1,GPL-3.0
 zemu,0.2.2,GPL-3.0
 zemu,0.3.0,GPL-3.0
+zemu,0.3.1,GPL-3.0
+zemu,0.3.2,GPL-3.0
+zemu,0.3.3,GPL-3.0
 zen_slug,0.0.1,MIT
 zipcode-rack,1.2.1,MIT
