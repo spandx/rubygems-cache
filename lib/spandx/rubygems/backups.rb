@@ -3,6 +3,8 @@
 module Spandx
   module Rubygems
     class Backups
+      include Enumerable
+
       attr_reader :base_url
 
       def initialize(base_url: 'https://s3-us-west-2.amazonaws.com/rubygems-dumps/')

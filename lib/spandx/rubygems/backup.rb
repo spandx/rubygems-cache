@@ -4,13 +4,13 @@ module Spandx
   module Rubygems
     class Backup
       SQL = <<~DATA
-        SELECT rg.name AS name, v.number AS version, v.licenses AS licenses
+        SELECT v.full_name AS full_name, v.number AS version, v.licenses AS licenses
         FROM versions v
-        INNER JOIN rubygems rg ON rg.id = v.rubygem_id
         WHERE v.licenses IS NOT NULL
-        AND v.latest = true
+        AND v.indexed = true
+        AND v.prerelease = false
         AND v.yanked_at IS NULL
-        ORDER BY rg.name
+        ORDER BY v.full_name
       DATA
       LOAD_SCRIPT = File.expand_path(File.join(File.dirname(__FILE__), '../../../', 'bin/load'))
       attr_reader :uri

@@ -4,6 +4,30 @@ module Spandx
   module Rubygems
     class Index
       COMMON_LICENSES = ['MIT', 'Apache-2.0', 'GPL-3.0', 'LGPL-3.0', 'BSD', 'BSD-3-Clause', 'WFTPL'].freeze
+      CORRECTIONS = {
+        'AGPLv3' => 'AGPL-3.0',
+        'APACHE-2' => 'Apache-2.0',
+        'APLv2' => 'Apache-2.0',
+        'Apache 2' => 'Apache-2.0',
+        'Apache 2.0' => 'Apache-2.0',
+        'Apache License (2.0)' => 'Apache-2.0',
+        'Apache License 2.0' => 'Apache-2.0',
+        'Apache License v2.0' => 'Apache-2.0',
+        'Apache License Version 2.0' => 'Apache-2.0',
+        'MPLv2' => 'MPL-2.0',
+        'BSD 2-clause' => 'BSD-2-Clause',
+        'GNU GPL v3' => 'GPL-3.0-only',
+        'GNU LESSER GENERAL PUBLIC LICENSE' => 'LGPL-3.0',
+        'GPL-2' => 'GPL-2.0',
+        'GPL3' => 'GPL-3.0-only',
+        'LGPL-3' => 'LGPL-3.0',
+        'LGPLv3' => 'LGPL-3.0-only',
+        'GPL-3+' => 'GPL-3.0-or-later',
+        'ASL2' => 'Apache-2.0',
+        'GPLv3' => 'GPL-3.0-only',
+        '2-clause BSD-style license' => 'BSD-2-Clause',
+        'GNU General Public License version 3.0 (GPL-3.0)' => 'GPL-3.0',
+      }
 
       def initialize
         @dir = Spandx::Rubygems.root.join('../../../.index')
@@ -51,29 +75,30 @@ module Spandx
       end
 
       def update_expanded_index!
-        Backups.new.each do |tarfile|
+        backups = Backups.new
+        backups.each do |tarfile|
           next if indexed?(tarfile)
 
           tarfile.each do |row|
-            open_data(row['name']) do |io|
-              io << [row['name'], row['version'], extract_licenses_from(row['licenses']).join('-|-')]
+            name = row['full_name'].gsub(/\n/, '').gsub("-#{row['version']}", '')
+            open_data(name) do |io|
+              io << [name, row['version'], extract_licenses_from(row['licenses']).join('-|-')]
             end
           end
           checkpoint!(tarfile)
+          break
         end
       end
 
       def extract_licenses_from(licenses)
         stripped = licenses.strip!
-
         return [] if stripped == '--- []'
         return [] if stripped == "--- \n..."
 
-        found = COMMON_LICENSES.find do |x|
-          stripped == "---\n- #{x}"
-        end
-        items = found ? [found] : YAML.safe_load(licenses)
-        items.compact
+        items = YAML.safe_load(licenses)
+        return [] if items.nil? || items.empty?
+
+        items.compact.map { |x| CORRECTIONS.fetch(x, x).gsub(/\n/, '') }
       end
 
       def indexed?(tarfile)
