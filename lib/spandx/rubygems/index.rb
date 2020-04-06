@@ -76,7 +76,7 @@ module Spandx
 
       def update_expanded_index!
         backups = Backups.new
-        backups.each do |tarfile|
+        backups.to_a.reverse.take(1).each do |tarfile|
           next if indexed?(tarfile)
 
           tarfile.each do |row|
