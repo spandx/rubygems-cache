@@ -979,6 +979,7 @@ groonga-query-log,1.5.5,LGPLv2.1+
 groonga-query-log,1.5.6,LGPLv2.1+
 groonga-query-log,1.5.7,LGPLv2.1+
 groonga-query-log,1.5.8,LGPLv2.1+
+groonga-query-log,1.5.9,LGPLv2.1+
 gumby-framework,0.0.1,""
 handlebars_routes,0.0.3,""
 hanzo,0.0.1,MIT

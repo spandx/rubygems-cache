@@ -951,6 +951,7 @@ geocore,0.3.0,""
 geocore,0.4.0,""
 ghreview,0.1.0,GPLv2
 ghreview,0.2.0,GPLv2
+ghreview,0.2.1,GPLv2
 git-p4-sync,0.1.1,""
 git-p4-sync,0.2.0,""
 git_flo,0.0.1,BSD-3-Clause
@@ -1825,6 +1826,7 @@ notification-settings,3.0.2,MIT
 obake,0.1.0,MIT
 obake,0.2.0,MIT
 obs_deploy,0.1.2,""
+obs_deploy,0.1.5,""
 octicons,1.0.0,MIT
 octicons,1.1.0,MIT
 octicons,2.0.0,MIT
@@ -1994,6 +1996,7 @@ r_socks,0.2.3,Apache-2.0
 r_socks,0.2.4,Apache-2.0
 r_socks,0.2.5,Apache-2.0
 r_socks,0.2.6,Apache-2.0
+r_socks,0.2.7,Apache-2.0
 rabbit-theme-starqle,1.0.0,MIT
 rack-ip_blocker,1.0.0,""
 rack-micro_service-signed_request,0.0.1,MIT

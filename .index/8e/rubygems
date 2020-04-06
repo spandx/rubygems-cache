@@ -1407,6 +1407,7 @@ embulk-input-mixpanel,0.5.7,Apache2
 embulk-input-mixpanel,0.5.8,Apache2
 embulk-input-mixpanel,0.5.9,Apache2
 embulk-input-mixpanel,0.6.0,Apache2
+embulk-input-mixpanel,0.6.1,Apache2
 engineering_calculator,1.0.0,""
 engineering_calculator,2.0.0,""
 engineyard-serverside,1.4.1,""
@@ -3376,6 +3377,7 @@ virtuatable,2.2.0,MIT
 virtuatable,2.2.1,MIT
 virtuatable,2.3.0,MIT
 virtuatable,2.3.1,MIT
+virtuatable,2.3.2,MIT
 volt-notification,0.1.0,MIT
 volt-notification,0.1.1,MIT
 vor,0.1.0,MIT

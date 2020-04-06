@@ -1279,6 +1279,7 @@ itamae,1.10.3,MIT
 itamae,1.10.4,MIT
 itamae,1.10.5,MIT
 itamae,1.10.6,MIT
+itamae,1.10.7,MIT
 itamae,1.2.0,MIT
 itamae,1.2.10,MIT
 itamae,1.2.11,MIT
@@ -2224,6 +2225,7 @@ rj_schema,0.1.4,MIT
 rj_schema,0.2.0,MIT
 rj_schema,0.2.1,MIT
 rj_schema,0.2.2,MIT
+rj_schema,0.2.3,MIT
 rjack-icu-java,4.50.1.0,""
 rjack-icu-java,4.51.2.0,""
 rjack-icu-java,4.53.1.0,""

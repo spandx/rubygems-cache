@@ -437,6 +437,7 @@ conditional_validation,0.0.5,MIT
 conditional_validation,0.1.0,MIT
 conditional_validation,1.0.0,MIT
 confinement,0.0.1,MIT
+confinement,0.0.2,MIT
 control_spec_helper,0.0.1,Apache-2.0
 control_spec_helper,0.0.2,Apache-2.0
 corenlp,0.0.3,MIT
@@ -1810,6 +1811,7 @@ nanoc-sprockets-filter,0.0.2,""
 nanoc-sprockets-filter,0.1.0,""
 nanoc-sprockets-filter,0.1.1,""
 nested_inherited_jruby_include_package,0.1.0,MIT
+nested_inherited_jruby_include_package,0.2.0,MIT
 new_gem_yura,0.1.0,MIT
 nivo-rails-am,0.0.2,""
 nordea-filetransfer,0.2.1,""

@@ -1132,6 +1132,7 @@ gem-compiler,0.5.0,MIT
 gem-compiler,0.6.0,MIT
 gem-compiler,0.7.0,MIT
 gem-compiler,0.8.0,MIT
+gem-compiler,0.9.0,MIT
 gem_skeleton,0.0.2,""
 gem_skeleton,0.0.5,""
 gem_skeleton,0.0.6,""
@@ -1442,6 +1443,7 @@ jekyll-recker,1.1.0,GPL-3.0-only
 jekyll-recker,1.2.0,GPL-3.0-only
 jekyll-recker,1.2.1,GPL-3.0-only
 jekyll-recker,1.2.2,GPL-3.0-only
+jekyll-recker,1.2.3,GPL-3.0-only
 jekylljournal,0.0.0,""
 jekylljournal,0.0.1,""
 jekylljournal,0.0.2,GPL-3.0
@@ -2703,6 +2705,7 @@ vfr_utils,0.0.3,MIT
 vfr_utils,0.0.4,MIT
 vfr_utils,0.0.5,MIT
 vfr_utils,0.0.6,MIT
+viniBaxter-spa-nested_has_many,2.0.0,MIT
 virt_disk,0.0.1,MIT
 virtuaaliviivakoodi,0.1.0,""
 virtuaaliviivakoodi,0.1.1,""
