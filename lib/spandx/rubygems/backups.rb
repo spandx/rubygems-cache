@@ -14,7 +14,7 @@ module Spandx
 
       def each
         response = @http.get(base_url)
-        to_xml(response.body).search('//Contents/Key').reverse.each do |node|
+        to_xml(response.body).search('//Contents/Key').each do |node|
           next unless valid?(node.text)
 
           yield Backup.new(URI.join(base_url, node.text), db_connection)
