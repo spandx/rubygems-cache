@@ -1915,6 +1915,7 @@ rasn1,0.6.7,MIT
 rasn1,0.6.8,MIT
 rasn1,0.7.0,MIT
 rasn1,0.7.1,MIT
+rbt,0.7.101,GPL-2.0
 rbt,0.7.98,GPL-2.0
 rbt,0.7.99,GPL-2.0
 rconfigurator,0.0.3,""

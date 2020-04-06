@@ -361,6 +361,7 @@ avm-tools,0.39.0,""
 avm-tools,0.4.0,""
 avm-tools,0.4.1,""
 avm-tools,0.40.0,""
+avm-tools,0.41.0,""
 avm-tools,0.6.0,""
 avm-tools,0.7.0,""
 avm-tools,0.8.0,""
@@ -2290,6 +2291,8 @@ preservation,0.4.2,MIT
 preservation,0.5.0,MIT
 prettyrb,0.1.0,MIT
 prettyrb,0.2.0,MIT
+prettyrb,0.3.0,MIT
+prettyrb,0.3.1,MIT
 prgm,0.1.0,MIT
 prgm,0.1.1,MIT
 pssh_box,0.0.1,MIT

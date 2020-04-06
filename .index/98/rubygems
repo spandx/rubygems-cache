@@ -1797,6 +1797,8 @@ passcard,0.1.0,MIT
 patch_finder,1.0.1,BSD-3-clause
 patch_finder,1.0.2,BSD-3-clause
 pattern_matching,0.1.0,"Revised BSD, see LICENSE.md"
+pdfactory-client,0.1.0,MIT
+pdfactory-client,0.1.1,MIT
 periods_validator,0.1.0,MIT
 periods_validator,0.1.1,MIT
 periods_validator,0.1.2,MIT
@@ -2556,6 +2558,7 @@ tomo,0.15.0,MIT
 tomo,0.16.0,MIT
 tomo,0.17.0,MIT
 tomo,0.18.0,MIT
+tomo,0.19.0,MIT
 tomo,0.2.0,MIT
 tomo,0.2.1,MIT
 tomo,0.2.2,MIT
