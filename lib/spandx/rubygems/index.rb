@@ -86,7 +86,6 @@ module Spandx
             end
           end
           checkpoint!(tarfile)
-          break
         end
       end
 
