@@ -391,6 +391,7 @@ br_danfe,0.11.2,MIT
 br_danfe,0.12.0,MIT
 br_danfe,0.12.1,MIT
 br_danfe,0.13.0,MIT
+br_danfe,0.13.1,MIT
 br_danfe,0.2.0,MIT
 br_danfe,0.2.1,MIT
 br_danfe,0.2.2,MIT
@@ -3298,6 +3299,7 @@ tomograph,2.5.0,MIT
 tomograph,2.5.1,MIT
 tomograph,2.5.2,MIT
 tomograph,2.5.3,MIT
+tomograph,2.5.4,MIT
 torquebox-server-java,2.2.0,lgpl
 torquebox-server-java,2.3.0,lgpl
 torquebox-server-java,3.0.0,Public Domain

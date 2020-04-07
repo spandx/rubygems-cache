@@ -2542,6 +2542,7 @@ vagrant-databags,0.1.4,Apache-2.0
 vagrant-fifo,0.2.0,""
 vagrant-fifo,0.2.1,""
 vagrant-gs,0.0.1,MIT
+vagrant-zone,0.0.1,MIT
 vcenter_lib,0.0.1,MIT
 vcenter_lib,0.0.2,MIT
 vcenter_lib,0.0.3,MIT

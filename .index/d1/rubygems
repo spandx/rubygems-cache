@@ -1472,6 +1472,8 @@ hotel_price,0.3.3,MIT
 hotel_price,0.3.4,MIT
 hotel_price,0.3.5,MIT
 hotel_price,0.3.6,MIT
+hotel_price,0.3.7,MIT
+hotel_price,0.3.8,MIT
 hoverboard,0.1.0,""
 html-pipeline-abbr,0.1.0,""
 html-pipeline-abbr,0.2.0,""
@@ -3257,6 +3259,7 @@ sorbet-static-universal-darwin-14,0.5.5472,Apache-2.0
 sorbet-static-universal-darwin-14,0.5.5478,Apache-2.0
 sorbet-static-universal-darwin-14,0.5.5480,Apache-2.0
 sorbet-static-universal-darwin-14,0.5.5497,Apache-2.0
+sorbet-static-universal-darwin-14,0.5.5501,Apache-2.0
 spid-es,0.0.1,MIT
 spid-es,0.0.10,MIT
 spid-es,0.0.11,MIT

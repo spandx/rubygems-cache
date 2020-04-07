@@ -1604,6 +1604,7 @@ jeffrafter-cucumber,0.1.10,""
 jeffrafter-cucumber,0.1.12,""
 jekyll-copyr,1.0.0,MIT
 jekyll-copyr,1.0.1,MIT
+jekyll-copyr,1.0.2,MIT
 jekyll-datapage-generator,1.0.0,MIT
 jekyll-datapage-generator,1.1.0,MIT
 jekyll-highlight,1.0.1,MIT
@@ -2893,6 +2894,7 @@ thorax,0.0.0,""
 time_sugar,0.0.1,MIT
 timeout,0.0.0,MIT
 timeout,0.0.1,MIT
+timeout,0.1.0,BSD-2-Clause
 tmtm-ruby-mysql,0.0.0,""
 tmtm-ruby-mysql,3.0.0,""
 tmtm-ruby-mysql,3.0.1,""

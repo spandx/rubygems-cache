@@ -2689,6 +2689,9 @@ tarf_monte_carlo,3.2.5,MIT
 tarf_monte_carlo,3.3,MIT
 tarf_monte_carlo,3.4,MIT
 tarf_monte_carlo,3.5,MIT
+tarf_monte_carlo,3.6,MIT
+tarf_monte_carlo,3.7,MIT
+tarf_monte_carlo,3.8,MIT
 tcs-config,0.2.0,""
 tcs-config,0.3.0,""
 tcs-config,0.3.1,""

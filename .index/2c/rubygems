@@ -1921,6 +1921,7 @@ opennebula-cli,5.10.0,Apache-2.0
 opennebula-cli,5.10.1,Apache-2.0
 opennebula-cli,5.10.2,Apache-2.0
 opennebula-cli,5.10.3,Apache-2.0
+opennebula-cli,5.10.4,Apache-2.0
 opennebula-cli,5.2.0,Apache-2.0
 opennebula-cli,5.2.1,Apache-2.0
 opennebula-cli,5.4.0,Apache-2.0
@@ -2762,6 +2763,7 @@ unchained,0.0.2,MIT
 unchained,0.0.3,MIT
 unipass_api,0.0.2,""
 unshorter,1.0.0,MIT
+uri,0.10.0,BSD-2-Clause
 user_docs,0.0.0,MIT
 user_docs,0.0.1,MIT
 user_docs,0.0.2,MIT
