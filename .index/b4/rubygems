@@ -683,6 +683,8 @@ cocoapods-repo-tal,0.0.2,MIT
 codetree,0.0.1,BSD
 codetree,0.0.2,BSD
 codetree,0.0.3,BSD
+coinqvest_merchant_sdk,0.0.1,Apache-2.0
+coinqvest_merchant_sdk,0.0.2,Apache-2.0
 colincasey-sequel,2.10.0,""
 colincasey-sequel,2.10.1,""
 colincasey-sequel,2.10.2,""
@@ -1110,6 +1112,7 @@ gazer,0.2.33,MIT
 gazer,0.2.34,MIT
 gazer,0.2.35,MIT
 gazer,0.2.36,MIT
+gazer,0.2.37,MIT
 gazer,0.2.4,MIT
 gazer,0.2.5,MIT
 gazer,0.2.6,MIT

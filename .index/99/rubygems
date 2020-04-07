@@ -448,6 +448,7 @@ bookings,0.0.3,MIT
 botaku,0.1.0,MIT
 botaku,0.9.0,MIT
 brazilian_helpers,0.0.0,MIT
+breaking_bad_project_cli,13.0.1,MIT
 brilliantruby,0.0.0,""
 btc-sdk,0.3.0,MIT
 btc-sdk,0.3.1,MIT
@@ -471,6 +472,7 @@ bump-cli,0.3.1,MIT
 bump-cli,0.3.2,MIT
 bump-cli,0.4.0,MIT
 bump-cli,0.4.1,MIT
+bump-cli,0.5.0,MIT
 bumpy,0.1.0,""
 bumpy,0.1.2,""
 business-days,0.0.1,MIT
@@ -969,6 +971,7 @@ eyes_capybara,3.16.1,Applitools
 eyes_capybara,3.16.10,Applitools
 eyes_capybara,3.16.11,Applitools
 eyes_capybara,3.16.12,Applitools
+eyes_capybara,3.16.13,Applitools
 eyes_capybara,3.16.2,Applitools
 eyes_capybara,3.16.3,Applitools
 eyes_capybara,3.16.4,Applitools
@@ -2792,6 +2795,7 @@ selfid,0.0.92,""
 selfid,0.0.93,""
 selfid,0.0.94,""
 selfid,0.0.95,""
+selfid,0.0.96,""
 sensei_eod_utils,0.0.0,MIT
 sensei_eod_utils,0.0.1,MIT
 sensei_eod_utils,0.0.10,MIT

@@ -899,6 +899,7 @@ embulk-input-zendesk-all,0.4.4,MIT
 emmet_layout,0.0.1,MIT
 emmet_layout,0.0.2,MIT
 emmet_layout,0.0.3,MIT
+english,0.7.0,""
 es5-shim-rails,2.0.5,""
 es5-shim-rails,2.0.5.1,""
 es5-shim-rails,4.0.1,""

@@ -889,6 +889,7 @@ aws-sdk,2.11.480,Apache-2.0
 aws-sdk,2.11.481,Apache-2.0
 aws-sdk,2.11.482,Apache-2.0
 aws-sdk,2.11.483,Apache-2.0
+aws-sdk,2.11.484,Apache-2.0
 aws-sdk,2.11.49,Apache-2.0
 aws-sdk,2.11.5,Apache-2.0
 aws-sdk,2.11.50,Apache-2.0
@@ -4242,6 +4243,7 @@ straight_line,0.1.4.0,MIT
 structured_data,0.1.0,MIT
 structured_data,0.1.1,MIT
 studium,0.9.366,GPL-2.0
+studium,0.9.367,GPL-2.0
 sugoi_aliases_updator,0.0.1,MIT
 sugoi_aliases_updator,0.0.2,MIT
 sugoi_aliases_updator,0.0.3,MIT

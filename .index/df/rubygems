@@ -2326,6 +2326,7 @@ mysample,0.0.1,MIT
 mysample,0.0.2,MIT
 nest_thermostat,0.0.3,""
 nest_thermostat,0.0.4,""
+net-protocol,0.1.0,""
 netelip_sms,0.1.0,""
 netelip_sms,0.1.1,""
 netelip_sms,0.2.0,""
@@ -2949,6 +2950,7 @@ sorbet-coerce,0.2.1,MIT
 sorbet-coerce,0.2.2,MIT
 sorbet-coerce,0.2.3,MIT
 sorbet-coerce,0.2.4,MIT
+sorbet-coerce,0.2.5,MIT
 spidr_cli,0.1.0,MIT
 spidr_cli,0.2.0,MIT
 spidr_cli,0.3.0,MIT

@@ -892,6 +892,7 @@ dns-monitor,0.1.7,MIT
 docxtor,0.1.1,MIT
 docxtor,0.2.1,MIT
 done_log,1.0.0,MIT
+done_log,1.0.1,MIT
 drewda-railroad,0.5.3,""
 duckdb,0.0.1,MIT
 duckdb,0.0.2,MIT
@@ -2674,6 +2675,7 @@ techlahoma_auth,0.0.3,""
 techlahoma_auth,0.0.4,""
 techlahoma_auth,0.0.5,""
 techlahoma_auth,0.0.6,""
+tempfile,0.1.0,""
 tenka,1.0.0,MIT
 tenka,1.0.1,MIT
 tenka,1.0.2,MIT

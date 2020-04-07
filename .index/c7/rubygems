@@ -580,6 +580,9 @@ conf_conf,1.0.2,MIT
 conf_conf,2.0.2,MIT
 conf_conf,2.0.3,MIT
 conf_conf,2.0.4,MIT
+config-reader,0.0.1,MIT
+config-reader,0.0.2,MIT
+config-reader,0.1.0,MIT
 config_x,0.1.0,MIT
 config_x,0.1.1,MIT
 cookie_jar,0.0.1,""
@@ -1441,6 +1444,7 @@ kovid,0.5.7,MIT
 kovid,0.5.8,MIT
 kovid,0.6.0,MIT
 kovid,0.6.1,MIT
+kovid,0.6.2,MIT
 kuroko2_read_only,0.1.0,MIT
 labels,0.0.3,""
 labels,0.0.6,""

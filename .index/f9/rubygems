@@ -784,6 +784,7 @@ ecl,1.2.0,MIT
 ecl,1.2.1,MIT
 ecl,3.0.0,MIT
 ecl,3.0.1,MIT
+ecl,3.0.3,MIT
 eco-classifier,0.5,MIT
 elastic_activities,1.0.0,MIT
 elasticsearch-embedded,0.1.0,MIT
@@ -933,6 +934,8 @@ evertils,2.2.3,MIT
 evertils,2.2.4,MIT
 evertils,2.3.0,MIT
 evertils,2.3.1,MIT
+evertils,2.3.2,MIT
+evertils,2.3.3,MIT
 evil-metrics-rails,0.1.0,MIT
 examLPP,0.1.1,MIT
 exchange_rates,0.1.0,""

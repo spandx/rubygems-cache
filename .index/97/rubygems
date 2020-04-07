@@ -1850,6 +1850,7 @@ mongo-lock,1.1.4,MIT
 mongo-lock,1.2.0,MIT
 mongoid-sphinx,0.1.4,""
 mongoid_crypt_field,1.0,""
+monitor,0.2.0,BSD-2-Clause
 monobank-api,0.1.0,MIT
 morse_spec_helpers,0.0.1,MIT
 morse_spec_helpers,0.0.10,MIT

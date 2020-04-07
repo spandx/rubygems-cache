@@ -668,6 +668,7 @@ dogapi,1.38.0,BSD
 dogapi,1.39.0,BSD
 dogapi,1.4.1,""
 dogapi,1.4.3,""
+dogapi,1.40.0,BSD
 dogapi,1.5.0,""
 dogapi,1.5.2,BSD
 dogapi,1.6.0,BSD
@@ -2952,6 +2953,7 @@ wcc-media-client,0.3.7,MIT
 wcc-media-client,0.3.8,MIT
 wcc-media-client,0.4.0,MIT
 wcc-media-client,0.4.1,MIT
+wcc-media-client,0.4.10,MIT
 wcc-media-client,0.4.2,MIT
 wcc-media-client,0.4.3,MIT
 wcc-media-client,0.4.4,MIT

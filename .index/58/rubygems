@@ -2585,6 +2585,8 @@ servitude,1.2.1,MIT
 servitude,2.0.0,MIT
 ses,0.1,""
 share-paths,0.1.0.3,GNU LGPLv3
+shayancalculatortest,1.0.0,MIT
+shayancalculatortest,1.0.3,MIT
 sheets_db,0.1.0,MIT
 sheets_db,0.2.0,MIT
 sheets_db,0.3.0,MIT
@@ -2865,6 +2867,7 @@ stimulus_reflex,2.2.0,MIT
 stimulus_reflex,2.2.1,MIT
 stimulus_reflex,2.2.2,MIT
 stimulus_reflex,2.2.3,MIT
+stimulus_reflex,3.0.0,MIT
 stockpile,1.0,MIT
 stockpile,1.1,MIT
 stockpile,2.0,MIT
