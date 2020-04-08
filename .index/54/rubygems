@@ -304,6 +304,7 @@ bots,1.1.107,MIT
 bots,1.1.108,MIT
 bots,1.1.109,MIT
 bots,1.1.11,MIT
+bots,1.1.110,MIT
 bots,1.1.12,MIT
 bots,1.1.14,MIT
 bots,1.1.15,MIT
@@ -2967,6 +2968,8 @@ trailer_vote-media_types,2.2.0,""
 trailer_vote-media_types,2.3.0,""
 trailer_vote-media_types,2.4.0,""
 trailer_vote-media_types,2.4.1,""
+trailer_vote-media_types,3.0.0,""
+trailer_vote-media_types,3.0.1,""
 transplant,0.0.1,""
 transplant,0.1.5,""
 tri,0.0.1,MIT

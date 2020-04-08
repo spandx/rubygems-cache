@@ -68,6 +68,7 @@ activity-mailer,0.0.7,MIT
 activity-mailer,0.0.8,MIT
 acts-as-dag,3.0.0,""
 acts-as-dag,4.0.0,""
+addrule,0.0.0,MIT
 agave-client,0.1.0,BSD-3-Clause
 agave-client,0.1.1,BSD-3-Clause
 agave-client,0.1.2,BSD-3-Clause
@@ -1828,6 +1829,7 @@ lxp-packet,0.1.0,MIT
 lxp-packet,0.1.2,MIT
 lxp-packet,0.2.0,MIT
 lxp-packet,0.3.0,MIT
+lxp-packet,0.4.0,MIT
 lzo,0.1.0,""
 mach5-tools,0.0.1,MIT
 mach5-tools,0.1.0,MIT
@@ -3139,6 +3141,8 @@ tramway-landing,3.0,MIT
 tramway-landing,3.0.0.1,MIT
 tramway-landing,3.0.0.2,MIT
 tramway-landing,3.0.1,MIT
+tramway-landing,3.0.1.1,MIT
+tramway-landing,3.0.1.2,MIT
 treebank-transform,0.0.1,MIT
 treebank-transform,0.0.2,MIT
 treebank-transform,0.0.3,MIT

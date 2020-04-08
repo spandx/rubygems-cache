@@ -2190,6 +2190,7 @@ stub_requests,0.1.6,MIT
 stub_requests,0.1.7,MIT
 stub_requests,0.1.8,MIT
 stub_requests,0.1.9,MIT
+substrate_client,0.1.0,MIT
 sunspot_plus,0.3.3,""
 sunwatch,0.0.1,MIT
 surveillance,0.1.1,""

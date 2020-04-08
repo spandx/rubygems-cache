@@ -1285,6 +1285,9 @@ jekyll-octopod,0.9.12,MIT
 jekyll-octopod,0.9.13,MIT
 jekyll-octopod,0.9.14,MIT
 jekyll-octopod,0.9.15,MIT
+jekyll-octopod,0.9.17,MIT
+jekyll-octopod,0.9.18,MIT
+jekyll-octopod,0.9.19,MIT
 jekyll-octopod,0.9.2,MIT
 jekyll-octopod,0.9.3,MIT
 jekyll-octopod,0.9.4,MIT
@@ -1824,7 +1827,10 @@ metasploit-payloads,1.3.84,"3-clause (or ""modified"") BSD"
 metasploit-payloads,1.3.85,"3-clause (or ""modified"") BSD"
 metasploit-payloads,1.3.86,"3-clause (or ""modified"") BSD"
 metasploit-payloads,1.3.87,"3-clause (or ""modified"") BSD"
+metasploit-payloads,1.3.88,"3-clause (or ""modified"") BSD"
+metasploit-payloads,1.3.89,"3-clause (or ""modified"") BSD"
 metasploit-payloads,1.3.9,"3-clause (or ""modified"") BSD"
+metasploit-payloads,1.3.90,"3-clause (or ""modified"") BSD"
 method_draw,0.0.1,MIT
 metric,0.0.4,""
 metric,0.1.0,""

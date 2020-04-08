@@ -1383,6 +1383,7 @@ hutch,0.6.0,MIT
 hutch,0.7.0,MIT
 hutch,0.8.0,MIT
 hutch,0.9.0,MIT
+hutch,1.0.0,MIT
 i2gcal,0.0.1,AGPL-3.0
 i2gcal,0.0.2,AGPL-3.0
 i2gcal,0.0.3,AGPL-3.0
@@ -2308,6 +2309,7 @@ pact,1.47.0,MIT
 pact,1.48.0,MIT
 pact,1.49.0,MIT
 pact,1.49.1,MIT
+pact,1.49.2,MIT
 pact,1.5.0,MIT
 pact,1.6.0,MIT
 pact,1.7.0,MIT

@@ -1037,6 +1037,7 @@ inspec-core,4.17.17,Apache-2.0
 inspec-core,4.17.7,Apache-2.0
 inspec-core,4.18.0,Apache-2.0
 inspec-core,4.18.100,Apache-2.0
+inspec-core,4.18.104,Apache-2.0
 inspec-core,4.18.24,Apache-2.0
 inspec-core,4.18.38,Apache-2.0
 inspec-core,4.18.39,Apache-2.0
@@ -1820,6 +1821,7 @@ radar-api,2.5.0,MIT
 radar-api,2.6.0,MIT
 radar-api,2.7.0,MIT
 radar-api,2.7.1,MIT
+radar-api,2.7.2,MIT
 rails-domain,0.0.1,MIT
 rails_panel,0.0.1,MIT
 rails_treeview,0.1.1,MIT
