@@ -544,6 +544,7 @@ connect-sdk-ruby,2.4.0,MIT
 connect-sdk-ruby,2.5.0,MIT
 connect-sdk-ruby,2.6.0,MIT
 connect-sdk-ruby,2.7.0,MIT
+connect-sdk-ruby,2.8.0,MIT
 consyll,0.1.1,MIT
 consyll,0.1.4,MIT
 consyll,1.0.0,MIT
@@ -1670,6 +1671,9 @@ kitchen-wpar,0.4.2,Apache-2.0
 klaro-client,0.2.0,MIT
 klaro-client,0.3.0,MIT
 klaro-client,0.4.0,MIT
+klaro-client,0.4.1,MIT
+klaro-client,0.4.2,MIT
+klaro-client,0.4.3,MIT
 ku_ui,0.0.1,MIT
 kubicek-grit,1.0.3,""
 kubicek-grit,1.1.1,""

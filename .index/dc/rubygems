@@ -1442,6 +1442,7 @@ ohai,14.1.0,Apache-2.0
 ohai,14.1.2,Apache-2.0
 ohai,14.1.3,Apache-2.0
 ohai,14.14.0,Apache-2.0
+ohai,14.15.0,Apache-2.0
 ohai,14.2.0,Apache-2.0
 ohai,14.3.0,Apache-2.0
 ohai,14.4.0,Apache-2.0
@@ -1971,6 +1972,7 @@ scb_easy_api,2.1.2,MIT
 scb_easy_api,2.1.3,MIT
 scb_easy_api,2.1.4,MIT
 scb_easy_api,2.1.5,MIT
+scb_easy_api,2.1.6,MIT
 schema_doc,0.0.1,MIT
 schema_doc,0.0.2,MIT
 scribe-js,0.0.1,""

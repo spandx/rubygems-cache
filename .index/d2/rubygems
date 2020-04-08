@@ -321,6 +321,7 @@ blueprinter,0.22.0,MIT
 blueprinter,0.23.0,MIT
 blueprinter,0.23.1,MIT
 blueprinter,0.23.2,MIT
+blueprinter,0.23.3,MIT
 blueprinter,0.3.0,MIT
 blueprinter,0.4.0,MIT
 blueprinter,0.5.0,MIT
@@ -2963,6 +2964,7 @@ subprocess,1.3.2,MIT
 subprocess,1.5.3,MIT
 supernova-ts,0.1.0,""
 sutty-jekyll-theme,0.1.0,Nonstandard
+sutty-jekyll-theme,0.1.1,Nonstandard
 swiftrail,0.1.10,MIT
 swiftrail,0.1.11,MIT
 swiftrail,0.1.12,MIT

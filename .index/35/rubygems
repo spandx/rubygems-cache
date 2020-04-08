@@ -1960,6 +1960,8 @@ protocol-http1,0.10.1,MIT
 protocol-http1,0.10.2,MIT
 protocol-http1,0.10.3,MIT
 protocol-http1,0.11.0,MIT
+protocol-http1,0.11.1,MIT
+protocol-http1,0.12.0,MIT
 protocol-http1,0.2.0,MIT
 protocol-http1,0.3.0,MIT
 protocol-http1,0.4.0,MIT
@@ -2659,6 +2661,7 @@ tinder,1.8.0,""
 tinder,1.9.2,""
 tinder,1.9.3,""
 tinder,1.9.4,""
+tippy_isla,0.1.0,MIT
 tmc-client,0.0.1,""
 tmc-client,0.0.2,""
 tmc-client,0.0.3,""

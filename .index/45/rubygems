@@ -2342,6 +2342,7 @@ relaton,0.1.6,BSD-2-Clause
 relaton,0.10.0,BSD-2-Clause
 relaton,0.10.1,BSD-2-Clause
 relaton,0.11.0,BSD-2-Clause
+relaton,0.11.1,BSD-2-Clause
 relaton,0.2.0,BSD-2-Clause
 relaton,0.2.1,BSD-2-Clause
 relaton,0.2.2,BSD-2-Clause
@@ -2758,6 +2759,9 @@ takelage,0.5.0,GPL-3.0
 takelage,0.5.1,GPL-3.0
 takelage,0.6.0,GPL-3.0
 takelage,0.7.0,GPL-3.0
+takelage,0.7.1,GPL-3.0
+takelage,0.7.2,GPL-3.0
+takelage,0.8.0,GPL-3.0
 takenoko,0.0.4,""
 takenoko,0.1.2,""
 takenoko,0.2.0,""
@@ -2856,6 +2860,7 @@ tramway-profiles,1.3.2.4,MIT
 tramway-profiles,1.4,MIT
 tramway-profiles,1.4.0.1,MIT
 tramway-profiles,1.4.1,MIT
+tramway-profiles,1.4.1.1,MIT
 travis_github_deployer,0.1.0,""
 travis_github_deployer,0.1.1,""
 travis_github_deployer,0.1.2,""

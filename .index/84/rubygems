@@ -1654,6 +1654,7 @@ openstudio-extension,0.1.4,""
 openstudio-extension,0.1.5,""
 openstudio-extension,0.1.6,""
 openstudio-extension,0.2.0,""
+openstudio-extension,0.2.1,""
 oracle_client_installer,1.0.0,MIT
 oracle_client_installer,1.0.1,MIT
 oracle_client_installer,1.0.2,MIT
@@ -2691,6 +2692,7 @@ sorbet-static-java,0.5.5478,Apache-2.0
 sorbet-static-java,0.5.5480,Apache-2.0
 sorbet-static-java,0.5.5497,Apache-2.0
 sorbet-static-java,0.5.5501,Apache-2.0
+sorbet-static-java,0.5.5505,Apache-2.0
 spade,0.0.1,""
 spade,0.0.2,""
 spade,0.1.1.1,""

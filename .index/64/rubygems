@@ -1355,6 +1355,7 @@ aws-sdk-resources,2.11.481,Apache-2.0
 aws-sdk-resources,2.11.482,Apache-2.0
 aws-sdk-resources,2.11.483,Apache-2.0
 aws-sdk-resources,2.11.484,Apache-2.0
+aws-sdk-resources,2.11.485,Apache-2.0
 aws-sdk-resources,2.11.49,Apache-2.0
 aws-sdk-resources,2.11.5,Apache-2.0
 aws-sdk-resources,2.11.50,Apache-2.0
@@ -3240,6 +3241,7 @@ newrelic_rpm,5.6.0.349,New Relic
 newrelic_rpm,5.7.0.350,New Relic
 newrelic_rpm,6.0.0.351,New Relic
 newrelic_rpm,6.1.0.352,New Relic
+newrelic_rpm,6.10.0.364,New Relic
 newrelic_rpm,6.2.0.354,New Relic
 newrelic_rpm,6.3.0.355,New Relic
 newrelic_rpm,6.4.0.356,New Relic
@@ -3352,6 +3354,7 @@ openstudio_measure_tester,0.1.6,""
 openstudio_measure_tester,0.1.7,""
 openstudio_measure_tester,0.2.0,""
 openstudio_measure_tester,0.2.1,""
+openstudio_measure_tester,0.2.2,""
 opentsdb-ruby,0.0.1,MIT
 opentsdb-ruby,0.0.2,MIT
 opentsdb-ruby,0.0.3,MIT

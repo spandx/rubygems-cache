@@ -2608,6 +2608,9 @@ solidus,2.9.2,BSD-3-Clause
 solidus,2.9.3,BSD-3-Clause
 solidus,2.9.4,BSD-3-Clause
 solidus,2.9.5,BSD-3-Clause
+sonoff_rf_bridge,1.0.0,MIT
+sonoff_rf_bridge,1.0.1,MIT
+sonoff_rf_bridge,1.0.2,MIT
 soupcms-cli,0.5.2,MIT
 soupcms-cli,0.5.3,MIT
 soupcms-cli,0.5.4,MIT

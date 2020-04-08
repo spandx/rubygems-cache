@@ -775,6 +775,7 @@ discourse_theme,0.3.0,MIT
 discourse_theme,0.3.1,MIT
 discourse_theme,0.3.2,MIT
 discourse_theme,0.3.3,MIT
+discourse_theme,0.3.4,MIT
 dmm-sdk-ruby,0.0.1,MIT
 dmm-sdk-ruby,0.0.2,MIT
 dmm-sdk-ruby,0.1.0,MIT
@@ -1717,6 +1718,7 @@ napolean,1.0,""
 natural_sort,0.1.0,MIT
 natural_sort,0.2.0,MIT
 natural_sort,0.3.0,MIT
+ndl_string,0.0.1,MIT
 netprospex-ruby,0.0.3,MIT
 netprospex-ruby,0.0.4,MIT
 netzke-redis-persistence,0.0.2,""

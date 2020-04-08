@@ -88,6 +88,7 @@ alphavantagerb,1.2.0,MIT
 alphavantagerb,1.3.0,MIT
 alphavantagerb,1.3.1,MIT
 alphavantagerb,1.3.2,MIT
+alphavantagerb,1.3.3,MIT
 amp4e_ldap_tool,0.0.3,""
 amp4e_ldap_tool,0.0.4,""
 api_warner,0.0.1,MIT
@@ -2051,6 +2052,8 @@ process_settings,0.5.7,MIT
 process_settings,0.6.0,MIT
 process_settings,0.7.0,MIT
 process_settings,0.7.1,MIT
+process_settings,0.7.2,MIT
+process_settings,0.8.0,MIT
 procme,0.0.1,MIT
 procme,0.0.2,MIT
 procme,0.0.3,MIT
@@ -2327,6 +2330,7 @@ ruuuby-x86_64-darwin-18,0.0.24,MIT
 ruuuby-x86_64-darwin-18,0.0.25,MIT
 ruuuby-x86_64-darwin-18,0.0.26,MIT
 ruuuby-x86_64-darwin-18,0.0.27,MIT
+ruuuby-x86_64-darwin-18,0.0.28,MIT
 ruuuby-x86_64-darwin-18,0.0.3,MIT
 ruuuby-x86_64-darwin-18,0.0.4,MIT
 ruuuby-x86_64-darwin-18,0.0.5,MIT

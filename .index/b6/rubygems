@@ -1271,6 +1271,7 @@ ndr_dev_support,5.4.8,MIT
 ndr_dev_support,5.5.0,MIT
 ndr_dev_support,5.6.0,MIT
 ndr_dev_support,5.7.0,MIT
+ndr_dev_support,5.7.1,MIT
 neganil,0.1.0,MIT
 nemesis-plugin,0.0.1,MIT
 neonjs,0.0.1,""
@@ -2127,6 +2128,7 @@ substrate_common.rb,0.1.4,MIT
 substrate_common.rb,0.1.5,MIT
 substrate_common.rb,0.1.6,MIT
 substrate_common.rb,0.1.7,MIT
+substrate_common.rb,0.1.8,MIT
 suitcase,1.1.9,""
 suitcase,1.2.0,""
 suitcase,1.2.12,""
@@ -2198,6 +2200,7 @@ thin-rails,1.0.1,""
 thingfish-datastore-filesystem,0.1.1,BSD-3-Clause
 thingfish-datastore-filesystem,0.2.0,BSD-3-Clause
 thingfish-datastore-filesystem,0.2.1,BSD-3-Clause
+thingfish-datastore-filesystem,0.2.2,BSD-3-Clause
 thjalfi,0.0.1,MIT
 tida_template,0.0.1,""
 tida_template,0.0.3,""
