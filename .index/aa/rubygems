@@ -468,6 +468,7 @@ clean-annotations,0.1.1,MIT
 clean-annotations,0.1.2,MIT
 clean-annotations,0.2.0,MIT
 clean-annotations,0.4.0,MIT
+clean-annotations,0.4.1,MIT
 clibgen,0.1.0,MIT
 clibgen,0.1.1,MIT
 clibgen,0.1.2,MIT
@@ -1875,6 +1876,8 @@ remvee-exifr,0.10.8,""
 request_info,0.3.0,MIT
 require_bench,1.0.0,""
 require_bench,1.0.1,MIT
+require_bench,1.0.2,MIT
+require_bench,1.0.3,MIT
 resque-dedup,0.0.2,""
 rest_in_place_bootstrap_slider,0.0.1,MIT
 rest_in_place_bootstrap_slider,0.0.2,MIT

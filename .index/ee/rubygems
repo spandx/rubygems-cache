@@ -1052,6 +1052,7 @@ flt,1.5.0,MIT
 flt,1.5.1,MIT
 flt,1.5.2,MIT
 flt,1.5.3,MIT
+flt,1.5.4,MIT
 fluent-plugin-ceph,0.1.0,Apache-2.0
 fluent-plugin-multi-type-parser,0.0.1,Apache-2.0
 fluent-plugin-tail-multiline-ex,0.0.1,Apache-2.0

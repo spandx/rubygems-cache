@@ -70,6 +70,7 @@ adobe-campaign,0.2.0,""
 adobe-campaign,0.2.1,""
 adobe-campaign,0.3.0,""
 adobe-campaign,0.3.1,""
+adobe-campaign,0.3.2,""
 aeden-refinery,0.10.0,""
 aeden-refinery,0.10.1,""
 aeden-refinery,0.10.10,""
@@ -3240,6 +3241,7 @@ specinfra,2.82.10,MIT
 specinfra,2.82.11,MIT
 specinfra,2.82.12,MIT
 specinfra,2.82.13,MIT
+specinfra,2.82.14,MIT
 specinfra,2.82.2,MIT
 specinfra,2.82.3,MIT
 specinfra,2.82.4,MIT

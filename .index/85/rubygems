@@ -1216,6 +1216,7 @@ jekyll-theme-lcsb-default,0.3.12,MIT
 jekyll-theme-lcsb-default,0.3.13,MIT
 jekyll-theme-lcsb-default,0.3.14,MIT
 jekyll-theme-lcsb-default,0.3.15,MIT
+jekyll-theme-lcsb-default,0.3.16,MIT
 jekyll-theme-lcsb-default,0.3.2,MIT
 jekyll-theme-lcsb-default,0.3.3,MIT
 jekyll-theme-lcsb-default,0.3.5,MIT
@@ -1649,6 +1650,7 @@ ovirt-engine-sdk,4.2.3,Apache-2.0
 ovirt-engine-sdk,4.2.4,Apache-2.0
 ovirt-engine-sdk,4.2.5,Apache-2.0
 ovirt-engine-sdk,4.3.0,Apache-2.0
+ovirt-engine-sdk,4.4.0,Apache-2.0
 pandocomatic,0.0.10,GPL-3.0
 pandocomatic,0.0.12,GPL-3.0
 pandocomatic,0.0.13,GPL-3.0

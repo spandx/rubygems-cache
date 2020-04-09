@@ -2121,6 +2121,7 @@ rmpma,0.0.8,MIT
 rmr,0.0.1,""
 robin-rails,0.0.1,MIT
 robin-rails,0.0.2,MIT
+rspec-expect_to_make_changes,0.1.1,MIT
 rspec-roar_matchers,0.0.1,MIT
 rspec-roar_matchers,0.0.2,MIT
 rspec-roar_matchers,0.0.3,MIT

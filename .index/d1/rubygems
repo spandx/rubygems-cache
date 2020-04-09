@@ -633,6 +633,7 @@ db_lock,0.6,MIT
 db_lock,0.6.1,MIT
 db_lock,0.7,MIT
 db_lock,0.8.0,MIT
+db_lock,0.8.1,MIT
 deep_miner,0.1.1,MIT
 derpinderp,6.6.6,""
 devise-tokens,1.0.0,MIT
@@ -1482,6 +1483,9 @@ hotel_price,0.4.2,MIT
 hotel_price,0.4.3,MIT
 hotel_price,0.4.4,MIT
 hotel_price,0.4.5,MIT
+hotel_price,0.4.6,MIT
+hotel_price,0.4.7,MIT
+hotel_price,0.4.8,MIT
 hoverboard,0.1.0,""
 html-pipeline-abbr,0.1.0,""
 html-pipeline-abbr,0.2.0,""
@@ -3269,6 +3273,7 @@ sorbet-static-universal-darwin-14,0.5.5480,Apache-2.0
 sorbet-static-universal-darwin-14,0.5.5497,Apache-2.0
 sorbet-static-universal-darwin-14,0.5.5501,Apache-2.0
 sorbet-static-universal-darwin-14,0.5.5505,Apache-2.0
+sorbet-static-universal-darwin-14,0.5.5507,Apache-2.0
 spid-es,0.0.1,MIT
 spid-es,0.0.10,MIT
 spid-es,0.0.11,MIT
@@ -3283,6 +3288,7 @@ spid-es,0.0.19,MIT
 spid-es,0.0.2,MIT
 spid-es,0.0.20,MIT
 spid-es,0.0.21,MIT
+spid-es,0.0.22,MIT
 spid-es,0.0.3,MIT
 spid-es,0.0.4,MIT
 spid-es,0.0.5,MIT

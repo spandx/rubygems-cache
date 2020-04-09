@@ -394,6 +394,7 @@ clean-hash,0.5.2,MIT
 clean-hash,0.5.3,MIT
 clean-hash,0.5.4,MIT
 clean-hash,0.5.5,MIT
+clean-hash,0.5.6,MIT
 cloudformation-ruby-dsl-addedvars,1.2.4,""
 coin_payments,0.2.0,MIT
 compass-responsive,0.1.0,""
@@ -1459,6 +1460,7 @@ mangusta,0.1.2,""
 mangusta,0.1.3,""
 mangusta,0.1.4,""
 mangusta,0.1.5,""
+mangusta,0.1.6,""
 mausamkahaal,0.0.1,MIT
 maven_emma_for_gitlab,0.0.1,MIT
 maybe_fun,0.1.1,MIT
@@ -2754,6 +2756,7 @@ tcell_agent,1.1.7,Copyright (c) 2017 tCell.io (see LICENSE file)
 tcell_agent,1.1.8,Copyright (c) 2017 tCell.io (see LICENSE file)
 tcell_agent,1.1.9,Copyright (c) 2017 tCell.io (see LICENSE file)
 tcell_agent,2.0.0,Copyright (c) 2017 tCell.io (see LICENSE file)
+tcell_agent,2.1.0,Copyright (c) 2017 tCell.io (see LICENSE file)
 tekkub-fugit,0.0.0,""
 tekkub-fugit,0.0.1,""
 tekkub-fugit,0.0.2,""

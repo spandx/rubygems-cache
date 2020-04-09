@@ -591,6 +591,7 @@ decidim-meetings,0.19.1,AGPL-3.0
 decidim-meetings,0.2.0,AGPL-3.0
 decidim-meetings,0.20.0,AGPL-3.0
 decidim-meetings,0.20.1,AGPL-3.0
+decidim-meetings,0.21.0,AGPL-3.0
 decidim-meetings,0.3.0,AGPL-3.0
 decidim-meetings,0.3.1,AGPL-3.0
 decidim-meetings,0.3.2,AGPL-3.0
@@ -1233,6 +1234,9 @@ jekyll-theme-ethereal,0.5.0,CC-BY-4.0
 jekyll-theme-ethereal,0.5.1,CC-BY-4.0
 jekyll-theme-ethereal,0.5.2,CC-BY-4.0
 jekyll-theme-ethereal,0.5.3,CC-BY-4.0
+jekyll-theme-minimal-academic,1.0,CC0-1.0
+jekyll-theme-minimal-academic,1.0.1,CC0-1.0
+jekyll-theme-minimal-academic,1.0.2,CC0-1.0
 jeremydurham-machinist,1.0.4,""
 jottit-to,0.1.1,MIT
 jpmobile_afp,0.0.1,MIT
