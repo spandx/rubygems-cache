@@ -499,6 +499,7 @@ aws-sdk-medialive,1.39.0,Apache-2.0
 aws-sdk-medialive,1.4.0,Apache-2.0
 aws-sdk-medialive,1.40.0,Apache-2.0
 aws-sdk-medialive,1.41.0,Apache-2.0
+aws-sdk-medialive,1.42.0,Apache-2.0
 aws-sdk-medialive,1.5.0,Apache-2.0
 aws-sdk-medialive,1.6.0,Apache-2.0
 aws-sdk-medialive,1.7.0,Apache-2.0
@@ -583,6 +584,8 @@ bard,0.40.1,MIT
 bard,0.41.0,MIT
 bard,0.41.1,MIT
 bard,0.41.2,MIT
+bard,0.42.0,MIT
+bard,0.43.0,MIT
 basic_api_auth,1.0.0,MIT
 bcswlmpke,0.0.1,MIT
 beaker-task_helper,1.0.0,Apache-2.0

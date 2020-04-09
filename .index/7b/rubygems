@@ -232,6 +232,8 @@ bgp4r,0.0.19,""
 bigip_parse,0.1.0,""
 binary_matrix,0.0.1,GPL-3.0-only
 bip44-ruby,0.1.2,MIT
+bip44-ruby,0.1.3,MIT
+bip44-ruby,0.1.4,MIT
 bliss_view_tool,0.1.0,""
 blockbuster,0.4.1,MIT
 blockbuster,0.5.0,MIT

@@ -856,6 +856,7 @@ falcon,0.35.3,""
 falcon,0.35.4,""
 falcon,0.35.5,""
 falcon,0.35.6,""
+falcon,0.36.0,""
 falcon,0.4.1,""
 falcon,0.4.2,""
 falcon,0.5.0,""
@@ -2355,6 +2356,7 @@ rmq,0.0.4,""
 rmq,0.0.7,""
 roadsign,0.0.0,MIT
 roadsign,0.0.2,MIT
+rocketvalidator,0.1.0,MIT
 roku,0.0.1,MIT
 roku,0.0.2,MIT
 roku,0.0.3,MIT
