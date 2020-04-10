@@ -71,6 +71,7 @@ airbrake-ruby-java,4.13.1,MIT
 airbrake-ruby-java,4.13.2,MIT
 airbrake-ruby-java,4.13.3,MIT
 airbrake-ruby-java,4.13.4,MIT
+airbrake-ruby-java,4.14.0,MIT
 airbrake-ruby-java,4.2.0,MIT
 airbrake-ruby-java,4.2.1,MIT
 airbrake-ruby-java,4.2.2,MIT
@@ -1427,6 +1428,8 @@ morpheus-cli,4.2.3,MIT
 morpheus-cli,4.2.4,MIT
 morpheus-cli,4.2.5,MIT
 morpheus-cli,4.2.6,MIT
+morpheus-cli,4.2.7,MIT
+morpheus-cli,4.2.8,MIT
 motion-stump,0.1.0,""
 motion-stump,0.2.1,""
 motion-stump,0.3.0,""

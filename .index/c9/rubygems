@@ -1040,6 +1040,7 @@ fluent-plugin-windows-eventlog,0.5.0,Apache-2.0
 fluent-plugin-windows-eventlog,0.5.1,Apache-2.0
 fluent-plugin-windows-eventlog,0.5.2,Apache-2.0
 fluent-plugin-windows-eventlog,0.5.3,Apache-2.0
+fluent-plugin-windows-eventlog,0.5.4,Apache-2.0
 flying-sphinx,0.5.1,""
 flying-sphinx,0.6.4,""
 flying-sphinx,0.6.5,""
@@ -2273,6 +2274,7 @@ raygun-apm-x86-mingw32,1.0.24,""
 raygun-apm-x86-mingw32,1.0.25,""
 raygun-apm-x86-mingw32,1.0.26,""
 raygun-apm-x86-mingw32,1.0.27,""
+raygun-apm-x86-mingw32,1.0.28,""
 raygun-apm-x86-mingw32,1.0.3,""
 raygun-apm-x86-mingw32,1.0.4,""
 raygun-apm-x86-mingw32,1.0.5,""

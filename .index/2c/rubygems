@@ -621,6 +621,8 @@ bucket_cake,6.2.0,MIT
 bucket_cake,6.3.0,MIT
 bucket_cake,6.3.1,MIT
 bucket_cake,6.3.2,MIT
+bunny_cdn,1.0.0,MIT
+bunny_cdn,1.0.1,MIT
 cached_resource,1.0.0,""
 cached_resource,2.0.1,""
 cached_resource,2.2.0,""

@@ -798,6 +798,7 @@ em-cron,0.1.0,MIT
 em-cron,0.1.1,MIT
 em-cron,0.2.0,MIT
 email_spectacular,1.0.0,MIT
+email_spectacular,1.1.0,MIT
 embulk-input-big-query-async,0.0.2,MIT
 embulk-input-big-query-async,0.0.3,MIT
 embulk-input-big-query-async,0.0.4,MIT

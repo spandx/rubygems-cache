@@ -6,6 +6,7 @@ NDKMeans,0.0.1,MIT
 NDKMeans,0.0.2,MIT
 NextNumber,0.0.1,MIT
 PeterCoulton-mygemify,0.0.3,""
+PostlightMCTest,1.0.0,Unlicense
 VantivCnp,8.31.0,""
 XCBuildFaster,0.0.1,MIT
 XCBuildFaster,0.0.2,MIT
@@ -2544,6 +2545,7 @@ ruby-tmdb3,0.3.4,""
 rudder-sdk-ruby,0.0.2,MIT
 rudder-sdk-ruby,0.0.3,MIT
 rudder-sdk-ruby,0.0.4,MIT
+rudder-sdk-ruby,0.0.5,MIT
 run-gem-dev,0.1.1,MIT
 run-gem-dev,0.1.2,MIT
 run-gem-dev,0.1.3,MIT

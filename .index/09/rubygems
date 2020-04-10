@@ -275,6 +275,7 @@ airbrake-ruby,4.13.1,MIT
 airbrake-ruby,4.13.2,MIT
 airbrake-ruby,4.13.3,MIT
 airbrake-ruby,4.13.4,MIT
+airbrake-ruby,4.14.0,MIT
 airbrake-ruby,4.2.0,MIT
 airbrake-ruby,4.2.1,MIT
 airbrake-ruby,4.2.2,MIT
@@ -2828,6 +2829,7 @@ rails_multitenant,0.10.0,MIT
 rails_multitenant,0.11.0,MIT
 rails_multitenant,0.12.0,MIT
 rails_multitenant,0.13.0,MIT
+rails_multitenant,0.14.0,MIT
 rails_multitenant,0.2.0,MIT
 rails_multitenant,0.3.0,MIT
 rails_multitenant,0.3.1,MIT

@@ -137,6 +137,7 @@ arachni-rpc-pure,0.1.2,""
 arachni-rpc-pure,0.2,""
 archer-rails,0.1.0,MIT
 archer-rails,0.1.1,MIT
+archer-rails,0.2.0,MIT
 arista-eapi,0.10.0,MIT
 arista-eapi,0.10.1,MIT
 arista-eapi,0.10.2,MIT
@@ -1757,6 +1758,7 @@ ngauthier-active-listener,0.3.2,""
 ngauthier-active-listener,0.3.3,""
 nice_acl,0.0.0,MIT
 nice_acl,0.1.0,MIT
+nice_acl,0.1.1,MIT
 nokogiri-xmlsec-instructure,0.9.4,MIT
 nokogiri-xmlsec-instructure,0.9.5,MIT
 nokogiri-xmlsec-instructure,0.9.6,MIT
