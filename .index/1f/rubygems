@@ -1809,6 +1809,7 @@ nisetegami,0.5.2,""
 nisetegami,0.5.3,""
 nisetegami,0.5.4,""
 node_error_impl,0.1.0,MIT
+node_error_impl,1.0.0,GPL-3.0
 nopid_rails_server,0.1.0,MIT
 norikra-udf-woothee-java,0.0.1,GPLv2
 obscura_linka,0.1.0,""
@@ -2758,6 +2759,7 @@ teamleader,0.14.0,MIT
 teamleader,0.15.0,MIT
 teamleader,0.16.0,MIT
 teamleader,0.17.0,MIT
+teamleader,0.17.1,MIT
 teamleader,0.2.0,MIT
 teamleader,0.3.0,MIT
 teamleader,0.3.1,MIT

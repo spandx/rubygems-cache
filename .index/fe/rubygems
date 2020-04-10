@@ -2800,6 +2800,10 @@ trailer_vote-api,2.1.0,""
 trailer_vote-api,2.2.0,""
 trailer_vote-api,2.2.1,""
 trailer_vote-api,2.2.2,""
+trailer_vote-api,3.0.0,""
+trailer_vote-api,3.0.1,""
+trailer_vote-api,3.0.2,""
+trailer_vote-api,3.0.3,""
 train-core,1.4.10,Apache-2.0
 train-core,1.4.11,Apache-2.0
 train-core,1.4.15,Apache-2.0

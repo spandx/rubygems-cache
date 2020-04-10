@@ -1249,6 +1249,7 @@ ipcam,0.3.4,MIT
 ipcam,0.3.5,MIT
 ipcam,0.4.0,MIT
 ipcam,0.4.1,MIT
+ipcam,0.4.2,MIT
 irake,0.0.1,""
 issue_centre,0.0.1,MIT
 issue_centre,0.0.2,MIT
@@ -1579,6 +1580,7 @@ manageiq-smartstate,0.3.3,Apache-2.0
 manageiq-smartstate,0.3.4,Apache-2.0
 manageiq-smartstate,0.3.5,Apache-2.0
 manageiq-smartstate,0.3.6,Apache-2.0
+manageiq-smartstate,0.3.7,Apache-2.0
 manageiq-smartstate,0.4.0,Apache-2.0
 manageiq-smartstate,0.5.0,Apache-2.0
 manageiq-smartstate,0.5.1,Apache-2.0
@@ -1759,6 +1761,7 @@ pakyow-slim,2.0.0,LGPL-3.0
 pampa_workers,0.0.38,MIT
 pampa_workers,0.0.39,MIT
 pampa_workers,1.1.1,MIT
+pampa_workers,1.1.10,MIT
 pampa_workers,1.1.2,MIT
 pampa_workers,1.1.3,MIT
 pampa_workers,1.1.4,MIT

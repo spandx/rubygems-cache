@@ -436,6 +436,10 @@ circuit-api,0.0.2,MIT
 circuit-api,0.0.3,MIT
 circuit-api,0.0.4,MIT
 circuit-api,0.0.5,MIT
+circuit-api,0.0.6,MIT
+circuit-api,0.0.7,MIT
+circuit-api,0.0.8,MIT
+circuit-api,0.0.9,MIT
 cis_rails_chat,1.0.2,""
 cis_rails_chat,1.0.3,""
 class_logger,0.1,""

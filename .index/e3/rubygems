@@ -1371,6 +1371,8 @@ listings,0.0.2,""
 listings,0.0.3,""
 listings,0.1.0,""
 listings,0.1.10,""
+listings,0.1.11,""
+listings,0.1.12,""
 listings,0.1.4,""
 listings,0.1.5,""
 listings,0.1.6,""
@@ -2181,6 +2183,7 @@ rubyxls,1.0.3,MIT
 rubyxls,1.0.4,MIT
 rubyxls,1.0.5,MIT
 rubyxls,1.1.0,MIT
+rubyxls,1.2.0,MIT
 rundeck-ruby,0.0.1,MIT
 rundeck-ruby,0.0.2,MIT
 rundeck-ruby,0.0.3,MIT

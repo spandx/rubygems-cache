@@ -1845,6 +1845,7 @@ ngerpin,0.0.1,MIT
 noaa_weather_client,0.0.1,MIT
 node_error,1.0.0,MIT
 node_error,2.0.0,MIT
+node_error,3.0.0,GPL-3.0
 nofxx-activesms,0.9.0,""
 noisrev,0.0.5,""
 norikra-listener-norikra-java,0.0.1,GPL v2
@@ -2050,6 +2051,7 @@ palf,0.1.1,""
 palf,0.1.2,""
 palf,0.1.3,""
 pandan,0.0.1,MIT
+pandan,0.0.3,MIT
 paper_house,0.4.0,GPL-3.0-only
 paper_house,0.4.1,GPL-3.0-only
 paper_house,0.5.0,GPL-3.0-only

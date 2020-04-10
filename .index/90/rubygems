@@ -941,6 +941,7 @@ evt-consumer,1.0.1.1,MIT
 evt-consumer,1.0.2.0,MIT
 evt-consumer,1.1.0.0,MIT
 evt-consumer,2.2.0.0,MIT
+evt-consumer,2.2.0.1,MIT
 faalis,0.11.0,GPL-2.0
 faalis,0.11.1,GPL-2.0
 faalis,0.14.0,GPL-2.0
@@ -2211,6 +2212,7 @@ terraorg,0.0.7,MIT
 terraorg,0.0.9,MIT
 terraorg,0.1.0,MIT
 terraorg,0.2.0,MIT
+terraorg,0.2.1,MIT
 texp,0.1.1,""
 thumbnail_hover_effect,0.0.1,MIT
 thumbnail_hover_effect,0.1.0,MIT

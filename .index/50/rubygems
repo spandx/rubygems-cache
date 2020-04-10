@@ -144,6 +144,9 @@ bearer-agent,2.0.6,""
 bearer-agent,2.0.7,""
 bearer-agent,2.0.8,""
 bearer-agent,2.0.9,""
+bearer-agent,3.0.0,""
+bearer-agent,3.0.1,""
+bearer-agent,3.0.2,""
 bing_ads_ruby_sdk,0.0.0,MIT
 bing_ads_ruby_sdk,1.0.0,MIT
 bing_ads_ruby_sdk,1.1.1,MIT
@@ -1776,6 +1779,7 @@ rubocop-config-prettier,0.1.4,""
 rubocop-config-prettier,0.1.5,""
 rubocop-config-prettier,0.1.6,""
 rubocop-config-prettier,0.1.7,""
+rubocop-config-prettier,0.1.8,""
 ruby-api,1.0.1,MIT
 ruby-api,1.0.2,MIT
 ruby-api,1.0.3,MIT

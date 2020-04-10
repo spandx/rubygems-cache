@@ -1925,6 +1925,7 @@ outliner,0.1.0,""
 outliner,0.1.1,""
 outliner,0.2.0,MIT
 paginater,0.0.5,MIT
+pagseguro-charge,0.5,MIT
 paperclip-env_aware,0.0.2,""
 paperclip-env_aware,0.0.3,""
 parallel_server,0.1,Ruby's

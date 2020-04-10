@@ -1832,6 +1832,7 @@ lxp-packet,0.2.0,MIT
 lxp-packet,0.3.0,MIT
 lxp-packet,0.4.0,MIT
 lxp-packet,0.5.0,MIT
+lxp-packet,0.6.0,MIT
 lzo,0.1.0,""
 mach5-tools,0.0.1,MIT
 mach5-tools,0.1.0,MIT
@@ -3145,6 +3146,7 @@ tramway-landing,3.0.0.2,MIT
 tramway-landing,3.0.1,MIT
 tramway-landing,3.0.1.1,MIT
 tramway-landing,3.0.1.2,MIT
+tramway-landing,3.0.2,MIT
 treebank-transform,0.0.1,MIT
 treebank-transform,0.0.2,MIT
 treebank-transform,0.0.3,MIT

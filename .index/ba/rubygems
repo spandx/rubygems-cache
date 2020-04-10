@@ -1199,6 +1199,7 @@ japanese_deinflector,0.0.2,""
 jekyll-embedly-plugin,0.3.0,Apache2
 jekyll-quickstart,0.0.1,MIT
 jekyll-quickstart,0.0.2,MIT
+jekyll-theme-sd2,0.1.1,MIT
 job_status,0.1.0,Apache-2.0
 job_status,0.1.2,Apache-2.0
 job_status,0.5.2,Apache-2.0

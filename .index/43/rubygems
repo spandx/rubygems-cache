@@ -225,6 +225,7 @@ backports,3.15.0,MIT
 backports,3.16.0,MIT
 backports,3.16.1,MIT
 backports,3.17.0,MIT
+backports,3.17.1,MIT
 backports,3.2.0,""
 backports,3.3.0,""
 backports,3.3.1,""
@@ -1237,6 +1238,8 @@ jekyll-theme-ethereal,0.5.3,CC-BY-4.0
 jekyll-theme-minimal-academic,1.0,CC0-1.0
 jekyll-theme-minimal-academic,1.0.1,CC0-1.0
 jekyll-theme-minimal-academic,1.0.2,CC0-1.0
+jekyll-theme-minimal-academic,1.0.3,CC0-1.0
+jekyll-theme-minimal-academic,1.0.4,CC0-1.0
 jeremydurham-machinist,1.0.4,""
 jottit-to,0.1.1,MIT
 jpmobile_afp,0.0.1,MIT

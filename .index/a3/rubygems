@@ -143,6 +143,7 @@ awestruct-ibeams,0.3.0,""
 awestruct-ibeams,0.4.0,""
 awestruct-ibeams,0.4.1,""
 awestruct-ibeams,0.4.2,""
+awestruct-ibeams,0.4.3,""
 aws-sdk-pinpoint,1.0.0,Apache-2.0
 aws-sdk-pinpoint,1.1.0,Apache-2.0
 aws-sdk-pinpoint,1.10.0,Apache-2.0
@@ -2618,6 +2619,7 @@ sorbet,0.5.5497,Apache-2.0
 sorbet,0.5.5501,Apache-2.0
 sorbet,0.5.5505,Apache-2.0
 sorbet,0.5.5507,Apache-2.0
+sorbet,0.5.5510,Apache-2.0
 sourcerer,0.5.1,MIT
 sourcerer,0.5.2,MIT
 sourcerer,0.6.0,MIT

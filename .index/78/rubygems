@@ -239,6 +239,7 @@ async-http-faraday,0.7.0,""
 async-http-faraday,0.7.1,""
 async-http-faraday,0.8.0,""
 async-http-faraday,0.8.1,""
+async-http-faraday,0.9.0,""
 attr-gather,1.0.0,MIT
 attribute_extras,0.0.1,MIT
 attribute_extras,0.1.0,MIT
@@ -845,6 +846,7 @@ dependabot-npm_and_yarn,0.117.2,Nonstandard
 dependabot-npm_and_yarn,0.117.3,Nonstandard
 dependabot-npm_and_yarn,0.117.4,Nonstandard
 dependabot-npm_and_yarn,0.117.5,Nonstandard
+dependabot-npm_and_yarn,0.117.6,Nonstandard
 dependabot-npm_and_yarn,0.91.0,Nonstandard
 dependabot-npm_and_yarn,0.91.1,Nonstandard
 dependabot-npm_and_yarn,0.91.2,Nonstandard
