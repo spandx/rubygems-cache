@@ -435,6 +435,8 @@ bioroebe,0.4.158,LGPL-2.1
 bioroebe,0.4.159,LGPL-2.1
 bioroebe,0.4.160,LGPL-2.1
 bioroebe,0.4.164,LGPL-2.1
+bioroebe,0.4.165,LGPL-2.1
+bioroebe,0.4.166,LGPL-2.1
 bioroebe,0.4.28,LGPL-2.1
 bitstamp-client,0.1.0,MIT
 bitstamp-client,0.2.0,MIT
@@ -2131,6 +2133,7 @@ pretzel-orm,0.3.0,MIT
 proj4rb-x86-mingw32,0.4.0,""
 proj4rb-x86-mingw32,0.4.3,""
 prophet-rb,0.1.0,MIT
+prophet-rb,0.1.1,MIT
 protected_form,0.0.1,MIT
 protected_form,0.0.2,MIT
 protected_form,0.0.3,MIT

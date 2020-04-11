@@ -60,6 +60,7 @@ alchemy_file_selector,0.1.1,MIT
 alchemy_file_selector,0.1.2,MIT
 alchemy_file_selector,0.1.2.1,MIT
 alchemy_file_selector,0.1.3,MIT
+alchemy_file_selector,0.1.4,MIT
 alder,0.1.0,MIT
 alexvollmer-daemon-spawn,0.1.0,""
 alexvollmer-daemon-spawn,0.2.0,""
@@ -1666,6 +1667,7 @@ rake-stretcher-rails,0.1.2,MIT
 rake-typo,0.1,""
 rake_i_task,0.0.1,MIT
 rams-jekyll-feed,0.13.0,MIT
+rate_throttle_client,0.1.0,MIT
 ravicious-blipmimoza,0.1.0,""
 ravicious-blipmimoza,0.1.1,""
 ravicious-blipmimoza,0.1.2,""

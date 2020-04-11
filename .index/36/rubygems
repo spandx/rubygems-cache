@@ -1229,6 +1229,7 @@ govuk_publishing_components,21.4.0,MIT
 govuk_publishing_components,21.4.1,MIT
 govuk_publishing_components,21.40.0,MIT
 govuk_publishing_components,21.41.0,MIT
+govuk_publishing_components,21.41.1,MIT
 govuk_publishing_components,21.5.0,MIT
 govuk_publishing_components,21.6.0,MIT
 govuk_publishing_components,21.6.1,MIT
@@ -2825,6 +2826,7 @@ thumbtack,2.0.0,MIT
 tinnef,0.1.1,""
 tinnef,0.2.0,""
 tinnef,0.3.0,MIT
+tinnef,0.3.1,MIT
 to_reference,0.0.0,""
 token_auth,0.3.1,MIT
 token_auth,0.3.2,MIT
