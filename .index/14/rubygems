@@ -919,6 +919,7 @@ gapic-generator,0.1.7,Apache-2.0
 gapic-generator,0.2.0,Apache-2.0
 gapic-generator,0.2.2,Apache-2.0
 gapic-generator,0.2.3,Apache-2.0
+gapic-generator,0.3.0,Apache-2.0
 gemcheck,0.2.0,MIT
 gemcheck,0.4.0,MIT
 gemstalk,0.0.1,""
@@ -1016,6 +1017,7 @@ glimmer,0.4.6,MIT
 glimmer,0.4.7,MIT
 glimmer,0.4.8,MIT
 glimmer,0.4.9,MIT
+glimmer,0.5.0,MIT
 go_watchdog,1.2.0,MIT
 go_watchdog,1.2.1,MIT
 go_watchdog,1.2.2,MIT

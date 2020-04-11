@@ -34,6 +34,7 @@ active_admin_sidebar,0.0.5,""
 active_admin_sidebar,1.0.0,""
 active_admin_sidebar,1.1.0,""
 active_admin_sidebar,1.2.0,""
+active_attack,0.1.14,MIT
 active_record_sanitize_attributes,1.0.0,MIT
 activeadmin_addons,0.0.3,MIT
 activeadmin_addons,0.1.0,MIT
@@ -1770,6 +1771,7 @@ material,0.3.2,MIT
 material,0.3.3,MIT
 material,0.3.4,MIT
 material,0.3.5,MIT
+material,0.3.6,MIT
 matrizdispersascp,0.0.1,MIT
 matrizdispersascp,0.0.2,MIT
 max31856,0.1.0,MIT

@@ -1288,6 +1288,7 @@ jaredbrown_view_tool,0.1.0,""
 jason_spec,0.0.1,MIT
 jason_spec,0.0.2,MIT
 jeffrafter-resource_controller,0.5.5,""
+jekyll-asciimath,1.0.0,MIT
 jekyll-slim,0.10.0,""
 jekyll-slim,0.7.0,""
 jekyll-slim,0.8.0,""
@@ -3106,6 +3107,7 @@ xcodeproj,1.12.0,MIT
 xcodeproj,1.13.0,MIT
 xcodeproj,1.14.0,MIT
 xcodeproj,1.15.0,MIT
+xcodeproj,1.16.0,MIT
 xcodeproj,1.2.0,MIT
 xcodeproj,1.3.0,MIT
 xcodeproj,1.3.1,MIT

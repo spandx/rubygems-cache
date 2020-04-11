@@ -1421,6 +1421,7 @@ iudex-jetty-httpclient-java,1.6.0,Apache-2.0
 iudex-jetty-httpclient-java,1.7.0,Apache-2.0
 iudex-jetty-httpclient-java,1.7.1,Apache-2.0
 jekyll-img-prefix,0.1.1,MIT
+jekyll-img-prefix,0.1.2,MIT
 jellyfish-manageiq,0.0.1,APACHE
 jellyfish-manageiq,0.0.3,APACHE
 jgm-cloudlib,0.1,""

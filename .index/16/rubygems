@@ -720,6 +720,7 @@ dslimple,2.0.4,MIT
 dslimple,2.0.5,MIT
 dummy_variables,0.1.1,MIT
 eac_cli,0.1.0,""
+eac_cli,0.2.0,""
 einstein-enum,1.0.0,BSD
 eks,0.0.1,MIT
 elastic_adapter,0.0.1,MIT
