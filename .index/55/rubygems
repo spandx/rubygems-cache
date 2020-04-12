@@ -2842,6 +2842,7 @@ sequel_pg,1.8.0,MIT
 sequel_pg,1.8.1,MIT
 sequel_pg,1.8.2,MIT
 sequel_pg,1.9.0,MIT
+sidekiq-concurrency_safety,0.1.0,""
 significance,0.1.0,""
 significance,0.2.0,""
 sii_chile,0.1.0,""

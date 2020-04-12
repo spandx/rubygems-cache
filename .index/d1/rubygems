@@ -1307,6 +1307,7 @@ glib-web,0.4.52,""
 glib-web,0.4.54,""
 glib-web,0.4.56,""
 glib-web,0.4.57,""
+glib-web,0.4.59,""
 glib-web,0.4.6,""
 glib-web,0.4.7,""
 good_job,0.1.0,MIT
@@ -3452,6 +3453,8 @@ traktr,0.5.0,MIT
 traktr,0.7.0,MIT
 transmitter,0.9.6,MIT
 trenni-words,1.0.0,""
+trestle-auth-otp,0.1.0,LGPL-3.0
+trestle-auth-otp,0.1.1,LGPL-3.0
 turbolinks-js,0.5.1,""
 turbolinks-js,0.5.2,""
 turbolinks-js,0.5.3,""

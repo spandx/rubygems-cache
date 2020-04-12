@@ -2229,6 +2229,7 @@ less-rails,2.7.1,MIT
 less-rails,2.8.0,MIT
 less-rails,3.0.0,MIT
 less-rails,4.0.0,MIT
+less-rails,5.0.0,MIT
 lgrgic_palindrome_detector,0.1.0,""
 lgrgic_palindrome_detector,0.2.0,""
 libzdb,0.0.1,BSD-3-Clause
@@ -3385,6 +3386,7 @@ virtuatable,2.3.2,MIT
 virtuatable,2.4.0,MIT
 virtuatable,2.4.1,MIT
 virtuatable,2.4.2,MIT
+virtuatable,2.5.0,MIT
 volt-notification,0.1.0,MIT
 volt-notification,0.1.1,MIT
 vor,0.1.0,MIT
