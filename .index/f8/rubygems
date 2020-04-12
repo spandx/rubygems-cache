@@ -365,6 +365,7 @@ avm-tools,0.41.0,""
 avm-tools,0.42.0,""
 avm-tools,0.43.0,""
 avm-tools,0.44.0,""
+avm-tools,0.44.1,""
 avm-tools,0.6.0,""
 avm-tools,0.7.0,""
 avm-tools,0.8.0,""
@@ -1939,6 +1940,7 @@ node,2.0.0,MIT
 node,2.0.1,MIT
 node,2.0.2,MIT
 node,2.1.0,GPL-3.0
+node,3.0.0,GPL-3.0
 nonsensor,0.1.0,MIT
 nonsensor,0.1.1,MIT
 notepunch-git-media,0.1.3,""

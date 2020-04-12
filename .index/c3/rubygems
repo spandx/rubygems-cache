@@ -665,6 +665,7 @@ debug_socket,0.1.6,""
 debug_socket,0.1.7,""
 debug_unimedrj,0.0.2,MIT
 december,0.0.0,""
+delayed_job_metrics,0.0.1,MIT
 delayed_job_slack_notification,0.1.0,""
 delayed_job_slack_notification,0.1.1,""
 delayed_job_slack_notification,0.1.2,""

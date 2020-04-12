@@ -2642,6 +2642,10 @@ google_storage,0.1.2,""
 grape_bootstrap,0.0.1,MIT
 grape_bootstrap,0.0.2,MIT
 grape_bootstrap,0.0.3,MIT
+gtk_paradise,0.3.12,LGPL-2.1
+gtk_paradise,0.3.13,LGPL-2.1
+gtk_paradise,0.3.14,LGPL-2.1
+gtk_paradise,0.3.15,LGPL-2.1
 gtk_paradise,0.3.8,LGPL-2.1
 guard-predictionio,0.0.1,MIT
 guard-roxy,0.0.2,""
