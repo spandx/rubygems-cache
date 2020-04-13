@@ -756,6 +756,7 @@ glebtv-httpclient,3.2.6,ruby
 glebtv-httpclient,3.2.7,ruby
 glebtv-httpclient,3.2.8,ruby
 glebtv-httpclient,3.3.0,ruby
+glob_matcher,0.1.0,""
 gmail_api_jp,0.1.0,MIT
 gmail_api_jp,0.1.1,MIT
 google-api-rails,1.0.0,""

@@ -1010,6 +1010,8 @@ fci,0.0.5,""
 fci,0.0.6,""
 fcp_completed,0.0.0,MIT
 fcp_completed,0.0.1,MIT
+feature_channel,0.2.0,MIT
+feature_channel,0.2.1,MIT
 ffi-win32-extensions,1.0.0,Apache-2.0
 ffi-win32-extensions,1.0.1,Apache-2.0
 ffi-win32-extensions,1.0.2,Apache-2.0

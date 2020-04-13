@@ -649,6 +649,7 @@ dear-inventory-ruby,0.1.5,MIT
 dear-inventory-ruby,0.1.6,MIT
 dear-inventory-ruby,0.1.7,MIT
 dear-inventory-ruby,0.1.8,MIT
+dear-inventory-ruby,0.1.9,MIT
 deblank,0.0.1,GPL-3
 deblank,0.1.0,GPL-3
 defunkt-integrity-email,1.0.0,""
@@ -2259,6 +2260,7 @@ mongo-fixture,0.0.3,""
 month_range,0.1.2,MIT
 month_range,0.1.3,MIT
 month_range,0.1.4,MIT
+month_range,0.1.5,MIT
 mozu_api,0.0.0,""
 mpilat-integrity-email,1.0.1,""
 mplay,0.0.1,MIT

@@ -1941,6 +1941,11 @@ selenium-dsl,0.1.5,""
 selenium-dsl,0.1.6,""
 selenium-dsl,0.1.7,""
 selenium-dsl,0.1.8,""
+semantic-release-gem-demo,0.3.0,MIT
+semantic-release-gem-demo,1.4.2,MIT
+semantic-release-gem-demo,1.4.4,MIT
+semantic-release-gem-demo,1.4.5,MIT
+semantic-release-gem-demo,1.4.6,MIT
 sensu-plugins-memory,0.0.1,MIT
 sensu-plugins-memory,0.0.2,MIT
 sensu-plugins-sentry,0.0.1,MIT

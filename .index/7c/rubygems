@@ -1444,6 +1444,7 @@ intellisense-ruby,0.6.5,""
 intellisense-ruby,0.6.6,""
 intellisense-ruby,0.7.5,""
 intellisense-ruby,0.7.8,""
+interage-helpers,0.0.1,MIT
 ios_parser-java,0.5.1,GPL-3.0
 ios_parser-java,0.5.2,GPL-3.0
 iostrust,1.0.0,""
@@ -2973,6 +2974,7 @@ wpscan,3.7.6,Dual
 wpscan,3.7.7,Dual
 wpscan,3.7.8,Dual
 wpscan,3.7.9,Dual
+wpscan,3.8.0,Dual
 xaviershay-rbcoremidi,0.0.2,""
 xelnex,0.0.1,MIT
 xelnex,0.0.2,MIT
