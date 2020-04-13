@@ -371,6 +371,8 @@ battlerite,1.0.0,MIT
 bencodr,2.0.0,""
 bencodr,3.0.2,""
 better_log_formatter,0.1.0,MIT
+better_validations,0.1.0,MIT
+better_validations,0.1.1,MIT
 betterplace_explorer,0.0.2,Apache v2
 betterplace_explorer,0.0.3,Apache v2
 betterplace_explorer,0.0.4,Apache v2
@@ -777,6 +779,7 @@ embulk-decoder-lzo,0.1.2,GPL
 embulk-output-groonga,0.1.1,MIT
 embulk-output-groonga,0.1.2,MIT
 enumbler,0.1.0,MIT
+enumbler,0.2.0,MIT
 eventide-postgres,0.1.0.1,MIT
 eventide-postgres,0.1.0.2,MIT
 eventide-postgres,0.1.1.0,MIT
