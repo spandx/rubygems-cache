@@ -440,6 +440,7 @@ bioroebe,0.4.166,LGPL-2.1
 bioroebe,0.4.169,LGPL-2.1
 bioroebe,0.4.170,LGPL-2.1
 bioroebe,0.4.173,LGPL-2.1
+bioroebe,0.4.174,LGPL-2.1
 bioroebe,0.4.28,LGPL-2.1
 bitstamp-client,0.1.0,MIT
 bitstamp-client,0.2.0,MIT
@@ -2131,6 +2132,7 @@ prct06_alu0101045870,0.1.0,""
 premonition,1.0.2,MIT
 premonition,2.0.0,MIT
 premonition,2.0.1,MIT
+premonition,4.0.0,MIT
 pretzel-orm,0.1.0,MIT
 pretzel-orm,0.2.0,MIT
 pretzel-orm,0.3.0,MIT

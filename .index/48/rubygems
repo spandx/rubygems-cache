@@ -1303,6 +1303,7 @@ heroku_hatchet,4.0.8,MIT
 heroku_hatchet,4.0.9,MIT
 heroku_hatchet,4.1.0,MIT
 heroku_hatchet,4.1.1,MIT
+heroku_hatchet,4.1.2,MIT
 highlight-code,0.0.1,""
 hiroeorz-rspec-w3c-matchers,0.1.0,""
 hiroeorz-rspec-w3c-matchers,0.1.1,""
@@ -2737,6 +2738,7 @@ twirp_rails,0.3.2,MIT
 twirp_rails,0.4.0,MIT
 twirp_rails,0.4.1,MIT
 twirp_rails,0.4.2,MIT
+twirp_rails,0.4.3,MIT
 tzispa_rig,0.2.3,MIT
 tzispa_rig,0.2.4,MIT
 tzispa_rig,0.2.5,MIT

@@ -1956,6 +1956,7 @@ richurls,0.3.0,GPL-3.0
 richurls,0.4.0,GPL-3.0
 richurls,0.5.0,GPL-3.0
 richurls,0.5.1,GPL-3.0
+richurls,0.5.2,GPL-3.0
 ridecharge-rubocop,0.0.1,MIT
 riemann-monitors,0.0.1,LGPL-3.0
 ripple-data-api-client,0.1.1,MIT
@@ -3199,5 +3200,6 @@ zuora_connect,2.0.53,""
 zuora_connect,2.0.54,""
 zuora_connect,2.0.55,""
 zuora_connect,2.0.56,""
+zuora_connect,2.0.57,""
 zuora_connect,2.0.8,""
 zuora_connect,2.0.9,""

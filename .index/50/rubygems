@@ -1782,6 +1782,7 @@ rubocop-config-prettier,0.1.5,""
 rubocop-config-prettier,0.1.6,""
 rubocop-config-prettier,0.1.7,""
 rubocop-config-prettier,0.1.8,""
+rubocop-config-prettier,0.1.9,""
 ruby-api,1.0.1,MIT
 ruby-api,1.0.2,MIT
 ruby-api,1.0.3,MIT
@@ -1923,6 +1924,7 @@ sequence_generator,0.1.30,MIT
 sequence_generator,0.1.31,MIT
 sequence_generator,0.1.32,MIT
 sequence_generator,0.1.33,MIT
+sequence_generator,1.0.0,MIT
 serial,0.1.0,MIT
 serial,0.1.1,MIT
 serial,0.2.0,MIT

@@ -957,6 +957,7 @@ gapic-generator-cloud,0.2.2,Apache-2.0
 gapic-generator-cloud,0.2.3,Apache-2.0
 gapic-generator-cloud,0.3.0,Apache-2.0
 gapic-generator-cloud,0.3.1,Apache-2.0
+gapic-generator-cloud,0.3.3,Apache-2.0
 garnierjm-webrat,0.4.5,""
 geekpark_api,0.1.0,""
 geekpark_api,0.1.1,""
@@ -2558,6 +2559,7 @@ spicerack-styleguide,0.23.2,MIT
 spicerack-styleguide,0.23.3,MIT
 spicerack-styleguide,0.23.4,MIT
 spicerack-styleguide,0.23.5,MIT
+spicerack-styleguide,0.23.6,MIT
 spicerack-styleguide,0.6.0,MIT
 spicerack-styleguide,0.6.1,MIT
 spicerack-styleguide,0.6.2,MIT
@@ -2747,6 +2749,7 @@ spree_core,4.1.1,BSD-3-Clause
 spree_core,4.1.2,BSD-3-Clause
 spree_core,4.1.3,BSD-3-Clause
 spree_core,4.1.4,BSD-3-Clause
+spree_core,4.1.5,BSD-3-Clause
 spree_wishlist,1.3,""
 sqlfinder,0.0.5,""
 sqlfinder,1.0.0,""

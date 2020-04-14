@@ -895,6 +895,7 @@ event-logger,0.0.5,""
 event-logger,1.0.0,BSD-2-Clause
 excel_utils,1.0.0,MIT
 excel_utils,1.1.0,MIT
+excel_utils,1.1.1,MIT
 exp_retry,0.0.1,GPL-3.0
 exp_retry,0.0.10,GPL-3.0
 exp_retry,0.0.11,GPL-3.0
@@ -1136,6 +1137,7 @@ golang,0.1.0,""
 google-cloud-bigquery-storage-v1,0.1.0,Apache-2.0
 google-cloud-bigquery-storage-v1,0.1.1,Apache-2.0
 google-cloud-bigquery-storage-v1,0.1.2,Apache-2.0
+google-cloud-bigquery-storage-v1,0.1.3,Apache-2.0
 google_alerts,0.0.0,""
 google_auth,0.0.4,""
 google_auth,0.1.0,""

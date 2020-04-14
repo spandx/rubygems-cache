@@ -2037,6 +2037,7 @@ rbvmomi,2.2.0,MIT
 rbvmomi,2.3.0,MIT
 rbvmomi,2.3.1,MIT
 rbvmomi,2.4.0,MIT
+rbvmomi,2.4.1,MIT
 rdata,0.0.0,""
 rdata,0.2.0,""
 rdata,0.2.1,""
@@ -2908,6 +2909,7 @@ sorbet-static-x86_64-linux,0.5.5501,Apache-2.0
 sorbet-static-x86_64-linux,0.5.5505,Apache-2.0
 sorbet-static-x86_64-linux,0.5.5507,Apache-2.0
 sorbet-static-x86_64-linux,0.5.5510,Apache-2.0
+sorbet-static-x86_64-linux,0.5.5516,Apache-2.0
 spanx,0.1.0,""
 spanx,0.1.1,""
 spanx,0.3.0,""

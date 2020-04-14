@@ -1625,6 +1625,7 @@ gillbus,0.20.9,MIT
 gillbus,0.21.0,MIT
 gillbus,0.22.0,MIT
 gillbus,0.22.1,MIT
+gillbus,0.22.2,MIT
 git-check-ci,0.1.0,""
 git-check-ci,0.1.1,""
 git-check-ci,0.1.4,""
@@ -1701,6 +1702,7 @@ gogreen,0.3.0,MIT
 gogreen,0.3.1,MIT
 google-cloud-speech-v1p1beta1,0.1.0,Apache-2.0
 google-cloud-speech-v1p1beta1,0.1.1,Apache-2.0
+google-cloud-speech-v1p1beta1,0.1.2,Apache-2.0
 google_auth_box,0.1.0,""
 governor_livejournal,0.1.0,""
 governor_livejournal,0.2.0,""

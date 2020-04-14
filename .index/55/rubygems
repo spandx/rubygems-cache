@@ -2816,6 +2816,7 @@ sequel_pg,1.12.2,MIT
 sequel_pg,1.12.3,MIT
 sequel_pg,1.12.4,MIT
 sequel_pg,1.12.5,MIT
+sequel_pg,1.13.0,MIT
 sequel_pg,1.2.2,""
 sequel_pg,1.5.1,""
 sequel_pg,1.6.10,MIT
@@ -3064,6 +3065,7 @@ spicery,0.23.2,MIT
 spicery,0.23.3,MIT
 spicery,0.23.4,MIT
 spicery,0.23.5,MIT
+spicery,0.23.6,MIT
 spook_and_pay,1.0.0,""
 spook_and_pay,1.1.1,""
 spook_and_pay,1.1.2,MIT
