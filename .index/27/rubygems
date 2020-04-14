@@ -210,6 +210,7 @@ autodoc,0.7.0,MIT
 autodoc,0.7.1,MIT
 autodoc,0.7.2,MIT
 autodoc,0.7.3,MIT
+autodoc,0.7.4,MIT
 aws_info,0.2.0,MIT
 aws_info,0.3.0,MIT
 aws_info,0.4.0,MIT
@@ -1153,7 +1154,9 @@ inst-jobs,0.15.15,""
 inst-jobs,0.15.16,""
 inst-jobs,0.15.17,""
 inst-jobs,0.15.18,""
+inst-jobs,0.15.19,""
 inst-jobs,0.15.2,""
+inst-jobs,0.15.20,""
 inst-jobs,0.15.3,""
 inst-jobs,0.15.4,""
 inst-jobs,0.15.5,""

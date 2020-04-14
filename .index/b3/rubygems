@@ -2886,6 +2886,7 @@ restrack,1.6.9,""
 restrack,1.7.0,""
 restrack,1.8.1,""
 restrack,1.8.2,""
+resulting,0.0.1,""
 revelry_payments,0.0.0,BSD
 reversi,0.0.1,MIT
 reversi,0.1.0,MIT
@@ -2974,6 +2975,7 @@ ruby-jss,1.2.0,Nonstandard
 ruby-jss,1.2.2,Nonstandard
 ruby-jss,1.2.3,Nonstandard
 ruby-jss,1.2.6,Nonstandard
+ruby-jss,1.2.9,Nonstandard
 ruby-properties-file,0.0.2,MIT
 ruby-time_range,0.1.0,MIT
 ruby_cli,0.0.2,""

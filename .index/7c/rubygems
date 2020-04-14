@@ -1298,6 +1298,7 @@ gollum-export,0.0.1,""
 google-cloud-vision-v1p3beta1,0.1.0,Apache-2.0
 google-cloud-vision-v1p3beta1,0.1.1,Apache-2.0
 google-cloud-vision-v1p3beta1,0.1.2,Apache-2.0
+google-cloud-vision-v1p3beta1,0.1.3,Apache-2.0
 google-dfp-api,0.10.0,Apache-2.0
 google-dfp-api,0.10.1,Apache-2.0
 google-dfp-api,0.12.0,Apache-2.0
@@ -1445,6 +1446,7 @@ intellisense-ruby,0.6.6,""
 intellisense-ruby,0.7.5,""
 intellisense-ruby,0.7.8,""
 interage-helpers,0.0.1,MIT
+interage-helpers,0.0.2,MIT
 ios_parser-java,0.5.1,GPL-3.0
 ios_parser-java,0.5.2,GPL-3.0
 iostrust,1.0.0,""
@@ -1869,6 +1871,7 @@ parametric,0.1.3,MIT
 parametric,0.2.0,MIT
 parametric,0.2.1,MIT
 parametric,0.2.10,MIT
+parametric,0.2.11,MIT
 parametric,0.2.2,MIT
 parametric,0.2.3,MIT
 parametric,0.2.4,MIT

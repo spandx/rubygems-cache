@@ -1306,6 +1306,7 @@ hardpool-flat,0.1.0,MIT
 hardpool-flat,1.0.0,MIT
 hardpool-flat,2.0.0,MIT
 hardpool-flat,2.1.0,MIT
+hardpool-flat,2.2.0,MIT
 harmonyrb,0.1.0,""
 harmonyrb,0.1.1,""
 has_image,0.5.0,""
@@ -1891,6 +1892,7 @@ pdns,0.8.0,MIT
 pdns,0.8.1,MIT
 pdns,0.8.2,MIT
 pdns,0.8.3,MIT
+pdns,0.9.0,MIT
 pdns-remotebackend,0.0.4,MIT
 pdns-remotebackend,0.0.5,MIT
 pdns-remotebackend,0.0.6,MIT

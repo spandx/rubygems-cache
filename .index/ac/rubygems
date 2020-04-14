@@ -2075,6 +2075,7 @@ ruby-debug-ide,0.5.0,""
 ruby-debug-ide,0.6.0,""
 ruby-debug-ide,0.6.1,MIT
 ruby-debug-ide,0.7.0,MIT
+ruby-debug-ide,0.7.2,MIT
 ruby-progressbar-cli,0.0.1,NGPL
 ruby-push-notifications,0.0.1,MIT
 ruby-push-notifications,0.1.0,MIT

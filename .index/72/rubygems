@@ -519,6 +519,7 @@ comfy_bootstrap_form,4.0.9,MIT
 command_line,1.0.0,MIT
 command_line,1.0.1,MIT
 command_line,1.1.0,MIT
+command_line,2.0.0,MIT
 commentui,0.1.01,MIT
 commentui,0.2.0,MIT
 compact_index,0.1.0,MIT
@@ -789,6 +790,7 @@ docparser,0.1.6,MIT
 docparser,0.2.0,MIT
 docparser,0.2.2,MIT
 docparser,0.2.3,MIT
+docparser,0.3.0,MIT
 docx_mailmerge,0.0.1,MIT
 docx_mailmerge,0.0.2,MIT
 dogy,0.1.0,GPL-3.0-only

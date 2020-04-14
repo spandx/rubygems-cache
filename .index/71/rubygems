@@ -1268,6 +1268,7 @@ fastlane-plugin-alioss,0.1.6,MIT
 fastlane-plugin-alioss,0.1.7,MIT
 fastlane-plugin-alioss,0.1.8,MIT
 fastlane-plugin-alioss,0.1.9,MIT
+fastlane-plugin-alioss,0.2.0,MIT
 fastlane-plugin-git_switch_branch,0.1.0,MIT
 fastlane-plugin-git_switch_branch,0.2.0,MIT
 fastlane-plugin-git_switch_branch,0.2.1,MIT
@@ -2588,6 +2589,7 @@ rus_bank,0.9.2,MIT
 rus_bank,0.9.3,MIT
 rus_bank,0.9.4,MIT
 rux,0.1.0,MIT
+rux,0.1.1,MIT
 s3encrypt,0.1.10,MIT
 s3encrypt,0.1.8,MIT
 s3encrypt,0.1.9,MIT

@@ -1693,6 +1693,7 @@ leapfrog-customer_scoring,0.0.2,MIT
 libzmq,0.0.1,""
 linked_list_iterator_impl,0.1.0,GPL-3.0
 linked_list_iterator_impl,1.0.0,GPL-3.0
+linked_list_iterator_impl,1.0.1,GPL-3.0
 lion,0.0.1,""
 lion,0.0.3,""
 lion,0.0.5,""
@@ -2861,6 +2862,7 @@ unwrappr,0.3.2,MIT
 unwrappr,0.3.3,MIT
 unwrappr,0.3.4,MIT
 unwrappr,0.3.5,MIT
+unwrappr,0.4.0,MIT
 uri_template,0.0.2,""
 uri_template,0.1.2,""
 uri_template,0.5.2,""
