@@ -2423,6 +2423,7 @@ rouge,3.14.0,MIT-|-BSD-2-Clause
 rouge,3.15.0,MIT-|-BSD-2-Clause
 rouge,3.16.0,MIT-|-BSD-2-Clause
 rouge,3.17.0,MIT-|-BSD-2-Clause
+rouge,3.18.0,MIT-|-BSD-2-Clause
 rouge,3.2.0,MIT-|-BSD-2-Clause
 rouge,3.2.1,MIT-|-BSD-2-Clause
 rouge,3.3.0,MIT-|-BSD-2-Clause
@@ -3283,6 +3284,7 @@ sorbet-static-universal-darwin-14,0.5.5505,Apache-2.0
 sorbet-static-universal-darwin-14,0.5.5507,Apache-2.0
 sorbet-static-universal-darwin-14,0.5.5510,Apache-2.0
 sorbet-static-universal-darwin-14,0.5.5516,Apache-2.0
+sorbet-static-universal-darwin-14,0.5.5519,Apache-2.0
 spid-es,0.0.1,MIT
 spid-es,0.0.10,MIT
 spid-es,0.0.11,MIT

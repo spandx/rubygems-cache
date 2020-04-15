@@ -313,6 +313,7 @@ bootstrap3-rails,3.0.0,MIT
 bootstrap3-rails,3.0.1,MIT
 bootstrap3-rails,3.1.1,MIT
 bootstrap3-rails,3.2.0,MIT
+brocade_io,0.0.1,MIT
 browserid-provider,0.5.1,""
 browserid-provider,0.5.7,""
 bullit,0.1.0,MIT
@@ -2961,6 +2962,7 @@ vinted-admin_client,0.0.7,""
 vinted-admin_client,0.0.8,""
 vinted-admin_client,0.0.9,""
 vinted-admin_client,0.1.0,""
+vinted-admin_client,0.2.0,""
 visibility_predicates,0.0.1,""
 visibility_predicates,0.0.2,MIT
 visibility_predicates,0.1.0,MIT
@@ -3081,6 +3083,7 @@ zdzolton-cambric,0.7.0,""
 zdzolton-cambric,0.7.1,""
 zdzolton-cambric,0.7.2,""
 zotica,1.0.0,MIT
+zotica,1.0.1,MIT
 zype,0.10.0,MIT
 zype,0.11.0,MIT
 zype,0.12.0,MIT

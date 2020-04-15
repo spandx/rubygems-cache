@@ -367,6 +367,7 @@ collectible,0.23.3,MIT
 collectible,0.23.4,MIT
 collectible,0.23.5,MIT
 collectible,0.23.6,MIT
+collectible,0.23.7,MIT
 combinatorial_puzzle_solver,0.1.0,""
 combinatorial_puzzle_solver,0.1.1,""
 combinatorial_puzzle_solver,0.1.2,""
@@ -537,6 +538,7 @@ devise-doorkeeper,1.1.2,MIT
 diatone,0.0.0,GPL-3.0
 diatone,0.0.1,GPL-3.0
 diatone,0.0.3,GPL-3.0
+diatone,0.0.4,GPL-3.0
 digistore24,0.1.0,MIT
 digistore24,0.1.1,MIT
 dipsclient,0.1.0,MIT
@@ -2058,6 +2060,7 @@ octohatrack,0.0.1,MIT
 omniauth-timely,0.1.0,""
 onesignal-ruby,0.2.0,MIT
 onesignal-ruby,0.3.0,MIT
+onlyoffice_mysql_helper,0.1.0,AGPL-3.0
 openstax_exchange,0.0.0,""
 openstax_exchange,0.0.1,MIT
 openstax_exchange,0.0.2,MIT

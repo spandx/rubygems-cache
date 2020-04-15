@@ -2970,6 +2970,7 @@ yml_reader,0.5,""
 yml_reader,0.6,""
 yml_reader,0.7,""
 zenml-book,1.0.0,MIT
+zenml-book,1.0.1,MIT
 zipMoney,1.0.1,MIT
 zipMoney,1.0.4,MIT
 zipMoney,1.0.6,MIT

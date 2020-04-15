@@ -2454,6 +2454,8 @@ scale.rb,0.1.0,MIT
 scale.rb,0.2.0,MIT
 scale.rb,0.2.1,MIT
 scale.rb,0.2.2,MIT
+scale.rb,0.2.3,MIT
+scale.rb,0.2.4,MIT
 scoped_attributes,0.1.0,""
 scoped_attributes,0.1.1,""
 scoped_attributes,0.1.2,""
@@ -3114,6 +3116,7 @@ yabeda-prometheus,0.1.4,MIT
 yabeda-prometheus,0.1.5,MIT
 yabeda-prometheus,0.2.0,MIT
 yabeda-prometheus,0.5.0,MIT
+yabeda-prometheus,0.6.0,MIT
 yamlir,0.1.0,MIT
 yard-tomdoc,0.6.0,MIT-|-MIT
 yard-tomdoc,0.7.0,MIT-|-MIT

@@ -1961,6 +1961,7 @@ omniauth-figma,0.0.1,MIT
 omniauth-figma,1.0.0,MIT
 omniauth-munic,1.0,MIT
 omniauth-munic,1.1,MIT
+omniauth-munic,1.2.0,MIT
 omniauth-pam,1.1.0,""
 omniauth-pam,1.2.0,""
 omniauth-pam,1.2.1,MIT
@@ -3046,6 +3047,8 @@ wazuh-ruby-client,0.2.1,""
 wazuh-ruby-client,0.2.2,""
 wazuh-ruby-client,0.2.3,""
 wazuh-ruby-client,0.2.4,""
+wazuh-ruby-client,0.2.5,""
+wazuh-ruby-client,0.2.6,""
 weapp-cli,0.1.0,MIT
 web-potato,0.0.6,Copyright 2016 Ruslan Ledesma Garza
 web_app_builder,1.0.4,""

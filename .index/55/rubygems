@@ -1786,6 +1786,7 @@ link_scout,0.0.2,MIT
 linked_list_int,0.1.0,MIT
 linked_list_int,0.1.1,MIT
 linked_list_int,1.0.0,MIT
+linked_list_int,1.0.1,GPL-3.0
 listen_monkey,0.0.1,MIT
 lita-circleci-commander,0.1.0,MIT
 lita-circleci-commander,0.1.1,MIT
@@ -3066,6 +3067,7 @@ spicery,0.23.3,MIT
 spicery,0.23.4,MIT
 spicery,0.23.5,MIT
 spicery,0.23.6,MIT
+spicery,0.23.7,MIT
 spook_and_pay,1.0.0,""
 spook_and_pay,1.1.1,""
 spook_and_pay,1.1.2,MIT
