@@ -2480,6 +2480,7 @@ sorbet-static-universal-darwin-18,0.5.5505,Apache-2.0
 sorbet-static-universal-darwin-18,0.5.5507,Apache-2.0
 sorbet-static-universal-darwin-18,0.5.5510,Apache-2.0
 sorbet-static-universal-darwin-18,0.5.5516,Apache-2.0
+sorbet-static-universal-darwin-18,0.5.5519,Apache-2.0
 soybean,2.2.1,""
 soybean,2.4.0,""
 soybean,2.5.0,""
@@ -2930,6 +2931,7 @@ webdrivers,4.1.1,MIT
 webdrivers,4.1.2,MIT
 webdrivers,4.1.3,MIT
 webdrivers,4.2.0,MIT
+webdrivers,4.3.0,MIT
 wector,0.0.2,MIT
 wector,0.0.3,MIT
 wector,0.0.4,MIT

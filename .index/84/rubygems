@@ -1292,6 +1292,7 @@ manageiq-cross_repo,1.0.0,MIT
 manageiq-cross_repo,1.0.1,MIT
 manageiq-cross_repo,1.0.2,MIT
 manageiq-cross_repo,1.0.3,MIT
+manageiq-cross_repo,1.0.4,MIT
 map-icons-rails,0.0.1,MIT
 map-icons-rails,1.0.0,MIT
 map-icons-rails,1.0.1,MIT
@@ -2697,6 +2698,7 @@ sorbet-static-java,0.5.5505,Apache-2.0
 sorbet-static-java,0.5.5507,Apache-2.0
 sorbet-static-java,0.5.5510,Apache-2.0
 sorbet-static-java,0.5.5516,Apache-2.0
+sorbet-static-java,0.5.5519,Apache-2.0
 spade,0.0.1,""
 spade,0.0.2,""
 spade,0.1.1.1,""

@@ -3206,6 +3206,7 @@ set_things_yml_engine_test,0.1.3,MIT
 sf-username-password-authentication-and-rest-api,0.0.1,""
 sf-username-password-authentication-and-rest-api,0.0.2,""
 sfctl,0.0.1,MIT
+sfctl,0.0.2,MIT
 sfdc_proxy,0.0.1,MIT
 sfdc_proxy,0.0.2,MIT
 sfdc_proxy,0.0.3,MIT

@@ -3666,6 +3666,7 @@ record_store,5.7.2,MIT
 record_store,5.7.3,MIT
 record_store,5.7.4,MIT
 record_store,5.8.0,MIT
+record_store,5.9.0,MIT
 redis-store-testing,0.0.1,MIT
 redis-store-testing,0.0.2,MIT
 redis-to-collection,0.1.0,MIT

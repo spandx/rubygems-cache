@@ -607,6 +607,7 @@ cohesion,1.0.3,""
 coins_paid_api,1.0.1,Nonstandard
 coins_paid_api,1.0.2,MIT
 coins_paid_api,1.0.3,MIT
+coins_paid_api,1.0.4,MIT
 complex_config,0.0.0,Apache-2.0
 complex_config,0.1.0,Apache-2.0
 complex_config,0.1.1,Apache-2.0

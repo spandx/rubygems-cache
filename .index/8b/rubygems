@@ -1994,6 +1994,7 @@ olek-libcraigscrape,1.1.0.6,""
 omniauth-citadele,0.0.1,MIT
 omniauth-citadele,0.1.0,MIT
 omniauth-docusign,0.1.0,MIT
+omniauth-docusign,0.1.1,MIT
 omniauth-idcard,0.0.2,""
 omniauth-idcard,0.2.0,""
 omniauth-idcard,0.2.1,""

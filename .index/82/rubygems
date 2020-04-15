@@ -282,6 +282,7 @@ beaker-pe,2.11.0,Apache2
 beaker-pe,2.11.1,Apache2
 beaker-pe,2.11.2,Apache2
 beaker-pe,2.11.3,Apache2
+beaker-pe,2.11.4,Apache2
 beer_recipe,0.2.0,MIT
 beer_recipe,0.3.0,MIT
 beer_recipe,0.4.10,MIT
@@ -410,6 +411,9 @@ capybara-js_finders,0.2.2,""
 capybara-js_finders,0.4.0,""
 capybara-js_finders,0.4.2,""
 capybara_active_admin,0.1.0,MIT
+capybara_active_admin,0.2.0,MIT
+capybara_active_admin,0.2.1,MIT
+capybara_active_admin,0.3.0,MIT
 changelog_grep,0.1.0,Apache-2.0
 checkforiceland,0.0.2,""
 checkin-self,0.0.1,MIT
@@ -525,6 +529,7 @@ datescope,0.0.6,""
 deagol,0.0.1,""
 devise-jwt-cookie,0.1.0,MIT
 devise-jwt-cookie,0.2.0,MIT
+devise-jwt-cookie,0.3.0,MIT
 dhlgm-track,1.0.0,""
 dijkstraruby,0.0.2,MIT
 disquo,0.3.0,Apache-2.0

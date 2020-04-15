@@ -314,6 +314,8 @@ bookbinder,0.4.0,""
 bookbinder,0.4.1,""
 boombox,0.0.2,Unlicense
 box_generator,0.1.0,""
+bridgetown-paginate,0.8.0,MIT
+bridgetown-paginate,0.8.1,MIT
 btakita-screw_unit,0.1.0,""
 btakita-screw_unit,0.3.0,""
 bulldozer,1.6.0,MIT
@@ -3086,6 +3088,7 @@ sorbet-runtime,0.5.5505,Apache-2.0
 sorbet-runtime,0.5.5507,Apache-2.0
 sorbet-runtime,0.5.5510,Apache-2.0
 sorbet-runtime,0.5.5516,Apache-2.0
+sorbet-runtime,0.5.5519,Apache-2.0
 sorting_table_for,0.2.2,""
 sorting_table_for,0.3.0,""
 spira-timestamps,0.0.1,MIT

@@ -428,6 +428,8 @@ chelsea,0.0.4,MIT
 chelsea,0.0.5,MIT
 chelsea,0.0.6,MIT
 chelsea,0.0.7,MIT
+chelsea,0.0.8,MIT
+chelsea,0.0.9,MIT
 cicloid-twitter,0.6.1,""
 cicloid-twitter,0.6.2,""
 circleci-build-report,0.1.0,MIT
@@ -2484,6 +2486,7 @@ vagrant-winrmcli,1.0.5,""
 vagrant-winrmcli,1.0.6,""
 vagrant-winrmcli,1.0.7,""
 vagrant-winrmcli,1.1.0,""
+various-additions,0.3.1,GPL-2.0
 ventura_view_tool,0.1.0,""
 version-check,0.1.0,Public Domain
 vid2gif,0.0.1,MIT
