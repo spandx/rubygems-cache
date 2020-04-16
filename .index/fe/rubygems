@@ -191,6 +191,7 @@ arvados-login-sync,1.4.0.20190402172810,"GNU Affero General Public License, vers
 arvados-login-sync,1.4.1.20190402172810,"GNU Affero General Public License, version 3.0"
 arvados-login-sync,1.4.1.20191003150226,"GNU Affero General Public License, version 3.0"
 arvados-login-sync,2.0.1,AGPL-3.0
+arvados-login-sync,2.0.2,AGPL-3.0
 astro-ruby-sasl,0.0.2,""
 astro-ruby-sasl,0.0.3,""
 athens,0.1.0,WTFPL
@@ -925,6 +926,7 @@ dynamic_scaffold,1.4.0,MIT
 dynamic_scaffold,1.4.1,MIT
 dynamic_scaffold,1.4.2,MIT
 dynamic_scaffold,1.4.3,MIT
+dynamic_scaffold,1.5.0,MIT
 easy-rest-client,0.1.1,MIT
 easy-settings,1.0.0,MIT
 easy-settings,1.0.1,MIT

@@ -112,6 +112,8 @@ aphorism,0.1.5,MIT
 aphorism,0.1.6,MIT
 aphorism,0.1.7,MIT
 aphorism,1.1.0,MIT
+aphorism,1.2.0,MIT
+aphorism,1.3.0,MIT
 apicasso,0.1.0,MIT
 apicasso,0.1.1,MIT
 apicasso,0.1.2,MIT
@@ -1147,6 +1149,7 @@ gollum-rugged_adapter,0.99.1,MIT
 gollum-rugged_adapter,0.99.2,MIT
 gollum-rugged_adapter,0.99.3,MIT
 gollum-rugged_adapter,0.99.4,MIT
+gollum-rugged_adapter,0.99.6,MIT
 google-api,0.1.0,""
 google-api,0.2.0,""
 google-api,0.3.0,""
@@ -1180,6 +1183,8 @@ hadir,0.4.0,""
 haikulearning_mongrel_upload_progress,0.2.4,""
 hashi-ruby,1.0.0,""
 hashi-ruby,1.0.1,""
+hashi-ruby,1.0.2,""
+hashi-ruby,1.0.3,""
 hello_world_bundler,0.0.6,""
 hello_world_bundler,0.0.9,""
 hello_world_ramziddin,0.0.0,MIT

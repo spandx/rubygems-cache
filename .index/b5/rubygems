@@ -96,6 +96,7 @@ adamsanderson-lexery,0.1.0,""
 akitaonrails-resource_controller,0.5.2,""
 akitaonrails-resource_controller,0.5.3,""
 alda-rb,0.1.0,MIT
+alda-rb,0.1.2,MIT
 alegra,0.1.0,MIT
 alegra,0.1.1,MIT
 alegra,0.1.2,MIT
@@ -1429,6 +1430,8 @@ hubspot-api-client,1.0.1,Unlicense
 hubspot-api-client,2.0.0,Unlicense
 hubspot-api-client,2.1.0,Unlicense
 hubspot-api-client,2.2.0,Unlicense
+hubspot-api-client,2.3.1,Unlicense
+hubspot-api-client,2.3.2,Unlicense
 i18n-missing,0.1.0,MIT
 i18n-missing,0.1.1,MIT
 i18n-object,0.1.0,MIT

@@ -928,6 +928,7 @@ filebound_client,0.3.4,MIT
 filebound_client,0.3.5,MIT
 filebound_client,0.3.6,MIT
 filebound_client,0.3.7,MIT
+filebound_client,0.3.8,MIT
 filemaker,0.0.1,MIT
 filemaker,0.0.10,MIT
 filemaker,0.0.11,MIT
@@ -1307,6 +1308,7 @@ glib-web,0.4.52,""
 glib-web,0.4.54,""
 glib-web,0.4.56,""
 glib-web,0.4.57,""
+glib-web,0.4.58,""
 glib-web,0.4.59,""
 glib-web,0.4.6,""
 glib-web,0.4.7,""
@@ -3285,6 +3287,7 @@ sorbet-static-universal-darwin-14,0.5.5507,Apache-2.0
 sorbet-static-universal-darwin-14,0.5.5510,Apache-2.0
 sorbet-static-universal-darwin-14,0.5.5516,Apache-2.0
 sorbet-static-universal-darwin-14,0.5.5519,Apache-2.0
+sorbet-static-universal-darwin-14,0.5.5525,Apache-2.0
 spid-es,0.0.1,MIT
 spid-es,0.0.10,MIT
 spid-es,0.0.11,MIT
