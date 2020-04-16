@@ -1616,6 +1616,7 @@ jekyll-copyr,1.0.1,MIT
 jekyll-copyr,1.0.2,MIT
 jekyll-datapage-generator,1.0.0,MIT
 jekyll-datapage-generator,1.1.0,MIT
+jekyll-datapage-generator,1.2.0,MIT
 jekyll-highlight,1.0.1,MIT
 jekyll-highlight,1.0.2,MIT
 jekyll-highlight,1.0.3,MIT
@@ -3102,6 +3103,7 @@ twilio-ruby,5.31.5,MIT
 twilio-ruby,5.31.6,MIT
 twilio-ruby,5.32.0,MIT
 twilio-ruby,5.33.0,MIT
+twilio-ruby,5.33.1,MIT
 twilio-ruby,5.4.0,MIT
 twilio-ruby,5.4.1,MIT
 twilio-ruby,5.4.2,MIT

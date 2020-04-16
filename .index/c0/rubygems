@@ -973,6 +973,9 @@ focus_common,0.0.2,LGPL-3.0
 font-open-sans-rails,0.0.1,""
 foreman_leapp,0.0.1,GPL-3.0
 foreman_leapp,0.0.2,GPL-3.0
+foreman_leapp,0.0.3,GPL-3.0
+foreman_leapp,0.0.4,GPL-3.0
+foreman_leapp,0.0.5,GPL-3.0
 foreman_specifictemplate,0.0.3,GPL-3
 foreman_specifictemplate,0.0.6,GPL-3
 foreman_specifictemplate,0.0.7,GPL-3

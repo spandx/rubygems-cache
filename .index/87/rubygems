@@ -537,6 +537,8 @@ cul_hydra,1.8.0,""
 cul_hydra,1.9.0,""
 cul_hydra,1.9.1,""
 cul_hydra,1.9.2,""
+cul_hydra,1.9.3,""
+cul_hydra,1.9.4,""
 custom_fields,2.1.0,""
 custom_fields,2.10.0,MIT
 custom_fields,2.2.0,""
@@ -2984,6 +2986,7 @@ telegram-bot,0.14.0,MIT
 telegram-bot,0.14.1,MIT
 telegram-bot,0.14.2,MIT
 telegram-bot,0.14.3,MIT
+telegram-bot,0.14.4,MIT
 telegram-bot,0.3.0,MIT
 telegram-bot,0.4.0,MIT
 telegram-bot,0.4.1,MIT

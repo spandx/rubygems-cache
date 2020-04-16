@@ -462,6 +462,7 @@ clubhouse_ruby,0.3.0,MIT
 clubhouse_ruby,0.4.0,MIT
 clubhouse_ruby,0.5.0,MIT
 clubhouse_ruby,0.6.0,MIT
+cocoapods-bindyf,0.1.29.3,MIT
 cocoapods-foundation-headers,1.0.1,MIT
 cocoapods-repo-sq,0.0.1.6,Apache-2.0
 cocoapods-repo-sq,0.0.1.9,Apache-2.0
@@ -1058,6 +1059,7 @@ graphql-extras,0.2.2,""
 graphql-extras,0.2.3,""
 graphql-extras,0.2.4,""
 graphql-fragment_cache,0.1.0,MIT
+graphql-fragment_cache,0.1.1,MIT
 graphvizml,0.1.0,MIT
 graphvizml,0.1.1,MIT
 graphvizml,0.1.2,MIT

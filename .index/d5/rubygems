@@ -275,6 +275,7 @@ beautiful_url,1.4.36,GPL-2.0
 beautiful_url,1.4.37,GPL-2.0
 beautiful_url,1.4.38,GPL-2.0
 beautiful_url,1.4.39,GPL-2.0
+beautiful_url,1.4.40,GPL-2.0
 benchm,1.0.1,MIT
 benchmeth,0.0.1,""
 benchmeth,0.1.1,MIT
@@ -2379,6 +2380,7 @@ quiz,0.2.0,MIT
 quiz,0.2.1,MIT
 rabbit-slide-znz-lilo-20160814,1.0.0,""
 rails-action-authorization,1.0.0,MIT
+rails-action-authorization,1.1.0,MIT
 rails_info_diagrams,0.0.1,MIT
 rammer,1.1.0,MIT
 rammer,1.1.2,MIT

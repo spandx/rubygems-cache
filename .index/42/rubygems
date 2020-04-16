@@ -1776,6 +1776,7 @@ pulpcore_client,3.1.0,GPL-2.0+
 pulpcore_client,3.1.1,GPL-2.0+
 pulpcore_client,3.2.0,GPL-2.0+
 pulpcore_client,3.2.1,GPL-2.0+
+pulpcore_client,3.3.0,GPL-2.0+
 purple_hash,1.0.1,""
 puxun,0.0.2,MIT
 puxun,0.0.3,MIT

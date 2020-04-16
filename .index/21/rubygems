@@ -547,8 +547,10 @@ docusign_esign,1.0.2,MIT
 docusign_esign,2.0.0,MIT
 docusign_esign,2.1.0,MIT
 docusign_esign,2.3.0,MIT
+docusign_esign,2.3.1,MIT
 docusign_esign,3.0.0,MIT
 docusign_esign,3.2.0,MIT
+docusign_esign,3.2.1,MIT
 downsampler,0.1.0,MIT
 downsampler,0.2.0,MIT
 dpl,0.1.0,MIT
@@ -967,6 +969,7 @@ gem_menu,0.2.1,MIT
 gem_menu,0.2.3,MIT
 ghaki-account,2011.11.29.1,""
 giannichiappetta-vlad,1.2.0.2,""
+git-multirepo,78.0,MIT
 github-markup-preview,0.1.1,BSD 3-clauses
 github-markup-preview,0.1.2,BSD 3-clauses
 githuh,0.1.0,MIT

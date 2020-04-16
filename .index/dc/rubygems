@@ -413,6 +413,7 @@ cms_scanner,0.0.6,GPL-3.0
 cms_scanner,0.0.7,GPL-3.0
 cms_scanner,0.0.8,GPL-3.0
 cms_scanner,0.0.9,MIT
+cms_scanner,0.10.0,MIT
 cms_scanner,0.5.0,MIT
 cms_scanner,0.5.1,MIT
 cms_scanner,0.5.2,MIT
@@ -949,6 +950,7 @@ ioext_c-x86-mingw32,0.1.0,""
 is_numeric,1.0.0,MIT
 ix-cli,0.0.1,""
 ix-cli,0.0.2,""
+ix-cli,0.0.3,""
 jacob_view_tool,0.1.0,MIT
 jaw6-monkeyspecdoc,0.9.4,""
 jaxx,0.0.11,""
@@ -2098,6 +2100,7 @@ shopify_api,9.0.1,MIT
 shopify_api,9.0.2,MIT
 shopify_api,9.0.3,MIT
 shopify_api,9.0.4,MIT
+shopify_api,9.1.0,MIT
 sidekiq-retry-summary,0.0.2,MIT
 similatron,0.1.0,MIT
 similatron,0.1.1,MIT
