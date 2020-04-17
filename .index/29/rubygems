@@ -2789,6 +2789,7 @@ simatic,0.0.1,MIT
 simditor-rails,1.0.1,""
 simditor-rails,1.0.5,""
 simple_posts,0.0.1,MIT
+simplecov_badger,0.0.1,MIT
 simplifier,0.0.0,""
 simplprinter,0.1.0,MIT
 simplprinter,0.1.1,MIT
@@ -2964,6 +2965,7 @@ softcover,1.5.8,MIT
 softcover,1.5.9,MIT
 softcover,1.6.0,MIT
 softcover,1.6.1,MIT
+softcover,1.6.2,MIT
 sometimes,0.0.1,""
 sometimes,0.0.2,""
 sometimes,0.0.3,""

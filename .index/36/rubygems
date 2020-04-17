@@ -1230,6 +1230,7 @@ govuk_publishing_components,21.4.1,MIT
 govuk_publishing_components,21.40.0,MIT
 govuk_publishing_components,21.41.0,MIT
 govuk_publishing_components,21.41.1,MIT
+govuk_publishing_components,21.41.2,MIT
 govuk_publishing_components,21.5.0,MIT
 govuk_publishing_components,21.6.0,MIT
 govuk_publishing_components,21.6.1,MIT
@@ -1387,6 +1388,7 @@ heroku_deployer,0.7.19,MIT
 heroku_deployer,0.7.2,MIT
 heroku_deployer,0.7.20,MIT
 heroku_deployer,0.7.21,MIT
+heroku_deployer,0.7.22,MIT
 heroku_deployer,0.7.3,MIT
 heroku_deployer,0.7.4,MIT
 heroku_deployer,0.7.5,MIT

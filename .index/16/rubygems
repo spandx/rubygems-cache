@@ -2976,6 +2976,7 @@ vince_tl_voteable,0.0.0,""
 vince_tl_voteable,0.0.1,""
 virginity,0.3.31,MIT
 virginity,0.3.32,MIT
+visibility_checker,1.0.0,MIT
 volatiledb,0.0.3,""
 vt_api,0.1.2,""
 vt_api,0.1.2.1,Apache-2.0

@@ -1574,6 +1574,7 @@ opener-opinion-detector,1.2.0,""
 opener-opinion-detector,2.0.0,Apache-2.0
 opener-opinion-detector,2.0.1,Apache-2.0
 opentelemetry-adapters-net_http,0.3.0,Apache-2.0
+opentelemetry-adapters-net_http,0.4.0,Apache-2.0
 opentok,0.1.0,""
 opentok,0.1.1,""
 opentok,0.1.2,""

@@ -2910,6 +2910,7 @@ oas_contrib,0.2.4,MIT
 oas_contrib,0.2.5,MIT
 oas_contrib,0.2.6,MIT
 oas_contrib,0.2.7,MIT
+oci_config_reader,0.0.4,MIT
 ocp,0.0.10,GPL
 ocp,0.0.11,GPL
 ocp,0.0.12,GPL
@@ -3006,6 +3007,8 @@ ory-hydra-client,1.3.1,Apache-2.0
 ory-hydra-client,1.3.2,Apache-2.0
 ory-hydra-client,1.4.1,Apache-2.0
 ory-hydra-client,1.4.2,Apache-2.0
+ory-hydra-client,1.4.3,Apache-2.0
+ory-hydra-client,1.4.5,Apache-2.0
 padrino-cache,0.10.0,""
 padrino-cache,0.10.1,""
 padrino-cache,0.11.0,""

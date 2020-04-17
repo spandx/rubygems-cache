@@ -85,6 +85,7 @@ andre-geokit,1.4.0,""
 andre-geokit,1.4.1,""
 andre-geokit,1.5.0,""
 ank3,0.1.0,MIT
+ank3,0.2.0,MIT
 aping,0.0.1,""
 apktool,0.0.1,""
 apktool,0.0.2,""
@@ -1175,6 +1176,7 @@ jipcode,1.5.6,MIT
 jipcode,1.5.7,MIT
 jipcode,1.5.8,MIT
 jipcode,1.5.9,MIT
+jipcode,2.0.0,MIT
 jmdict,1.9.0,""
 jmdict,1.9.1,MIT
 jmdict,1.9.2,MIT
@@ -1409,6 +1411,7 @@ match_point,0.0.7,""
 match_point,0.0.8,""
 match_point,0.0.9,""
 mathml2asciimath,0.0.1,MIT
+mathml2asciimath,0.0.10,BSD-2-Clause
 mathml2asciimath,0.0.2,MIT
 mathml2asciimath,0.0.3,MIT
 mathml2asciimath,0.0.4,MIT

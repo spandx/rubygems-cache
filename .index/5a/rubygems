@@ -225,6 +225,7 @@ bars,0.0.5,""
 basic_temperature,0.1.0,MIT
 basic_temperature,0.2.1,MIT
 basic_temperature,0.2.2,MIT
+basic_temperature,1.0.0,MIT
 bcash,0.5.0,MIT
 bcash,1.0.0,MIT
 bcash,2.0.0,MIT
@@ -3115,6 +3116,7 @@ working-rails,0.1.0,""
 working-rails,0.2.0,""
 xpring,0.1.0,MIT
 xpring,0.1.1,MIT
+xpring,0.1.2,MIT
 yamled,0.0.1,MIT
 yampla,0.0.1,""
 yampla,0.0.2,""

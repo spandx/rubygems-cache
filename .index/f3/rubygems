@@ -1817,6 +1817,7 @@ openam_errbit,0.0.3,MIT
 openblockchain-ruby,0.0.1,MIT
 openblockchain-ruby,0.0.2,MIT
 opentelemetry-adapters-ethon,0.3.0,Apache-2.0
+opentelemetry-adapters-ethon,0.4.0,Apache-2.0
 optimizer,0.0.1,MIT
 optipng-r,0.3.0,MIT
 optipng-r,0.3.1,MIT

@@ -216,6 +216,7 @@ aws-manager,0.0.0,MIT
 aws-sdk-iotevents,1.0.0,Apache-2.0
 aws-sdk-iotevents,1.1.0,Apache-2.0
 aws-sdk-iotevents,1.10.0,Apache-2.0
+aws-sdk-iotevents,1.11.0,Apache-2.0
 aws-sdk-iotevents,1.2.0,Apache-2.0
 aws-sdk-iotevents,1.3.0,Apache-2.0
 aws-sdk-iotevents,1.4.0,Apache-2.0

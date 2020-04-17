@@ -422,6 +422,7 @@ aws-partitions,1.293.0,Apache-2.0
 aws-partitions,1.294.0,Apache-2.0
 aws-partitions,1.295.0,Apache-2.0
 aws-partitions,1.296.0,Apache-2.0
+aws-partitions,1.297.0,Apache-2.0
 aws-partitions,1.3.0,Apache-2.0
 aws-partitions,1.30.0,Apache-2.0
 aws-partitions,1.31.0,Apache-2.0
@@ -3717,6 +3718,7 @@ white_hare,0.2.1,MIT
 white_hare,0.2.2,MIT
 wikio,0.0.1,MIT
 wildom,0.0.3,CC-BY-SA-4.0
+windcave_rest,0.1.0,""
 windirs,0.0.0,MIT
 windirs,0.0.1,MIT
 windirs,0.0.2,MIT
