@@ -2175,6 +2175,7 @@ openlogic-saml-sp,3.1.3,""
 openlogic-saml-sp,4.1.0,""
 opentelemetry-exporters-jaeger,0.2.0,Apache-2.0
 opentelemetry-exporters-jaeger,0.3.0,Apache-2.0
+opentelemetry-exporters-jaeger,0.4.0,Apache-2.0
 ouch,1.0.0,MIT
 ouch,1.0.1,MIT
 ouch,1.0.2,MIT

@@ -2382,6 +2382,7 @@ polytexnic,1.5.12,MIT
 polytexnic,1.5.13,MIT
 polytexnic,1.5.14,MIT
 polytexnic,1.5.15,MIT
+polytexnic,1.5.16,MIT
 polytexnic,1.5.2,MIT
 polytexnic,1.5.3,MIT
 polytexnic,1.5.4,MIT
@@ -2621,6 +2622,8 @@ rubysketch,0.2.2,""
 rubysketch,0.2.3,""
 rubysketch,0.2.4,""
 rubysketch,0.2.5,""
+rubysketch,0.2.6,""
+rubysketch,0.2.7,""
 rubysl-optparse,1.0.0,BSD
 rubysl-optparse,1.0.1,BSD
 rubysl-optparse,2.0.1,BSD

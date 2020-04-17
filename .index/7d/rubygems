@@ -2547,6 +2547,7 @@ swagger_aem,2.4.0,Apache-2.0
 swagger_aem,2.5.0,Apache-2.0
 swagger_aem,3.0.0,Apache-2.0
 swagger_aem,3.1.0,Apache-2.0
+swagger_aem,3.2.0,Apache-2.0
 swerling-cosell,0.0.1,""
 swerling-cosell,0.0.2,""
 swift_ingest,0.4.1,MIT

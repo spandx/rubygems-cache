@@ -433,6 +433,7 @@ bridgetown,0.7.1,MIT
 bridgetown,0.7.2,MIT
 bridgetown,0.8.0,MIT
 bridgetown,0.8.1,MIT
+bridgetown,0.9.0,MIT
 bring,0.0.1,MIT
 bring,0.0.2,MIT
 bugsnag_data,1.0.0,Apache-2.0
@@ -2082,6 +2083,7 @@ openstudio-workflow,1.3.3,LGPL
 openstudio-workflow,1.3.4,BSD
 openstudio-workflow,1.3.5,BSD
 openstudio-workflow,2.0.0,BSD
+openstudio-workflow,2.0.1,BSD
 opsworks_ship,0.1.0,MIT
 opsworks_ship,0.2.0,MIT
 opsworks_ship,0.3.0,MIT

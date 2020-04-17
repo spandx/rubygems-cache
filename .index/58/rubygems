@@ -150,6 +150,7 @@ activecube-graphql,0.1.5,MIT
 activecube-graphql,0.1.6,MIT
 activecube-graphql,0.1.7,MIT
 activecube-graphql,0.1.8,MIT
+activecube-graphql,0.1.9,MIT
 activerecord-sqlanywhere-jdbc-in4systems-adapter-java,1.0.12,Apache-2.0
 activerecord-sqlanywhere-jdbc-in4systems-adapter-java,1.0.13,Apache-2.0
 activesupport_testcase_extras,1.0.2,MIT
@@ -2870,6 +2871,8 @@ stimulus_reflex,2.2.2,MIT
 stimulus_reflex,2.2.3,MIT
 stimulus_reflex,3.0.0,MIT
 stimulus_reflex,3.1.0,MIT
+stimulus_reflex,3.1.1,MIT
+stimulus_reflex,3.1.2,MIT
 stockpile,1.0,MIT
 stockpile,1.1,MIT
 stockpile,2.0,MIT

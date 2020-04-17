@@ -771,6 +771,7 @@ field_test,0.2.3,""
 field_test,0.2.4,""
 field_test,0.3.0,MIT
 field_test,0.3.1,MIT
+field_test,0.3.2,MIT
 fir-cli-x,1.7.2.1,MIT
 fixie,0.0.1,""
 fixie,0.1.0,""
@@ -2393,6 +2394,7 @@ prima-twig,1.0.5,MIT
 prima-twig,1.0.6,MIT
 prima-twig,1.0.7,MIT
 prima-twig,1.0.8,MIT
+prima-twig,1.0.9,MIT
 printr,0.1.2,""
 printr,0.2.1,""
 printr,0.3.0,""

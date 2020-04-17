@@ -58,6 +58,7 @@ activecube,0.1.11,MIT
 activecube,0.1.12,MIT
 activecube,0.1.13,MIT
 activecube,0.1.14,MIT
+activecube,0.1.15,MIT
 activecube,0.1.2,MIT
 activecube,0.1.3,MIT
 activecube,0.1.4,MIT
@@ -1678,6 +1679,12 @@ imperituroard,0.2.2,MIT
 imperituroard,0.2.3,MIT
 imperituroard,0.2.4,MIT
 imperituroard,0.2.5,MIT
+imperituroard,0.2.7,MIT
+imperituroard,0.2.8,MIT
+imperituroard,0.2.9,MIT
+imperituroard,0.3.0,MIT
+imperituroard,0.3.1,MIT
+imperituroard,0.3.2,MIT
 infopen-docker,0.2.1,MIT
 injectable_dependencies,0.0.1,MIT
 injectable_dependencies,1.0.0,MIT

@@ -37,6 +37,7 @@ RbST,0.6.1,MIT
 RbST,0.6.2,MIT
 RbST,0.6.3,MIT
 RbST,0.6.4,MIT
+RbST,0.6.5,MIT
 SNMPDevice,0.1.0,MIT
 SNMPDevice,0.1.1,MIT
 ShadowBelmolve-formtastic,0.1.6,""
@@ -2734,6 +2735,7 @@ wechat-shake_around,0.8,MIT
 wechat-shake_around,0.9,MIT
 wechat-shake_around,0.9.1,MIT
 wechat-shake_around,0.9.2,MIT
+wechat-shake_around,1.0,MIT
 winton-ubistrano,1.2.2,""
 winton-ubistrano,1.2.3,""
 winton-ubistrano,1.2.4,""

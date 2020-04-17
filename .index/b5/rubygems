@@ -1297,6 +1297,7 @@ git_tracker,2.0.0,""
 gitcafe-maid,0.1,MIT
 glossier,0.1.1,MIT
 gnar-style,0.10.0,MIT
+gnar-style,0.11.0,MIT
 gnar-style,0.2.0,MIT
 gnar-style,0.3.0,MIT
 gnar-style,0.4.0,MIT
@@ -2104,6 +2105,7 @@ plaid,8.5.0,MIT
 plaid,8.6.0,MIT
 plaid,8.7.0,MIT
 plaid,8.8.0,MIT
+plaid,8.9.0,MIT
 planning_client,0.0.1,""
 planning_client,0.0.2,""
 planning_client,0.0.3,""
@@ -2321,6 +2323,7 @@ reflexion,0.1.11,""
 reflexion,0.1.12,""
 reflexion,0.1.13,""
 reflexion,0.1.14,""
+reflexion,0.1.15,""
 reflexion,0.1.4,""
 reflexion,0.1.5,""
 reflexion,0.1.6,""
@@ -3296,6 +3299,7 @@ tournament-system,2.0.0,MIT
 tournament-system,2.1.0,MIT
 tpitale-email_spec,0.2.1,""
 tpitale-email_spec,0.2.2,""
+trace_wrapper,0.1.0,Hippocratic-2.1
 transit_rails,0.9.11,MIT
 transit_rails,0.9.12,MIT
 travis-yaml,0.1.0,MIT

@@ -1734,6 +1734,7 @@ omniauth-workxp,0.0.3,""
 omniauth-workxp,0.0.4,""
 open_lighting,0.1.1,""
 open_lighting,0.1.2,""
+opentelemetry-adapters-all,0.4.0,Apache-2.0
 optivo,0.1.7,""
 owasp-pipeline,0.8.3,Apache-2.0
 owasp-pipeline,0.8.5,Apache-2.0
@@ -2190,6 +2191,7 @@ schleyfox-wikipedia-api,0.1.1,""
 scm-workflow,0.3.0,MIT
 scm-workflow,0.4.0,MIT
 scm-workflow,0.5.0,MIT
+scoop,0.0.1,MIT
 scoop,0.1.7,""
 scoop,0.2.0,""
 scoop,0.3.1,""

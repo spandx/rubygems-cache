@@ -44,6 +44,7 @@ active_record_inherit_assoc,2.5.0,Apache-2.0
 active_record_inherit_assoc,2.5.1,Apache-2.0
 active_record_inherit_assoc,2.6.0,Apache-2.0
 active_record_inherit_assoc,2.7.0,Apache-2.0
+active_record_inherit_assoc,2.8.0,Apache-2.0
 active_service_mapper,0.0.1,""
 active_text,0.0.1,""
 active_text,0.0.3,""
@@ -667,6 +668,7 @@ gdal,0.0.6,""
 gdal,0.0.7,""
 gdal,1.0.0,""
 gdal,2.0.0,""
+gdal,3.0.0,""
 gdk_pixbuf2-x86-mingw32,0.90.6,""
 gdk_pixbuf2-x86-mingw32,1.0.1,""
 gdk_pixbuf2-x86-mingw32,1.1.2,""
@@ -1075,6 +1077,7 @@ graphql,1.10.3,MIT
 graphql,1.10.4,MIT
 graphql,1.10.5,MIT
 graphql,1.10.6,MIT
+graphql,1.10.7,MIT
 graphql,1.2.0,MIT
 graphql,1.2.1,MIT
 graphql,1.2.2,MIT
