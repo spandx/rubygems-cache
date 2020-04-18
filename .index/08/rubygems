@@ -1569,6 +1569,7 @@ nofxx-symbolize,1.0.1,""
 normailize,0.0.1,MIT
 not_nil,0.0.2,MIT
 not_nil,0.0.3,MIT
+not_nil,1.0.0,MIT
 numeric_hash,0.2.0,""
 numeric_hash,0.3.1,""
 objctify,0.3.1,MPL-2.0
@@ -2560,6 +2561,7 @@ ttl2html,0.2.0,MIT
 ttl2html,0.2.1,MIT
 ttl2html,0.2.2,MIT
 ttl2html,0.2.3,MIT
+ttl2html,0.2.4,MIT
 tubemp,0.5.0,""
 tubemp,0.6.0,""
 tubemp,0.7.0,""

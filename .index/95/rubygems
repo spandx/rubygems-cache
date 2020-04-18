@@ -895,6 +895,7 @@ aws-sdk,2.11.485,Apache-2.0
 aws-sdk,2.11.486,Apache-2.0
 aws-sdk,2.11.487,Apache-2.0
 aws-sdk,2.11.488,Apache-2.0
+aws-sdk,2.11.489,Apache-2.0
 aws-sdk,2.11.49,Apache-2.0
 aws-sdk,2.11.5,Apache-2.0
 aws-sdk,2.11.50,Apache-2.0
@@ -3038,6 +3039,7 @@ power_assert,1.1.4,2-clause BSDL-|-Ruby's
 power_assert,1.1.5,2-clause BSDL-|-Ruby's
 power_assert,1.1.6,2-clause BSDL-|-Ruby's
 power_assert,1.1.7,2-clause BSDL-|-Ruby's
+power_assert,1.2.0,2-clause BSDL-|-Ruby's
 powify,0.9.1,""
 powify,0.9.2,""
 protector-globalize,0.0.1,MIT

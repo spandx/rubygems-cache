@@ -543,6 +543,7 @@ cruisecontrolrb-to-slack,0.0.2,MIT
 cruisecontrolrb-to-slack,0.2.0,MIT
 cruisecontrolrb-to-slack,0.2.1,MIT
 csv_find,0.0.1,MIT
+csv_find,1.0.0,MIT
 cucumber-repeat,0.0.1,MIT
 cucumber-repeat,0.0.2,MIT
 cucumber-repeat,0.0.3,MIT
@@ -850,6 +851,8 @@ gitsflow,0.2.3,MIT
 gitsflow,0.3.0,MIT
 gitsflow,0.3.1,MIT
 gitsflow,0.4.0,MIT
+gitsflow,0.4.1,MIT
+gitsflow,0.4.2,MIT
 gloomhaven,0.1.0,MIT
 gloomhaven,1.0.0,MIT
 gloomhaven,1.0.1,MIT

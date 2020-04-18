@@ -3002,6 +3002,7 @@ tourist,0.0.5,""
 trailblazer_scaffold,0.0.2,MIT
 trailblazer_scaffold,0.0.3,MIT
 trailblazer_scaffold,0.0.4,MIT
+trailblazer_scaffold,0.0.5,MIT
 treport,0.1.0,LGPL
 treport,0.2.0,LGPL
 treport,1.1.1,GPL
@@ -3135,6 +3136,8 @@ wikipedia_rest_client,0.1.1,MIT
 wikipedia_rest_client,0.1.2,MIT
 wikipedia_rest_client,0.1.3,MIT
 wikipedia_rest_client,0.1.4,MIT
+wing.rb,0.1.1,MIT
+wing.rb,0.1.2,MIT
 winrm-transport,1.0.0,Apache-2.0
 winrm-transport,1.0.1,Apache-2.0
 winrm-transport,1.0.2,Apache-2.0

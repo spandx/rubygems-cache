@@ -640,6 +640,7 @@ exchange-nbkr,0.1.1,MIT
 exchange-nbkr,0.1.2,MIT
 execution_deadline,0.1.0,MIT
 execution_deadline,0.1.1,MIT
+execution_deadline,0.2.0,MIT
 ey-hmac,0.0.2,""
 ey-hmac,0.0.3,""
 ey-hmac,0.0.4,""
@@ -1119,6 +1120,7 @@ kakao_msg,0.0.11,MIT
 kakao_msg,0.1.0,MIT
 kakao_msg,0.2.0,MIT
 kakao_msg,0.2.1,MIT
+kakao_msg,0.2.2,MIT
 keyword_argnize,0.1.0,MIT
 kramdown-rfc2629,0.13.7,""
 kramdown-rfc2629,0.13.8,""

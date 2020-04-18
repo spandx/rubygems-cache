@@ -367,6 +367,7 @@ coveralls_reborn,0.13.3,MIT
 coveralls_reborn,0.13.4,MIT
 coveralls_reborn,0.14.0,MIT
 coveralls_reborn,0.15.0,MIT
+coveralls_reborn,0.15.1,MIT
 coveralls_reborn,0.8.21,MIT
 coveralls_reborn,0.9.0,MIT
 covhura,0.0.2,BSD-2-Clause
@@ -1608,6 +1609,7 @@ impressionist,1.5.1,MIT
 impressionist,1.5.2,MIT
 impressionist,1.6.0,MIT
 impressionist,1.6.1,MIT
+impressionist,2.0.0,MIT
 inspec-multi-server,0.0.1,MIT
 instagram-continued-continued,1.5.0,""
 interakthq_rails,0.0.1,MIT

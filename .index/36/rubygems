@@ -2419,6 +2419,7 @@ rails_modular_admin,0.4.0,MIT
 rails_modular_admin,1.0.0,MIT
 rails_source_path,1.0.1,MIT
 rails_source_path,1.0.2,MIT
+rails_source_path,1.0.3,MIT
 railsless-console,0.0.1,"Apache License, Version 2.0"
 railsless-console,0.0.2,"Apache License, Version 2.0"
 rainbows,3.1.0,""
@@ -2490,6 +2491,7 @@ repres-react,1.3,MIT
 repres-react,1.3.1,MIT
 repres-react,1.4,MIT
 repres-react,1.4.1,MIT
+repres-react,2.0,MIT
 responsys-client,0.0.2,""
 rgl,0.5.0,""
 rgl,0.5.1,""

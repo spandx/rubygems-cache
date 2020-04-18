@@ -1822,6 +1822,8 @@ nuget,3.4.4,""
 nuget,3.5.0,""
 nuget,4.1.0,""
 nuget,4.7.0,""
+nuget,4.7.3,""
+nuget,5.5.1,""
 objective_active_merchant_first_data,1.3.0,""
 objectsframework,1.0.0,MIT
 objectsframework,1.0.1,MIT

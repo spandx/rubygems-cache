@@ -1533,6 +1533,7 @@ node_impl,1.0.0,MIT
 node_impl,2.0.0,GPL-3.0
 node_impl,3.0.0,GPL-3.0
 node_impl,3.1.0,GPL-3.0
+node_impl,3.2.0,GPL-3.0
 nomagic_capistrano_recipes,0.0.2,""
 nomagic_capistrano_recipes,0.0.3,""
 nomagic_capistrano_recipes,0.0.5,""

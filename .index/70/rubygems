@@ -432,6 +432,7 @@ byebug,11.0.0,BSD-2-Clause
 byebug,11.0.1,BSD-2-Clause
 byebug,11.1.0,BSD-2-Clause
 byebug,11.1.1,BSD-2-Clause
+byebug,11.1.2,BSD-2-Clause
 byebug,2.0.0,BSD
 byebug,2.1.0,BSD
 byebug,2.1.1,BSD
@@ -2229,6 +2230,7 @@ rsrb,0.0.28,MIT
 rsrb,0.0.29,MIT
 rsrb,0.0.30,MIT
 rsrb,0.0.31,MIT
+rsrb,0.0.32,MIT
 rt_watchdog,1.0.0,""
 ruboty-kendama,0.0.1,MIT
 ruby-refract,0.0.1,MIT
