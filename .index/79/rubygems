@@ -330,6 +330,7 @@ authrocket,2.3.1,MIT
 authrocket,2.4.0,MIT
 authrocket,3.0.0,MIT
 authrocket,3.1.0,MIT
+authrocket,3.2.0,MIT
 autonumeric-rails,0.1.9.15,MIT
 autonumeric-rails,0.1.9.17,MIT
 autonumeric-rails,1.9.18.0,MIT
@@ -428,6 +429,7 @@ br_boleto,2.2.7,MIT
 br_boleto,2.2.8,MIT
 br_boleto,2.2.9,MIT
 bridgetown,0.1.0,MIT
+bridgetown,0.10.0,MIT
 bridgetown,0.7.0,MIT
 bridgetown,0.7.1,MIT
 bridgetown,0.7.2,MIT

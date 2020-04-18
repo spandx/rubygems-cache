@@ -3005,6 +3005,7 @@ test_bench,2.1.1,MIT
 test_bench,2.1.2,MIT
 test_bench,2.2.0,MIT
 test_bench,2.2.1,MIT
+test_bench,2.2.2,MIT
 text_profile_signature,0.0.1,LGPL-3.0
 text_profile_signature,0.1.0,LGPL-3.0
 textbelt,0.1.0,""

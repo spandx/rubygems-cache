@@ -213,6 +213,7 @@ blizzard_api,0.2.9,MIT
 blizzard_api,0.3.0,MIT
 blizzard_api,0.3.1,MIT
 blizzard_api,0.3.10,MIT
+blizzard_api,0.3.11,MIT
 blizzard_api,0.3.2,MIT
 blizzard_api,0.3.3,MIT
 blizzard_api,0.3.4,MIT
@@ -912,6 +913,8 @@ fast_ignore,0.6.0,MIT
 fast_ignore,0.7.0,MIT
 fast_ignore,0.8.0,MIT
 fast_ignore,0.8.1,MIT
+fast_ignore,0.8.2,MIT
+fast_ignore,0.8.3,MIT
 fast_versioning,0.1.1,MIT
 fast_versioning,0.1.2,MIT
 fast_versioning,0.2.0,MIT

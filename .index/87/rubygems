@@ -1036,6 +1036,7 @@ effective_datatables,4.7.7,MIT
 effective_datatables,4.7.8,MIT
 effective_datatables,4.7.9,MIT
 effective_datatables,4.8.0,MIT
+effective_datatables,4.8.1,MIT
 effective_logging,1.0.0,MIT
 effective_logging,1.1.0,MIT
 effective_logging,1.1.2,MIT
@@ -1109,6 +1110,7 @@ effective_logging,3.0.1,MIT
 effective_logging,3.0.2,MIT
 effective_logging,3.0.3,MIT
 effective_logging,3.0.4,MIT
+effective_logging,3.0.5,MIT
 eivo-rails-sidekiq,0.0.1,MIT
 eivo-rails-sidekiq,0.0.2,MIT
 elasticsearch-ruby,0.0.3,""
@@ -3153,6 +3155,7 @@ tramway-landing,3.0.1.2,MIT
 tramway-landing,3.0.2,MIT
 tramway-landing,3.0.2.1,MIT
 tramway-landing,3.0.2.2,MIT
+tramway-landing,3.0.2.3,MIT
 treebank-transform,0.0.1,MIT
 treebank-transform,0.0.2,MIT
 treebank-transform,0.0.3,MIT

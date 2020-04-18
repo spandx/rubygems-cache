@@ -346,6 +346,7 @@ boxr,1.9.0,MIT
 bpmachine,1.1.1,""
 brazilian-utils,0.1.0,MIT
 briandoll-rails_framework_diff,0.0.1,""
+bridgetown-core,0.10.0,MIT
 bridgetown-core,0.7.0,MIT
 bridgetown-core,0.7.1,MIT
 bridgetown-core,0.7.2,MIT
@@ -2566,6 +2567,8 @@ safettp,0.3.1,MIT
 safettp,0.3.2,MIT
 sailthru_mailer_3,1.0.0,""
 sailthru_mailer_3,1.0.2,MIT
+saitonized,0.1.0,MIT
+saitonized,0.1.1,MIT
 salesforce_bulk_query-edge,0.2.1,BSD
 salsalabs,0.1.0,MIT
 salsalabs,0.1.1,MIT

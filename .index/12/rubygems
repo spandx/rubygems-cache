@@ -651,6 +651,7 @@ ensure_array,0.1.0,""
 es_client,0.1.0,MIT
 es_client,0.2.0,MIT
 eufycam,0.1.0,MIT
+eufycam,0.2.0,MIT
 event_sourced_record,0.0.1,MIT
 event_sourced_record,0.1.0,MIT
 event_sourced_record,0.1.1,MIT

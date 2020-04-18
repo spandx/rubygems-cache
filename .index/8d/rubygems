@@ -2277,6 +2277,7 @@ stefl-chargify,0.3.4,""
 stefl-chargify,0.3.5,""
 stefl-chargify,0.3.6,""
 steroid,0.0.0,Beerware
+stock_api_wrapper,0.1.3,""
 stratumn_sdk,0.0.1,MIT
 stratumn_sdk,0.1.0,MIT
 stratumn_sdk,0.2.0,MIT
@@ -2490,6 +2491,7 @@ web_components_rails,1.2.2,""
 web_components_rails,2.0.0,""
 web_components_rails,2.1.2,""
 web_components_rails,2.2.0,""
+webapp_examiner_spec,0.2.0,MIT
 will_paginate-bootstrap-large,0.0.1,""
 wordify_arialledye,0.1.1,MIT
 wp_conversion,0.1.0,MIT
