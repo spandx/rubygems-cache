@@ -1131,6 +1131,8 @@ harvestdor,0.3.2,""
 has_calculated_fields,1.0.0,MIT
 has_calculated_fields,1.0.1,MIT
 has_calculated_fields,1.0.2,MIT
+has_calculated_fields,1.0.3,MIT
+has_calculated_fields,1.0.3.1,MIT
 has_localization_table,0.3.10,""
 has_localization_table,0.3.11,""
 has_localization_table,0.3.12,""
@@ -2258,6 +2260,7 @@ relaton-ogc,0.6.0,BSD-2-Clause
 relaton-ogc,0.6.1,BSD-2-Clause
 relaton-ogc,0.7.0,BSD-2-Clause
 relaton-ogc,0.7.1,BSD-2-Clause
+relaton-ogc,0.7.2,BSD-2-Clause
 reliefweb_scraper,0.2.0,""
 reliefweb_scraper,0.4.2,""
 reliefweb_scraper,0.4.3,""
