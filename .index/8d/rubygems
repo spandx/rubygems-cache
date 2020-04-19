@@ -637,6 +637,7 @@ devise_rails_api_authentication,1.1.0,MIT
 devise_rails_api_authentication,1.2.0,MIT
 devise_rails_api_authentication,1.2.1,MIT
 devise_sms_activable,0.0.9,""
+dibbler,1.0.0,MIT
 difflcs,0.6.7,""
 digital_heroes_startkit,0.1.1,MIT
 digital_heroes_startkit,0.1.1.1,MIT
@@ -1090,6 +1091,7 @@ gleis,0.6.1,GPL-3.0
 gleis,0.6.2,GPL-3.0
 gleis,0.7.0,GPL-3.0
 gleis,0.7.1,GPL-3.0
+gleis,0.8.0,GPL-3.0
 glint,0.0.1,MIT
 glint,0.0.2,MIT
 glint,0.1.0,MIT

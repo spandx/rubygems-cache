@@ -1965,6 +1965,8 @@ heroku_dj_auto_scale,0.0.7,""
 hide,0.1.1,CC-BY-SA-4.0
 hide,1.0.1,MIT
 hide,1.0.2,MIT
+hide,1.0.4,MIT
+hide,1.0.6,MIT
 hiera-eyaml-gpg,0.1,MIT
 hiera-eyaml-gpg,0.2,MIT
 hiera-eyaml-gpg,0.3,MIT

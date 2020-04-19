@@ -2467,6 +2467,7 @@ railsmachine-shadow_puppet,0.3.0,""
 railsmachine-shadow_puppet,0.3.1,""
 rake_circle_ci,0.3.0,MIT
 rake_circle_ci,0.5.0,MIT
+rake_circle_ci,0.7.0,MIT
 rakedotnet,1.1.51,BSD
 rakedotnet,1.1.53,BSD
 rakedotnet,1.1.54,BSD

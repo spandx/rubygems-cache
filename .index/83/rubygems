@@ -187,6 +187,7 @@ blacklight_advanced_search,6.3.1,Apache-2.0
 blacklight_advanced_search,6.4.0,Apache-2.0
 blacklight_advanced_search,6.4.1,Apache-2.0
 blacklight_advanced_search,7.0.0,Apache-2.0
+blue_cross_pets,0.0.4,MIT
 bookingsync-rack-p3p,1.0.0,""
 bookish,0.0.2,""
 boshify,0.1.0,Apache
@@ -513,6 +514,7 @@ cloudmersive-convert-api-client,1.7.0,Apache-2.0
 cloudmersive-convert-api-client,1.7.1,Apache-2.0
 cloudmersive-convert-api-client,1.7.2,Apache-2.0
 cloudmersive-convert-api-client,1.7.3,Apache-2.0
+cloudmersive-convert-api-client,1.7.4,Apache-2.0
 cmds,0.0.1,MIT
 cmds,0.0.2,MIT
 cmds,0.0.3,MIT
@@ -1579,6 +1581,7 @@ legitbot,0.3.2,Apache-2.0
 legitbot,0.4.0,Apache-2.0
 legitbot,0.4.1,Apache-2.0
 legitbot,0.4.2,Apache-2.0
+legitbot,0.4.3,Apache-2.0
 limiter,0.0.2,""
 lingohub,0.0.8,""
 lingohub,0.1.1,""

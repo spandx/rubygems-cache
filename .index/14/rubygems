@@ -315,6 +315,7 @@ bookbinder,0.4.1,""
 boombox,0.0.2,Unlicense
 box_generator,0.1.0,""
 bridgetown-paginate,0.10.0,MIT
+bridgetown-paginate,0.10.1,MIT
 bridgetown-paginate,0.8.0,MIT
 bridgetown-paginate,0.8.1,MIT
 bridgetown-paginate,0.9.0,MIT
@@ -1030,6 +1031,8 @@ glimmer,0.5.3,MIT
 glimmer,0.5.4,MIT
 glimmer,0.5.5,MIT
 glimmer,0.5.6,MIT
+glimmer,0.5.7,MIT
+glimmer,0.5.8,MIT
 go_watchdog,1.2.0,MIT
 go_watchdog,1.2.1,MIT
 go_watchdog,1.2.2,MIT

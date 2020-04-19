@@ -1751,6 +1751,7 @@ nlp-pure,0.0.4,MIT
 nlp-pure,0.0.5,MIT
 nlp-pure,0.1.0,MIT
 nlp-pure,0.2.0,MIT
+node_adapter_int,0.1.0,GPL-3.0
 nodeattr,0.0.1,MIT
 nodeattr,0.0.2,MIT
 nokogiri-java,1.10.0,MIT
