@@ -916,6 +916,7 @@ dependabot-nuget,0.117.3,Nonstandard
 dependabot-nuget,0.117.4,Nonstandard
 dependabot-nuget,0.117.5,Nonstandard
 dependabot-nuget,0.117.6,Nonstandard
+dependabot-nuget,0.117.7,Nonstandard
 dependabot-nuget,0.80.0,Nonstandard
 dependabot-nuget,0.80.1,Nonstandard
 dependabot-nuget,0.81.0,Nonstandard
@@ -2846,6 +2847,7 @@ sequel_pg,1.8.1,MIT
 sequel_pg,1.8.2,MIT
 sequel_pg,1.9.0,MIT
 sidekiq-concurrency_safety,0.1.0,""
+sidekiq-concurrency_safety,0.1.1,""
 significance,0.1.0,""
 significance,0.2.0,""
 sii_chile,0.1.0,""

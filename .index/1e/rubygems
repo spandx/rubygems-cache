@@ -1834,6 +1834,7 @@ lhs,21.2.0,GPL-3
 lhs,21.2.1,GPL-3
 lhs,21.2.2,GPL-3
 lhs,21.2.3,GPL-3
+lhs,21.2.4,GPL-3
 lhs,3.0.0,""
 lhs,3.0.1,""
 lhs,3.0.2,""
@@ -3698,6 +3699,7 @@ unidom-order,1.5.6,MIT
 unidom-order,1.5.7,MIT
 unidom-order,1.5.8,MIT
 unidom-order,1.5.9,MIT
+unidom-order,2.0,MIT
 uniq_number_id,0.0.1,MIT
 uniq_number_id,0.0.2,MIT
 uptimerobot,0.1.0,MIT

@@ -1356,6 +1356,7 @@ net-ssh,5.0.1,MIT
 net-ssh,5.0.2,MIT
 net-ssh,5.1.0,MIT
 net-ssh,5.2.0,MIT
+net-ssh,6.0.0,MIT
 neutrino_client,0.0.3,""
 ngwords,0.1.0,MIT
 ngwords,0.1.1,MIT
@@ -2608,6 +2609,7 @@ unidom-product,1.7.5,MIT
 unidom-product,1.7.6,MIT
 unidom-product,1.7.7,MIT
 unidom-product,1.7.8,MIT
+unidom-product,2.0,MIT
 vagrant-tiktalik,0.0.1,MIT
 vagrant-tiktalik,0.0.2,MIT
 vagrant-tiktalik,0.0.3,MIT

@@ -1457,6 +1457,7 @@ intacctrb,0.8.9,""
 intacctrb,0.9.0,""
 intacctrb,0.9.1,""
 intacctrb,0.9.2,""
+intacctrb,0.9.3,""
 ipip-ipdb,0.0.6,Apache-2.0
 irs527,0.0.1,MIT
 ish_lib_manager,0.0.1,MIT
@@ -2540,6 +2541,7 @@ rubocop-codetakt,0.8.0,MIT
 rubocop-codetakt,0.8.1,MIT
 rubocop-codetakt,0.8.2,MIT
 rubocop-codetakt,0.8.3,MIT
+rubocop-codetakt,0.82.0.0,MIT
 rubocop-nri,1.0.0,MIT
 rubocop-nri,2.0.0,MIT
 rubocop-nri,2.0.1,MIT
@@ -3054,6 +3056,8 @@ wazuh-ruby-client,0.2.3,""
 wazuh-ruby-client,0.2.4,""
 wazuh-ruby-client,0.2.5,""
 wazuh-ruby-client,0.2.6,""
+wazuh-ruby-client,0.2.7,""
+wazuh-ruby-client,0.2.8,""
 weapp-cli,0.1.0,MIT
 web-potato,0.0.6,Copyright 2016 Ruslan Ledesma Garza
 web_app_builder,1.0.4,""

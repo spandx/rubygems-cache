@@ -2453,6 +2453,7 @@ unidom-certificate,2.0.5,MIT
 unidom-certificate,2.1,MIT
 unidom-certificate,2.1.1,MIT
 unidom-certificate,2.1.2,MIT
+unidom-certificate,3.0,MIT
 unidom-party-china,0.1,MIT
 unidom-party-china,0.2,MIT
 unidom-party-china,0.3,MIT
@@ -2466,6 +2467,7 @@ unidom-party-china,0.7.2,MIT
 unidom-party-china,0.7.3,MIT
 unidom-party-china,0.8,MIT
 unidom-party-china,0.8.1,MIT
+unidom-party-china,1.0,MIT
 unix_user_manager,0.1.1,""
 user_friendly_id,1.0.0,""
 vae,0.6.0,GPL
