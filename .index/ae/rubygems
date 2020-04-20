@@ -2131,6 +2131,7 @@ roy,0.2.2,""
 rspec-yenta,0.0.1,APACHE2
 rspec-yenta,0.0.2,APACHE2
 rtomayko-rack-contrib,0.4.0,""
+rubocop-emotionsar,1.0.0,MIT
 ruby-debug-passenger,0.1.0,""
 ruby-debug-passenger,0.2.0,MIT
 ruby_channel,0.0.1,""
@@ -2359,6 +2360,7 @@ spin_loader,0.0.2,MIT
 spin_loader,0.1.0,MIT
 sportdb-match-formats,0.0.1,Public Domain
 sportdb-match-formats,0.1.0,Public Domain
+sportdb-match-formats,0.1.1,Public Domain
 spreadsheet_erb,0.0.1,MIT
 spreadsheet_erb,0.0.10,MIT
 spreadsheet_erb,0.0.11,MIT

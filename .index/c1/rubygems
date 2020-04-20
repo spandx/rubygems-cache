@@ -123,6 +123,7 @@ appbooster_rubocop_config,0.2.0,""
 appbooster_rubocop_config,0.3,""
 appbooster_rubocop_config,0.4,""
 appbooster_rubocop_config,0.5,""
+appbooster_rubocop_config,0.6,""
 appsignal-elasticsearch,0.0.1,MIT
 appsignal-elasticsearch,0.0.2,MIT
 appsignal-elasticsearch,0.0.3,MIT
@@ -1972,6 +1973,7 @@ protocol-http2,0.13.0,MIT
 protocol-http2,0.13.1,MIT
 protocol-http2,0.13.2,MIT
 protocol-http2,0.13.3,MIT
+protocol-http2,0.14.0,MIT
 protocol-http2,0.2.0,MIT
 protocol-http2,0.2.1,MIT
 protocol-http2,0.3.0,MIT

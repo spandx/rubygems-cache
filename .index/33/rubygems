@@ -539,6 +539,7 @@ danger-resharper_inspectcode,1.0.0,MIT
 danger-resharper_inspectcode,1.0.1,MIT
 danger-resharper_inspectcode,1.0.2,MIT
 danger-shroud,0.0.1,MIT
+danger-shroud,0.0.2,MIT
 datapipe2,0.0.1,""
 datapipe2,0.0.10,LGPL-3.0
 datapipe2,0.0.11,LGPL-3.0
@@ -2075,6 +2076,7 @@ tablegen,0.1,LGPL-3.0+
 tac_scribe-java,0.2.0,AGPL-3.0-or-later
 tac_scribe-java,0.2.1,AGPL-3.0-or-later
 tac_scribe-java,0.3.0,AGPL-3.0-or-later
+tac_scribe-java,0.6.0,AGPL-3.0-or-later
 taggata,0.0.1,BSD-2-Clause
 taggata,0.0.2,BSD-2-Clause
 taggata,0.1.0,BSD-2-Clause

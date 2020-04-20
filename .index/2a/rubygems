@@ -348,6 +348,7 @@ brazilian-utils,0.1.0,MIT
 briandoll-rails_framework_diff,0.0.1,""
 bridgetown-core,0.10.0,MIT
 bridgetown-core,0.10.1,MIT
+bridgetown-core,0.10.2,MIT
 bridgetown-core,0.7.0,MIT
 bridgetown-core,0.7.1,MIT
 bridgetown-core,0.7.2,MIT
@@ -357,6 +358,7 @@ bridgetown-core,0.9.0,MIT
 bridgetown-seo-tag,3.0.0,MIT
 bridgetown-seo-tag,3.0.1,MIT
 bridgetown-seo-tag,3.0.2,MIT
+bridgetown-seo-tag,3.0.3,MIT
 bu_pr,0.1.0,MIT
 bu_pr,0.1.1,MIT
 bu_pr,0.2.0,MIT
@@ -3051,6 +3053,7 @@ unidom-score,1.1.5,MIT
 unidom-score,1.1.6,MIT
 unidom-score,1.1.7,MIT
 unidom-score,1.1.8,MIT
+unidom-score,2.0,MIT
 uniq_identifier,0.0.1,MIT
 uniq_identifier,0.0.2,MIT
 uniq_identifier,0.0.3,MIT

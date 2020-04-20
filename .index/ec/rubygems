@@ -1736,6 +1736,7 @@ numerics,0.3.2,""
 nutshell_api,0.0.0,MIT
 nymous_palindrome,0.1.0,MIT
 nymous_palindrome,0.2.0,MIT
+nymous_palindrome,0.3.0,MIT
 objc-obfuscator,0.1.0,BSD
 objc-obfuscator,0.2.0,BSD
 objc-obfuscator,0.2.1,BSD
@@ -3020,6 +3021,7 @@ unidom-party,1.9.5,MIT
 unidom-party,1.9.6,MIT
 unidom-party,1.9.7,MIT
 unidom-party,1.9.8,MIT
+unidom-party,2.0,MIT
 united,0.0.1,MIT
 unlimited-strength-crypto,1.2.3,MIT
 unteilbar,0.1.0,MIT

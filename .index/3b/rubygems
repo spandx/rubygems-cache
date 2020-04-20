@@ -363,6 +363,7 @@ caching,0.0.5,MIT
 cagnut_samtools,0.3.0,MIT
 cagnut_samtools,0.3.1,MIT
 cagnut_samtools,0.3.2,MIT
+calculateOnlineTime,0.0.0,""
 cama_language_editor,1.0,MIT
 cama_language_editor,1.1,MIT
 cama_language_editor,1.2,MIT
@@ -2454,6 +2455,7 @@ sonic-ruby,0.1.0,""
 sonic-ruby,0.2.0,""
 sonic-ruby,0.2.1,""
 sonic-ruby,0.2.2,""
+sonic-ruby,0.2.3,""
 spectacular_rails,1.5.1,""
 spectacular_rails,1.6.0.1,""
 spectacular_rails,1.6.0.2,""
