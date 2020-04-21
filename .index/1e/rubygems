@@ -3338,6 +3338,7 @@ sendgrid-actionmailer,2.5.0,MIT
 sendgrid-actionmailer,2.6.0,MIT
 sendgrid-actionmailer,3.0.0,MIT
 sendgrid-actionmailer,3.0.1,MIT
+sendgrid-actionmailer,3.0.2,MIT
 server_log_parser,0.3.0,MIT
 server_log_parser,0.4.0,MIT
 server_log_parser,0.4.1,MIT

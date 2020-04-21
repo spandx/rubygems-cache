@@ -285,6 +285,7 @@ aws-sdk-glue,1.5.0,Apache-2.0
 aws-sdk-glue,1.50.0,Apache-2.0
 aws-sdk-glue,1.51.0,Apache-2.0
 aws-sdk-glue,1.52.0,Apache-2.0
+aws-sdk-glue,1.53.0,Apache-2.0
 aws-sdk-glue,1.6.0,Apache-2.0
 aws-sdk-glue,1.7.0,Apache-2.0
 aws-sdk-glue,1.8.0,Apache-2.0
@@ -1085,6 +1086,7 @@ google-cloud-logging,1.10.0,Apache-2.0
 google-cloud-logging,1.10.1,Apache-2.0
 google-cloud-logging,1.10.2,Apache-2.0
 google-cloud-logging,1.10.3,Apache-2.0
+google-cloud-logging,1.10.4,Apache-2.0
 google-cloud-logging,1.2.1,Apache-2.0
 google-cloud-logging,1.2.2,Apache-2.0
 google-cloud-logging,1.2.3,Apache-2.0

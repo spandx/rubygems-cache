@@ -3219,6 +3219,7 @@ vagrant-boxen,0.0.3,""
 vagrant-boxen,0.0.4,""
 vagrant-junos_cli,1.0.0,""
 vagrant-junos_cli,1.0.1,""
+vagrant-junos_cli,1.1.0,""
 vagrant-multihostsupdater,0.1.0,MIT
 vagrant-uplift,0.2.1902.18,MIT
 vagrant-uplift,0.2.1902.19,MIT

@@ -657,6 +657,7 @@ elasticrawl,1.1.6,MIT
 elasticrawl,1.1.7,MIT
 elasticrawl,1.1.8,MIT
 embulk-input-zendesk-java,0.3.8,""
+embulk-input-zendesk-java,0.3.9,""
 embulk-output-rediskeys,0.1.0,MIT
 empyrean,0.1.0,GPL-3.0-only
 empyrean,0.1.1,GPL-3.0-only

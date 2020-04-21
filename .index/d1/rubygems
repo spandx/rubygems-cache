@@ -3299,6 +3299,7 @@ sorbet-static-universal-darwin-14,0.5.5519,Apache-2.0
 sorbet-static-universal-darwin-14,0.5.5525,Apache-2.0
 sorbet-static-universal-darwin-14,0.5.5532,Apache-2.0
 sorbet-static-universal-darwin-14,0.5.5544,Apache-2.0
+sorbet-static-universal-darwin-14,0.5.5549,Apache-2.0
 spid-es,0.0.1,MIT
 spid-es,0.0.10,MIT
 spid-es,0.0.11,MIT
@@ -3564,6 +3565,7 @@ unidom-visitor,1.6,MIT
 unidom-visitor,1.7,MIT
 unidom-visitor,1.8,MIT
 unidom-visitor,1.9,MIT
+unidom-visitor,2.0,MIT
 unimidi-x86_64-darwin10.7.0,0.1.6,""
 unimidi-x86_64-darwin10.7.0,0.2.1,""
 unimidi-x86_64-darwin10.7.0,0.2.2,""

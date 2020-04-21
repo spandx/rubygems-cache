@@ -610,6 +610,7 @@ dm-master-slave-adapter,0.0.4,""
 dnsmadeeasyapi-good,1.0.0,Apache
 dnsmadeeasyapi-good,1.0.1,Apache
 do-dyndns,0.2.0,UNLICENSED
+do-dyndns,0.3.0,MIT
 dragonfly-openssl,1.0.0,""
 dragonfly-openssl,1.0.1,Apache-2.0
 dragonfly-openssl,1.0.2,Apache-2.0
@@ -2966,6 +2967,7 @@ sorbet-static-universal-darwin-19,0.5.5519,Apache-2.0
 sorbet-static-universal-darwin-19,0.5.5525,Apache-2.0
 sorbet-static-universal-darwin-19,0.5.5532,Apache-2.0
 sorbet-static-universal-darwin-19,0.5.5544,Apache-2.0
+sorbet-static-universal-darwin-19,0.5.5549,Apache-2.0
 spree_ebsin,2.0.0,""
 spree_ebsin,2.0.1,""
 spree_ebsin,2.1.0,""

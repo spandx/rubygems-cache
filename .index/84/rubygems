@@ -1541,6 +1541,7 @@ mpxj,8.0.4,LGPL
 mpxj,8.0.5,LGPL
 mpxj,8.0.6,LGPL
 mpxj,8.0.7,LGPL
+mpxj,8.0.8,LGPL
 mq-tail,0.0.2,""
 mq-tail,0.0.3,""
 multi_toml,1.0.0,""
@@ -2705,6 +2706,7 @@ sorbet-static-java,0.5.5519,Apache-2.0
 sorbet-static-java,0.5.5525,Apache-2.0
 sorbet-static-java,0.5.5532,Apache-2.0
 sorbet-static-java,0.5.5544,Apache-2.0
+sorbet-static-java,0.5.5549,Apache-2.0
 spade,0.0.1,""
 spade,0.0.2,""
 spade,0.1.1.1,""

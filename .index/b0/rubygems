@@ -76,6 +76,7 @@ api-blocks,0.5.3,MIT
 api-blocks,0.5.4,MIT
 api-blocks,0.5.5,MIT
 api-blocks,0.6.0,MIT
+api-blocks,0.7.0,MIT
 api_doc_viewer,0.1.0,""
 api_doc_viewer,0.2.0,""
 api_doc_viewer,0.3.0,""
@@ -1893,6 +1894,7 @@ miga-base,0.6.4.1,Artistic-2.0
 miga-base,0.6.4.2,Artistic-2.0
 miga-base,0.7.0.0,Artistic-2.0
 miga-base,0.7.1.0,Artistic-2.0
+miga-base,0.7.2.0,Artistic-2.0
 milksteak,0.0.15,""
 milksteak,0.0.2,""
 milksteak,0.0.3,""
@@ -2983,6 +2985,7 @@ xlogin,0.12.6,MIT
 xlogin,0.12.7,MIT
 xlogin,0.12.8,MIT
 xlogin,0.13.1,MIT
+xlogin,0.13.10,MIT
 xlogin,0.13.3,MIT
 xlogin,0.13.4,MIT
 xlogin,0.13.5,MIT

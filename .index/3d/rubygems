@@ -362,6 +362,8 @@ c80_shared,0.1.82,MIT
 c80_shared,0.1.83,MIT
 c80_shared,0.1.84,MIT
 c80_shared,0.1.85,MIT
+c80_shared,0.1.86,MIT
+c80_shared,0.1.87,MIT
 c80_shared,0.1.9,MIT
 cache_lib,0.0.1,MIT
 cache_lib,0.1.0,MIT
@@ -2291,6 +2293,7 @@ sic_k,0.1.0,MIT
 sidekiq-jfails,0.0.2,""
 sidekiq-seize,0.4.0,MIT
 sidekiq_lockable_job,0.1.0,MIT
+sidekiq_lockable_job,0.1.1,MIT
 simplabs-excellent,1.0.0,""
 simplabs-excellent,1.0.1,""
 simplabs-excellent,1.2.1,""

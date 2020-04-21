@@ -366,6 +366,7 @@ bmg,0.16.3,MIT
 bmg,0.16.4,MIT
 bmg,0.16.5,MIT
 bmg,0.16.6,MIT
+bmg,0.17.0,MIT
 bmg,0.2.0,MIT
 bmg,0.3.0,MIT
 bmg,0.4.0,MIT
@@ -2382,6 +2383,7 @@ recurly,3.3.0,MIT
 recurly,3.3.1,MIT
 recurly,3.4.0,MIT
 recurly,3.4.1,MIT
+recurly,3.5.0,MIT
 redbeard,0.0.0,""
 redshift_adapter,0.0.1,MIT
 refined,0.0.2,""

@@ -338,6 +338,7 @@ capistrano-docker_cluster,1.0.4,MIT
 capistrano-docker_cluster,1.0.5,MIT
 capistrano-docker_cluster,1.0.6,MIT
 capistrano-docker_cluster,1.0.7,MIT
+capistrano-docker_cluster,1.0.8,MIT
 capistrano-gitflow_version,0.0.1,""
 capistrano-kemal,0.1.0,""
 capistrano-rails-server,1.1,""
