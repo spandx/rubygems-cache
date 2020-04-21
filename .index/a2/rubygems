@@ -453,6 +453,7 @@ captcher,0.2.1,MIT
 captcher,0.3.0,MIT
 captcher,0.3.1,MIT
 capybara-experience,0.1.0,""
+capybara-experience,0.1.1,""
 capybara-ui,0.10.0,MIT
 capybara-ui,1.0.0,MIT
 capybara-ui,1.0.1,MIT
@@ -3033,6 +3034,7 @@ zendesk_api,1.21.0,Apache-2.0
 zendesk_api,1.22.0,Apache-2.0
 zendesk_api,1.23.0,Apache-2.0
 zendesk_api,1.24.0,Apache-2.0
+zendesk_api,1.25.0,Apache-2.0
 zendesk_api,1.3.0,Apache-2.0
 zendesk_api,1.3.1,Apache-2.0
 zendesk_api,1.3.2,Apache-2.0

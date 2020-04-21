@@ -1536,6 +1536,7 @@ html-proofer,3.14.1,MIT
 html-proofer,3.15.0,MIT
 html-proofer,3.15.1,MIT
 html-proofer,3.15.2,MIT
+html-proofer,3.15.3,MIT
 html-proofer,3.2.0,MIT
 html-proofer,3.3.0,MIT
 html-proofer,3.3.1,MIT
@@ -1648,6 +1649,7 @@ irust,1.2.0,MIT
 itudes,0.0.1,""
 j1_paginator,2019.1.0,MIT
 jekyll-slugify-categories,0.1.0,GPL-3.0
+jekyll-slugify-categories,0.1.1,GPL-3.0
 jekyll-theme-louis,0.1.0,MIT
 jekyll-theme-louis,0.1.1,MIT
 jekyll-theme-louis,0.1.2,MIT

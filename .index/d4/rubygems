@@ -446,6 +446,7 @@ bioroebe,0.4.176,LGPL-2.1
 bioroebe,0.4.177,LGPL-2.1
 bioroebe,0.4.179,LGPL-2.1
 bioroebe,0.4.182,LGPL-2.1
+bioroebe,0.4.187,LGPL-2.1
 bioroebe,0.4.28,LGPL-2.1
 bitstamp-client,0.1.0,MIT
 bitstamp-client,0.2.0,MIT
@@ -3183,6 +3184,10 @@ yard-sftp,1.0.0,MIT
 yard-sftp,1.0.1,MIT
 yard-sftp,1.0.3,MIT
 yard-sftp,1.1.0,MIT
+yarii-cloudinary,0.2.0,MIT
+yarii-cloudinary,0.2.1,MIT
+yarii-cloudinary,0.2.2,MIT
+yarii-cloudinary,0.2.3,MIT
 yat,0.0.3,MIT
 yat,0.0.4,MIT
 yat,0.5.1,MIT

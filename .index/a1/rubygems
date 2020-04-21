@@ -1595,6 +1595,7 @@ knife-tidy,1.2.0,"Apache License, v2.0"
 knife-tidy,2.0.0,Apache-2.0
 knife-tidy,2.0.1,Apache-2.0
 knife-tidy,2.0.11,Apache-2.0
+knife-tidy,2.0.12,Apache-2.0
 knife-tidy,2.0.6,Apache-2.0
 knife-tidy,2.0.9,Apache-2.0
 know_kit,0.0.1,MIT
@@ -1889,6 +1890,7 @@ omghax-test_rails,1.0.0,""
 omghax-test_rails,1.1.0,""
 omniauth-bn-launcher,0.1.0,""
 omniauth-bn-launcher,0.1.1,""
+omniauth-bn-launcher,0.1.3,""
 omnisand,0.0.1,""
 onix,0.9.4,""
 onix,0.9.5,""
@@ -2916,6 +2918,7 @@ sorbet-static-x86_64-linux,0.5.5519,Apache-2.0
 sorbet-static-x86_64-linux,0.5.5525,Apache-2.0
 sorbet-static-x86_64-linux,0.5.5532,Apache-2.0
 sorbet-static-x86_64-linux,0.5.5544,Apache-2.0
+sorbet-static-x86_64-linux,0.5.5549,Apache-2.0
 spanx,0.1.0,""
 spanx,0.1.1,""
 spanx,0.3.0,""

@@ -2627,6 +2627,7 @@ travis-extra,0.0.2,MIT
 travis_skipper,0.1.0,MIT
 type_tracer,0.1.0,MIT
 type_tracer,0.2.0,MIT
+typed_data,0.1.0,MIT
 unidecoder,1.1.2,""
 unified2,0.2.0,""
 unified2,0.2.1,""

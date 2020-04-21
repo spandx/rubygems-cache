@@ -204,6 +204,7 @@ batch-loader,1.2.2,MIT
 batch-loader,1.3.0,MIT
 batch-loader,1.4.0,MIT
 batch-loader,1.4.1,MIT
+batch-loader,1.5.0,MIT
 bean-kramdown,0.13.5,""
 benchmark-ipsa,0.1.0,MIT
 benchmark-ipsa,0.2.0,MIT
@@ -317,6 +318,7 @@ bolt,2.3.0,Apache-2.0
 bolt,2.3.1,Apache-2.0
 bolt,2.4.0,Apache-2.0
 bolt,2.5.0,Apache-2.0
+bolt,2.6.0,Apache-2.0
 book_price,0.0.1,MIT
 book_price,0.0.1.1,MIT
 bootstrap_datepicker_tag,0.1.1,MIT
@@ -1099,6 +1101,7 @@ forest_liana,4.1.3,GPL-3.0
 forest_liana,4.2.0,GPL-3.0
 forest_liana,5.0.0,GPL-3.0
 forest_liana,5.1.0,GPL-3.0
+forest_liana,5.1.1,GPL-3.0
 free-i386-mswin32,0.2.6,""
 g_ruby,0.0.1,""
 g_ruby,0.0.10,""
@@ -1416,6 +1419,7 @@ infrataster,0.3.2,MIT
 interior,0.8.1,""
 interior,0.8.2,""
 interior,0.8.3,""
+interpol_schema_2_openapi_schema,0.1.0,""
 iseq_rails_tools,0.0.1,MIT
 iseq_rails_tools,0.0.2,MIT
 iseq_rails_tools,0.0.3,MIT
