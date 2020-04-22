@@ -129,6 +129,7 @@ api_client,0.5.2,""
 api_client,0.5.20,""
 api_client,0.5.21,""
 api_client,0.5.22,""
+api_client,0.5.24,Apache-2.0
 api_client,0.5.3,""
 api_client,0.5.4,""
 api_client,0.5.5,""
@@ -1932,6 +1933,7 @@ query_helper,0.2.4,MIT
 query_helper,0.2.5,MIT
 query_helper,0.2.6,MIT
 query_helper,0.2.7,MIT
+query_helper,0.2.8,MIT
 quo_vadis,1.0.7,""
 quo_vadis,1.1.2,""
 quo_vadis,1.2.2,""

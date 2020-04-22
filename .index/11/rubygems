@@ -1369,6 +1369,8 @@ maiha-dsl_accessor,0.3.2,""
 maiha-dsl_accessor,0.3.3,""
 mailslurp_client,4.3.3,MIT
 mailslurp_client,5.0.0,MIT
+mailslurp_client,7.0.7,MIT
+mailslurp_client,7.0.8,MIT
 mal,0.0.1,MIT
 mal,0.0.2,MIT
 mal,0.0.4,MIT

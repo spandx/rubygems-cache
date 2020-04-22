@@ -25,6 +25,7 @@ acme-pki,0.1.5,AGPL-3.0+
 acme-pki,0.2.1,AGPL-3.0+
 acorns-rds-auth,1.0.0,MIT
 acorns-rds-auth,1.0.1,MIT
+acorns-rds-auth,1.0.2,MIT
 act_with_flags,0.0.4,MIT
 act_with_flags,0.0.6,MIT
 act_with_flags,0.0.7,MIT

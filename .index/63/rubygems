@@ -663,6 +663,7 @@ danger-duplicate_localizable_strings,0.0.1,MIT
 danger-duplicate_localizable_strings,0.0.2,MIT
 danger-duplicate_localizable_strings,0.0.3,MIT
 danger-duplicate_localizable_strings,0.0.4,MIT
+danger-duplicate_localizable_strings,0.1.2,MIT
 daptiv-foodcritic-rules,0.0.1,APACHE2
 daptiv-foodcritic-rules,0.0.2,APACHE2
 daptiv-foodcritic-rules,1.0.0,APACHE2
@@ -2858,6 +2859,7 @@ sorbet-static-universal-darwin-16,0.5.5525,Apache-2.0
 sorbet-static-universal-darwin-16,0.5.5532,Apache-2.0
 sorbet-static-universal-darwin-16,0.5.5544,Apache-2.0
 sorbet-static-universal-darwin-16,0.5.5549,Apache-2.0
+sorbet-static-universal-darwin-16,0.5.5551,Apache-2.0
 sowing,1.0.0,""
 sowing,1.1.0,""
 span,0.0.1,MIT
@@ -2883,6 +2885,7 @@ spellr,0.7.1,MIT
 spellr,0.8.0,MIT
 spellr,0.8.1,MIT
 spellr,0.8.2,MIT
+spellr,0.8.3,MIT
 spingying,0.1.0,""
 spree_ajax_cart,1.0.0,""
 spree_ajax_cart,1.0.1,""

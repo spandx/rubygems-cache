@@ -884,6 +884,8 @@ chrisk-protopuffs,0.3.0,""
 circle_status,0.1.0,The MIT License (MIT)
 circle_status,0.1.1,The MIT License (MIT)
 cisco-deviot,0.1.0,Apache
+ckh_palindrome,0.1.0,""
+ckh_palindrome,0.2.0,""
 cli_tester,0.0.1,MIT
 cli_tester,0.0.2,MIT
 cli_tester,0.0.3,MIT
@@ -3092,6 +3094,7 @@ sisimai,4.25.2,BSD-2-Clause
 sisimai,4.25.3,BSD-2-Clause
 sisimai,4.25.4,BSD-2-Clause
 sisimai,4.25.5,BSD-2-Clause
+sisimai,4.25.6,BSD-2-Clause
 sitemap-ping,0.2.0,MIT
 sitemap-ping,0.2.1,MIT
 sixarm_ruby_date_stamp,1.1.2,Apache-2.0-|-Artistic-2.0-|-BSD-3-Clause-|-GPL-3.0-|-MIT-|-MPL-2.0

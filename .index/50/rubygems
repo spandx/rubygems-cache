@@ -670,6 +670,8 @@ fluent-plugin-flatten,0.0.8,MIT
 fluent-plugin-flatten,0.0.9,MIT
 fluent-plugin-flatten,0.1.0,MIT
 fluent-plugin-flatten,0.1.1,MIT
+fluent-plugin-forward-aws-alt,0.1.9,""
+fluent-plugin-forward-aws-alt,0.2.0,""
 fluent-plugin-throttle,0.0.1,Apache-2.0
 fluent-plugin-throttle,0.0.2,Apache-2.0
 fluent-plugin-throttle,0.0.3,Apache-2.0
@@ -2512,6 +2514,7 @@ vimdeck,0.3.0,MIT
 vimdeck,0.3.1,MIT
 vimdeck,0.3.2,MIT
 vimdeck,0.3.3,MIT
+vncpost_api,0.1.0,MIT
 vostok,0.0.1,MIT
 vostok,0.0.2,MIT
 vostok,0.0.3,MIT

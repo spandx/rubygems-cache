@@ -2428,6 +2428,7 @@ ptimelog,0.5.2,MIT
 ptimelog,0.5.3,MIT
 ptimelog,0.6.0,MIT
 ptimelog,0.7.0,MIT
+ptimelog,0.8.0,MIT
 publican,1.0.0,MIT
 pubnub-ruby,0.0.1,""
 pubnub-ruby,0.0.7,""
@@ -2789,6 +2790,7 @@ sensu-plugins-postgres,2.3.2,MIT
 sensu-plugins-postgres,2.4.0,MIT
 sensu-plugins-postgres,3.0.0,MIT
 sensu-plugins-postgres,4.0.0,MIT
+sensu-plugins-postgres,4.0.1,MIT
 sensu-plugins-vmstats,0.0.1,MIT
 sensu-plugins-vmstats,0.0.2,MIT
 sensu-plugins-vmstats,0.0.3,MIT
