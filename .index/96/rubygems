@@ -1522,11 +1522,14 @@ foreman_cockpit,2.0.3,GPL-3
 foreman_rh_cloud,0.9.4,GPL-3.0
 foreman_rh_cloud,0.9.4.1,GPL-3.0
 foreman_rh_cloud,0.9.5,GPL-3.0
+foreman_rh_cloud,0.9.6,GPL-3.0
 foreman_rh_cloud,1.0.4,GPL-3.0
 foreman_rh_cloud,1.0.4.1,GPL-3.0
 foreman_rh_cloud,1.0.5,GPL-3.0
+foreman_rh_cloud,1.0.6,GPL-3.0
 foreman_rh_cloud,2.0.4,GPL-3.0
 foreman_rh_cloud,2.0.5,GPL-3.0
+foreman_rh_cloud,2.0.6,GPL-3.0
 form_angular,0.0.1,MIT
 form_angular,0.0.2,MIT
 form_angular,0.0.3,MIT

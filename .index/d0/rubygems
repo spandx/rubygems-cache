@@ -72,6 +72,7 @@ airbrake-ruby-java,4.13.2,MIT
 airbrake-ruby-java,4.13.3,MIT
 airbrake-ruby-java,4.13.4,MIT
 airbrake-ruby-java,4.14.0,MIT
+airbrake-ruby-java,4.14.1,MIT
 airbrake-ruby-java,4.2.0,MIT
 airbrake-ruby-java,4.2.1,MIT
 airbrake-ruby-java,4.2.2,MIT
@@ -1230,6 +1231,7 @@ materialize-jekyll,1.0,MIT
 materialize-jekyll,1.0.1,MIT
 materialize-jekyll,1.0.2,MIT
 materialize-jekyll,1.1.0,MIT
+materialize-jekyll,1.2.0,MIT
 math_series,0.1.0,MIT
 mb-discid,0.2.0,""
 mccloud,0.0.11,""

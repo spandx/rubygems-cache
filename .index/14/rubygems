@@ -318,6 +318,7 @@ box_generator,0.1.0,""
 bridgetown-paginate,0.10.0,MIT
 bridgetown-paginate,0.10.1,MIT
 bridgetown-paginate,0.10.2,MIT
+bridgetown-paginate,0.11.0,MIT
 bridgetown-paginate,0.8.0,MIT
 bridgetown-paginate,0.8.1,MIT
 bridgetown-paginate,0.9.0,MIT
@@ -3105,6 +3106,7 @@ sorbet-runtime,0.5.5525,Apache-2.0
 sorbet-runtime,0.5.5532,Apache-2.0
 sorbet-runtime,0.5.5544,Apache-2.0
 sorbet-runtime,0.5.5549,Apache-2.0
+sorbet-runtime,0.5.5551,Apache-2.0
 sorting_table_for,0.2.2,""
 sorting_table_for,0.3.0,""
 spira-timestamps,0.0.1,MIT

@@ -557,6 +557,7 @@ deepstream,0.2.8,Apache-2.0
 deepstream,0.2.9,Apache-2.0
 deepstream,0.3.0,Apache-2.0
 deepstream,0.3.1,Apache-2.0
+deepstream,0.3.2,Apache-2.0
 delayed_job_status,0.0.1,MIT
 delayed_job_status,0.0.2,MIT
 delayed_job_status,0.0.3,MIT

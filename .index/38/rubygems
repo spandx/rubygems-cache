@@ -2555,6 +2555,7 @@ ruby-terraform,0.48.0,MIT
 ruby-terraform,0.5.0,MIT
 ruby-terraform,0.5.1,MIT
 ruby-terraform,0.50.0,MIT
+ruby-terraform,0.52.0,MIT
 ruby-terraform,0.6.0,MIT
 ruby-terraform,0.7.0,MIT
 ruby-terraform,0.8.0,MIT
@@ -2685,6 +2686,7 @@ slack-post,0.3.4,MIT
 slack-post,0.3.5,MIT
 slack-post,0.3.6,MIT
 slack-post,0.3.7,MIT
+slack-post,0.4.0,MIT
 sluggable_ts,0.0.0,""
 smartbytes,0.0.0,MIT
 smartbytes,0.6.0,MIT
