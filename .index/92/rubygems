@@ -122,6 +122,7 @@ bc-lightstep-ruby,1.6.2,MIT
 bc-lightstep-ruby,1.6.3,MIT
 bc-lightstep-ruby,1.6.4,MIT
 bc-lightstep-ruby,2.0.0,MIT
+bc-lightstep-ruby,2.1.0,MIT
 bcd,0.2,bsd
 bcd,0.3,bsd
 bcms_blog,1.2.0,""
@@ -763,6 +764,7 @@ eve_online,0.29.0,MIT
 eve_online,0.3.0,MIT
 eve_online,0.30.0,MIT
 eve_online,0.31.0,MIT
+eve_online,0.32.0,MIT
 eve_online,0.4.0,MIT
 eve_online,0.5.0,MIT
 eve_online,0.6.0,MIT
@@ -1526,6 +1528,7 @@ logstash-output-elasticsearch-java,10.3.2,apache-2.0
 logstash-output-elasticsearch-java,10.3.3,apache-2.0
 logstash-output-elasticsearch-java,10.4.0,apache-2.0
 logstash-output-elasticsearch-java,10.4.1,apache-2.0
+logstash-output-elasticsearch-java,10.5.0,apache-2.0
 logstash-output-elasticsearch-java,2.1.0,apache-2.0
 logstash-output-elasticsearch-java,2.1.1,apache-2.0
 logstash-output-elasticsearch-java,2.1.2,apache-2.0

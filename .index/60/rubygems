@@ -443,6 +443,7 @@ azure-core,0.1.6,"Apache License, Version 2.0"
 azure-core,0.1.7,"Apache License, Version 2.0"
 azure-core,0.1.8,"Apache License, Version 2.0"
 azure-core,0.1.9,"Apache License, Version 2.0"
+azure_mgmt_kubernetes_configuration,0.17.0,MIT
 babl-json,0.1.1,MIT
 babl-json,0.1.2,MIT
 babl-json,0.1.3,MIT
@@ -2519,6 +2520,7 @@ ruby_bitbankcc,0.1.0,""
 ruby_bitbankcc,0.1.1,""
 ruby_bitbankcc,0.1.2,""
 ruby_bitbankcc,0.1.3,""
+rubyinstaller-build,0.1.0,BSD-3-Clause
 rubysl-openssl,0.0.1,""
 rubysl-openssl,1.0.1,BSD
 rubysl-openssl,1.0.2,BSD

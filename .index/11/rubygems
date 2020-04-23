@@ -107,6 +107,8 @@ apache-loggen,0.0.5,Apache-2.0
 api-scheme,0.2,""
 api-scheme,0.2.1,""
 api-scheme,0.2.2,""
+apisonator,2.100.0,Apache-2.0
+apisonator,2.100.1,Apache-2.0
 apriori-algorithm,1.0.0,MIT
 apriori-algorithm,1.0.1,MIT
 aqueduct-elastic,0.2.0,CC BY-NC-SA 3.0

@@ -815,6 +815,7 @@ em-irc-bot,0.1.1,""
 em-irc-bot,1.0.0,""
 em-posixmq,0.1.0,""
 em-posixmq,0.2.2,""
+embulk-input-union-java,0.0.1,MIT
 encrypted_field,0.1.1,MIT
 encrypted_field,0.1.2,MIT
 encrypted_field,0.1.3,MIT

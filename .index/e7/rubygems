@@ -2532,6 +2532,8 @@ ruby-mysql-ext,2.9.12,Ruby's
 ruby-mysql-ext,2.9.13,Ruby's
 ruby-mysql-ext,2.9.14,Ruby
 ruby-mysql-ext,2.9.7,""
+ruby-prof-speedscope,0.2.0,MIT
+ruby-prof-speedscope,0.3.0,MIT
 ruby-tf-idf,0.0.1,""
 ruby-tf-idf,0.0.2,""
 ruby-tf-idf,0.0.3,""

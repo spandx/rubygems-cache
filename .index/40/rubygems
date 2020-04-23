@@ -292,6 +292,7 @@ cocoapods-jsource,0.0.2,MIT
 cocoapods-jsource,0.0.3,MIT
 cocoapods-jsource,0.0.4,MIT
 cocoapods-jsource,0.0.5,MIT
+cocoapods-jsource,0.0.6,MIT
 cocoapods-keep-multiversion-cache,0.0.1,MIT
 cocoapods-keep-multiversion-cache,0.0.2,MIT
 cocoapods-keep-multiversion-cache,0.3,MIT
@@ -1543,6 +1544,7 @@ mirror-api,0.0.8,""
 mirror-api,0.0.9,""
 mirror-api,0.1.0,""
 mirror-api,0.1.1,""
+mocmock,0.1.5,""
 mojo_logger-java,0.1.1,MIT
 mojo_logger-java,0.1.2,MIT
 mojo_logger-java,0.1.3,MIT

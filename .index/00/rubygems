@@ -36,6 +36,7 @@ admin_announcement,0.0.1,MIT
 administrate-field-shrine,0.0.1,MIT
 administrate-field-shrine,0.0.2,MIT
 administrate-field-shrine,0.0.3,MIT
+administrate-field-shrine,0.0.5,MIT
 aliyun-odps,0.1.0,""
 aliyun-odps,0.4.0,""
 aliyun-odps,0.4.1,""
@@ -2020,6 +2021,7 @@ puppet-retrospec,1.7.0,MIT
 puppet-retrospec,1.8.0,MIT
 qvem,0.0.1,MIT
 r2-oas,0.1.0,MIT
+r2-oas,0.1.2,MIT
 rack-signature,0.0.1,""
 rack-signature,0.0.3,""
 rack-signature,0.0.5,""

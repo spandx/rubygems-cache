@@ -899,6 +899,7 @@ aws-sdk,2.11.489,Apache-2.0
 aws-sdk,2.11.49,Apache-2.0
 aws-sdk,2.11.490,Apache-2.0
 aws-sdk,2.11.491,Apache-2.0
+aws-sdk,2.11.492,Apache-2.0
 aws-sdk,2.11.5,Apache-2.0
 aws-sdk,2.11.50,Apache-2.0
 aws-sdk,2.11.51,Apache-2.0
@@ -1581,6 +1582,7 @@ dont-overstay,0.0.1,MIT
 dont-overstay,0.0.2,MIT
 dont-overstay,0.0.3,MIT
 dont-overstay,0.0.4,MIT
+douyin_download,0.1.0,""
 drg_blog_news_forum,0.0.3,MIT-LICENSE
 drg_blog_news_forum,0.0.4,MIT-LICENSE
 drg_blog_news_forum,0.0.5,MIT-LICENSE

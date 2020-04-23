@@ -2187,6 +2187,9 @@ rubysl-net-pop,1.0.0,BSD
 rubysl-net-pop,2.0.1,BSD
 rubysl-securerandom,1.0.0,BSD
 rubysl-securerandom,2.0.0,BSD
+rudder_analytics_sync,1.0.0,MIT
+rudder_analytics_sync,1.0.1,MIT
+rudder_analytics_sync,1.0.2,MIT
 ryby,0.1.2,""
 s3stream,0.0.2,""
 s3stream,0.0.6,""
@@ -2346,6 +2349,8 @@ square.rb,4.0.0.20191217,Apache-2.0
 square.rb,4.1.0.20200122,Apache-2.0
 square.rb,5.0.0.20200226,Apache-2.0
 square.rb,5.1.0.20200325,Apache-2.0
+square.rb,5.2.0.20200422,Apache-2.0
+square.rb,5.2.1.20200422,Apache-2.0
 sqwiggle-ruby,0.0.1,MIT
 sqwiggle-ruby,0.0.2,MIT
 sqwiggle-ruby,0.0.3,MIT

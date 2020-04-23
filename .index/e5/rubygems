@@ -1259,6 +1259,8 @@ jenkins2,0.1.0,MIT
 jenkins2,1.0.0,MIT
 jenkins2,1.1.0,MIT
 jmcnevin-dryopteris,0.1.2,""
+johncoryk_palindrome,0.1.0,""
+johncoryk_palindrome,0.2.0,""
 jordandobson-purevolume,0.1.1,""
 jordandobson-purevolume,0.1.2,""
 jorm,0.0.1,MIT
@@ -2220,6 +2222,8 @@ sensu-plugins-disk-checks,4.0.0,MIT
 sensu-plugins-disk-checks,4.0.1,MIT
 sensu-plugins-disk-checks,5.0.0,MIT
 sensu-plugins-disk-checks,5.0.1,MIT
+sensu-plugins-disk-checks,5.1.0,MIT
+sensu-plugins-disk-checks,5.1.1,MIT
 sensu-plugins-uptime-checks,0.0.1,MIT
 sensu-plugins-uptime-checks,0.0.2,MIT
 sensu-plugins-uptime-checks,0.0.3,MIT
