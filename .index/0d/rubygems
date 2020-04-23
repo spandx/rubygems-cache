@@ -353,6 +353,7 @@ aws-sdk-redshift,1.38.0,Apache-2.0
 aws-sdk-redshift,1.39.0,Apache-2.0
 aws-sdk-redshift,1.4.0,Apache-2.0
 aws-sdk-redshift,1.40.0,Apache-2.0
+aws-sdk-redshift,1.41.0,Apache-2.0
 aws-sdk-redshift,1.5.0,Apache-2.0
 aws-sdk-redshift,1.6.0,Apache-2.0
 aws-sdk-redshift,1.7.0,Apache-2.0
@@ -886,6 +887,7 @@ circle_status,0.1.1,The MIT License (MIT)
 cisco-deviot,0.1.0,Apache
 ckh_palindrome,0.1.0,""
 ckh_palindrome,0.2.0,""
+ckh_palindrome,1.0.0,""
 cli_tester,0.0.1,MIT
 cli_tester,0.0.2,MIT
 cli_tester,0.0.3,MIT
@@ -1964,6 +1966,7 @@ jumbo-jekyll-theme,5.7.0.2,MIT
 jumbo-jekyll-theme,5.7.0.3,MIT
 jumbo-jekyll-theme,5.7.0.4,MIT
 jumbo-jekyll-theme,5.7.0.5,MIT
+jumbo-jekyll-theme,5.7.0.6,MIT
 kajabi_parsley,0.1.0,MIT
 kalibro_client,0.0.1,LGPL-3.0-only
 kalibro_client,0.0.2,LGPL-3.0-only

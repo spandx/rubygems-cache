@@ -1067,6 +1067,7 @@ gitaly,1.84.0,MIT
 gitaly,1.85.0,MIT
 gitaly,1.86.0,MIT
 gitaly,1.87.0,MIT
+gitaly,12.10.0,MIT
 gitloc-JamesMarkWilton,0.1.0,MIT
 gitloc-JamesMarkWilton,0.1.1,MIT
 gitme_time,0.0.1,""

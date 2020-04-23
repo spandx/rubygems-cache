@@ -1128,6 +1128,7 @@ groundskeeper-bitcore,0.11.0,MIT
 groundskeeper-bitcore,0.12.0,MIT
 groundskeeper-bitcore,0.13.0,MIT
 groundskeeper-bitcore,0.14.0,MIT
+groundskeeper-bitcore,0.15.0,MIT
 groundskeeper-bitcore,0.2.0,MIT
 groundskeeper-bitcore,0.2.1,MIT
 groundskeeper-bitcore,0.2.2,MIT
@@ -2633,6 +2634,7 @@ sorbet,0.5.5532,Apache-2.0
 sorbet,0.5.5544,Apache-2.0
 sorbet,0.5.5549,Apache-2.0
 sorbet,0.5.5551,Apache-2.0
+sorbet,0.5.5555,Apache-2.0
 sourcerer,0.5.1,MIT
 sourcerer,0.5.2,MIT
 sourcerer,0.6.0,MIT
@@ -2994,6 +2996,7 @@ vncrec,1.0.3,MIT
 vncrec,1.0.4,MIT
 vncrec,1.0.6,MIT
 voteable_dafna,0.0.0,""
+vpkc_palindrome,0.1.0,""
 walltime,0.0.2,MIT
 walltime,0.0.3,MIT
 walltime,0.0.4,MIT

@@ -1683,6 +1683,7 @@ rack-logjam,0.1.0,MIT
 rack-logjam,0.2.0,MIT
 rack-logjam,0.2.1,MIT
 rack-shelf,0.0.1,MIT
+rack-shelf,0.0.2,MIT
 radiant-site_templates-extension,1.0.0,""
 radiant-site_templates-extension,1.0.1,""
 radiant-site_templates-extension,1.0.2,""

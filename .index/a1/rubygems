@@ -2244,6 +2244,7 @@ ruboty-wikipedia,0.1.4,MIT
 ruby-cntk,0.1.1,MIT
 ruby-magic,0.0.1,"Apache License, Version 2.0"
 ruby-magic,0.2.0,"Apache License, Version 2.0"
+ruby-next-parser,2.8.0.0,MIT
 ruby-nmap,0.10.0,MIT
 ruby-nmap,0.5.1,""
 ruby-nmap,0.7.0,MIT
@@ -2920,6 +2921,7 @@ sorbet-static-x86_64-linux,0.5.5532,Apache-2.0
 sorbet-static-x86_64-linux,0.5.5544,Apache-2.0
 sorbet-static-x86_64-linux,0.5.5549,Apache-2.0
 sorbet-static-x86_64-linux,0.5.5551,Apache-2.0
+sorbet-static-x86_64-linux,0.5.5555,Apache-2.0
 spanx,0.1.0,""
 spanx,0.1.1,""
 spanx,0.3.0,""

@@ -382,6 +382,7 @@ aws-sdk-s3,1.61.0,Apache-2.0
 aws-sdk-s3,1.61.1,Apache-2.0
 aws-sdk-s3,1.61.2,Apache-2.0
 aws-sdk-s3,1.62.0,Apache-2.0
+aws-sdk-s3,1.63.0,Apache-2.0
 aws-sdk-s3,1.7.0,Apache-2.0
 aws-sdk-s3,1.8.0,Apache-2.0
 aws-sdk-s3,1.8.1,Apache-2.0
@@ -1210,6 +1211,7 @@ enem_solicitacao,0.0.1,MIT
 eost,0.1.3,MIT
 eost,0.1.4,MIT
 eost,0.1.5,MIT
+eost,0.1.6,MIT
 epath,0.1.1,""
 epath,0.2.0,""
 esystem,0.0.14,GPL-2.0
@@ -1487,6 +1489,8 @@ hola-v1v,0.0.10,MIT
 hola-v1v,0.0.11,MIT
 hola-v1v,0.0.12,MIT
 hola-v1v,0.0.13,MIT
+hola-v1v,0.0.14,MIT
+hola-v1v,0.0.15,MIT
 hola-v1v,0.0.3,MIT
 hola-v1v,0.0.4,MIT
 hola-v1v,0.0.5,MIT

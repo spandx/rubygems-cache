@@ -868,6 +868,7 @@ aws-sdk-core,2.11.489,Apache-2.0
 aws-sdk-core,2.11.49,Apache-2.0
 aws-sdk-core,2.11.490,Apache-2.0
 aws-sdk-core,2.11.491,Apache-2.0
+aws-sdk-core,2.11.492,Apache-2.0
 aws-sdk-core,2.11.5,Apache-2.0
 aws-sdk-core,2.11.50,Apache-2.0
 aws-sdk-core,2.11.51,Apache-2.0
@@ -1844,6 +1845,7 @@ csv_rb,5.2.3.2,""
 csv_rb,6.0.2.1,""
 csv_rb,6.0.2.2,""
 csv_rb,6.0.2.3,""
+csv_rb,6.0.2.4,""
 cypher-rack-dickbarblocker,0.1.0,""
 cypher-rack-dickbarblocker,0.1.1,""
 cypher-rack-dickbarblocker,0.1.2,""

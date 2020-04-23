@@ -673,6 +673,7 @@ dropbox-api,0.4.4,MIT
 dropbox-api,0.4.5,MIT
 dropbox-api,0.4.6,MIT
 dropbox-api,0.4.7,MIT
+dropbox-api,0.4.8,Apache-2.0
 dry-types-rails,0.2.0,MIT
 dry-types-rails,0.3.0,MIT
 dry-types-rails,0.3.1,MIT
@@ -1022,6 +1023,7 @@ green_day,0.1.5,MIT
 green_day,0.1.6,MIT
 green_day,0.1.7,MIT
 green_day,0.1.8,MIT
+green_day,0.1.9,MIT
 griddler-acd,1.0.0,""
 griddler-acd,1.1.0,""
 gscomp,0.0.1,""
@@ -1759,6 +1761,7 @@ mongo,2.11.2,Apache-2.0
 mongo,2.11.3,Apache-2.0
 mongo,2.11.4,Apache-2.0
 mongo,2.12.0,Apache-2.0
+mongo,2.12.1,Apache-2.0
 mongo,2.2.0,Apache-2.0
 mongo,2.2.1,Apache-2.0
 mongo,2.2.2,Apache-2.0
