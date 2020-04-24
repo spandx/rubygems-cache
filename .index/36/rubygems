@@ -348,6 +348,7 @@ awslive-inputlooper,0.1.6,MIT
 awslive-inputlooper,0.1.7,MIT
 awslive-inputlooper,0.1.8,MIT
 awslive-inputlooper,0.1.9,MIT
+awslive-inputlooper,0.2.0,MIT
 babylonia,0.0.1,MIT
 babylonia,0.0.2,MIT
 babylonia,0.0.3,MIT
@@ -1236,6 +1237,8 @@ govuk_publishing_components,21.41.0,MIT
 govuk_publishing_components,21.41.1,MIT
 govuk_publishing_components,21.41.2,MIT
 govuk_publishing_components,21.41.3,MIT
+govuk_publishing_components,21.41.4,MIT
+govuk_publishing_components,21.42.0,MIT
 govuk_publishing_components,21.5.0,MIT
 govuk_publishing_components,21.6.0,MIT
 govuk_publishing_components,21.6.1,MIT

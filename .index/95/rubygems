@@ -900,6 +900,7 @@ aws-sdk,2.11.49,Apache-2.0
 aws-sdk,2.11.490,Apache-2.0
 aws-sdk,2.11.491,Apache-2.0
 aws-sdk,2.11.492,Apache-2.0
+aws-sdk,2.11.493,Apache-2.0
 aws-sdk,2.11.5,Apache-2.0
 aws-sdk,2.11.50,Apache-2.0
 aws-sdk,2.11.51,Apache-2.0
@@ -1583,6 +1584,7 @@ dont-overstay,0.0.2,MIT
 dont-overstay,0.0.3,MIT
 dont-overstay,0.0.4,MIT
 douyin_download,0.1.0,""
+douyin_download,0.1.1,""
 drg_blog_news_forum,0.0.3,MIT-LICENSE
 drg_blog_news_forum,0.0.4,MIT-LICENSE
 drg_blog_news_forum,0.0.5,MIT-LICENSE
@@ -3633,6 +3635,7 @@ safe_regexp,0.2.0,MIT
 safe_regexp,0.2.1,MIT
 safe_regexp,0.2.2,MIT
 safe_regexp,0.3.0,MIT
+safe_regexp,0.4.0,MIT
 salesforce_connect,1.0.0,MIT
 salesforce_connect,1.1.0,MIT
 samplegem156,0.1.0,MIT
@@ -4262,6 +4265,7 @@ structured_data,0.1.0,MIT
 structured_data,0.1.1,MIT
 studium,0.9.366,GPL-2.0
 studium,0.9.367,GPL-2.0
+studium,0.9.368,GPL-2.0
 sugoi_aliases_updator,0.0.1,MIT
 sugoi_aliases_updator,0.0.2,MIT
 sugoi_aliases_updator,0.0.3,MIT

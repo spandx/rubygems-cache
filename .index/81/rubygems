@@ -829,6 +829,7 @@ dor-services,9.0.0,ALv2-|-Stanford University
 dor-services,9.1.0,ALv2-|-Stanford University
 dor-services,9.2.0,ALv2-|-Stanford University
 dor-services,9.2.1,ALv2-|-Stanford University
+dor-services,9.3.0,ALv2-|-Stanford University
 dotmailer,0.0.1,""
 dotmailer,0.0.2,""
 dotmailer,0.0.3,""
@@ -2412,6 +2413,7 @@ raygun-apm-x64-mingw32,1.0.28,""
 raygun-apm-x64-mingw32,1.0.29,""
 raygun-apm-x64-mingw32,1.0.3,""
 raygun-apm-x64-mingw32,1.0.30,""
+raygun-apm-x64-mingw32,1.0.31,""
 raygun-apm-x64-mingw32,1.0.4,""
 raygun-apm-x64-mingw32,1.0.5,""
 raygun-apm-x64-mingw32,1.0.6,""

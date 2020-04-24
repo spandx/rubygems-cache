@@ -679,6 +679,7 @@ cloud_payments,0.0.2,MIT
 cloud_payments,0.0.3,MIT
 cloud_payments,0.0.4,MIT
 cloud_payments,0.0.6,MIT
+cloud_payments,1.0.0,MIT
 cocoapods-repo-tal,0.0.1,MIT
 cocoapods-repo-tal,0.0.2,MIT
 codetree,0.0.1,BSD
@@ -2290,6 +2291,8 @@ pad_utils,1.7.1,Apache-2.0
 pad_utils,1.8.0,Apache-2.0
 pad_utils,1.9.0,Apache-2.0
 pad_utils,1.9.1,Apache-2.0
+paper_trail-active_record,0.1.0,""
+paper_trail-active_record,0.1.1,""
 paseto,0.2.0,MIT
 paseto,0.3.0,MIT
 paseto,0.3.1,MIT

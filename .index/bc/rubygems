@@ -3256,6 +3256,8 @@ seamusabshere-conversions,1.4.1,""
 seamusabshere-conversions,1.4.2,""
 semantic_version,0.1,MIT
 sendify,0.0.1,""
+sendingmailwithobserver,0.0.0,""
+sendingmailwithobserver,0.1.0,""
 sensu-plugin-collectd,0.1.1,""
 sensu-plugin-collectd,0.2.1,MIT
 sensu-plugins-eventstore,0.0.10,MIT

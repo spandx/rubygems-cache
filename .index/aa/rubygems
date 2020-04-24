@@ -498,6 +498,7 @@ cocoapods-assets-cleaner,0.1.0,MIT
 cocoapods-assets-cleaner,0.1.1,MIT
 code_spike,0.0.1,""
 code_spike,0.0.5,""
+coerce_boolean,0.1.0,MIT
 color_palette,0.0.1,MIT
 compath,0.1.0,MIT
 compath,0.1.1,MIT
@@ -767,6 +768,7 @@ fastlane-plugin-aws_device_farm,0.3.11,MIT
 fastlane-plugin-aws_device_farm,0.3.12,MIT
 fastlane-plugin-aws_device_farm,0.3.13,MIT
 fastlane-plugin-aws_device_farm,0.3.15,MIT
+fastlane-plugin-aws_device_farm,0.3.16,MIT
 fastlane-plugin-aws_device_farm,0.3.2,MIT
 fastlane-plugin-aws_device_farm,0.3.3,MIT
 fastlane-plugin-aws_device_farm,0.3.4,MIT

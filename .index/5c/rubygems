@@ -774,6 +774,7 @@ ecom_core,1.1.24,MIT
 ecom_core,1.1.25,MIT
 ecom_core,1.1.26,MIT
 ecom_core,1.1.27,MIT
+ecom_core,1.1.28,MIT
 ecom_core,1.1.3,MIT
 ecom_core,1.1.4,MIT
 ecom_core,1.1.5,MIT
@@ -2014,6 +2015,7 @@ overcommit,0.50.0,MIT
 overcommit,0.51.0,MIT
 overcommit,0.52.0,MIT
 overcommit,0.52.1,MIT
+overcommit,0.53.0,MIT
 overcommit,0.6.0,MIT
 overcommit,0.6.1,MIT
 overcommit,0.6.2,MIT

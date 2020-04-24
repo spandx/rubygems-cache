@@ -32,6 +32,7 @@ RubyRanges,0.0.1,""
 RubyRanges,0.0.3,""
 aadigamov_palindrome,0.1.0,""
 aadigamov_palindrome,0.2.0,""
+action_dispatch-disable_x_xss_protection,0.1.0,MIT
 active-campaign-rails,0.0.1,MIT
 active-campaign-rails,0.0.2,MIT
 active-campaign-rails,0.0.3,MIT

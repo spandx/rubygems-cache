@@ -3268,6 +3268,7 @@ tramway-page,1.5.1.1,MIT
 tramway-page,1.5.2,MIT
 tramway-page,1.5.2.1,MIT
 tramway-page,1.5.2.2,MIT
+tramway-page,1.5.2.3,MIT
 transactional_lock,0.1.0,MIT
 tree_support,0.1.0,""
 tree_support,0.1.1,""
@@ -3567,6 +3568,9 @@ yamazaki,0.3.7,WTFPL
 yarii-editor,0.4.0,MIT
 yarii-editor,0.4.1,MIT
 yarii-editor,0.4.2,MIT
+yarii-editor,0.4.3,MIT
+yarii-editor,0.4.4,MIT
+yarii-editor,0.4.5,MIT
 yasf,0.0.4,""
 yasf,0.0.5,""
 yasf,0.0.6,""

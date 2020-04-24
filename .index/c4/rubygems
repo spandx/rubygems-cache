@@ -1023,6 +1023,7 @@ dor-services-client,4.9.0,""
 dor-services-client,5.0.0,""
 dor-services-client,5.1.0,""
 dor-services-client,5.2.0,""
+dor-services-client,6.0.0,""
 dotenv-s3,0.1.0,MIT
 dotenv-s3,0.2.0,MIT
 dotenv-s3,0.2.1,MIT

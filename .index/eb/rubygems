@@ -500,6 +500,7 @@ clockwork-test,0.1.0,MIT
 clockwork-test,0.1.1,MIT
 clockwork-test,0.2.0,MIT
 clockwork-test,0.3.0,MIT
+clockwork-test,0.4.0,MIT
 clusterable,0.0.1,""
 clustering,0.0.1,""
 clustering,0.0.2,""
@@ -738,6 +739,7 @@ envlogic,1.0.3,""
 envlogic,1.0.4,MIT
 envlogic,1.1.0,MIT
 envlogic,1.1.1,MIT
+envlogic,1.1.2,LGPL-3.0
 epm,0.3.1,""
 epm,0.3.10,""
 epm,0.3.11,""

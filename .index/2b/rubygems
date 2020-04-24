@@ -1164,6 +1164,7 @@ foreman_scc_manager,1.6.1,GPL-3.0
 foreman_scc_manager,1.6.2,GPL-3.0
 foreman_scc_manager,1.6.3,GPL-3.0
 foreman_scc_manager,1.7.0,GPL-3.0
+foreman_scc_manager,1.7.1,GPL-3.0
 foreman_scc_manager,1.8.0,GPL-3.0
 foreman_scc_manager,1.8.1,GPL-3.0
 foreman_scc_manager,1.8.2,GPL-3.0
@@ -1861,6 +1862,8 @@ lraph,0.0.2,MIT
 lraph,0.0.3,MIT
 lraph,0.0.4,MIT
 lraph,0.0.5,MIT
+lumise,0.1.0,Unlicense
+lumise,0.1.1,Unlicense
 lycra,0.0.1,""
 lycra,0.0.2,""
 lycra,0.0.3,""
