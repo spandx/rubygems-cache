@@ -367,6 +367,7 @@ cypher_builder,0.0.4,MIT
 cypher_builder,0.0.5,MIT
 data_structure_library,0.1.0,GPL-3.0-only
 data_structure_library,1.0.0,GPL-3.0-only
+data_structure_library,2.0.0,GPL-3.0
 deadweight,0.2.0,""
 deep-hash-struct,0.1.0,MIT
 deep-hash-struct,0.1.1,MIT
@@ -592,6 +593,7 @@ finapps_core,5.0.4,MIT
 finapps_core,5.0.5,MIT
 finapps_core,5.0.6,MIT
 finapps_core,5.0.7,MIT
+finddotindirectorynamegems,0.0.0,""
 fipextractor,0.0.1,MIT
 fipextractor,1.0.0,MIT
 fishplate,0.1.0,MIT

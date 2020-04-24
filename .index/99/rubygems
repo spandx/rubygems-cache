@@ -2311,6 +2311,7 @@ pugin,1.9.7,Nonstandard
 pulp_container_client,1.0.0,GPL-2.0
 pulp_container_client,1.1.0,GPL-2.0+
 pulp_container_client,1.2.0,GPL-2.0+
+pulp_container_client,1.3.0,GPL-2.0+
 purplish-frame,0.0.1,BSD
 purplish-frame,0.0.10,BSD
 purplish-frame,0.0.11,BSD-2-Clause
@@ -2716,6 +2717,7 @@ selfid,0.0.101,""
 selfid,0.0.102,""
 selfid,0.0.103,""
 selfid,0.0.104,""
+selfid,0.0.105,""
 selfid,0.0.11,""
 selfid,0.0.12,""
 selfid,0.0.13,""

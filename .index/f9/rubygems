@@ -200,6 +200,7 @@ aws-sdk-elasticloadbalancing,1.9.0,Apache-2.0
 aws-sdk-mediapackagevod,1.0.0,Apache-2.0
 aws-sdk-mediapackagevod,1.1.0,Apache-2.0
 aws-sdk-mediapackagevod,1.10.0,Apache-2.0
+aws-sdk-mediapackagevod,1.11.0,Apache-2.0
 aws-sdk-mediapackagevod,1.2.0,Apache-2.0
 aws-sdk-mediapackagevod,1.3.0,Apache-2.0
 aws-sdk-mediapackagevod,1.4.0,Apache-2.0
@@ -1249,6 +1250,7 @@ git-bundle,1.0.0,MIT
 git-bundle,1.0.1,MIT
 git-bundle,1.0.10,MIT
 git-bundle,1.0.11,MIT
+git-bundle,1.0.12,MIT
 git-bundle,1.0.2,MIT
 git-bundle,1.0.3,MIT
 git-bundle,1.0.4,MIT

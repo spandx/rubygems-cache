@@ -2709,6 +2709,7 @@ sorbet-static-java,0.5.5544,Apache-2.0
 sorbet-static-java,0.5.5549,Apache-2.0
 sorbet-static-java,0.5.5551,Apache-2.0
 sorbet-static-java,0.5.5555,Apache-2.0
+sorbet-static-java,0.5.5560,Apache-2.0
 spade,0.0.1,""
 spade,0.0.2,""
 spade,0.1.1.1,""
@@ -2925,6 +2926,7 @@ typesafe_enum,0.1.8,MIT
 typesafe_enum,0.1.9,MIT
 typesafe_enum,0.2.0,MIT
 typesafe_enum,0.2.1,MIT
+typesafe_enum,0.2.2,MIT
 typescript-rails,0.0.2,""
 typescript-rails,0.1.1,""
 typescript-rails,0.1.2,""

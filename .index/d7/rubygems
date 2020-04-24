@@ -1421,6 +1421,7 @@ kitchen-azurerm,0.15.0,Apache-2.0
 kitchen-azurerm,0.15.1,Apache-2.0
 kitchen-azurerm,0.15.2,Apache-2.0
 kitchen-azurerm,0.16.0,Apache-2.0
+kitchen-azurerm,0.17.0,Apache-2.0
 kitchen-azurerm,0.2.0,Apache-2.0
 kitchen-azurerm,0.2.1,Apache-2.0
 kitchen-azurerm,0.2.2,Apache-2.0
@@ -1680,6 +1681,7 @@ mina-infinum,1.4.0,MIT
 mina-infinum,1.4.1,MIT
 mina-infinum,1.5.0,MIT
 mina-infinum,1.6.0,MIT
+mina-infinum,1.7.0,MIT
 mjml-rails,2.1.1,MIT
 mjml-rails,2.1.4,MIT
 mjml-rails,2.1.4.1,MIT
@@ -2135,6 +2137,7 @@ puppet-blacksmith,4.1.1,""
 puppet-blacksmith,4.1.2,""
 puppet-blacksmith,5.0.0,""
 puppet-blacksmith,5.1.0,""
+puppet-blacksmith,6.0.0,""
 push_me,0.1.0,""
 pushover,0.2.0,""
 pushover,0.3.1,""

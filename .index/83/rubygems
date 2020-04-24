@@ -421,6 +421,7 @@ cfndsl,1.0.2,MIT
 cfndsl,1.0.3,MIT
 cfndsl,1.0.4,MIT
 cfndsl,1.0.5,MIT
+cfndsl,1.0.6,MIT
 chai-backbone-rails,0.3.1,""
 chai-backbone-rails,0.4.0,""
 chef-vault-retry,0.1.0,"Apache License, v2.0"

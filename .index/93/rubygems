@@ -732,6 +732,9 @@ cfn-nag,0.5.33,MIT
 cfn-nag,0.5.34,MIT
 cfn-nag,0.5.35,MIT
 cfn-nag,0.5.36,MIT
+cfn-nag,0.5.37,MIT
+cfn-nag,0.5.38,MIT
+cfn-nag,0.5.39,MIT
 cfn-nag,0.5.4,MIT
 cfn-nag,0.5.5,MIT
 cfn-nag,0.5.6,MIT
@@ -2532,6 +2535,7 @@ paper_trail-rails,0.2.0,""
 paper_trail-rails,0.2.2,""
 paper_trail-rails,0.2.3,""
 paper_trail-rails,0.3.0,""
+paper_trail-rails,0.4.0,""
 paradox,0.0.1,MIT
 parallel_tests,0.10.0,MIT
 parallel_tests,0.10.1,MIT
@@ -3691,6 +3695,7 @@ wonder_credentials,1.0.0,MIT
 wordpress_import,0.0.1,MIT
 x25519-termux,1.0.0,BSD-3-Clause
 x25519-termux,1.0.1,BSD-3-Clause
+x25519-termux,1.0.2,BSD-3-Clause
 xHire-validates_as_email,0.6.0,""
 xbsryzmvon,1.1,MIT
 xgb,0.1.0,MIT

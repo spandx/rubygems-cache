@@ -2550,6 +2550,7 @@ rack-conditional,0.3.0,""
 rack-conditional,0.3.1,""
 rack-conditional,0.3.2,""
 rack-conditional,0.3.3,""
+rack-conditional,0.3.4,GPL-1.0-or-later-|-Artistic-1.0
 rack-livejs,0.0.1,MIT
 rack-livejs,0.1.1,MIT
 rack-livejs,0.2.0,MIT

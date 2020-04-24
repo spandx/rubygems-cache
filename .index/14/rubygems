@@ -1037,6 +1037,7 @@ glimmer,0.5.5,MIT
 glimmer,0.5.6,MIT
 glimmer,0.5.7,MIT
 glimmer,0.5.8,MIT
+glimmer,0.5.9,MIT
 go_watchdog,1.2.0,MIT
 go_watchdog,1.2.1,MIT
 go_watchdog,1.2.2,MIT
@@ -3110,6 +3111,7 @@ sorbet-runtime,0.5.5544,Apache-2.0
 sorbet-runtime,0.5.5549,Apache-2.0
 sorbet-runtime,0.5.5551,Apache-2.0
 sorbet-runtime,0.5.5555,Apache-2.0
+sorbet-runtime,0.5.5560,Apache-2.0
 sorting_table_for,0.2.2,""
 sorting_table_for,0.3.0,""
 spira-timestamps,0.0.1,MIT

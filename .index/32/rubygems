@@ -2677,6 +2677,8 @@ rubocop-ogat,1.8.0,MIT
 rubocop-ogat,1.8.2,MIT
 rubocop-ogat,1.9.0,MIT
 rubocop-ogat,1.9.1,MIT
+rubocop-ogat,2.0.0,MIT
+rubocop-ogat,2.0.1,MIT
 rubocop-postgresql_cursor,0.0.2,MIT
 ruby-bulksms,0.4.1,""
 ruby-bulksms,0.4.3,""
@@ -3217,6 +3219,7 @@ worker-glass,0.2.1,MIT
 worker-glass,0.2.2,MIT
 worker-glass,0.2.3,MIT
 worker-glass,0.2.4,MIT
+worker-glass,0.2.5,LGPL-3.0
 xcv,0.0.1,MIT
 xliffle,0.0.2,MIT
 xliffle,0.0.3,MIT
