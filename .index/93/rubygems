@@ -3696,6 +3696,7 @@ wordpress_import,0.0.1,MIT
 x25519-termux,1.0.0,BSD-3-Clause
 x25519-termux,1.0.1,BSD-3-Clause
 x25519-termux,1.0.2,BSD-3-Clause
+x25519-termux,1.1.0,BSD-3-Clause
 xHire-validates_as_email,0.6.0,""
 xbsryzmvon,1.1,MIT
 xgb,0.1.0,MIT

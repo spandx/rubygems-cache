@@ -1369,6 +1369,7 @@ aws-sdk-resources,2.11.490,Apache-2.0
 aws-sdk-resources,2.11.491,Apache-2.0
 aws-sdk-resources,2.11.492,Apache-2.0
 aws-sdk-resources,2.11.493,Apache-2.0
+aws-sdk-resources,2.11.494,Apache-2.0
 aws-sdk-resources,2.11.5,Apache-2.0
 aws-sdk-resources,2.11.50,Apache-2.0
 aws-sdk-resources,2.11.51,Apache-2.0
@@ -3682,6 +3683,7 @@ record_store,5.7.3,MIT
 record_store,5.7.4,MIT
 record_store,5.8.0,MIT
 record_store,5.9.0,MIT
+record_store,6.0.0,MIT
 redis-store-testing,0.0.1,MIT
 redis-store-testing,0.0.2,MIT
 redis-to-collection,0.1.0,MIT

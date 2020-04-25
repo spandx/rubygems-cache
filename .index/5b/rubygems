@@ -1391,6 +1391,8 @@ mclaunch,0.0.4,""
 mdb_basic_gem,0.1.0,""
 media-queries-callbacks,0.0.1,""
 media-queries-callbacks,0.0.2,""
+mergepdfs,0.1.0,""
+mergepdfs,0.1.1,GPL-3.0-or-later
 middleman-github_api,0.0.1,MIT
 middleman-inline_svg,0.1.0,""
 middleman-inline_svg,0.1.1,""

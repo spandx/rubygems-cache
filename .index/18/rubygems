@@ -216,6 +216,7 @@ attributor,5.0.2,MIT
 attributor,5.1.0,MIT
 attributor,5.2.0,MIT
 attributor,5.2.1,MIT
+attributor,5.3,MIT
 auser-sprinkle,0.1.5,""
 auser-sprinkle,0.1.6,""
 autolinkerjs,0.0.1,MIT
@@ -405,6 +406,10 @@ bunto-compose,1.0.0,MIT
 cabalist,0.0.1,""
 calamity,0.0.2,""
 calamity,0.0.5,""
+call-recorder-api,1.0.0,""
+call-recorder-api,1.0.1,""
+call-recorder-api,1.1.0,""
+call-recorder-api,1.2.0,""
 camo_image_tag,0.0.1,""
 cantango-core,0.1.5,""
 cantango-core,0.1.6,""
@@ -1249,6 +1254,7 @@ go_figure,0.0.2,""
 go_figure,0.0.5,""
 go_figure,0.0.6,""
 go_figure,0.0.8,""
+google_forms,0.0.1,MIT
 gorg_engine,1.1.0,MIT
 gorg_engine,1.2.0,MIT
 gorg_engine,1.2.3,MIT

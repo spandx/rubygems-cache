@@ -1405,6 +1405,7 @@ mongoid_enumerable,0.2.1,""
 mongoid_enumerable,0.2.2,""
 mongoid_enumerable,0.3.1,""
 mongoid_enumerable,0.4.0,""
+mongoid_enumerable,0.4.1,""
 monthly,0.1.0,MIT
 monthly,0.1.1,MIT
 monthly,0.1.2,MIT
@@ -1720,6 +1721,7 @@ realogy,0.4.9,MIT
 realogy,0.5.0,MIT
 realogy,0.5.1,MIT
 realogy,0.5.2,MIT
+realogy,0.5.3,MIT
 redis_mountable_bucket,0.1.0,MIT
 redisable,0.0.1,MIT
 redisable,0.0.2,MIT
