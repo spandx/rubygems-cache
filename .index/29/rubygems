@@ -2582,6 +2582,7 @@ rails-security-backports,0.0.2,MIT
 rails-security-backports,0.0.3,MIT
 rails-template-cache-senexx,0.2.1,MIT
 rails_admin_markdown,0.0.4,MIT
+rake_easy_rsa,0.3.0,MIT
 raptorize-rails,0.0.1,""
 raptorize-rails,0.0.2,MIT
 raptorize-rails,0.0.3,MIT

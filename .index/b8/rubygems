@@ -2187,6 +2187,7 @@ shopify_dashboard_plus,0.0.5,MIT
 shopify_dashboard_plus,0.0.6,MIT
 shopify_dashboard_plus,0.0.7,MIT
 shopify_dashboard_plus,1.0.0,MIT
+shoulda-matchers-cucumber,1.0.0,MIT
 shrinker,0.1.0,""
 shrinker,0.1.1,""
 shrinker,0.1.2,""

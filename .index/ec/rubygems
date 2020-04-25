@@ -1238,6 +1238,7 @@ i18n_plus,0.4.5,MIT
 iGEL-ua_parser,0.0.1,""
 iGEL-ua_parser,0.0.2,""
 icloud-reader,1.0.0,""
+incendio,0.0.1,MIT
 initium,0.0.1,MIT
 interchangeable,0.0.1,MIT
 interchangeable,0.0.2,MIT
@@ -1884,6 +1885,7 @@ opengl-bindings,1.5.2,zlib/libpng
 opengl-bindings,1.5.3,zlib/libpng
 opengl-bindings,1.6.0,Zlib
 opengl-bindings,1.6.1,Zlib
+opengl-bindings,1.6.10,Zlib
 opengl-bindings,1.6.2,Zlib
 opengl-bindings,1.6.3,Zlib
 opengl-bindings,1.6.4,Zlib

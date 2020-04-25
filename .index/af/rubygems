@@ -1144,6 +1144,7 @@ farmbot-resource,1.1.0,MIT
 farmbot-resource,1.2.0,MIT
 fastlane-plugin-update_team_identifier,1.0.0,MIT
 fastlane-plugin-update_team_identifier,1.1.0,MIT
+fernandovaladao_palindrome,1.0.0,""
 ffi-rexiv2,0.1.0,MIT
 file_loaders,0.2.0,MIT
 fitnessgenerator,0.0.0,""
@@ -2673,6 +2674,7 @@ rubocop-github,0.11.0,MIT
 rubocop-github,0.12.0,MIT
 rubocop-github,0.13.0,MIT
 rubocop-github,0.14.0,MIT
+rubocop-github,0.15.0,MIT
 rubocop-github,0.2.0,MIT
 rubocop-github,0.2.1,MIT
 rubocop-github,0.2.2,MIT

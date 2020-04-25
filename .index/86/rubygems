@@ -596,6 +596,7 @@ data_error_impl,1.4.4,MIT
 data_error_impl,1.4.5,MIT
 data_error_impl,2.0.0,MIT
 data_error_impl,2.0.1,MIT
+data_error_impl,3.0.0,GPL-3.0
 db_schema-reader-postgres,0.1,MIT
 db_schema-reader-postgres,0.1.1,MIT
 db_schema-reader-postgres,0.2,MIT

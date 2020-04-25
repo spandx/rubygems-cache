@@ -46,6 +46,7 @@ action_args,2.3.0,MIT
 action_args,2.3.1,MIT
 action_args,2.3.2,MIT
 action_args,2.4.0,MIT
+action_args,2.5.0,MIT
 activeadmin-dry-validation,0.1.0,MIT
 activemerchant-flexpay,0.1.0,MIT
 activemerchant-flexpay,0.9.0,MIT
@@ -1240,6 +1241,7 @@ mkbook,2.0.0,MIT
 mkbook,2.0.1,MIT
 mmh3,0.1.0,MIT
 mmh3,0.2.0,MIT
+mmh3,0.3.0,MIT
 mon,0.0.2,MIT
 mongoid-history-patched,0.2.3,""
 mongoid_session_store_ap,3.0.0,""

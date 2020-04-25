@@ -34,6 +34,7 @@ active_sms-backend-smsru,0.0.2,MIT
 active_sms-backend-smsru,0.0.3,MIT
 active_yaml,0.0.1,MIT
 activerecord-has_token,0.0.2,MIT
+activerecord-has_token,0.0.3,MIT
 activity_thrift_client,0.0.1,""
 aftership,1.0.3,""
 aftership,3.0.0,MIT

@@ -871,6 +871,7 @@ file-dependencies,0.1.5,APACHE 2.0
 file-dependencies,0.1.6,APACHE 2.0
 file-dependencies,0.1.7,APACHE 2.0
 flakyci_rspec,0.1.1,MIT
+flakyci_rspec,0.1.2,MIT
 flash-gordons-ruby-plsql,0.5.0,MIT
 flash-gordons-ruby-plsql,0.5.1,MIT
 flipper-activerecord3dot2,0.1.1,""

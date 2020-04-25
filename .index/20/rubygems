@@ -132,6 +132,7 @@ authn-rails,1.8.0,""
 aws-sdk-elasticinference,1.0.0,Apache-2.0
 aws-sdk-elasticinference,1.1.0,Apache-2.0
 aws-sdk-elasticinference,1.2.0,Apache-2.0
+aws-sdk-elasticinference,1.3.0,Apache-2.0
 aws-sigv2,1.0.0,Apache-2.0
 aws-sigv2,1.0.1,Apache-2.0
 aws-watcher,0.1.0,MIT
@@ -415,6 +416,7 @@ catarse_pagarme,2.14.10,""
 catarse_pagarme,2.14.11,""
 catarse_pagarme,2.14.12,""
 catarse_pagarme,2.14.13,""
+catarse_pagarme,2.14.14,""
 catarse_pagarme,2.14.2,""
 catarse_pagarme,2.14.3,""
 catarse_pagarme,2.14.4,""
