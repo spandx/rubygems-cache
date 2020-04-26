@@ -1145,6 +1145,7 @@ farmbot-resource,1.2.0,MIT
 fastlane-plugin-update_team_identifier,1.0.0,MIT
 fastlane-plugin-update_team_identifier,1.1.0,MIT
 fernandovaladao_palindrome,1.0.0,""
+fernandovaladao_palindrome,1.1.0,""
 ffi-rexiv2,0.1.0,MIT
 file_loaders,0.2.0,MIT
 fitnessgenerator,0.0.0,""
@@ -2483,6 +2484,7 @@ rails-deprecated_sanitizer,1.0.0,MIT
 rails-deprecated_sanitizer,1.0.1,MIT
 rails-deprecated_sanitizer,1.0.2,MIT
 rails-deprecated_sanitizer,1.0.3,MIT
+rails_json_serializer,1.0.0,GNU
 rails_stream_file,0.0.1,""
 rails_vue_melt,0.1.0,MIT
 rails_vue_melt,0.2.0,MIT
