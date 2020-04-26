@@ -2846,6 +2846,7 @@ simple_metrics,0.3.6,""
 simple_metrics,0.4.3,""
 simple_neural_network,0.0.1,MIT
 simple_neural_network,0.1.0,MIT
+simple_neural_network,0.2.0,MIT
 simple_pin,0.1.0,MIT
 simple_text,0.0.17,APACHE 2.0
 simple_text,0.0.18,APACHE 2.0

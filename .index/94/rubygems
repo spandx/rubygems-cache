@@ -1360,6 +1360,7 @@ net-ssh,5.1.0,MIT
 net-ssh,5.2.0,MIT
 net-ssh,6.0.0,MIT
 net-ssh,6.0.1,MIT
+net-ssh,6.0.2,MIT
 neutrino_client,0.0.3,""
 ngwords,0.1.0,MIT
 ngwords,0.1.1,MIT
@@ -1369,6 +1370,7 @@ ngwords,0.1.4,MIT
 nibo,0.1.1,MIT
 nibo,0.1.5,MIT
 nibo,0.1.6,MIT
+nnmax,0.1.0,MIT
 noise,0.9.0,MIT
 noise,0.9.1,MIT
 nokia_music,0.1.0,""

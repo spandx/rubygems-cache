@@ -120,6 +120,7 @@ active_logger,0.1.0,MIT
 active_logger,0.2.0,MIT
 active_logger,0.3.0,MIT
 active_logger,0.4.0,MIT
+active_logger,0.5.0,MIT
 active_record_inline_schema,0.5.1,""
 active_record_inline_schema,0.5.2,""
 active_record_inline_schema,0.5.7,""
