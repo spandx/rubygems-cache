@@ -2228,6 +2228,8 @@ solecist,0.0.4,BeerWare
 solecist,0.0.5,BeerWare
 solecist,0.0.6,BeerWare
 solecist,0.0.7,BeerWare
+solidus_invoice,0.1.0,MIT
+solidus_invoice,0.1.1,MIT
 solidus_stock_supplier,0.0.1,BSD-3-Clause
 sources-api-client,1.0.0,Unlicense
 speedo-formstrap,1.2.5,""
@@ -2591,6 +2593,7 @@ yume,0.1.2,MIT
 yuntongxun_api,0.1.0,MIT
 yuntongxun_api,0.1.1,MIT
 yuntongxun_api,0.1.2,MIT
+zconv,0.1.0,MIT
 zillow_demographics,0.0.2,""
 zlog,0.6,MPL-2.0
 zlog,0.7,MPL-2.0

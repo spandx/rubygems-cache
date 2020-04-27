@@ -649,6 +649,7 @@ event_store_client,0.1.6,MIT
 event_store_client,0.1.7,MIT
 event_store_client,0.1.8,MIT
 event_store_client,0.1.9,MIT
+event_store_client,0.2.0,MIT
 eventbrite,0.0.1,MIT
 eventbrite,0.1.0,MIT
 eventmachine-swinsian,0.0.1,""

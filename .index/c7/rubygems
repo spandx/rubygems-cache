@@ -788,6 +788,7 @@ effective_addresses,1.9.0,MIT
 effective_addresses,1.9.1,MIT
 ehbrs-tools,0.3.0,""
 ehbrs-tools,0.3.1,""
+ehbrs-tools,0.5.0,""
 em-console,1.0.0,""
 email-example-spec,0.1.0,MIT
 email_api,1.0.0,MIT

@@ -1542,6 +1542,7 @@ jsonapi-utils,0.6.0,MIT
 jsonapi-utils,0.7.0,MIT
 jsonapi-utils,0.7.1,MIT
 jsonapi-utils,0.7.2,MIT
+jsonapi-utils,0.7.3,MIT
 jwt-rb,0.0.1,MIT
 jwt-rb,0.0.2,MIT
 keepasshttp,0.1.1,MIT

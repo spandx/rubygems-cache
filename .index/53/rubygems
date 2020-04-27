@@ -3041,6 +3041,7 @@ sorbet-static-universal-darwin-17,0.5.5551,Apache-2.0
 sorbet-static-universal-darwin-17,0.5.5555,Apache-2.0
 sorbet-static-universal-darwin-17,0.5.5560,Apache-2.0
 sorbet-static-universal-darwin-17,0.5.5563,Apache-2.0
+sorbet-static-universal-darwin-17,0.5.5564,Apache-2.0
 spanx-client,0.0.1,MIT
 spine-permissions,0.1.0,BSD-3-Clause
 spine-rails,0.0.2,""
@@ -3182,6 +3183,7 @@ tenable-ruby,0.3.7,MIT
 tenable-ruby,0.3.8,MIT
 tenable-ruby,0.3.9,MIT
 tenable-ruby,0.4.0,MIT
+tenable-ruby,0.4.1,MIT
 tessitura,0.1.0,MIT
 thor_subtree,0.0.1,""
 thredded-markdown_katex,0.1.0,MIT

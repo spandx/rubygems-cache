@@ -387,6 +387,9 @@ bowser,1.0.5,MIT
 bowser,1.1.0,MIT
 box_cutter,0.0.1,MIT
 box_cutter,0.0.2,MIT
+bridgetown-sample-plugin,0.1.0,MIT
+bridgetown-sample-plugin,0.1.1,MIT
+bridgetown-sample-plugin,0.1.2,MIT
 bt_image_resizer,0.1.0,MIT
 buildrake,0.0.8,MIT
 bulma,0.1.0,MIT
@@ -735,6 +738,7 @@ coverband,4.2.1,MIT
 coverband,4.2.2,MIT
 coverband,4.2.3,MIT
 coverband,4.2.4,MIT
+coverband,4.2.5,MIT
 cowtech-rails,1.2.0.0,""
 cowtech-rails,1.5.0.0,""
 cowtech-rails,1.5.3.0,""

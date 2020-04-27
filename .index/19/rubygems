@@ -1621,6 +1621,7 @@ pdfjs_rails,0.0.1,MIT
 pdm-rails,0.0.1,""
 pdm-rails,0.0.3,""
 pdm-rails,0.0.8,""
+pdsm,0.0.1,""
 peek-elasticsearch,0.1.0,MIT
 peek-elasticsearch,0.1.1,MIT
 peek-elasticsearch,0.1.2,MIT
