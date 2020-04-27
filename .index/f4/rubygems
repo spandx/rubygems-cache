@@ -1518,6 +1518,12 @@ jmpod,0.1.5,""
 jmpod,0.1.6,""
 jmpod,0.1.7,""
 jmpod,0.1.8,""
+jmpod,0.1.9,""
+jmpod,0.2.0,""
+jmpod,0.2.1,""
+jmpod,0.2.2,""
+jmpod,0.2.4,""
+jmpod,0.2.5,""
 jovelabs,0.0.1,""
 jp_post,0.0.1,MIT
 jp_post,1.0.0,MIT
@@ -2917,6 +2923,7 @@ standard,0.2.1,""
 standard,0.2.2,""
 standard,0.2.3,""
 standard,0.2.4,""
+standard,0.2.5,""
 stdouttoggler,1.0.1,""
 stdouttoggler,1.0.2,""
 stdouttoggler,1.0.3,""
@@ -3116,6 +3123,8 @@ unipept,1.4.1,MIT
 unipept,2.0.0,MIT
 unipept,2.1.0,MIT
 unipept,2.1.1,MIT
+unipept,2.2.0,MIT
+unipept,2.2.1,MIT
 userlist,0.1.0,MIT
 userlist,0.2.0,MIT
 userlist,0.2.1,MIT

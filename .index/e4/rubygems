@@ -384,6 +384,7 @@ ci-queue,0.17.0,MIT
 ci-queue,0.17.1,MIT
 ci-queue,0.17.2,MIT
 ci-queue,0.18.0,MIT
+ci-queue,0.19.0,MIT
 ci-queue,0.2.0,MIT
 ci-queue,0.3.0,MIT
 ci-queue,0.4.0,MIT
@@ -2073,6 +2074,7 @@ soveran-override,0.0.7,""
 soveran-override,0.0.8,""
 soveran-override,0.0.9,""
 space_cat,0.0.0,MIT
+space_cat,0.0.1,MIT
 sparql-doc,0.0.3,""
 sparql-doc,0.0.4,""
 speedy_c2dm,1.0.1,""

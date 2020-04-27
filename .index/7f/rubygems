@@ -1912,6 +1912,7 @@ proz,2.1.4,MIT
 pry-remote-reloaded,1.0.0,""
 pushpop-github,0.1.0,""
 pushpop-github,0.1.1,""
+quarter,1.0.0,LGPL-3.0
 rabbit-slide-unasuke-rejectkaigi2019,1.0.0,""
 racf,0.6.0,""
 rack-access-capture,0.0.1,MIT
@@ -2975,6 +2976,7 @@ sorbet-static-universal-darwin-19,0.5.5551,Apache-2.0
 sorbet-static-universal-darwin-19,0.5.5555,Apache-2.0
 sorbet-static-universal-darwin-19,0.5.5560,Apache-2.0
 sorbet-static-universal-darwin-19,0.5.5563,Apache-2.0
+sorbet-static-universal-darwin-19,0.5.5564,Apache-2.0
 spree_ebsin,2.0.0,""
 spree_ebsin,2.0.1,""
 spree_ebsin,2.1.0,""

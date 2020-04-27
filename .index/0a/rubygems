@@ -707,6 +707,7 @@ fluent-plugin-sumologic_output,1.4.1,Apache-2.0
 fluent-plugin-sumologic_output,1.5.0,Apache-2.0
 fluent-plugin-sumologic_output,1.6.0,Apache-2.0
 fluent-plugin-sumologic_output,1.6.1,Apache-2.0
+fluent-plugin-sumologic_output,1.7.0,Apache-2.0
 forcer,0.4.0,MIT
 forcer,0.4.1,MIT
 forcer,0.4.11,MIT
@@ -1157,6 +1158,7 @@ inspec,4.17.7,Apache-2.0
 inspec,4.18.0,Apache-2.0
 inspec,4.18.100,Apache-2.0
 inspec,4.18.104,Apache-2.0
+inspec,4.18.108,Apache-2.0
 inspec,4.18.24,Apache-2.0
 inspec,4.18.38,Apache-2.0
 inspec,4.18.39,Apache-2.0

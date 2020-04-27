@@ -2477,6 +2477,7 @@ jenkins-builder,0.1.4,MIT
 jenkins-builder,0.1.5,MIT
 jenkins-builder,0.1.6,MIT
 jenkins-builder,0.2.0,MIT
+jenkins-builder,0.2.1,MIT
 jgrouper-server,0.0.1,""
 jimson-client,0.2.0,""
 jive_rails,0.0.1,MIT
@@ -3629,6 +3630,7 @@ smarter_dates,0.2.7.14,""
 smarter_dates,0.2.8,""
 smarter_dates,0.2.9,""
 sms_auth,0.0.1,MIT
+solargraph-standardrb,0.0.1,MIT
 source_win_bat,0.1.0,MIT
 source_win_bat,0.2.0,MIT
 source_win_bat,0.3.0,MIT

@@ -1749,6 +1749,7 @@ lightstreamer,0.12,MIT
 lightstreamer,0.13,MIT
 lightstreamer,0.14,MIT
 lightstreamer,0.15,MIT
+lightstreamer,0.16,MIT
 lightstreamer,0.2,MIT
 lightstreamer,0.3,MIT
 lightstreamer,0.4,MIT
@@ -1864,6 +1865,8 @@ lraph,0.0.4,MIT
 lraph,0.0.5,MIT
 lumise,0.1.0,Unlicense
 lumise,0.1.1,Unlicense
+lumise,0.2.0,Unlicense
+lumise,0.2.1,Unlicense
 lycra,0.0.1,""
 lycra,0.0.2,""
 lycra,0.0.3,""
@@ -1919,6 +1922,7 @@ madness,0.7.4,MIT
 madness,0.7.5,MIT
 madness,0.7.6,MIT
 madness,0.8.0,MIT
+madness,0.8.1,MIT
 maprbcpp,0.9.1,MIT
 marathon-scooter,0.1.0,MIT
 marathon-scooter,0.1.1,MIT

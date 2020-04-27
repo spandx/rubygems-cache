@@ -2712,6 +2712,7 @@ sorbet-static-java,0.5.5551,Apache-2.0
 sorbet-static-java,0.5.5555,Apache-2.0
 sorbet-static-java,0.5.5560,Apache-2.0
 sorbet-static-java,0.5.5563,Apache-2.0
+sorbet-static-java,0.5.5564,Apache-2.0
 spade,0.0.1,""
 spade,0.0.2,""
 spade,0.1.1.1,""
@@ -2996,6 +2997,7 @@ unicorn,5.5.1,GPL-2.0+-|-Ruby-1.8
 unicorn,5.5.2,GPL-2.0+-|-Ruby-1.8
 unicorn,5.5.3,GPL-2.0+-|-Ruby-1.8
 unicorn,5.5.4,GPL-2.0+-|-Ruby-1.8
+unicorn,5.5.5,GPL-2.0+-|-Ruby-1.8
 vagabond,0.1.0,""
 vagabond,0.1.2,""
 vagabond,0.1.4,""

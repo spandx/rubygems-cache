@@ -1480,6 +1480,7 @@ locomotive-subnav,0.1.1,MIT
 log4javascript-rails,1.4.6,""
 logstash-codec-rsa_encrypt,0.0.1,Apache-2.0
 logstash-output-thinkingdata,0.1.0,Apache-2.0
+logstash-output-thinkingdata,0.1.1,Apache-2.0
 logvisible,0.0.1,MIT
 loupe,0.0.1,MIT
 loupe,0.0.2,MIT
