@@ -1287,6 +1287,7 @@ json_csv,0.0.4,MIT
 json_csv,0.0.5,MIT
 json_csv,0.0.6,MIT
 json_csv,0.0.7,MIT
+json_csv,1.0.0,MIT
 json_schema_ref_parser,0.1.0,MIT
 jump,0.3.1,""
 jump,0.3.2,""
@@ -2154,6 +2155,7 @@ rspec-hive,0.6.1,MIT
 rspec-hive,0.6.2,MIT
 rspec-subject_call,1.0.0,""
 rspec-subject_call,1.0.1,""
+rspec-subject_call,1.0.2,MIT
 rubdo,0.1.10,""
 rubdo,0.1.4,""
 rubdo,0.2.3,""
@@ -2509,6 +2511,7 @@ tor-control,0.0.5,MIT
 tor-control,0.0.6,MIT
 tpt-rails,1.0.0,None
 tpt-rails,1.0.2,None
+tpt-rails,1.1.0,None
 tripletex_api,1.0.0,""
 tripletex_api,1.0.1,""
 tryme,0.0.1,MIT

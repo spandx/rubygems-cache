@@ -236,6 +236,8 @@ bounded_context,0.40.1,MIT
 bounded_context,0.41.0,MIT
 bounded_context,0.42.0,MIT
 bounded_context,0.43.0,MIT
+bounded_context,0.44.0,MIT
+bounded_context,1.0.0,MIT
 bower-rails,0.0.1,""
 bower-rails,0.0.4,""
 bower-rails,0.1.2,""

@@ -902,6 +902,7 @@ aws-sdk,2.11.491,Apache-2.0
 aws-sdk,2.11.492,Apache-2.0
 aws-sdk,2.11.493,Apache-2.0
 aws-sdk,2.11.494,Apache-2.0
+aws-sdk,2.11.495,Apache-2.0
 aws-sdk,2.11.5,Apache-2.0
 aws-sdk,2.11.50,Apache-2.0
 aws-sdk,2.11.51,Apache-2.0
@@ -4268,6 +4269,7 @@ studium,0.9.366,GPL-2.0
 studium,0.9.367,GPL-2.0
 studium,0.9.368,GPL-2.0
 studium,0.9.369,GPL-2.0
+studium,0.9.370,GPL-2.0
 sugoi_aliases_updator,0.0.1,MIT
 sugoi_aliases_updator,0.0.2,MIT
 sugoi_aliases_updator,0.0.3,MIT

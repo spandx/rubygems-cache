@@ -1370,6 +1370,7 @@ aws-sdk-resources,2.11.491,Apache-2.0
 aws-sdk-resources,2.11.492,Apache-2.0
 aws-sdk-resources,2.11.493,Apache-2.0
 aws-sdk-resources,2.11.494,Apache-2.0
+aws-sdk-resources,2.11.495,Apache-2.0
 aws-sdk-resources,2.11.5,Apache-2.0
 aws-sdk-resources,2.11.50,Apache-2.0
 aws-sdk-resources,2.11.51,Apache-2.0
@@ -1795,6 +1796,7 @@ azure_sdk,0.52.1,MIT
 azure_sdk,0.53.0,MIT
 azure_sdk,0.54.0,MIT
 azure_sdk,0.55.0,MIT
+azure_sdk,0.56.0,MIT
 azure_sdk,0.6.0,MIT
 azure_sdk,0.7.0,MIT
 azure_sdk,0.8.0,MIT

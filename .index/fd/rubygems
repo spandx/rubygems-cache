@@ -2086,6 +2086,8 @@ mini_mongo,0.0.4,""
 mini_mongo,0.1.0,""
 mini_mqtt,0.1.0,MIT
 mini_mqtt,0.1.1,MIT
+minima-scholar,2.5.0,MIT
+minima-scholar,2.5.1,MIT
 miro,0.2.2,""
 miro,0.2.3,""
 miro,0.3.0,MIT
@@ -3261,6 +3263,7 @@ tty-file,0.6.0,MIT
 tty-file,0.7.0,MIT
 tty-file,0.7.1,MIT
 tty-file,0.8.0,MIT
+tty-file,0.9.0,MIT
 tweemux,0.0.1,""
 tweemux,0.0.2,""
 tweemux,0.1.0,""

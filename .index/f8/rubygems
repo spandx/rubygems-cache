@@ -586,6 +586,7 @@ checkson,0.4,BSD-3-Clause
 checkson,0.5,BSD-3-Clause
 checkson,0.6,BSD-3-Clause
 checkson,0.7,BSD-3-Clause
+checkson,0.8,BSD-3-Clause
 cheese-chef-provisioning-azurerm,1.0.4,Apache-2.0
 cheese-chef-provisioning-azurerm,1.0.5,Apache-2.0
 cheese-chef-provisioning-azurerm,1.0.6,Apache-2.0
@@ -1279,6 +1280,7 @@ gitx,3.0.1,MIT
 gitx,3.0.2,MIT
 gitx,3.1.0,MIT
 gitx,3.1.1,MIT
+gitx,3.1.2,MIT
 glabssms,0.1.1,MIT
 glabssms,1.0.0,MIT
 glabssms,1.0.1,MIT

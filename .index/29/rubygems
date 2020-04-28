@@ -240,6 +240,8 @@ aggregate_root,0.40.1,MIT
 aggregate_root,0.41.0,MIT
 aggregate_root,0.42.0,MIT
 aggregate_root,0.43.0,MIT
+aggregate_root,0.44.0,MIT
+aggregate_root,1.0.0,MIT
 alpr_ruby,0.2.0,MIT
 alpr_ruby,0.3.0,MIT
 anecdotally-api,0.2,""
