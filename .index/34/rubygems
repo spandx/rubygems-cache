@@ -1342,6 +1342,7 @@ dev,2.1.15,Apache-2.0
 dev,2.1.150,Apache-2.0
 dev,2.1.151,Apache-2.0
 dev,2.1.152,Apache-2.0
+dev,2.1.153,Apache-2.0
 dev,2.1.16,Apache-2.0
 dev,2.1.17,Apache-2.0
 dev,2.1.18,Apache-2.0
@@ -2091,6 +2092,7 @@ itamae-plugin-recipe-redmine,0.0.2,MIT
 itamae-plugin-recipe-redmine,0.0.3,MIT
 itamae-plugin-recipe-redmine,0.1.0,MIT
 itamae-plugin-recipe-redmine,0.1.1,MIT
+itamae-plugin-recipe-redmine,0.1.2,MIT
 itunes-zach,1.0,GPLv2
 jbuilder_pagination,0.0.1,MIT
 jbuilder_pagination,1.0.0,MIT
@@ -3560,6 +3562,7 @@ sorbet-static-universal-darwin-15,0.5.5555,Apache-2.0
 sorbet-static-universal-darwin-15,0.5.5560,Apache-2.0
 sorbet-static-universal-darwin-15,0.5.5563,Apache-2.0
 sorbet-static-universal-darwin-15,0.5.5564,Apache-2.0
+sorbet-static-universal-darwin-15,0.5.5566,Apache-2.0
 sparkby,0.1.0,GPL
 spd_jwt_authorizor,1.0.0,""
 spd_jwt_authorizor,1.0.1,""

@@ -2820,6 +2820,9 @@ thecore_dataentry_with_date_start_and_end,1.2.5,MIT
 thecore_dataentry_with_date_start_and_end,1.2.6,MIT
 thecore_dataentry_with_date_start_and_end,1.2.7,MIT
 thecore_dataentry_with_date_start_and_end,1.2.8,MIT
+thecore_ui_commons,2.1.2,MIT
+thecore_ui_commons,2.1.3,MIT
+thecore_ui_commons,2.1.4,MIT
 thoughtpush,0.0.1,BSD-3-Clause
 thread_executor,1.0.1,BSD
 timmatheson-asset_autoinclude_helper,0.1.0,""

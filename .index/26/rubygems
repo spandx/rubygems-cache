@@ -1187,6 +1187,7 @@ kairos_rb,1.0,MIT
 kairos_rb,1.1,MIT
 kermit,1.0.1,""
 kermit,1.0.3,""
+kitchen-static,0.10.0,Apache-2.0
 kitchen-static,0.9.0,Apache-2.0
 kitchen-static,0.9.1,Apache-2.0
 kona-logger,0.0.5,""
@@ -1253,6 +1254,7 @@ line,1.0.0,""
 line,1.0.1,""
 linear_jedi_view_tool,0.1.0,MIT
 linked_list_library,0.1.0,GPL-3.0
+linked_list_library,0.2.0,GPL-3.0
 listpager,1.0,MIT
 listpager,1.0.1,MIT
 listpager,1.0.2,MIT
@@ -2502,6 +2504,7 @@ sorbet-static-universal-darwin-18,0.5.5555,Apache-2.0
 sorbet-static-universal-darwin-18,0.5.5560,Apache-2.0
 sorbet-static-universal-darwin-18,0.5.5563,Apache-2.0
 sorbet-static-universal-darwin-18,0.5.5564,Apache-2.0
+sorbet-static-universal-darwin-18,0.5.5566,Apache-2.0
 soybean,2.2.1,""
 soybean,2.4.0,""
 soybean,2.5.0,""

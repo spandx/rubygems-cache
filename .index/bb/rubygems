@@ -1137,6 +1137,7 @@ exiftool_vendored,11.92.0,MIT
 exiftool_vendored,11.93.0,MIT
 exiftool_vendored,11.94.0,MIT
 exiftool_vendored,11.96.0,MIT
+exiftool_vendored,11.97.0,MIT
 exiftool_vendored,9.33.0,MIT
 exiftool_vendored,9.33.1,MIT
 exiftool_vendored,9.37.0,MIT
@@ -3478,6 +3479,7 @@ trailblazer-activity,0.1.4,MIT
 trailblazer-activity,0.1.5,MIT
 trailblazer-activity,0.1.6,MIT
 trailblazer-activity,0.10.0,LGPL-3.0
+trailblazer-activity,0.10.1,LGPL-3.0
 trailblazer-activity,0.2.0,MIT
 trailblazer-activity,0.2.1,MIT
 trailblazer-activity,0.3.0,MIT

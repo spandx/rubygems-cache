@@ -650,6 +650,7 @@ fastlane-plugin-appicon,0.12.0,MIT
 fastlane-plugin-appicon,0.13.0,MIT
 fastlane-plugin-appicon,0.14.0,MIT
 fastlane-plugin-appicon,0.14.1,MIT
+fastlane-plugin-appicon,0.15.0,MIT
 fastlane-plugin-appicon,0.2.0,MIT
 fastlane-plugin-appicon,0.3.0,MIT
 fastlane-plugin-appicon,0.4.0,MIT
@@ -1387,6 +1388,7 @@ leaflet_helper,0.0.8,You want it?  Its yours!
 leaflet_helper,0.0.9,You want it?  Its yours!
 leaflet_helper,0.7.7.0,You want it?  Its yours!
 leaflet_helper,0.7.7.1,You want it?  Its yours!
+leaflet_helper,1.6.0.0,You want it?  Its yours!
 levelmanager,0.0.0,""
 liquid_tag_with_params,0.0.1,""
 liquid_tag_with_params,0.0.2,""

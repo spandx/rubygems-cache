@@ -1828,6 +1828,7 @@ parallel_rspec,0.2.0,MIT
 parallel_rspec,0.3.1,MIT
 parallel_rspec,0.4.1,MIT
 parallel_rspec,0.5.0,MIT
+parallel_rspec,1.2.0,MIT
 pat-maddox-sailthru,0.1.1,""
 path_to,0.1.0,""
 pdf_templator,0.0.1,""
@@ -1899,6 +1900,7 @@ project-fifo-ruby,0.3.2,Apache-2.0
 pronto-querly,0.1.1,""
 prx_access,0.1.0,""
 prx_access,0.2.0,""
+prx_access,0.3.0,""
 pry-remote-auto,1.0.0,""
 pry-remote-auto,1.2.0,""
 puggernaut,0.1.4,""
@@ -2391,6 +2393,7 @@ tokenifier,0.1.0,""
 topological_inventory-core,1.0.0,Apache-2.0
 topological_inventory-core,1.1.0,Apache-2.0
 topological_inventory-core,1.1.1,Apache-2.0
+topological_inventory-core,1.1.2,Apache-2.0
 totem,0.0.1,""
 totem,0.0.3,""
 totem,0.0.4,""

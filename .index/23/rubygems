@@ -30,6 +30,7 @@ active_record_addons,0.1.1,MIT
 active_record_addons,0.1.2,MIT
 active_record_cache,1.0.4,""
 active_scopes,0.1.0,""
+activerecord-import-sqlanywhere_jdbc_enhanced,0.1.0,MIT
 activerecord-overflow_signalizer,0.1.1,MIT
 activerecord-overflow_signalizer,1.0.0,MIT
 activerecord-overflow_signalizer,1.1.0,MIT
@@ -232,6 +233,7 @@ azure_mgmt_storage,0.2.0,MIT
 azure_mgmt_storage,0.2.1,MIT
 azure_mgmt_storage,0.20.0,MIT
 azure_mgmt_storage,0.20.1,MIT
+azure_mgmt_storage,0.21.0,MIT
 azure_mgmt_storage,0.3.0,MIT
 azure_mgmt_storage,0.3.1,MIT
 azure_mgmt_storage,0.4.0,MIT

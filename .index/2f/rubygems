@@ -240,6 +240,7 @@ awonwon,0.0.1,MIT
 awonwon,0.0.2,MIT
 azure_mgmt_storagecache,0.17.0,MIT
 azure_mgmt_storagecache,0.17.1,MIT
+azure_mgmt_storagecache,0.18.0,MIT
 babu3009-user-agent,1.2.3,""
 babu3009-user-agent,1.2.4,""
 babu3009-user-agent,1.2.5,""
@@ -982,6 +983,7 @@ groonga-query-log,1.5.7,LGPLv2.1+
 groonga-query-log,1.5.8,LGPLv2.1+
 groonga-query-log,1.5.9,LGPLv2.1+
 groonga-query-log,1.6.0,LGPLv2.1+
+groonga-query-log,1.6.1,LGPLv2.1+
 gumby-framework,0.0.1,""
 handlebars_routes,0.0.3,""
 hanzo,0.0.1,MIT
@@ -1294,6 +1296,7 @@ launchdarkly-server-sdk,5.6.2,Apache-2.0
 launchdarkly-server-sdk,5.7.0,Apache-2.0
 launchdarkly-server-sdk,5.7.1,Apache-2.0
 launchdarkly-server-sdk,5.7.2,Apache-2.0
+launchdarkly-server-sdk,5.7.3,Apache-2.0
 lawrencepit-acts-as-taggable-on,1.0.1,""
 let_us_hide,1.0.0,GPL2
 libretto,2.0,""
@@ -2437,6 +2440,7 @@ stripe,5.17.0,MIT
 stripe,5.18.0,MIT
 stripe,5.19.0,MIT
 stripe,5.2.0,MIT
+stripe,5.20.0,MIT
 stripe,5.3.0,MIT
 stripe,5.4.0,MIT
 stripe,5.4.1,MIT

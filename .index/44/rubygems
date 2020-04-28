@@ -46,6 +46,7 @@ activerecord-filter,6.0.0.2,MIT
 activerecord-filter,6.0.0.3,MIT
 activerecord-filter,6.0.0.4,MIT
 activerecord-filter,6.0.0.5,MIT
+activerecord-filter,6.0.0.6,MIT
 acts-as-atdw,0.0.3,""
 acts_as_account,1.2.0,""
 acts_as_account,2.0.2,Apache-2.0
@@ -142,6 +143,7 @@ azure_mgmt_compute,0.18.6,MIT
 azure_mgmt_compute,0.18.7,MIT
 azure_mgmt_compute,0.19.0,MIT
 azure_mgmt_compute,0.19.1,MIT
+azure_mgmt_compute,0.19.2,MIT
 azure_mgmt_compute,0.2.0,MIT
 azure_mgmt_compute,0.2.1,MIT
 azure_mgmt_compute,0.3.0,MIT
