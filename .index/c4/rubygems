@@ -501,6 +501,7 @@ aws-sdk-medialive,1.4.0,Apache-2.0
 aws-sdk-medialive,1.40.0,Apache-2.0
 aws-sdk-medialive,1.41.0,Apache-2.0
 aws-sdk-medialive,1.42.0,Apache-2.0
+aws-sdk-medialive,1.43.0,Apache-2.0
 aws-sdk-medialive,1.5.0,Apache-2.0
 aws-sdk-medialive,1.6.0,Apache-2.0
 aws-sdk-medialive,1.7.0,Apache-2.0
@@ -2284,6 +2285,7 @@ mystiko,0.1.1,MIT
 mystiko,0.1.2,MIT
 mystiko,0.1.3,MIT
 mystiko,0.1.4,MIT
+mystiko,0.1.5,MIT
 nesquikcsv,0.1.0,MIT
 nesquikcsv,0.1.1,MIT
 nesquikcsv,0.1.2,MIT
@@ -3077,6 +3079,8 @@ status_lib,0.0.2,MIT
 stellar_ruby_explorer,0.1.0,MIT
 stic,0.1.0,AGPL-3.0
 sticky_params,1.0.0,MIT
+sticky_params,1.0.1,MIT
+sticky_params,2.0.0,MIT
 stocking,0.1.0,MIT
 stringent,0.0.1,MIT
 stripe-opal,0.0.1,""

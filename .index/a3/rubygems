@@ -1130,6 +1130,7 @@ groundskeeper-bitcore,0.12.0,MIT
 groundskeeper-bitcore,0.13.0,MIT
 groundskeeper-bitcore,0.14.0,MIT
 groundskeeper-bitcore,0.15.0,MIT
+groundskeeper-bitcore,0.16.0,MIT
 groundskeeper-bitcore,0.2.0,MIT
 groundskeeper-bitcore,0.2.1,MIT
 groundskeeper-bitcore,0.2.2,MIT
@@ -2641,6 +2642,7 @@ sorbet,0.5.5560,Apache-2.0
 sorbet,0.5.5563,Apache-2.0
 sorbet,0.5.5564,Apache-2.0
 sorbet,0.5.5566,Apache-2.0
+sorbet,0.5.5569,Apache-2.0
 sourcerer,0.5.1,MIT
 sourcerer,0.5.2,MIT
 sourcerer,0.6.0,MIT

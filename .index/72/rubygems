@@ -218,6 +218,7 @@ aws-sdk-ecr,1.23.0,Apache-2.0
 aws-sdk-ecr,1.24.0,Apache-2.0
 aws-sdk-ecr,1.25.0,Apache-2.0
 aws-sdk-ecr,1.26.0,Apache-2.0
+aws-sdk-ecr,1.27.0,Apache-2.0
 aws-sdk-ecr,1.3.0,Apache-2.0
 aws-sdk-ecr,1.4.0,Apache-2.0
 aws-sdk-ecr,1.5.0,Apache-2.0

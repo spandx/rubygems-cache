@@ -1146,6 +1146,7 @@ isd_code,1.0.0,""
 isms-ruby,0.1,MIT
 jekyll-cache-buster,0.1.0,""
 jekyll-historie,0.1.0,MIT
+jekyll-plantuml-base64,0.1.4.34,MIT
 jekyll-prismjs-compile,0.1.0,MIT
 jekyll_patternbot,0.12.0,MIT
 jekyll_patternbot,0.13.0,MIT
@@ -2446,6 +2447,7 @@ tijuana_client,0.2.0,MIT
 tijuana_client,0.2.1,MIT
 tijuana_client,0.2.2,MIT
 tijuana_client,0.2.3,MIT
+tijuana_client,0.2.4,MIT
 tiny-rack-flash,0.0.1,MIT
 tiny-rack-flash,0.0.2,MIT
 tinydtls,0.1.0,MIT

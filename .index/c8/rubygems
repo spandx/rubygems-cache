@@ -367,6 +367,7 @@ bmg,0.16.4,MIT
 bmg,0.16.5,MIT
 bmg,0.16.6,MIT
 bmg,0.17.0,MIT
+bmg,0.17.1,MIT
 bmg,0.2.0,MIT
 bmg,0.3.0,MIT
 bmg,0.4.0,MIT
@@ -755,6 +756,7 @@ erp_base_erp_svcs,3.1.4,""
 erp_base_erp_svcs,3.1.5,""
 erp_base_erp_svcs,4.0.0,GPL-3-LICENSE
 erp_base_erp_svcs,4.2.0,GPL-3-LICENSE
+eship-ruby,0.1.0,""
 experiments,0.0.0,""
 extlzma-x86-mingw32,0.4,BSD-2-Clause
 failbot,0.9.0,""
@@ -2142,6 +2144,7 @@ puppet-community-rangefinder-webhook,0.0.2,Apache-2.0
 puppet-community-rangefinder-webhook,0.0.3,Apache-2.0
 puppet-community-rangefinder-webhook,0.0.4,Apache-2.0
 puppet-community-rangefinder-webhook,0.0.4.1,Apache-2.0
+puppet-community-rangefinder-webhook,0.0.5,Apache-2.0
 pure_ruby_zip,0.1.4,MIT
 purgeable,0.0.1,""
 purgeable,0.1.0,""
