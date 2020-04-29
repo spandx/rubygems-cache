@@ -935,6 +935,7 @@ gapic-generator,0.3.0,Apache-2.0
 gapic-generator,0.3.1,Apache-2.0
 gapic-generator,0.3.3,Apache-2.0
 gapic-generator,0.4.0,Apache-2.0
+gapic-generator,0.4.2,Apache-2.0
 gemcheck,0.2.0,MIT
 gemcheck,0.4.0,MIT
 gemstalk,0.0.1,""
@@ -3123,6 +3124,7 @@ sorbet-runtime,0.5.5560,Apache-2.0
 sorbet-runtime,0.5.5563,Apache-2.0
 sorbet-runtime,0.5.5564,Apache-2.0
 sorbet-runtime,0.5.5566,Apache-2.0
+sorbet-runtime,0.5.5569,Apache-2.0
 sorting_table_for,0.2.2,""
 sorting_table_for,0.3.0,""
 spira-timestamps,0.0.1,MIT

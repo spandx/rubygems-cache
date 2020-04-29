@@ -740,7 +740,15 @@ cfn-nag,0.5.40,MIT
 cfn-nag,0.5.41,MIT
 cfn-nag,0.5.42,MIT
 cfn-nag,0.5.43,MIT
+cfn-nag,0.5.44,MIT
+cfn-nag,0.5.45,MIT
+cfn-nag,0.5.46,MIT
+cfn-nag,0.5.47,MIT
+cfn-nag,0.5.48,MIT
+cfn-nag,0.5.49,MIT
 cfn-nag,0.5.5,MIT
+cfn-nag,0.5.50,MIT
+cfn-nag,0.5.51,MIT
 cfn-nag,0.5.6,MIT
 cfn-nag,0.5.7,MIT
 cfn-nag,0.5.8,MIT
@@ -812,6 +820,7 @@ coalescing_panda,1.1.17,""
 coalescing_panda,1.1.18,""
 coalescing_panda,1.1.19,""
 coalescing_panda,1.1.20,""
+coalescing_panda,1.1.21,""
 coalescing_panda,1.1.3,""
 coalescing_panda,1.1.5,""
 coalescing_panda,1.1.6,""

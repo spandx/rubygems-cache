@@ -2040,6 +2040,7 @@ persistence-providers,0.0.2.5,Apache-2.0
 persistence-providers,0.0.3,Apache-2.0
 persistence-providers,0.0.3.1,Apache-2.0
 persistence-providers,0.0.3.2,Apache-2.0
+persistence-providers,0.0.3.3,Apache-2.0
 pg_searchable,0.0.2,MIT
 pg_searchable,0.0.3,MIT
 pg_searchable,0.0.4,MIT

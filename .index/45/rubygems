@@ -1574,6 +1574,7 @@ leap_salesforce,0.2.23,MIT
 leap_salesforce,0.2.24,MIT
 leap_salesforce,0.2.26,MIT
 leap_salesforce,0.2.27,MIT
+leap_salesforce,0.2.28,MIT
 leap_salesforce,0.2.3,MIT
 leap_salesforce,0.2.4,MIT
 leap_salesforce,0.2.5,MIT
@@ -3068,6 +3069,7 @@ wechat-validation,0.1,MIT
 wechat-validation,0.2,MIT
 wechat-validation,0.2.1,MIT
 wechat-validation,1.0,MIT
+wechat-validation,1.1,MIT
 wechat_data_crypt,0.0.1,MIT
 weight_converter,0.0.0,MIT
 weight_converter,0.0.2,MIT

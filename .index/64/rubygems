@@ -314,6 +314,7 @@ appsignal,2.10.2,MIT
 appsignal,2.10.3,MIT
 appsignal,2.10.4,MIT
 appsignal,2.10.5,MIT
+appsignal,2.10.6,MIT
 appsignal,2.2.0,MIT
 appsignal,2.2.1,MIT
 appsignal,2.3.0,MIT
@@ -1371,6 +1372,7 @@ aws-sdk-resources,2.11.492,Apache-2.0
 aws-sdk-resources,2.11.493,Apache-2.0
 aws-sdk-resources,2.11.494,Apache-2.0
 aws-sdk-resources,2.11.495,Apache-2.0
+aws-sdk-resources,2.11.496,Apache-2.0
 aws-sdk-resources,2.11.5,Apache-2.0
 aws-sdk-resources,2.11.50,Apache-2.0
 aws-sdk-resources,2.11.51,Apache-2.0
@@ -4370,6 +4372,8 @@ unidom-common,1.9,MIT
 unidom-common,1.9.1,MIT
 unidom-common,1.9.2,MIT
 unidom-common,2.0,MIT
+unidom-common,2.1,MIT
+unidom-common,2.1.1,MIT
 update_xcode_plugins,0.1,MIT
 update_xcode_plugins,0.2,MIT
 update_xcode_plugins,0.3,MIT

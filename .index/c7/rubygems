@@ -349,6 +349,7 @@ celluloid-benchmark,0.2.4,MIT
 celluloid-benchmark,0.3.0,MIT
 celluloid-benchmark,0.3.5,MIT
 cexpect,0.1.0,BSD-2-Clause
+cexpect,0.1.1,BSD-2-Clause
 cfn2dsl,0.1.4,MIT
 cfn2dsl,0.1.5,MIT
 cfn2dsl,0.2.0,MIT
@@ -659,6 +660,7 @@ delta_changes,1.0.0,MIT
 delta_changes,2.0.0,MIT
 delta_changes,2.1.0,MIT
 devise-mongo_mapper,0.0.2,""
+diagram_int,0.1.0,GPL-3.0
 dibs_hmac,0.1.0,LGPL
 dibs_hmac,0.1.1,LGPL
 dibs_hmac,0.1.2,LGPL
@@ -1308,6 +1310,7 @@ journaled,2.1.0,MIT
 journaled,2.1.1,MIT
 journaled,2.2.0,MIT
 journaled,2.3.0,MIT
+journaled,2.3.1,MIT
 joy,0.0.0,""
 jquery-dynatable-rails,0.3.1,MIT
 jquery-dynatable-rails,0.3.2,MIT
