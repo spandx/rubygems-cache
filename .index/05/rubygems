@@ -29,6 +29,7 @@ activerecord-virtual_attributes,1.3.0,Apache-2.0
 activerecord-virtual_attributes,1.3.1,Apache-2.0
 activerecord-virtual_attributes,1.4.0,Apache-2.0
 activerecord-virtual_attributes,1.5.0,Apache-2.0
+activerecord-virtual_attributes,1.6.0,Apache-2.0
 activerecord_cte,1.0,MIT
 acts_as_multi_tenant,0.5.0,MIT
 acts_as_multi_tenant,0.5.1,MIT
@@ -2050,6 +2051,7 @@ p2e_builder,0.1.3,MIT
 p2e_builder,0.1.4,MIT
 p2e_builder,0.1.5,MIT
 p2e_builder,0.1.6,MIT
+p2e_builder,0.1.7,MIT
 packary,0.0.1,MIT
 pager-ultrasphinx,1.0.20080510,""
 pager-ultrasphinx,1.0.20080514,""

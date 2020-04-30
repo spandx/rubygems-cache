@@ -753,6 +753,7 @@ freewifi,0.1.6,MIT
 freewifi,0.1.7,MIT
 freewifi,0.1.8,MIT
 freewifi,0.1.9,MIT
+freewifi,0.2.0,MIT
 fullscreen_lazy_high_charts,1.1.6,""
 geminabucket,0.0.3,Apache-2.0
 geminabucket,0.0.4,Apache-2.0
@@ -1553,6 +1554,7 @@ mirror-api,0.0.9,""
 mirror-api,0.1.0,""
 mirror-api,0.1.1,""
 mocmock,0.1.14,""
+mocmock,0.1.15,""
 mocmock,0.1.5,""
 mojo_logger-java,0.1.1,MIT
 mojo_logger-java,0.1.2,MIT
@@ -1645,6 +1647,7 @@ mumuki-gobstones-runner,2.4.1,MIT
 mumuki-gobstones-runner,2.4.2,MIT
 mumuki-gobstones-runner,2.5.0,MIT
 mumuki-gobstones-runner,2.6.0,MIT
+mumuki-gobstones-runner,2.7.0,MIT
 mustang,0.0.1,""
 mutator,0.0.1,MIT
 mutator,0.0.2,MIT

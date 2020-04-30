@@ -749,6 +749,9 @@ cfn-nag,0.5.49,MIT
 cfn-nag,0.5.5,MIT
 cfn-nag,0.5.50,MIT
 cfn-nag,0.5.51,MIT
+cfn-nag,0.5.52,MIT
+cfn-nag,0.5.53,MIT
+cfn-nag,0.5.54,MIT
 cfn-nag,0.5.6,MIT
 cfn-nag,0.5.7,MIT
 cfn-nag,0.5.8,MIT
@@ -2194,6 +2197,7 @@ lazy_api_doc,0.1.1,MIT
 lazy_api_doc,0.1.2,MIT
 lazy_api_doc,0.1.3,MIT
 lazy_api_doc,0.1.4,MIT
+lazy_api_doc,0.1.5,MIT
 lazy_fork,0.0.1,MIT
 lazy_fork,0.0.2,MIT
 lazy_fork,0.0.3,MIT

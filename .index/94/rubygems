@@ -725,6 +725,7 @@ fluent-plugin-flatten-hash2,0.4.2,MIT
 fluent-plugin-formatter_pretty_json,0.0.1,""
 fluent-plugin-formatter_pretty_json,0.0.2,MIT
 fluent-plugin-formatter_pretty_json,1.0.0,MIT
+fluent-plugin-iis,1.0.0,Apache-2.0
 fluent-plugin-numeric-counter,0.2.0,""
 fluent-plugin-numeric-counter,0.2.1,""
 fluent-plugin-numeric-counter,0.2.2,Apache-2.0

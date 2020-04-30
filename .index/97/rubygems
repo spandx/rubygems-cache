@@ -1001,6 +1001,7 @@ hanami-events-cloud_pubsub,2.5.1,MIT
 hanami-events-cloud_pubsub,2.6.0,MIT
 hanami-events-cloud_pubsub,2.6.1,MIT
 hanami-events-cloud_pubsub,2.6.2,MIT
+hanami-events-cloud_pubsub,2.6.3,MIT
 hanami-helpers,0.0.0,""
 hanami-helpers,0.3.0,MIT
 hanami-helpers,0.4.0,MIT
