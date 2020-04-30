@@ -2649,6 +2649,7 @@ rubocop-govuk,3.3.2,MIT
 rubocop-govuk,3.4.0,MIT
 rubocop-govuk,3.5.0,MIT
 rubocop-govuk,3.6.0,MIT
+rubocop-govuk,3.7.0,MIT
 rubocop_coffeeandcode,0.0.1,MIT
 rubocop_coffeeandcode,0.0.2,MIT
 rubocop_coffeeandcode,0.0.3,MIT
@@ -3226,6 +3227,7 @@ vasily,0.1.0,""
 vasily,0.3.0,""
 veil,0.2.0,Apache-2.0
 veil,0.3.0,Apache-2.0
+veil,0.3.2,Apache-2.0
 vendasta-ri,0.0.4,MIT
 vendasta-ri,0.0.5,MIT
 vendasta-ri,0.0.6,MIT

@@ -873,6 +873,7 @@ aws-sdk-core,2.11.493,Apache-2.0
 aws-sdk-core,2.11.494,Apache-2.0
 aws-sdk-core,2.11.495,Apache-2.0
 aws-sdk-core,2.11.496,Apache-2.0
+aws-sdk-core,2.11.497,Apache-2.0
 aws-sdk-core,2.11.5,Apache-2.0
 aws-sdk-core,2.11.50,Apache-2.0
 aws-sdk-core,2.11.51,Apache-2.0
@@ -2514,6 +2515,7 @@ jwt_keeper,3.0.0,MIT
 jwt_keeper,3.0.1,MIT
 jwt_keeper,3.1.0,MIT
 jwt_keeper,3.2.0,MIT
+kana-estimator,0.1.0,MIT
 kango,0.0.1.0.9.2,MIT
 kango,0.0.2.0.9.2,MIT
 kango,0.0.3.0.9.2,MIT

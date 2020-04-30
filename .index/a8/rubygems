@@ -26,6 +26,8 @@ Fingertips-headless-squirrel,0.4.0,""
 Fingertips-headless-squirrel,0.5.0,""
 FirstGemTest1212,0.0.1,MIT
 Lipsiasoft-exception_notifier,1.0,""
+QuarantineLiveStreams,0.1.0,MIT
+QuarantineLiveStreams,0.1.1,MIT
 accelerator,0.1.0,""
 accelerator,0.1.1,""
 action_tracker_client,0.0.1,MIT
@@ -2769,6 +2771,7 @@ versus,0.1.0,BSD-2-Clause
 versus,0.2.0,BSD-2-Clause
 victor-cli,0.0.1,MIT
 victor-cli,0.1.0,MIT
+victor-cli,0.2.0,MIT
 video_dimensions,0.3.0,MIT
 video_dimensions,0.3.1,MIT
 vkdonate,1.0.0,MIT

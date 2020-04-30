@@ -1076,6 +1076,7 @@ graphiti,1.2.13,MIT
 graphiti,1.2.14,MIT
 graphiti,1.2.15,MIT
 graphiti,1.2.16,MIT
+graphiti,1.2.17,MIT
 graphiti,1.2.2,MIT
 graphiti,1.2.3,MIT
 graphiti,1.2.4,MIT
@@ -2241,6 +2242,7 @@ readable_enums,1.2.1,MIT
 readable_enums,1.2.2,MIT
 reboot,0.0.1,MIT
 red_herring,0.0.1,MIT
+redirect_safely,1.0.0,""
 redshift-on-postgres-adapter,0.1.0,New BSD License
 redshift-on-postgres-adapter,0.1.1,New BSD License
 redshift-on-postgres-adapter,0.2.0,New BSD License
@@ -3044,6 +3046,7 @@ sorbet-static-universal-darwin-17,0.5.5563,Apache-2.0
 sorbet-static-universal-darwin-17,0.5.5564,Apache-2.0
 sorbet-static-universal-darwin-17,0.5.5566,Apache-2.0
 sorbet-static-universal-darwin-17,0.5.5569,Apache-2.0
+sorbet-static-universal-darwin-17,0.5.5571,Apache-2.0
 spanx-client,0.0.1,MIT
 spine-permissions,0.1.0,BSD-3-Clause
 spine-rails,0.0.2,""

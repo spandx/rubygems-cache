@@ -85,6 +85,7 @@ active_record_events,0.0.1,MIT
 active_record_events,0.0.2,MIT
 active_record_events,0.0.3,MIT
 activerecord-db-tools,0.0.1,MIT
+activerecord-instrumentation,0.4.0,MIT
 activerecord_globalize,1.0.0,MIT
 activerecord_time_scopes,0.0.1,MIT
 activerecord_time_scopes,0.0.2,MIT

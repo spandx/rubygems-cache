@@ -327,6 +327,8 @@ backbone-validation-rails,0.7.1.1,""
 bag_of_holding,0.0.1,MIT
 bag_of_holding,0.0.2,MIT
 base-project,0.1.0,""
+batch_jaro_winkler,0.0.1,MIT
+batch_jaro_winkler,0.1.0,MIT
 batchy,0.0.2,""
 batchy,0.0.3,""
 batchy,0.0.4,""
@@ -1095,6 +1097,7 @@ gingerhendrix-echonest,0.2.0,""
 gingerhendrix-echonest,0.3.0,""
 git-media,0.1.1,""
 gitee_pack,1.0.0,MIT
+gitee_pack,1.1.0,MIT
 global_registry,1.0.0,""
 global_registry,1.0.1,""
 global_registry,1.0.2,""

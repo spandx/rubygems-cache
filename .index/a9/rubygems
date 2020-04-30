@@ -846,6 +846,7 @@ gitlab-qa,5.6.1,MIT
 gitlab-qa,5.7.0,MIT
 gitlab-qa,5.8.0,MIT
 gitlab-qa,5.8.1,MIT
+gitlab-qa,5.9.0,MIT
 go_script,0.0.0,CC0
 go_script,0.1.0,CC0
 go_script,0.1.1,CC0
