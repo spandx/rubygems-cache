@@ -521,6 +521,7 @@ compass-respond,0.1.0,""
 compass-respond,0.2.0,""
 compass-respond,0.3.0,""
 contrast-agent,3.10.0,CONTRAST SECURITY (see license file)
+contrast-agent,3.10.1,CONTRAST SECURITY (see license file)
 contrast-agent,3.8.4,CONTRAST SECURITY (see license file)
 contrast-agent,3.8.5,CONTRAST SECURITY (see license file)
 contrast-agent,3.9.0,CONTRAST SECURITY (see license file)
@@ -2797,6 +2798,7 @@ standalone_migrations,5.2.4,MIT
 standalone_migrations,5.2.5,MIT
 standalone_migrations,5.2.6,MIT
 standalone_migrations,5.2.7,MIT
+startback-engine,0.6.0,MIT
 steak,2.0.0,""
 strans-client,0.0.1,MIT
 strans-client,0.0.10,MIT
@@ -3063,6 +3065,7 @@ uk_planning_scraper,0.4.3,LGPL-3.0
 uk_planning_scraper,0.4.4,LGPL-3.0
 uk_planning_scraper,0.4.5,LGPL-3.0
 uk_planning_scraper,0.4.6,LGPL-3.0
+uk_planning_scraper,0.5.0,LGPL-3.0
 uploadcare,0.1.0,""
 upstreamer,0.0.1,MIT
 upstreamer,0.0.2,MIT

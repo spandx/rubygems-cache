@@ -2299,6 +2299,7 @@ repro-api-client,0.3.1,MIT
 repro-api-client,0.3.2,MIT
 resque-rails,1.0.0,""
 rest_pki,1.0.0,MIT
+rest_pki,1.1.0,MIT
 restify,0.1.0,LGPL-3.0-only
 restify,0.1.1,LGPL-3.0-only
 restify,0.1.2,LGPL-3.0-only

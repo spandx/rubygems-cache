@@ -56,6 +56,7 @@ afterbanks-api-ruby,0.1.0,""
 afterbanks-api-ruby,0.1.1,""
 afterbanks-api-ruby,0.2.0,""
 afterbanks-api-ruby,0.2.1,""
+afterbanks-api-ruby,0.2.2,""
 ajax_render,0.0.1,""
 akamai-edgegrid,1.0,Apache
 akamai-edgegrid,1.0.1,Apache
@@ -2071,6 +2072,7 @@ rocketjob,4.2.0,Apache-2.0
 rocketjob,5.0.0,Apache-2.0
 rocketjob,5.1.0,Apache-2.0
 rocketjob,5.1.1,Apache-2.0
+rocketjob,5.2.0,Apache-2.0
 roger_sneakpeek,0.0.1,MIT
 roger_sneakpeek,0.0.2,MIT
 roger_sneakpeek,0.0.3,MIT

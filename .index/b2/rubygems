@@ -998,6 +998,9 @@ github_cloner,0.1,""
 gitlab-ci-lint,0.1.1,MIT
 gitlab-ci-lint,0.1.2,MIT
 gitlab-ci-lint,0.1.3,MIT
+gitlab-ci-lint,0.1.4,MIT
+gitlab-ci-lint,0.1.5,MIT
+gitlab-ci-lint,0.1.6,MIT
 glimpse-mongo,1.0.0,""
 glimpse-mongo,1.0.1,""
 glimpse-mongo,1.1.0,""

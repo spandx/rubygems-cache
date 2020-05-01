@@ -475,6 +475,7 @@ crash_analysis,0.1.5,MIT
 crash_analysis,0.2.0,MIT
 croods,0.1.0,MIT
 croods,0.2.0,MIT
+croods,0.2.1,MIT
 crunchbase_v2,0.0.1,MIT
 crunchbase_v2,0.0.2,MIT
 crunchbase_v2,0.0.3,MIT
@@ -2126,6 +2127,7 @@ metanorma-iso,1.3.2,BSD-2-Clause
 metanorma-iso,1.3.20,BSD-2-Clause
 metanorma-iso,1.3.21,BSD-2-Clause
 metanorma-iso,1.3.22,BSD-2-Clause
+metanorma-iso,1.3.23,BSD-2-Clause
 metanorma-iso,1.3.3,BSD-2-Clause
 metanorma-iso,1.3.4,BSD-2-Clause
 metanorma-iso,1.3.5,BSD-2-Clause
@@ -2708,6 +2710,7 @@ puppet-universal-darwin,5.5.17,""
 puppet-universal-darwin,5.5.18,""
 puppet-universal-darwin,5.5.19,""
 puppet-universal-darwin,5.5.2,""
+puppet-universal-darwin,5.5.20,""
 puppet-universal-darwin,5.5.3,""
 puppet-universal-darwin,5.5.6,""
 puppet-universal-darwin,5.5.7,""
@@ -2730,6 +2733,7 @@ puppet-universal-darwin,6.11.1,""
 puppet-universal-darwin,6.12.0,""
 puppet-universal-darwin,6.13.0,""
 puppet-universal-darwin,6.14.0,""
+puppet-universal-darwin,6.15.0,""
 puppet-universal-darwin,6.2.0,""
 puppet-universal-darwin,6.3.0,""
 puppet-universal-darwin,6.4.0,""
