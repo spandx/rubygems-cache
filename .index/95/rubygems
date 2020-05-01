@@ -905,6 +905,7 @@ aws-sdk,2.11.494,Apache-2.0
 aws-sdk,2.11.495,Apache-2.0
 aws-sdk,2.11.496,Apache-2.0
 aws-sdk,2.11.497,Apache-2.0
+aws-sdk,2.11.498,Apache-2.0
 aws-sdk,2.11.5,Apache-2.0
 aws-sdk,2.11.50,Apache-2.0
 aws-sdk,2.11.51,Apache-2.0
@@ -1890,6 +1891,7 @@ forever_turbolinks,3.0.1,MIT
 forever_turbolinks,3.0.2,MIT
 freshrb,0.0.1,MIT
 fried-dependency,0.1.0,""
+frogmatic-gui,0.0.0,""
 future.rb,0.0.1,MIT
 future.rb,1.0.0,MIT
 game-tictactoe-alu4078,0.0.1,""
@@ -2391,6 +2393,7 @@ metanorma-gb,1.3.19,BSD-2-Clause
 metanorma-gb,1.3.2,BSD-2-Clause
 metanorma-gb,1.3.20,BSD-2-Clause
 metanorma-gb,1.3.21,BSD-2-Clause
+metanorma-gb,1.3.22,BSD-2-Clause
 metanorma-gb,1.3.3,BSD-2-Clause
 metanorma-gb,1.3.4,BSD-2-Clause
 metanorma-gb,1.3.5,BSD-2-Clause
@@ -2421,6 +2424,7 @@ metanorma-iec,1.0.1,BSD-2-Clause
 metanorma-iec,1.0.2,BSD-2-Clause
 metanorma-iec,1.0.3,BSD-2-Clause
 metanorma-iec,1.0.4,BSD-2-Clause
+metanorma-iec,1.0.5,BSD-2-Clause
 metrics-jruby-jruby,3.0.2.1,ALv2
 metrics-jruby-jruby,3.0.2.2,ALv2
 metrics-jruby-jruby,3.1.0.1,ALv2

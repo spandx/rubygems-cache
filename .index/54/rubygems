@@ -319,6 +319,8 @@ bots,1.1.123,MIT
 bots,1.1.124,MIT
 bots,1.1.125,MIT
 bots,1.1.126,MIT
+bots,1.1.127,MIT
+bots,1.1.128,MIT
 bots,1.1.14,MIT
 bots,1.1.15,MIT
 bots,1.1.16,MIT
@@ -2219,6 +2221,7 @@ pretty_trace,0.2.1,MIT
 pretty_trace,0.2.2,MIT
 pretty_trace,0.2.3,MIT
 pretty_trace,0.2.4,MIT
+pretty_trace,0.2.5,MIT
 probedock-ruby,0.1.0,MIT
 probedock-ruby,0.1.1,MIT
 probedock-ruby,0.1.2,MIT

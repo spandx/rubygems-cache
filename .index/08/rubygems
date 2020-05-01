@@ -327,6 +327,7 @@ caramelize,0.1.2,MIT
 caramelize,0.2.0,MIT
 caramelize,0.3.0,MIT
 caramelize,0.4.0,MIT
+caramelize,1.0.0,MIT
 carraway,0.1.0,MIT
 carraway,0.1.1,MIT
 carraway,0.1.2,MIT
@@ -1373,6 +1374,7 @@ manageiq-api-client,0.3.0,MIT
 manageiq-api-client,0.3.1,MIT
 manageiq-api-client,0.3.2,MIT
 manageiq-api-client,0.3.3,MIT
+manageiq-api-client,0.3.4,MIT
 mapstatic,0.0.1,""
 mapstatic,0.0.2,""
 markdownjs-rails,0.5.0,MIT
@@ -1886,6 +1888,7 @@ rroonga,1.2.2,""
 rroonga,1.2.7,""
 rroonga,1.2.8,""
 rroonga,10.0.1,LGPL-2.1
+rroonga,10.0.2,LGPL-2.1
 rroonga,2.0.1,""
 rroonga,2.0.3,""
 rroonga,2.0.4,""

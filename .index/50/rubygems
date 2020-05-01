@@ -1556,6 +1556,7 @@ pbyrne-array-to-csv,1.1.0,""
 pdf2img-paperclip-processor,0.0.1,""
 pdf_outline_editor-java,0.1.0,Apache-2.0
 pdf_outline_editor-java,0.1.1,Apache-2.0
+pdf_outline_editor-java,0.1.2,Apache-2.0
 pdzioba-areeya_auth,1.0.0,""
 pdzioba-areeya_auth,1.0.1,""
 pdzioba-areeya_auth,1.0.2,""
@@ -2117,6 +2118,7 @@ solidus_culqi,0.0.2,MIT
 solidus_culqi,0.1.0,MIT
 solidus_culqi,0.1.1,MIT
 solidus_culqi,1.0.0,MIT
+solidus_extend,0.0.2,BSD-3-Clause
 solidus_reviews,1.0.0,BSD-3
 solidus_reviews,1.1.0,BSD-3
 solidus_reviews,1.1.1,BSD-3
@@ -2289,6 +2291,7 @@ tiny_sweeper,1.0.1,Apache-2.0
 tiny_sweeper,1.1.1,Apache-2.0
 tisoft-logging,1.0.0,""
 tisoft-logging,1.0.1,MIT
+tisoft-logging,1.0.2,MIT
 tla-sbuilder,0.1.0,MIT
 tla-sbuilder,0.2.1,MIT
 tla-sbuilder,0.2.2,MIT

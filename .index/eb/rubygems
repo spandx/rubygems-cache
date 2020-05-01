@@ -489,6 +489,7 @@ chrislloyd-even_better_nested_set,0.2,""
 chrislloyd-even_better_nested_set,0.3,""
 chrislloyd-even_better_nested_set,0.3.1,""
 chrislloyd-even_better_nested_set,0.3.2,""
+chupa-text-decomposer-mail,1.0.0,LGPL-2.1+
 ciderizer,0.2.1,""
 ciderizer,0.2.2,""
 ciderizer,0.3.0,""
@@ -965,6 +966,9 @@ hash_police,0.0.2,MIT
 hash_police,0.0.3,MIT
 hash_police,0.0.4,MIT
 hash_police,0.0.5,MIT
+hash_sample,0.8.5,MIT
+hash_sample,0.8.6,MIT
+hash_sample,0.8.7,MIT
 hash_util,0.1.0,MIT
 hash_util,1.0,MIT
 hash_util,1.1,MIT

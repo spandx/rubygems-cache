@@ -682,6 +682,7 @@ ex_twitter,0.3.0,MIT
 ex_twitter,0.3.1,MIT
 ex_twitter,0.3.2,MIT
 ext_plugins,5.1.0.0,MIT
+extend_warranties,0.1.0,MIT
 face_recognition,0.0.1,MIT
 face_recognition,0.0.3,MIT
 face_recognition,0.0.4,MIT
@@ -1998,6 +1999,7 @@ relaton-cli,0.8.6,BSD-2-Clause
 relaton-cli,0.8.7,BSD-2-Clause
 relaton-cli,0.9.0,BSD-2-Clause
 relaton-cli,1.0.0,BSD-2-Clause
+relaton-cli,1.0.1,BSD-2-Clause
 relish,0.2.1,""
 relish,0.3.0,""
 relish,0.5.3,""

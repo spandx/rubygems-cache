@@ -1607,6 +1607,7 @@ klastera,1.1.4,MIT
 klastera,1.1.5,MIT
 klastera,1.1.6,MIT
 klastera,1.1.6.1,MIT
+klastera,1.1.6.2,MIT
 knife-rds,0.0.1,""
 koko-ai-ruby,0.0.2,MIT
 koko-ai-ruby,0.0.3,MIT
@@ -2610,6 +2611,7 @@ splitclient-rb-java,7.0.0,Apache-2.0
 splitclient-rb-java,7.0.1,Apache-2.0
 splitclient-rb-java,7.0.2,Apache-2.0
 splitclient-rb-java,7.0.3,Apache-2.0
+splitclient-rb-java,7.1.0,Apache-2.0
 spoj,1.0.1,MIT
 sports_news_scraper,0.1.0,""
 sports_news_scraper,0.1.3,""

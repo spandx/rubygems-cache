@@ -2379,6 +2379,7 @@ range_component_attributes,1.1.2,MIT
 ranktize,0.0.0,""
 rb-fsevent,0.10.2,MIT
 rb-fsevent,0.10.3,MIT
+rb-fsevent,0.10.4,MIT
 rb-fsevent,0.9.3,""
 rb-fsevent,0.9.4,MIT
 rb-fsevent,0.9.5,MIT

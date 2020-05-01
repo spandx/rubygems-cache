@@ -158,6 +158,7 @@ attr_cipher,1.4.0,MIT
 attr_cipher,1.5.0,MIT
 attr_cipher,2.0.0,MIT
 attr_memoized,0.2.2,MIT
+attr_memoized,0.3.0,MIT
 auom,0.0.3,""
 auom,0.0.4,""
 auom,0.0.6,""
@@ -931,6 +932,7 @@ fluent-plugin-splunk-hec,1.1.0,Apache-2.0
 fluent-plugin-splunk-hec,1.1.2,Apache-2.0
 fluent-plugin-splunk-hec,1.2.0,Apache-2.0
 fluent-plugin-splunk-hec,1.2.1,Apache-2.0
+fluent-plugin-splunk-hec,1.2.2,Apache-2.0
 fluxx,0.1.1,MIT
 fluxx,0.1.3,MIT
 fluxx,0.1.4,MIT

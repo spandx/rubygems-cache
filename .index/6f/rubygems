@@ -1379,6 +1379,7 @@ gibbon,3.3.0,MIT
 gibbon,3.3.1,MIT
 gibbon,3.3.2,MIT
 gibbon,3.3.3,MIT
+gibbon,3.3.4,MIT
 ginspider,0.1.1,MIT
 ginspider,0.1.2,MIT
 ginspider,0.1.3,MIT
@@ -2976,6 +2977,7 @@ stats_lite,0.6.2,MIT
 stats_lite,0.7.0,MIT
 stats_lite,0.7.1,MIT
 stats_lite,0.7.2,MIT
+stats_lite,0.8.0,MIT
 steam_web_api,0.0.1,MIT
 steam_web_api,0.0.2,MIT
 steam_web_api,0.0.3,MIT

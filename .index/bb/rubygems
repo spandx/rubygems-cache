@@ -904,6 +904,7 @@ decidim-direct_verifications,0.17.7,AGPL-3.0
 decidim-direct_verifications,0.17.8,AGPL-3.0
 decidim-direct_verifications,0.2.1,AGPL-3.0
 decidim-direct_verifications,0.2.2,AGPL-3.0
+decidim-direct_verifications,0.20,AGPL-3.0
 defi,0.1.0,MIT
 defi,1.0.0,MIT
 defi,1.1.0,MIT
@@ -2475,6 +2476,7 @@ polaris_view_helpers,0.0.18,MIT
 polaris_view_helpers,0.0.19,MIT
 polaris_view_helpers,0.0.2,MIT
 polaris_view_helpers,0.0.20,MIT
+polaris_view_helpers,0.0.21,MIT
 polaris_view_helpers,0.0.3,MIT
 polaris_view_helpers,0.0.4,MIT
 polaris_view_helpers,0.0.5,MIT
@@ -2634,6 +2636,7 @@ puppet-x86-mingw32,5.5.17,""
 puppet-x86-mingw32,5.5.18,""
 puppet-x86-mingw32,5.5.19,""
 puppet-x86-mingw32,5.5.2,""
+puppet-x86-mingw32,5.5.20,""
 puppet-x86-mingw32,5.5.3,""
 puppet-x86-mingw32,5.5.6,""
 puppet-x86-mingw32,5.5.7,""
@@ -2656,6 +2659,7 @@ puppet-x86-mingw32,6.11.1,""
 puppet-x86-mingw32,6.12.0,""
 puppet-x86-mingw32,6.13.0,""
 puppet-x86-mingw32,6.14.0,""
+puppet-x86-mingw32,6.15.0,""
 puppet-x86-mingw32,6.2.0,""
 puppet-x86-mingw32,6.3.0,""
 puppet-x86-mingw32,6.4.0,""

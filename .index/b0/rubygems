@@ -2293,6 +2293,8 @@ rabel-meta,2.0,""
 rack-auth-ldap,0.1,BSD
 rack-auth-ldap,0.2,BSD
 rack-auth-ldap,1.0,BSD
+rack-auth-ldap,1.2,BSD-2-Clause
+rack-auth-ldap,1.2.1,BSD-2-Clause
 rack-auth-nginx_omniauth_adapter,0.1.0,MIT
 rack-x_served_by,0.1.0,MIT
 rack-x_served_by,0.1.1,MIT
