@@ -980,6 +980,7 @@ gtksourceview2,3.3.8,LGPL-2.1+
 gtksourceview2,3.3.9,LGPL-2.1+
 gtksourceview2,3.4.0,LGPL-2.1+
 gtksourceview2,3.4.1,LGPL-2.1+
+gtksourceview2,3.4.2,LGPL-2.1+
 guard-copy,0.0.7,""
 guard-copy,0.0.8,""
 guard-copy,0.5.0,""
@@ -2144,6 +2145,7 @@ selenium_dsl,1.2.0,""
 selenium_dsl,1.2.1,""
 selenium_dsl,1.2.2,""
 sequel-activerecord_connection,0.2.0,MIT
+sequel-activerecord_connection,0.2.1,MIT
 sequenced,0.1.0,""
 sequenced,1.2.0,""
 sequenced,1.3.0,""
@@ -2532,6 +2534,7 @@ webkit2-gtk,3.3.8,LGPL-2.1+
 webkit2-gtk,3.3.9,LGPL-2.1+
 webkit2-gtk,3.4.0,LGPL-2.1+
 webkit2-gtk,3.4.1,LGPL-2.1+
+webkit2-gtk,3.4.2,LGPL-2.1+
 webpage_update_checker,1.0.0,""
 webpage_update_checker,1.1.0,""
 webpage_update_checker,1.2.0,""

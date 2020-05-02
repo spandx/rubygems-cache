@@ -1004,6 +1004,7 @@ ffi-coremidi,0.4.1,Apache-2.0
 ffidb,0.0.0,Unlicense
 ffidb,0.0.1,Unlicense
 ffidb,0.1.0,Unlicense
+ffidb,0.2.0,Unlicense
 fidgit,0.1.2,""
 fidgit,0.1.5,""
 fidgit,0.2.0,""
@@ -2313,6 +2314,7 @@ rap_songs,0.7.7,MIT
 rap_songs,0.7.8,MIT
 rap_songs,0.7.9,MIT
 rast,0.10.0,MIT
+rast,0.11.0,MIT
 rast,0.9.0,MIT
 rate-limiting,1.0.4,""
 rb,0.0.1,MIT

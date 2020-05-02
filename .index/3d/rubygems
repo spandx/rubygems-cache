@@ -1104,6 +1104,7 @@ gtksourceview4,3.3.8,LGPL-2.1+
 gtksourceview4,3.3.9,LGPL-2.1+
 gtksourceview4,3.4.0,LGPL-2.1+
 gtksourceview4,3.4.1,LGPL-2.1+
+gtksourceview4,3.4.2,LGPL-2.1+
 guard-focus,0.0.1,""
 guard-slimlint,1.1.1,MIT
 guard-slimlint,1.1.2,MIT

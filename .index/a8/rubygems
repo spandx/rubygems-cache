@@ -947,6 +947,7 @@ gdk3,3.3.8,LGPL-2.1+
 gdk3,3.3.9,LGPL-2.1+
 gdk3,3.4.0,LGPL-2.1+
 gdk3,3.4.1,LGPL-2.1+
+gdk3,3.4.2,LGPL-2.1+
 gem-dependent,0.1.6,""
 gem-dependent,0.1.7,""
 gem-dependent,0.2.0,""
@@ -1336,6 +1337,8 @@ link_with_icon,0.0.1,MIT
 linr,0.0.1,MIT
 linr,0.0.2,MIT
 linr,0.0.3,MIT
+liquid-diagrams,0.1.0,MIT
+liquid-diagrams,0.2.0,MIT
 lita-baby_elephant,0.0.1,MIT
 lita-baby_elephant,0.0.2,MIT
 lita-baby_elephant,0.0.3,MIT
@@ -1639,6 +1642,7 @@ minimal_tags,0.2.9,""
 mkconfig,0.1.0,""
 mlb-scores-standings,0.1.0,""
 mlb-scores-standings,0.2.0,MIT
+mn2pdf,1.11,BSD-2-Clause
 mobproject,0.0.1,MIT
 mocoso,0.0.1,MIT
 mocoso,0.0.2,MIT

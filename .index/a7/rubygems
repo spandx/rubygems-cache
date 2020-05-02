@@ -234,6 +234,7 @@ aws-sdk-efs,1.23.0,Apache-2.0
 aws-sdk-efs,1.24.0,Apache-2.0
 aws-sdk-efs,1.25.0,Apache-2.0
 aws-sdk-efs,1.26.0,Apache-2.0
+aws-sdk-efs,1.27.0,Apache-2.0
 aws-sdk-efs,1.3.0,Apache-2.0
 aws-sdk-efs,1.4.0,Apache-2.0
 aws-sdk-efs,1.5.0,Apache-2.0
@@ -1897,6 +1898,7 @@ pettanr_unknown_v01_licenses,0.1.5,""
 pettanr_unknown_v01_licenses,0.1.6,""
 pettanr_unknown_v01_licenses,0.1.8,""
 pettanr_unknown_v01_licenses,0.1.9,""
+pholp,0.0.1,MIT
 photoarchiver,0.0.3,MIT
 photoarchiver,0.0.4,MIT
 photoarchiver,0.0.6,MIT

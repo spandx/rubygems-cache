@@ -210,6 +210,8 @@ auth1,0.2.0,MIT
 auth1,0.3.0,MIT
 auth1,0.4.0,MIT
 auth1,0.5.0,MIT
+auth1,0.6.0,MIT
+auth1,0.7.0,MIT
 auth_client,0.0.1,MIT
 auth_client,0.0.2,MIT
 auth_client,0.0.3,MIT
@@ -2933,6 +2935,7 @@ sorbet-static-x86_64-linux,0.5.5564,Apache-2.0
 sorbet-static-x86_64-linux,0.5.5566,Apache-2.0
 sorbet-static-x86_64-linux,0.5.5569,Apache-2.0
 sorbet-static-x86_64-linux,0.5.5571,Apache-2.0
+sorbet-static-x86_64-linux,0.5.5575,Apache-2.0
 spanx,0.1.0,""
 spanx,0.1.1,""
 spanx,0.3.0,""
