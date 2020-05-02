@@ -1114,6 +1114,7 @@ hiera-eyaml-cli,0.2,MIT
 hiera-eyaml-cli,0.3,MIT
 highland,0.0.1,""
 highland,0.0.2,""
+hlrubo,0.1.0,""
 hokaido,0.0.1,MIT
 hokaido,0.0.2,MIT
 hokaido,0.0.3,MIT
@@ -2872,6 +2873,7 @@ sorbet-static-universal-darwin-16,0.5.5564,Apache-2.0
 sorbet-static-universal-darwin-16,0.5.5566,Apache-2.0
 sorbet-static-universal-darwin-16,0.5.5569,Apache-2.0
 sorbet-static-universal-darwin-16,0.5.5571,Apache-2.0
+sorbet-static-universal-darwin-16,0.5.5575,Apache-2.0
 sowing,1.0.0,""
 sowing,1.1.0,""
 span,0.0.1,MIT
@@ -2898,6 +2900,7 @@ spellr,0.8.0,MIT
 spellr,0.8.1,MIT
 spellr,0.8.2,MIT
 spellr,0.8.3,MIT
+spellr,0.8.4,MIT
 spingying,0.1.0,""
 spree_ajax_cart,1.0.0,""
 spree_ajax_cart,1.0.1,""

@@ -1182,6 +1182,7 @@ i18n-coverage,0.1.0,""
 i18n-coverage,0.1.1,""
 i18n-language-mapping,0.1.0,MIT
 i18n-language-mapping,0.1.1,MIT
+i18n-language-mapping,0.1.2,MIT
 ifelse,0.6.0,BSD
 infochimps-guard-chef,0.1.0,""
 infopark_webcrm_sdk,1.0.0,LGPL-3.0
@@ -2648,6 +2649,7 @@ sorbet,0.5.5564,Apache-2.0
 sorbet,0.5.5566,Apache-2.0
 sorbet,0.5.5569,Apache-2.0
 sorbet,0.5.5571,Apache-2.0
+sorbet,0.5.5575,Apache-2.0
 sourcerer,0.5.1,MIT
 sourcerer,0.5.2,MIT
 sourcerer,0.6.0,MIT

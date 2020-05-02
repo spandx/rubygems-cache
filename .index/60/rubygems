@@ -1360,6 +1360,7 @@ git_analysis,0.0.2,MIT
 git_analysis,0.0.3,MIT
 git_analysis,0.0.3.1,MIT
 git_analysis,0.0.3.2,MIT
+git_analysis,0.0.3.3,MIT
 git_time_extractor,0.2.3,BSD
 git_time_extractor,0.3.0,BSD
 git_time_extractor,0.3.1,BSD
@@ -1901,6 +1902,7 @@ kucoin_ruby,0.1.9,MIT
 lab42_config,0.0.1,MIT
 lab42_config,0.0.2,MIT
 laddajs_rails,0.9.2,MIT
+lahcuby,1.0.0,MIT
 lambda_ruby_bundler,1.0.0,MIT
 leankit,0.1.5,""
 leankit,0.1.6,""

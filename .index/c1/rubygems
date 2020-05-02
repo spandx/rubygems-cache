@@ -31,6 +31,7 @@ active_job_log,0.2.0,MIT
 active_job_log,0.2.1,MIT
 active_job_log,1.0.0,MIT
 active_record-order_by_ids,0.1.0,MIT
+active_record-order_by_ids,0.2.0,MIT
 active_record_or,0.0.1,""
 active_record_or,1.0.1,""
 activerecord-oracle_enhanced-adapter-monky_patch_755,0.0.1,MIT
@@ -1109,6 +1110,7 @@ gio2,3.3.8,LGPL-2.1+
 gio2,3.3.9,LGPL-2.1+
 gio2,3.4.0,LGPL-2.1+
 gio2,3.4.1,LGPL-2.1+
+gio2,3.4.2,LGPL-2.1+
 git-ci-helper,0.0.1,""
 git-ci-helper,0.0.13,""
 git-ci-helper,0.0.15,""

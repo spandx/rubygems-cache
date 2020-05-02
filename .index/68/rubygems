@@ -591,6 +591,7 @@ clutter-gtk,3.3.8,LGPL-2.1+
 clutter-gtk,3.3.9,LGPL-2.1+
 clutter-gtk,3.4.0,LGPL-2.1+
 clutter-gtk,3.4.1,LGPL-2.1+
+clutter-gtk,3.4.2,LGPL-2.1+
 cocoapods-dep,1.0.0,MIT
 cocoapods-dykit,0.2.0,MIT
 cocoapods-dykit,0.3.0,MIT
@@ -1052,6 +1053,7 @@ foundation-rails-helpers,0.0.4,MIT
 free_dom,0.1.0,MIT
 free_dom,0.2.0,MIT
 free_dom,0.2.1,MIT
+free_dom,0.3.0,MIT
 freegeoip_ruby,0.0.1,MIT
 freespace,0.1.0,MIT
 freespace,0.1.1,MIT

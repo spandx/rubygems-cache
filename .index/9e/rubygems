@@ -1028,6 +1028,7 @@ cxml-ruby,0.3.0,MIT
 cxml-ruby,0.4.0,MIT
 cxml-ruby,0.4.1,MIT
 cxml-ruby,0.5.0,MIT
+cxml-ruby,0.6.0,MIT
 data-uri,0.0.1,""
 data_builder,0.1.0,MIT
 data_builder,0.2.0,MIT
@@ -1623,6 +1624,7 @@ jekyll-latex,0.1.0,MIT
 jekyll-latex,1.0.0,MIT
 jekyll-multisite,0.2,GPL-3.0
 jekyll-multisite,0.3,GPL-3.0
+jekyll-multisite,0.4,GPL-3.0
 jekyll-paginate-content,1.0.0,MIT
 jekyll-paginate-content,1.0.1,MIT
 jekyll-paginate-content,1.0.2,MIT

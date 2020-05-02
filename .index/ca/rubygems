@@ -3080,6 +3080,7 @@ nicoquery,0.1.8.6,MIT
 nicoquery,0.1.8.7,MIT
 nicoquery,0.1.8.8,MIT
 nicoquery,0.1.8.9,MIT
+node_diagram_int,0.1.0,GPL-3.0
 novel,0.0.0,MIT
 ntp-mock-server,0.0.1,MIT
 nulogyrefineryfrontendeditor_ckeditor,0.0.4,""
@@ -3900,6 +3901,10 @@ ruby-mext,0.19.0,""
 ruby-mext,0.2.0,""
 ruby-mext,0.2.1,""
 ruby-mext,0.20.0,""
+ruby-mext,0.20.1,""
+ruby-mext,0.21.0,""
+ruby-mext,0.21.1,""
+ruby-mext,0.21.2,""
 ruby-mext,0.3.0,""
 ruby-mext,0.3.1,""
 ruby-mext,0.3.2,""

@@ -1495,6 +1495,7 @@ metanorma-standoc,1.3.22,BSD-2-Clause
 metanorma-standoc,1.3.23,BSD-2-Clause
 metanorma-standoc,1.3.24,BSD-2-Clause
 metanorma-standoc,1.3.25,BSD-2-Clause
+metanorma-standoc,1.3.26,BSD-2-Clause
 metanorma-standoc,1.3.3,BSD-2-Clause
 metanorma-standoc,1.3.4,BSD-2-Clause
 metanorma-standoc,1.3.5,BSD-2-Clause
@@ -2228,6 +2229,7 @@ ruby-next,0.5.2,MIT
 ruby-next,0.5.3,MIT
 ruby-next,0.6.0,MIT
 ruby-next,0.7.0,MIT
+ruby-next,0.8.0,MIT
 ruby-opencv-x86-mingw32,0.0.8,""
 ruby-opencv-x86-mingw32,0.0.9,The BSD License
 ruby_engine,1.0.0,MIT

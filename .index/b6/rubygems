@@ -1004,6 +1004,7 @@ irb,1.2.0,BSD-2-Clause
 irb,1.2.1,BSD-2-Clause
 irb,1.2.2,BSD-2-Clause
 irb,1.2.3,BSD-2-Clause
+irb,1.2.4,BSD-2-Clause
 iron,0.0.1,""
 isaac_toolbelt,0.1.0,""
 isaac_toolbelt,0.1.1,""
@@ -1611,6 +1612,7 @@ rad-style,0.3.6,MIT
 rad-style,1.0.0,MIT
 rad-style,1.0.1,MIT
 rad-style,1.0.2,MIT
+rad-style,1.0.3,MIT
 radar-mysql,2.8.1,""
 radar-mysql,2.8.2,""
 radar-mysql,2.8.3,""
@@ -1676,6 +1678,7 @@ reckon,0.4.4,""
 reckon,0.5.0,""
 reckon,0.5.1,MIT
 reckon,0.5.2,MIT
+reckon,0.5.3,MIT
 recognizer,0.0.6,""
 recognizer,0.0.8,""
 recognizer,0.0.9,""

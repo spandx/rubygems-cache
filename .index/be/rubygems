@@ -1307,6 +1307,7 @@ metanorma-ietf,2.0.5,BSD-2-Clause
 metanorma-ietf,2.0.6,BSD-2-Clause
 metanorma-ietf,2.0.7,BSD-2-Clause
 metanorma-ietf,2.0.8,BSD-2-Clause
+metanorma-ietf,2.0.9,BSD-2-Clause
 meter_cat,0.0.6,MIT
 meter_cat,0.0.7,MIT
 meter_cat,5.0.0,MIT
@@ -2734,6 +2735,7 @@ tramway-core,1.18.0.3,MIT
 tramway-core,1.18.0.4,MIT
 tramway-core,1.18.1,MIT
 tramway-core,1.18.1.1,MIT
+tramway-core,1.18.1.2,MIT
 tramway-core,1.2.0,MIT
 tramway-core,1.2.1,MIT
 tramway-core,1.3,MIT

@@ -1115,6 +1115,7 @@ effective_logging,3.0.5,MIT
 eivo-rails-sidekiq,0.0.1,MIT
 eivo-rails-sidekiq,0.0.2,MIT
 eivo-rails-sidekiq,0.1.0,MIT
+eivo-rails-sidekiq,0.1.1,MIT
 elasticsearch-ruby,0.0.3,""
 elchapo,0.1.0,MIT
 elchapo,0.1.1,MIT
@@ -3165,6 +3166,8 @@ tramway-landing,3.0.2.2,MIT
 tramway-landing,3.0.2.3,MIT
 tramway-landing,3.0.2.4,MIT
 tramway-landing,3.0.3,MIT
+tramway-landing,3.1,MIT
+tramway-landing,3.1.0.1,MIT
 treebank-transform,0.0.1,MIT
 treebank-transform,0.0.2,MIT
 treebank-transform,0.0.3,MIT

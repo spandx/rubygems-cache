@@ -724,6 +724,7 @@ eac_ruby_utils,0.28.0,MIT
 eac_ruby_utils,0.29.0,MIT
 eac_ruby_utils,0.3.0,MIT
 eac_ruby_utils,0.30.0,MIT
+eac_ruby_utils,0.31.0,MIT
 eac_ruby_utils,0.4.0,MIT
 eac_ruby_utils,0.5.0,MIT
 eac_ruby_utils,0.5.1,MIT
@@ -3020,6 +3021,7 @@ xorg_buffer,1.0.0,GPL 2
 xorg_buffer,1.0.1,GPL 2
 xorg_buffer,1.0.2,GPL 2
 xorg_buffer,1.1.0,GPL-2.0
+xorg_buffer,1.1.1,GPL-2.0
 xotelia-ruby,0.1.1,MIT
 yancya-big_query,0.1.0,MIT
 yancya-big_query,0.1.1,MIT

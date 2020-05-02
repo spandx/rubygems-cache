@@ -425,6 +425,7 @@ bits_service_client,3.3.0,""
 bits_service_client,3.4.0,""
 bits_service_client,4.0.0,""
 blingfire,0.1.0,MIT
+blingfire,0.1.1,MIT
 bookman,0.0.1,Public Domain
 bookman,0.1.0,Public Domain
 bootstrap_wizard_rails,0.1.1,MIT
