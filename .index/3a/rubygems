@@ -2409,6 +2409,8 @@ url_verifier,2.10,MIT
 url_verifier,2.11,MIT
 url_verifier,2.12,MIT
 url_verifier,3.1,MIT
+utranslate,0.1.1,MIT
+utranslate,0.1.2,MIT
 vagrant-hitch,0.0.1,""
 vagrant-hitch,0.0.2,""
 vagrant-hitch,0.0.3,""

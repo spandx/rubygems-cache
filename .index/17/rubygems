@@ -776,6 +776,7 @@ fastlane-plugin-settings_bundle,1.2.1,MIT
 fastlane-plugin-settings_bundle,1.3.0,MIT
 fastlane-plugin-settings_bundle,1.3.1,MIT
 fastlane-plugin-settings_bundle,1.3.2,MIT
+filename_increment,1.0.0,MIT
 fix_symbol,0.0.1,GPL-3.0
 fix_symbol,0.0.2,GPL-3.0
 fixer_currency,3.4.2,MIT

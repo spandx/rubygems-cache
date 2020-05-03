@@ -1054,6 +1054,10 @@ free_dom,0.1.0,MIT
 free_dom,0.2.0,MIT
 free_dom,0.2.1,MIT
 free_dom,0.3.0,MIT
+free_dom,0.3.1,MIT
+free_dom,0.3.2,MIT
+free_dom,0.3.3,MIT
+free_dom,0.3.4,MIT
 freegeoip_ruby,0.0.1,MIT
 freespace,0.1.0,MIT
 freespace,0.1.1,MIT
@@ -1442,6 +1446,7 @@ jekyll-algolia,1.6.0,MIT
 jekyll-california,0.1.0,MIT
 jekyll-california,0.2.0,MIT
 jekyll-hardlinks,0.1.0,GPL-3.0
+jekyll-hardlinks,0.1.1,GPL-3.0
 jekyll-theme-cayman-blog,0.0.5,CC0-1.0
 jekyll-theme-cayman-blog,0.0.6,CC0-1.0
 jekyll-theme-cayman-blog,0.0.7,CC0-1.0

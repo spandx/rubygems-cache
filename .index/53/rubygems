@@ -95,6 +95,7 @@ activerecord-update_counters_with_values,1.0.2,MIT
 acts_as_our_cities,0.0.2,MIT
 acts_as_our_cities,0.1.2,MIT
 acts_as_previous_next,0.0.5,""
+acw,0.1.0,MIT
 adapter-cassanity,0.1.0,""
 adapter-cassanity,0.2.0,""
 adapter-cassanity,0.3.0,""

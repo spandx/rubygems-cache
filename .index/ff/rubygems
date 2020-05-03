@@ -57,6 +57,9 @@ activeadmin_cms,0.0.6,""
 activeadmin_cms,0.0.7,""
 activeadmin_cms,0.0.8,""
 activeadmin_cms,0.0.9,MIT
+activerecord-retriable,0.1.0,MIT
+activerecord-retriable,0.2.0,MIT
+activerecord-retriable,0.3.0,MIT
 activerecord-string-enum,0.0.1,MIT
 activerecord-string-enum,0.0.2,MIT
 activestorage-tencent_cos,0.0.1,""
