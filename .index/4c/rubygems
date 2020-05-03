@@ -2364,6 +2364,7 @@ rb_latex,0.2.2,""
 rb_latex,0.3.0,""
 rb_latex,0.4.0,""
 rb_latex,0.5.0,""
+rb_latex,0.6.0,""
 rbacfull,0.1.1,MIT
 rbacfull,0.1.2,MIT
 rbtree-jruby,0.2.0,MIT
@@ -2521,6 +2522,7 @@ rspec-core,3.8.1,MIT
 rspec-core,3.8.2,MIT
 rspec-core,3.9.0,MIT
 rspec-core,3.9.1,MIT
+rspec-core,3.9.2,MIT
 rspec-stopwatch,0.1.0,BSD-3-Clause
 rspec-stopwatch,0.1.1,MIT
 rspec-stopwatch,0.1.2,MIT

@@ -192,6 +192,7 @@ arvados-login-sync,1.4.1.20190402172810,"GNU Affero General Public License, vers
 arvados-login-sync,1.4.1.20191003150226,"GNU Affero General Public License, version 3.0"
 arvados-login-sync,2.0.1,AGPL-3.0
 arvados-login-sync,2.0.2,AGPL-3.0
+aspose_cad_cloud,19.11,MIT
 astro-ruby-sasl,0.0.2,""
 astro-ruby-sasl,0.0.3,""
 athens,0.1.0,WTFPL
@@ -1071,6 +1072,7 @@ firebase_id_token,2.2.0,MIT
 firebase_id_token,2.3.0,MIT
 firebase_id_token,2.3.1,MIT
 firebase_id_token,2.3.2,MIT
+firebase_id_token,2.4.0,MIT
 flagstrap,0.0.2,MIT
 flagstrap,0.0.3,MIT
 flexible-config,1.1.0,MIT

@@ -1492,6 +1492,8 @@ openstudio-recommendation-engine,0.1.2,LGPL
 openstudio-recommendation-engine,0.1.3,LGPL
 openstudio-recommendation-engine,0.1.4,LGPL
 openstudio-recommendation-engine,0.1.5,LGPL
+osso,0.0.1,MIT
+osso,0.0.2,MIT
 pager_duty-connection,0.0.1,""
 pager_duty-connection,0.0.2,""
 pager_duty-connection,0.0.3,""

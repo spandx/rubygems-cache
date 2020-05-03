@@ -295,6 +295,7 @@ carrierwave_ucloud,0.1.3,MIT
 carrierwave_ucloud,0.1.4,MIT
 carrierwave_ucloud,0.2.1,MIT
 carrierwave_ucloud,0.2.2,MIT
+carrierwave_ucloud,0.2.3,MIT
 catarse_credit_card_net,1.0.0,MIT
 catfriend_test_gem,0.0.0,""
 catwalk,0.0.2,""
@@ -997,6 +998,7 @@ focus-utils,0.0.6,""
 focus-utils,0.0.7,""
 focus-utils,0.0.8,""
 fontist,0.1.0,BSD-2-Clause
+fontist,0.2.0,BSD-2-Clause
 fossil,0.5.35,""
 fossil,0.5.40,""
 fossil,0.5.43,""

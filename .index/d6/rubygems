@@ -2240,6 +2240,7 @@ rspec-support,3.8.3,MIT
 rspec-support,3.9.0,MIT
 rspec-support,3.9.1,MIT
 rspec-support,3.9.2,MIT
+rspec-support,3.9.3,MIT
 rspec_expectation_count,0.0.2,http://www.apache.org/licenses/LICENSE-2.0.txt
 rspec_expectation_count,0.0.3,http://www.apache.org/licenses/LICENSE-2.0.txt
 rspec_expectation_count,0.0.4,http://www.apache.org/licenses/LICENSE-2.0.txt

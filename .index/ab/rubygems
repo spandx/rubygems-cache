@@ -2638,6 +2638,7 @@ sys-cpu,0.8.3,Apache-2.0
 tacape,0.0.3,MIT
 tacape,0.0.4,MIT
 tacape,0.0.6,MIT
+tailwindui_rails,0.1.0,MIT
 temp_ruby_gem,0.1.0,MIT
 temp_ruby_gem,0.2.0,MIT
 temp_ruby_gem,0.3.0,MIT

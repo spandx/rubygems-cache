@@ -756,6 +756,8 @@ docl,0.0.5,MIT
 docomo-api,0.1.0,MIT
 doubly_linkedlist,0.1.0,MIT
 doubly_linkedlist,0.2.0,MIT
+doubly_linkedlist,0.2.1,MIT
+doubly_linkedlist,0.3.0,MIT
 dptm6,1.0.0,MIT
 dreader,0.1.1,MIT
 dreader,0.1.2,MIT
@@ -2430,6 +2432,7 @@ ww-postcodeapi,0.0.1,""
 ww-postcodeapi,0.0.2,""
 ww-postcodeapi,0.0.3,""
 wxp,0.0.3,MIT
+wxp,0.0.5,MIT
 xapp,0.1.1,""
 xapp,0.1.2,""
 xapp,0.1.3,""
