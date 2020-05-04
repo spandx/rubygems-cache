@@ -1841,6 +1841,7 @@ puppet-lint-global_resource-check,0.3.2,MIT
 qoobaa-sqs,0.1.0,""
 qoobaa-sqs,0.1.1,""
 quantum_ruby,0.1.1,MIT
+quantum_ruby,0.9.0,MIT
 rack-charset,1.0.0,""
 racker,0.1.0,MIT
 racker,0.1.1,MIT

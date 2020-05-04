@@ -208,6 +208,7 @@ assimp-ffi,0.1.3,BSD-2-Clause
 assimp-ffi,0.1.4,BSD-2-Clause
 assimp-ffi,0.1.5,BSD-2-Clause
 assimp-ffi,0.1.6,BSD-2-Clause
+assimp-ffi,0.1.7,BSD-2-Clause
 astro,0.1.1,MIT
 astro,0.2.0,MIT
 astro,0.2.1,MIT
@@ -525,6 +526,7 @@ chronopost,3.0.0,MIT
 chronopost,4.0.0,MIT
 chronopost,5.0.0,MIT
 chronopost,5.0.1,MIT
+chronopost,5.2.0,MIT
 cicloid-backdrop,0.1.0,""
 city_utc,1.0.3,MIT
 city_utc,1.0.5,MIT
@@ -1798,6 +1800,9 @@ radiant-relations-extension,1.2.6,""
 radiant-relations-extension,1.2.7,""
 radiant-relations-extension,1.2.8,""
 rahil_test,0.0.1,MIT
+rails-ci,0.1.1,MIT
+rails-ci,0.1.2,MIT
+rails-ci,0.1.3,MIT
 rails_amp,0.1.4,MIT
 rails_amp,0.1.5,MIT
 rails_amp,0.1.6,MIT
@@ -2433,6 +2438,8 @@ ww-postcodeapi,0.0.2,""
 ww-postcodeapi,0.0.3,""
 wxp,0.0.3,MIT
 wxp,0.0.5,MIT
+wxp,0.0.6,MIT
+wxp,0.0.7,MIT
 xapp,0.1.1,""
 xapp,0.1.2,""
 xapp,0.1.3,""

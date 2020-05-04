@@ -2151,6 +2151,7 @@ smart_engine,0.2.0,MIT
 smart_engine,0.3.0,MIT
 smart_engine,0.4.0,MIT
 smart_engine,0.5.0,MIT
+smart_engine,0.6.0,MIT
 smart_operation,0.0.0,MIT
 sociable,0.0.1,""
 sociable,0.0.4,""
@@ -2650,6 +2651,7 @@ sorbet,0.5.5566,Apache-2.0
 sorbet,0.5.5569,Apache-2.0
 sorbet,0.5.5571,Apache-2.0
 sorbet,0.5.5575,Apache-2.0
+sorbet,0.5.5576,Apache-2.0
 sourcerer,0.5.1,MIT
 sourcerer,0.5.2,MIT
 sourcerer,0.6.0,MIT

@@ -418,6 +418,7 @@ chromedriver-screenshot,0.2.3,MIT
 chromedriver-screenshot,0.2.4,MIT
 chromedriver-screenshot,0.3.0,MIT
 chromedriver-screenshot,0.4.0,MIT
+cie-es,0.0.1,MIT
 cinc-auditor-bin,4.18.39,Apache-2.0
 cinc-auditor-bin,4.18.51,Apache-2.0
 cinc-auditor-bin,4.18.66,Apache-2.0
@@ -3315,6 +3316,7 @@ sorbet-static-universal-darwin-14,0.5.5566,Apache-2.0
 sorbet-static-universal-darwin-14,0.5.5569,Apache-2.0
 sorbet-static-universal-darwin-14,0.5.5571,Apache-2.0
 sorbet-static-universal-darwin-14,0.5.5575,Apache-2.0
+sorbet-static-universal-darwin-14,0.5.5576,Apache-2.0
 spid-es,0.0.1,MIT
 spid-es,0.0.10,MIT
 spid-es,0.0.11,MIT
