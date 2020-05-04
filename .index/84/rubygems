@@ -2718,6 +2718,7 @@ sorbet-static-java,0.5.5566,Apache-2.0
 sorbet-static-java,0.5.5569,Apache-2.0
 sorbet-static-java,0.5.5571,Apache-2.0
 sorbet-static-java,0.5.5575,Apache-2.0
+sorbet-static-java,0.5.5576,Apache-2.0
 spade,0.0.1,""
 spade,0.0.2,""
 spade,0.1.1.1,""
@@ -3198,6 +3199,7 @@ zinbeijett,1.0.8.4,MIT
 zinbeijett,1.0.8.5,MIT
 zinbeijett,1.0.8.6,MIT
 zinbeijett,1.0.9,MIT
+zinbeijett,1.1.0,MIT
 zip_code_jp,0.0.1,MIT
 zip_code_jp,0.0.2,MIT
 zip_code_jp,0.0.3,MIT

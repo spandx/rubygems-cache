@@ -553,6 +553,7 @@ bolognese,1.5.16,MIT
 bolognese,1.5.17,MIT
 bolognese,1.5.19,MIT
 bolognese,1.5.2,MIT
+bolognese,1.5.21,MIT
 bolognese,1.5.3,MIT
 bolognese,1.5.5,MIT
 bolognese,1.5.6,MIT
@@ -1698,6 +1699,8 @@ imperituroard,0.3.2,MIT
 imperituroard,0.3.3,MIT
 imperituroard,0.3.4,MIT
 imperituroard,0.3.5,MIT
+imperituroard,0.3.7,MIT
+imperituroard,0.3.8,MIT
 infopen-docker,0.2.1,MIT
 injectable_dependencies,0.0.1,MIT
 injectable_dependencies,1.0.0,MIT

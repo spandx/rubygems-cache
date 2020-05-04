@@ -1204,6 +1204,7 @@ janio_api,0.1.8,MIT
 janio_api,0.1.9,MIT
 janio_api,0.2.0,MIT
 janio_api,0.2.1,MIT
+janio_api,0.3.0,MIT
 jekyll-cargodoc,0.0.0,MIT
 jekyll-pants,0.1.0,MIT
 jekyll-pants,0.2.0,MIT
@@ -2481,6 +2482,7 @@ trestle-search,0.2.1,LGPL-3.0
 trestle-search,0.3.0,LGPL-3.0
 trestle-search,0.4.0,LGPL-3.0
 trestle-search,0.4.1,LGPL-3.0
+trestle-search,0.4.2,LGPL-3.0
 trestle-sidekiq,0.1.0,LGPL-3.0
 trestle-sidekiq,0.1.1,LGPL-3.0
 tribes_icd,0.0.1,MIT

@@ -2657,6 +2657,11 @@ sinclair,1.4.2,""
 sinclair,1.5.0,""
 sinclair,1.5.1,""
 sinclair,1.5.2,""
+sinclair,1.6.0,""
+sinclair,1.6.1,""
+sinclair,1.6.2,""
+sinclair,1.6.3,""
+sinclair,1.6.4,""
 skore,0.0.1,MIT
 skore,0.0.2,MIT
 skore,0.0.3,MIT
@@ -2676,6 +2681,7 @@ smart_proxy_dhcp_infoblox,0.0.12,GPL-3.0
 smart_proxy_dhcp_infoblox,0.0.13,GPL-3.0
 smart_proxy_dhcp_infoblox,0.0.14,GPL-3.0
 smart_proxy_dhcp_infoblox,0.0.15,GPL-3.0
+smart_proxy_dhcp_infoblox,0.0.16,GPL-3.0
 smart_proxy_dhcp_infoblox,0.0.2,GPL-3.0-only
 smart_proxy_dhcp_infoblox,0.0.3,GPL-3.0-only
 smart_proxy_dhcp_infoblox,0.0.4,GPL-3.0-only
