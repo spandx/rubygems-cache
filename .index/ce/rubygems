@@ -807,6 +807,7 @@ eventhub-processor2,1.4.0,MIT
 eventhub-processor2,1.4.1,MIT
 eventhub-processor2,1.5.0,MIT
 eventhub-processor2,1.6.0,MIT
+eventhub-processor2,1.8.0,MIT
 exact-target-client,0.0.2,MIT
 exact-target-client,0.0.3,MIT
 exact-target-client,0.0.4,MIT
@@ -1743,6 +1744,7 @@ orkut,0.0.0.34,""
 orkut,0.0.0.8,""
 orm_adapter-sequel,0.0.3,""
 orm_adapter-sequel,0.1.0,""
+pagaris,1.0.0,""
 palette_creator,1.0.0,""
 paritytimeline,0.4,""
 paritytimeline,0.4.1,""

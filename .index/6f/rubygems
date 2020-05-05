@@ -383,6 +383,7 @@ aws-sdk-s3,1.61.1,Apache-2.0
 aws-sdk-s3,1.61.2,Apache-2.0
 aws-sdk-s3,1.62.0,Apache-2.0
 aws-sdk-s3,1.63.0,Apache-2.0
+aws-sdk-s3,1.63.1,Apache-2.0
 aws-sdk-s3,1.7.0,Apache-2.0
 aws-sdk-s3,1.8.0,Apache-2.0
 aws-sdk-s3,1.8.1,Apache-2.0
@@ -1914,6 +1915,10 @@ kcc-gem-theme,1.52.35,MIT
 kcc-gem-theme,1.53.35,MIT
 kcc-gem-theme,1.53.36,MIT
 kcc-gem-theme,1.54.36,MIT
+kcc-gem-theme,1.55.36,MIT
+kcc-gem-theme,1.56.36,MIT
+kcc-gem-theme,1.57.36,MIT
+kcc-gem-theme,1.58.36,MIT
 keycounter,0.0.1,MIT
 keycounter,0.0.2,MIT
 keycounter,0.0.5,MIT

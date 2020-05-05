@@ -1572,6 +1572,8 @@ logstash-codec-excel,0.1.0,Apache-2.0
 logstash-codec-excel,2.0.0,Apache-2.0
 logstash-codec-excel,2.1.0,Apache-2.0
 logstash-input-cloudwatch_logs_importer,1.0.0,Apache-2.0
+logstash-input-cloudwatch_logs_importer,1.0.1,Apache-2.0
+logstash-input-cloudwatch_logs_importer,1.0.2,Apache-2.0
 logstash-output-google_bigquery,0.1.0,Apache-2.0
 logstash-output-google_bigquery,0.1.1,Apache-2.0
 logstash-output-google_bigquery,0.1.2,Apache-2.0

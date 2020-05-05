@@ -2200,6 +2200,7 @@ slurry,0.0.3,""
 slurry,0.0.6,""
 slurry,0.0.7,""
 smart_types,0.0.0,MIT
+smart_types,0.1.0,MIT
 sml-rest-client,1.1.7,""
 smugsync,0.3,""
 soak,0.1.0,""
@@ -2874,6 +2875,7 @@ uptimerobot_cmd,0.3.0,MIT
 uptimerobot_cmd,0.3.1,MIT
 uptimerobot_cmd,0.3.2,MIT
 uptimerobot_cmd,0.3.3,MIT
+uptimerobot_cmd,0.3.4,MIT
 uri-ssh_git,0.1.0,MIT
 uri-ssh_git,0.1.1,MIT
 uri-ssh_git,0.1.2,MIT

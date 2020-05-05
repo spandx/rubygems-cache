@@ -793,6 +793,7 @@ github_issue_stats,0.2.0,MIT
 github_issue_stats,0.3.0,MIT
 github_issue_stats,0.4.0,MIT
 github_issue_stats,0.5.0,MIT
+github_issue_stats,0.6.0,MIT
 gitlab-grit,1.0.0,""
 gitlab-grit,2.5.0,MIT
 gitlab-grit,2.5.1,MIT
@@ -1083,6 +1084,7 @@ graphql,1.10.5,MIT
 graphql,1.10.6,MIT
 graphql,1.10.7,MIT
 graphql,1.10.8,MIT
+graphql,1.10.9,MIT
 graphql,1.2.0,MIT
 graphql,1.2.1,MIT
 graphql,1.2.2,MIT

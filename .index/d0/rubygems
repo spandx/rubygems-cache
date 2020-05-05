@@ -1082,6 +1082,7 @@ kount_complete,1.0.7,MIT
 kount_complete,1.0.9,MIT
 kount_complete,2.0.0,MIT
 kount_complete,2.0.1,MIT
+kount_complete,2.0.2,MIT
 krad,3.1.3,MIT
 krad,3.1.4,MIT
 krad,3.1.5,MIT
@@ -2406,6 +2407,7 @@ unidom-stapar,0.1,MIT
 unidom-stapar,0.2,MIT
 unidom-stapar,0.3,MIT
 unidom-stapar,0.4,MIT
+unidom-stapar,0.5,MIT
 user_settings,0.0.1,MIT
 user_settings,0.0.2,MIT
 user_settings,0.0.3,MIT

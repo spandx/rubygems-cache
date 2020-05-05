@@ -222,6 +222,7 @@ appsignal-java,2.10.3,MIT
 appsignal-java,2.10.4,MIT
 appsignal-java,2.10.5,MIT
 appsignal-java,2.10.6,MIT
+appsignal-java,2.10.7,MIT
 appsignal-java,2.5.0,MIT
 appsignal-java,2.5.1,MIT
 appsignal-java,2.5.2,MIT
@@ -2948,6 +2949,7 @@ steep,0.11.1,MIT
 steep,0.12.0,MIT
 steep,0.13.0,MIT
 steep,0.14.0,MIT
+steep,0.15.0,MIT
 steep,0.2.0,""
 steep,0.3.0,""
 steep,0.4.0,""

@@ -1126,6 +1126,8 @@ futuro,0.9.3,MIT
 futuro,0.9.4,MIT
 futuro,0.9.5,MIT
 futuro,0.9.6,MIT
+futuro,0.9.7,MIT
+futuro,0.9.8,MIT
 fuzzy_gherkin,0.1.0,MIT
 g-unit-testing,0.1.0,MIT
 garnierjm-dont_repeat_yourself,0.3.0,""
@@ -2560,6 +2562,7 @@ tidy_ffi,0.1.4,""
 tidy_ffi,0.1.5,""
 tidy_ffi,0.1.6,""
 tidy_ffi,1.0.0,""
+tidy_ffi,1.0.1,""
 tmapi,0.0.1,MIT
 tmapi,0.0.3,MIT
 tmdb_rexx,0.1.0,MIT

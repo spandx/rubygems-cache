@@ -280,6 +280,7 @@ aws-sdk-apigateway,1.35.0,Apache-2.0
 aws-sdk-apigateway,1.36.0,Apache-2.0
 aws-sdk-apigateway,1.37.0,Apache-2.0
 aws-sdk-apigateway,1.38.0,Apache-2.0
+aws-sdk-apigateway,1.39.0,Apache-2.0
 aws-sdk-apigateway,1.4.0,Apache-2.0
 aws-sdk-apigateway,1.5.0,Apache-2.0
 aws-sdk-apigateway,1.6.0,Apache-2.0
@@ -531,6 +532,7 @@ bake-toolkit,2.58.0,MIT
 bake-toolkit,2.59.0,MIT
 bake-toolkit,2.60.0,MIT
 bake-toolkit,2.60.2,MIT
+bake-toolkit,2.61.0,MIT
 bake-toolkit,2.7.0,MIT
 bake-toolkit,2.8.0,MIT
 bake-toolkit,2.9.0,MIT
