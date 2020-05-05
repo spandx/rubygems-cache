@@ -774,6 +774,7 @@ dynamoid_advanced_where,1.1.0,""
 easy_export,0.0.1,MIT
 easy_export,0.0.2,MIT
 easy_export,0.0.3,MIT
+egoist,0.5.0,MIT
 elastirad,0.0.1,MIT
 elastirad,0.0.2,MIT
 elastirad,0.0.3,MIT
@@ -1182,6 +1183,7 @@ hash_map,0.5.2,MIT
 hash_map,0.6.0,MIT
 hash_map,0.6.1,MIT
 hash_map,0.6.2,MIT
+hash_map,0.6.3,MIT
 hash_unnest,1.0.0,""
 hash_unnest,1.0.1,""
 hash_unnest,1.0.2,""

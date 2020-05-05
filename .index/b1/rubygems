@@ -476,6 +476,7 @@ betterplace-content,0.7.5,Apache-2.0
 betterplace-content,0.7.50,Apache-2.0
 betterplace-content,0.7.51,Apache-2.0
 betterplace-content,0.7.52,Apache-2.0
+betterplace-content,0.7.53,Apache-2.0
 betterplace-content,0.7.6,Apache-2.0
 betterplace-content,0.7.8,Apache-2.0
 betterplace-content,0.7.9,Apache-2.0
@@ -1932,6 +1933,7 @@ query_helper,0.1.8,MIT
 query_helper,0.2.0,MIT
 query_helper,0.2.1,MIT
 query_helper,0.2.10,MIT
+query_helper,0.2.11,MIT
 query_helper,0.2.2,MIT
 query_helper,0.2.3,MIT
 query_helper,0.2.4,MIT

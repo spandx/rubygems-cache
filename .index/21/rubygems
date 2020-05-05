@@ -1295,6 +1295,7 @@ jekyll-pwa-workbox,0.0.5,MIT
 jekyll-pwa-workbox,0.0.6,MIT
 jekyll-pwa-workbox,0.0.7,MIT
 jekyll-pwa-workbox,0.0.8,MIT
+jekyll-pwa-workbox,0.0.9,MIT
 jekyll-reload,1.0.0,Apache-2.0
 jekyll-reload,1.0.1,Apache-2.0
 jekyll_deploy,0.0.1,MIT
@@ -2035,6 +2036,7 @@ pedump,0.5.3,MIT
 pedump,0.5.4,MIT
 pendaxes,0.2.0,""
 pendaxes,0.2.1,""
+pgpool_no_load_balance,1.0.3,MIT
 philter,0.2.0,LGPL-3.0
 philter,0.3.0,LGPL-3.0
 philter,0.4.0,LGPL-3.0

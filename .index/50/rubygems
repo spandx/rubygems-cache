@@ -2458,9 +2458,11 @@ twb,4.6.3,GPL-3.0
 twb,4.7.1,GPL-3.0
 twb,4.9.0,GPL-3.0
 twb,4.9.1,GPL-3.0
+twb,4.9.10,GPL-3.0
 twb,4.9.2,GPL-3.0
 twb,4.9.3,GPL-3.0
 twb,4.9.4,GPL-3.0
+twb,4.9.9,GPL-3.0
 twitch-api,0.0.1,MIT
 twitch-api,0.0.2,MIT
 twitch-api,0.1.0,MIT

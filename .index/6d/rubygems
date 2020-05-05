@@ -948,6 +948,7 @@ gitlab-mergetrain-checker,1.0.1,MIT
 gitlab-mergetrain-checker,1.0.2,MIT
 gitlab-mergetrain-checker,1.1.0,MIT
 gitlab-mergetrain-checker,1.2.0,MIT
+gitlab-mergetrain-checker,1.2.1,MIT
 gitti-backup,0.0.1,Public Domain
 gitti-backup,0.1.0,Public Domain
 gitti-backup,0.1.1,Public Domain
@@ -2096,6 +2097,8 @@ riddl,0.100.9,LGPL-3.0
 riddl,0.101.01,LGPL-3.0
 riddl,0.101.2,LGPL-3.0
 riddl,0.101.3,LGPL-3.0
+riddl,0.101.4,LGPL-3.0
+riddl,0.101.5,LGPL-3.0
 riddl,0.99.105,LGPL-3.0
 riddl,0.99.106,LGPL-3.0
 riddl,0.99.107,LGPL-3.0

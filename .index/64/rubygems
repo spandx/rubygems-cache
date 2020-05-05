@@ -315,6 +315,7 @@ appsignal,2.10.3,MIT
 appsignal,2.10.4,MIT
 appsignal,2.10.5,MIT
 appsignal,2.10.6,MIT
+appsignal,2.10.7,MIT
 appsignal,2.2.0,MIT
 appsignal,2.2.1,MIT
 appsignal,2.3.0,MIT
@@ -1378,6 +1379,7 @@ aws-sdk-resources,2.11.498,Apache-2.0
 aws-sdk-resources,2.11.499,Apache-2.0
 aws-sdk-resources,2.11.5,Apache-2.0
 aws-sdk-resources,2.11.50,Apache-2.0
+aws-sdk-resources,2.11.500,Apache-2.0
 aws-sdk-resources,2.11.51,Apache-2.0
 aws-sdk-resources,2.11.52,Apache-2.0
 aws-sdk-resources,2.11.53,Apache-2.0
@@ -2484,6 +2486,7 @@ eivo-rails,0.1.5,MIT
 eivo-rails,0.1.6,MIT
 eivo-rails,0.1.7,MIT
 eivo-rails,0.1.8,MIT
+eivo-rails,0.1.9,MIT
 em-sofa,0.1.1,""
 email-logger,0.1.1,MIT
 email-logger,0.1.2,MIT
@@ -3322,6 +3325,8 @@ octopress-date-format,3.0.1,MIT
 octopress-date-format,3.0.2,MIT
 octopress-date-format,3.0.3,MIT
 offline_geocoder,0.1.0,Apache-2.0
+offline_geocoder,0.2.0,Apache-2.0
+offline_geocoder,0.2.1,Apache-2.0
 ol-github-linguist,2.4.2.5,""
 omniauth-account,0.0.1,""
 omniauth-hackcentral,0.5.0,MIT

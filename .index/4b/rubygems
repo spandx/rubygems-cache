@@ -488,6 +488,7 @@ chef-bin,15.7.32,Apache-2.0
 chef-bin,15.8.23,Apache-2.0
 chef-bin,15.9.17,Apache-2.0
 chef-bin,16.0.257,Apache-2.0
+chef-bin,16.0.275,Apache-2.0
 chef-jabber-paste-snitch,1.0.1,MIT
 chitin,1.0.1,""
 chitin,1.0.2,""
