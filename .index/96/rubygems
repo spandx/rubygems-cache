@@ -1632,6 +1632,7 @@ gocardless_pro,2.18.0,MIT
 gocardless_pro,2.18.1,MIT
 gocardless_pro,2.19.0,MIT
 gocardless_pro,2.2.0,MIT
+gocardless_pro,2.20.0,MIT
 gocardless_pro,2.3.0,MIT
 gocardless_pro,2.4.0,MIT
 gocardless_pro,2.5.0,MIT
@@ -2543,6 +2544,8 @@ ravelin,0.1.21,MIT
 ravelin,0.1.23,MIT
 ravelin,0.1.24,MIT
 ravelin,0.1.25,MIT
+ravelin,0.1.26,MIT
+ravelin,0.1.27,MIT
 ravelin,0.1.3,MIT
 ravelin,0.1.4,MIT
 ravelin,0.1.5,MIT

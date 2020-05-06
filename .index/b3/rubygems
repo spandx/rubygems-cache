@@ -2270,6 +2270,7 @@ mail_manager,3.2.4,MIT
 mail_manager,3.2.5,MIT
 mail_manager,3.2.6,MIT
 mail_manager,3.2.7,MIT
+manual,0.1.0,MIT
 mastercard_vending,1.0.0,BSD-2-Clause
 mastercard_vending,1.0.1,BSD-2-Clause
 mattermost,0.1.0,""

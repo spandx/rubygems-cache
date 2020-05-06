@@ -1088,6 +1088,7 @@ google-cloud-logging,1.10.1,Apache-2.0
 google-cloud-logging,1.10.2,Apache-2.0
 google-cloud-logging,1.10.3,Apache-2.0
 google-cloud-logging,1.10.4,Apache-2.0
+google-cloud-logging,1.10.5,Apache-2.0
 google-cloud-logging,1.2.1,Apache-2.0
 google-cloud-logging,1.2.2,Apache-2.0
 google-cloud-logging,1.2.3,Apache-2.0
@@ -1728,6 +1729,7 @@ mygithug,0.5.4,""
 mygithug,0.5.5,""
 mygithug,0.5.6,""
 myhelper,1.0.0,MIT
+nelsonagamata_palindrome,0.1.0,""
 nem-ruby,0.0.1,MIT
 nem-ruby,0.0.10,MIT
 nem-ruby,0.0.11,MIT

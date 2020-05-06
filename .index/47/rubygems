@@ -84,6 +84,7 @@ activeresource,4.0.0,MIT
 activeresource,4.1.0,MIT
 activeresource,5.0.0,MIT
 activeresource,5.1.0,MIT
+activeresource,5.1.1,MIT
 activiti,0.1.0,""
 acts_as_commentable,4.0.1,""
 acts_as_commentable,4.0.2,""
@@ -1403,6 +1404,7 @@ intrinio-sdk,5.1.0,GPL-3.0
 intrinio-sdk,5.2.0,GPL-3.0
 intrinio-sdk,5.3.0,GPL-3.0
 intrinio-sdk,5.4.0,GPL-3.0
+intrinio-sdk,5.5.0,GPL-3.0
 invoracle,0.0.1,MIT
 invoracle,0.0.2,MIT
 invoracle,0.0.3,MIT

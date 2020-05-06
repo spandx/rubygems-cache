@@ -380,6 +380,7 @@ beyond-rails,0.0.156,MIT
 beyond-rails,0.0.157,MIT
 beyond-rails,0.0.158,MIT
 beyond-rails,0.0.159,MIT
+beyond-rails,0.0.160,MIT
 bidu-mercy,1.3.0,""
 bigquery,0.1.3,""
 bigquery,0.1.4,""
@@ -3103,6 +3104,9 @@ utopia-project,0.3.0,MIT
 utopia-project,0.4.0,MIT
 utopia-project,0.5.0,MIT
 utopia-project,0.5.1,MIT
+utopia-project,0.6.0,MIT
+utopia-project,0.6.1,MIT
+utopia-project,0.6.2,MIT
 vagrant-lxc-2.1-patch,1.4.0,MIT
 vagrant-recipe,0.1.0,""
 vagrant-recipe,0.1.1,""

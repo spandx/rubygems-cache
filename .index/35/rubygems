@@ -215,6 +215,7 @@ attractor,1.1.1,MIT
 attractor,1.2.0,MIT
 attractor,2.0.0,MIT
 attractor,2.0.1,MIT
+attractor,2.0.2,MIT
 auction-ruby-base,0.1.1,Apache-2.0
 auction-ruby-base,0.1.2,Apache-2.0
 auction-ruby-base,0.1.3,Apache-2.0
@@ -1045,6 +1046,7 @@ golf_handicap,0.0.8,""
 golf_handicap,0.0.9,""
 google-cloud-service_directory,0.1.0,Apache-2.0
 google-cloud-service_directory,0.2.0,Apache-2.0
+google-cloud-service_directory,0.2.1,Apache-2.0
 google-distance-ruby,0.0.1,MIT
 google-distance-ruby,0.0.2,MIT
 google-distance-ruby,0.0.3,MIT
