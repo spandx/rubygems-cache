@@ -738,6 +738,7 @@ capistrano-alchemy,1.0.0,MIT
 capistrano-archive,1.0.0,MIT
 capistrano-backburner,0.0.9,MIT
 capistrano-backburner,0.1.0,MIT
+capistrano-backburner,0.1.1,MIT
 capistrano-docker-cloud,0.2.2,""
 capistrano-kyan,0.2.10,""
 capistrano-kyan,0.2.11,""

@@ -863,6 +863,7 @@ glom,0.0.5,MIT
 glom,0.0.6,MIT
 glom,1.0.0,MIT
 golife,0.0.0,MIT
+google-cloud-text_to_speech-v1beta1,0.1.0,Apache-2.0
 google-maps,1.0.0,""
 google-maps,2.0.0,""
 google-maps,2.1.0,""
@@ -2319,6 +2320,8 @@ prima-twig,0.58.508,MIT
 prima-twig,0.58.509,MIT
 prima-twig,0.59.0,MIT
 prima-twig,0.59.1,MIT
+prima-twig,0.59.123,MIT
+prima-twig,0.59.124,MIT
 prima-twig,0.59.2,MIT
 prima-twig,0.59.3,MIT
 prima-twig,0.59.4,MIT
@@ -2376,6 +2379,8 @@ prima-twig,0.63.20,MIT
 prima-twig,0.63.21,MIT
 prima-twig,0.63.23,MIT
 prima-twig,0.63.24,MIT
+prima-twig,0.63.25,MIT
+prima-twig,0.63.26,MIT
 prima-twig,0.63.3,MIT
 prima-twig,0.63.4,MIT
 prima-twig,0.63.5,MIT

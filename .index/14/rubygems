@@ -323,6 +323,7 @@ bridgetown-paginate,0.11.1,MIT
 bridgetown-paginate,0.11.2,MIT
 bridgetown-paginate,0.12.0,MIT
 bridgetown-paginate,0.12.1,MIT
+bridgetown-paginate,0.13.0,MIT
 bridgetown-paginate,0.8.0,MIT
 bridgetown-paginate,0.8.1,MIT
 bridgetown-paginate,0.9.0,MIT
@@ -3133,6 +3134,7 @@ sorbet-runtime,0.5.5571,Apache-2.0
 sorbet-runtime,0.5.5575,Apache-2.0
 sorbet-runtime,0.5.5576,Apache-2.0
 sorbet-runtime,0.5.5579,Apache-2.0
+sorbet-runtime,0.5.5585,Apache-2.0
 sorting_table_for,0.2.2,""
 sorting_table_for,0.3.0,""
 spira-timestamps,0.0.1,MIT

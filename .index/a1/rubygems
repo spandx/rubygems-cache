@@ -2368,6 +2368,7 @@ shenanigans,1.0.0,""
 shenanigans,1.0.10,MIT
 shenanigans,1.0.11,MIT
 shenanigans,1.0.13,MIT
+shenanigans,1.0.14,MIT
 shenanigans,1.0.8,MIT
 shenanigans,1.0.9,MIT
 shipyard_client,0.1.0,MIT
@@ -2938,6 +2939,7 @@ sorbet-static-x86_64-linux,0.5.5571,Apache-2.0
 sorbet-static-x86_64-linux,0.5.5575,Apache-2.0
 sorbet-static-x86_64-linux,0.5.5576,Apache-2.0
 sorbet-static-x86_64-linux,0.5.5579,Apache-2.0
+sorbet-static-x86_64-linux,0.5.5585,Apache-2.0
 spanx,0.1.0,""
 spanx,0.1.1,""
 spanx,0.3.0,""

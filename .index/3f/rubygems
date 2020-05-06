@@ -1007,6 +1007,7 @@ ffidb,0.1.0,Unlicense
 ffidb,0.2.0,Unlicense
 ffidb,0.5.0,Unlicense
 ffidb,0.6.0,Unlicense
+ffidb,0.7.0,Unlicense
 fidgit,0.1.2,""
 fidgit,0.1.5,""
 fidgit,0.2.0,""
@@ -3210,6 +3211,7 @@ you_shall_not_pass,0.2.1,MIT
 you_shall_not_pass,0.3.0,MIT
 you_shall_not_pass,0.3.1,MIT
 you_shall_not_pass,0.4.0,MIT
+ytdl,0.0.1,MIT
 zen,0.2.6.1,""
 zen,0.3,""
 zeroc-ice,3.6.0,GPL v2 with exceptions

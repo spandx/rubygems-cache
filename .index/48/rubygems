@@ -193,6 +193,7 @@ ar_lazy_preload,0.2.3,MIT
 ar_lazy_preload,0.2.4,MIT
 ar_lazy_preload,0.2.5,MIT
 ar_lazy_preload,0.2.6,MIT
+ar_lazy_preload,0.2.7,MIT
 ar_mailer_aws,0.0.1,MIT
 ar_mailer_aws,0.0.2,MIT
 ar_mailer_aws,0.0.3,MIT
@@ -2525,6 +2526,7 @@ standalone_validator,0.2.1,MIT
 standalone_validator,0.2.2,MIT
 standalone_validator,0.2.3,MIT
 static-rails,0.0.1,MIT
+static-rails,0.0.2,MIT
 strava-ruby-client,0.1.0,MIT
 strava-ruby-client,0.2.0,MIT
 strava-ruby-client,0.3.0,MIT

@@ -186,6 +186,7 @@ api-auth,2.2.0,""
 api-auth,2.2.1,""
 api-auth,2.3.0,""
 api-auth,2.3.1,""
+api-auth,2.4.0,""
 app_config_rails,0.0.1,MIT
 app_config_rails,0.0.2,MIT
 app_config_rails,0.0.3,MIT
@@ -523,6 +524,7 @@ compass-respond,0.2.0,""
 compass-respond,0.3.0,""
 contrast-agent,3.10.0,CONTRAST SECURITY (see license file)
 contrast-agent,3.10.1,CONTRAST SECURITY (see license file)
+contrast-agent,3.10.2,CONTRAST SECURITY (see license file)
 contrast-agent,3.8.4,CONTRAST SECURITY (see license file)
 contrast-agent,3.8.5,CONTRAST SECURITY (see license file)
 contrast-agent,3.9.0,CONTRAST SECURITY (see license file)

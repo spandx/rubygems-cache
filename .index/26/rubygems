@@ -896,6 +896,7 @@ fluent-plugin-azure-loganalytics,0.3.1,Apache-2.0
 fluent-plugin-azure-loganalytics,0.4.0,Apache-2.0
 fluent-plugin-azure-loganalytics,0.4.1,Apache-2.0
 fluent-plugin-azure-loganalytics,0.4.2,Apache-2.0
+fluent-plugin-azure-loganalytics,0.5.0,Apache-2.0
 fluent-plugin-config_pit,0.0.1,""
 fluent-plugin-config_pit,0.0.2,""
 fm_layout,0.0.1,MIT
@@ -1136,6 +1137,7 @@ journald-logger,2.0.2,MIT
 journald-logger,2.0.3,MIT
 journald-logger,2.0.4,MIT
 journald-logger,3.0.0,MIT
+journald-logger,3.0.1,MIT
 jquery-knob-rails,1.2.13,MIT
 jr-cli,0.0.1,MIT
 jr-cli,0.0.2,MIT
@@ -2512,6 +2514,7 @@ sorbet-static-universal-darwin-18,0.5.5571,Apache-2.0
 sorbet-static-universal-darwin-18,0.5.5575,Apache-2.0
 sorbet-static-universal-darwin-18,0.5.5576,Apache-2.0
 sorbet-static-universal-darwin-18,0.5.5579,Apache-2.0
+sorbet-static-universal-darwin-18,0.5.5585,Apache-2.0
 soybean,2.2.1,""
 soybean,2.4.0,""
 soybean,2.5.0,""

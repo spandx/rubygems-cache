@@ -437,6 +437,7 @@ bridgetown,0.11.1,MIT
 bridgetown,0.11.2,MIT
 bridgetown,0.12.0,MIT
 bridgetown,0.12.1,MIT
+bridgetown,0.13.0,MIT
 bridgetown,0.7.0,MIT
 bridgetown,0.7.1,MIT
 bridgetown,0.7.2,MIT
@@ -3654,6 +3655,7 @@ web-console,3.6.2,MIT
 web-console,3.7.0,MIT
 web-console,4.0.0,MIT
 web-console,4.0.1,MIT
+web-console,4.0.2,MIT
 web_socket_rb,0.1.1,MIT
 web_socket_rb,0.1.2,MIT
 webpulser-jrails,0.4.2,""

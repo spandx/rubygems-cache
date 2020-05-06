@@ -1558,6 +1558,7 @@ hako-gcredstash,0.1.0,MIT
 happy_hash,0.0.1,MIT
 happy_hash,0.1.0,MIT
 happy_hour,0.1.0,MIT
+harmony-api,0.1.0,MIT
 has_checksum,0.0.1,MIT
 hashafras,0.0.1,""
 hashgraph,0.0.0,Unlicense
@@ -3222,6 +3223,7 @@ sfctl,0.0.1,MIT
 sfctl,0.0.2,MIT
 sfctl,0.0.3,MIT
 sfctl,0.0.4,MIT
+sfctl,0.1.0,MIT
 sfdc_proxy,0.0.1,MIT
 sfdc_proxy,0.0.2,MIT
 sfdc_proxy,0.0.3,MIT

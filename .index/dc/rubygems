@@ -715,6 +715,7 @@ fog-cloudatcost,0.2.3,MIT
 fog-cloudatcost,0.4.0,MIT
 foreman-export-systemd_user,0.0.1,""
 foreman-export-systemd_user,0.0.2,""
+foreman-export-systemd_user,0.1.0,""
 formula-one,0.0.0,MIT
 foundation-icons-sassc-rails,3.0.0,""
 fpm-dockery,0.1.0,MIT

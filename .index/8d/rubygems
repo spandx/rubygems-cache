@@ -632,6 +632,7 @@ devise_invitable,1.7.4,MIT
 devise_invitable,1.7.5,MIT
 devise_invitable,2.0.0,MIT
 devise_invitable,2.0.1,MIT
+devise_invitable,2.0.2,MIT
 devise_rails_api_authentication,0.0.1,MIT
 devise_rails_api_authentication,1.0.0,MIT
 devise_rails_api_authentication,1.1.0,MIT
@@ -954,6 +955,7 @@ fmrest,0.4.1,MIT
 fmrest,0.5.0,MIT
 fmrest,0.5.1,MIT
 fmrest,0.5.2,MIT
+fmrest,0.6.0,MIT
 forspell,0.0.2,MIT
 forspell,0.0.3,MIT
 forspell,0.0.4,MIT
@@ -2128,6 +2130,9 @@ sensu-plugins-entropy-checks,0.0.1,MIT
 sensu-plugins-entropy-checks,0.0.2,MIT
 sensu-plugins-entropy-checks,0.0.3,MIT
 sensu-plugins-entropy-checks,1.0.0,MIT
+sensu-plugins-entropy-checks,2.0.0,MIT
+sensu-plugins-entropy-checks,2.0.1,MIT
+sensu-plugins-entropy-checks,2.0.2,MIT
 sensu-plugins-plivo,0.0.1,MIT
 sensu-plugins-sidekiq-donotuse,0.0.3,MIT
 sequencer,1.0.5,""
