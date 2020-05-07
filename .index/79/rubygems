@@ -549,6 +549,7 @@ codekindly-utils,0.0.1,MIT
 codekindly-utils,0.0.10,MIT
 codekindly-utils,0.0.11,MIT
 codekindly-utils,0.0.12,MIT
+codekindly-utils,0.0.13,MIT
 codekindly-utils,0.0.2,MIT
 codekindly-utils,0.0.3,MIT
 codekindly-utils,0.0.4,MIT
@@ -2420,6 +2421,7 @@ rails,6.0.1,MIT
 rails,6.0.2,MIT
 rails,6.0.2.1,MIT
 rails,6.0.2.2,MIT
+rails,6.0.3,MIT
 rails-assets-cdn,0.1.0,""
 rails-pipeline,1.1.1,""
 rails3-active_form,2.0.0,""

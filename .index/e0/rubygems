@@ -32,6 +32,7 @@ ZCRMSDK,0.0.4,""
 ZCRMSDK,1.0.0,""
 ZCRMSDK,1.0.1,""
 ZCRMSDK,1.0.2,""
+ZCRMSDK,1.0.3,""
 aaronp-zomg,1.0.2.20080827232412,""
 aaronp-zomg,1.0.2.20080828210656,""
 aaronp-zomg,1.0.2.20080830162937,""
@@ -1583,6 +1584,7 @@ march_hare-java,3.1.1,""
 march_hare-java,4.0.0,""
 march_hare-java,4.1.0,""
 march_hare-java,4.1.1,""
+march_hare-java,4.2.0,""
 marky_markdown,0.1.1,MIT
 marky_markdown,0.2.0,MIT
 marky_markdown,0.2.2,MIT

@@ -1381,6 +1381,7 @@ aws-sdk-resources,2.11.5,Apache-2.0
 aws-sdk-resources,2.11.50,Apache-2.0
 aws-sdk-resources,2.11.500,Apache-2.0
 aws-sdk-resources,2.11.501,Apache-2.0
+aws-sdk-resources,2.11.502,Apache-2.0
 aws-sdk-resources,2.11.51,Apache-2.0
 aws-sdk-resources,2.11.52,Apache-2.0
 aws-sdk-resources,2.11.53,Apache-2.0
@@ -4390,6 +4391,7 @@ unidom-common,1.9.2,MIT
 unidom-common,2.0,MIT
 unidom-common,2.1,MIT
 unidom-common,2.1.1,MIT
+unidom-common,2.1.2,MIT
 update_xcode_plugins,0.1,MIT
 update_xcode_plugins,0.2,MIT
 update_xcode_plugins,0.3,MIT

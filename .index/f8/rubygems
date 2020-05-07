@@ -117,6 +117,7 @@ actionview,6.0.1,MIT
 actionview,6.0.2,MIT
 actionview,6.0.2.1,MIT
 actionview,6.0.2.2,MIT
+actionview,6.0.3,MIT
 active_model_serializers_pg,0.0.1,MIT
 active_model_serializers_pg,0.0.2,MIT
 active_model_serializers_pg,0.0.3,MIT
@@ -2942,6 +2943,7 @@ strong_migrations,0.6.1,MIT
 strong_migrations,0.6.2,MIT
 strong_migrations,0.6.3,MIT
 strong_migrations,0.6.4,MIT
+strong_migrations,0.6.5,MIT
 studio_game_ar,1.0.0,MIT
 summer_residents,0.0.2,""
 summer_residents,0.0.3,""

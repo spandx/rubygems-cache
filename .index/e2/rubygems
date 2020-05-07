@@ -2370,6 +2370,8 @@ rscaffold,0.0.4,MIT
 rscaffold,0.0.6,MIT
 rscaffold,0.1.0,MIT
 rscaffold,0.1.1,MIT
+rspec_tesults_formatter,1.0.0,MIT
+rspec_tesults_formatter,1.0.1,MIT
 rtiss_soap4r,1.6.0,""
 rtiss_soap4r,1.6.1,""
 rtiss_soap4r,2.0.4,Ruby

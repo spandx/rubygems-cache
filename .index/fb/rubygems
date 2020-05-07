@@ -1378,6 +1378,7 @@ instabot,0.1.90,MIT
 interval_response,0.1.0,MIT
 interval_response,0.1.1,MIT
 interval_response,0.1.2,MIT
+interval_response,0.1.4,MIT
 invoca-utils,0.0.1,MIT
 invoca-utils,0.0.2,MIT
 invoca-utils,0.0.3,MIT
@@ -2611,6 +2612,7 @@ zendesk_support_api,0.1.0,MIT
 zendesk_support_api,0.2.0,MIT
 zendesk_support_api,0.3.0,MIT
 zendesk_support_api,0.4.0,MIT
+zendesk_support_api,0.5.0,MIT
 zillow_demographics,0.0.2,""
 zlog,0.6,MPL-2.0
 zlog,0.7,MPL-2.0

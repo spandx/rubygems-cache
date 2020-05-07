@@ -774,6 +774,7 @@ ellen-cron,0.0.7,MIT
 ellen-cron,0.0.8,MIT
 email2face,0.1.0,""
 email2face,0.1.3,""
+embulk-filter-copy-java,0.2.0,MIT
 embulk-filter-mask,0.0.1,MIT
 embulk-filter-mask,0.1.1,MIT
 embulk-filter-mask,0.2.1,MIT

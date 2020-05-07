@@ -2333,6 +2333,7 @@ mediawiki-butt,1.3.0,MIT
 mediawiki-butt,2.0.0,MIT
 mediawiki-butt,2.0.1,MIT
 mediawiki-butt,3.0.0,MIT
+mediawiki-butt,4.0.1,MIT
 metromobilite,0.1,GPL-3.0
 metromobilite,0.2,GPL-3.0
 mina-cakephp,1.0.0,""
@@ -2587,6 +2588,7 @@ rails-security-backports,0.0.3,MIT
 rails-template-cache-senexx,0.2.1,MIT
 rails_admin_markdown,0.0.4,MIT
 rake_easy_rsa,0.3.0,MIT
+rake_easy_rsa,0.5.0,MIT
 raptorize-rails,0.0.1,""
 raptorize-rails,0.0.2,MIT
 raptorize-rails,0.0.3,MIT
