@@ -527,6 +527,7 @@ chronopost,4.0.0,MIT
 chronopost,5.0.0,MIT
 chronopost,5.0.1,MIT
 chronopost,5.2.0,MIT
+chronopost,5.3.0,MIT
 cicloid-backdrop,0.1.0,""
 city_utc,1.0.3,MIT
 city_utc,1.0.5,MIT
@@ -2441,6 +2442,7 @@ wxp,0.0.3,MIT
 wxp,0.0.5,MIT
 wxp,0.0.6,MIT
 wxp,0.0.7,MIT
+wxp,0.0.8,MIT
 xapp,0.1.1,""
 xapp,0.1.2,""
 xapp,0.1.3,""

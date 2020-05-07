@@ -900,6 +900,7 @@ cloudmersive-nlp-api-client,2.0.2,Apache-2.0
 cloudmersive-nlp-api-client,2.0.3,Apache-2.0
 cloudmersive-nlp-api-client,2.0.4,Apache-2.0
 cloudmersive-nlp-api-client,2.0.5,Apache-2.0
+cloudmersive-nlp-api-client,2.0.6,Apache-2.0
 cluster_management,0.6,""
 cluster_management,0.7.1,""
 cluster_management,0.7.2,""
@@ -2476,6 +2477,7 @@ peatio-dash,0.1.2,Proprietary
 peatio-dash,2.4.0,Proprietary
 peatio-dash,2.5.0,Proprietary
 peatio-dash,2.5.1,Proprietary
+peatio-dash,2.5.2,Proprietary
 permission_management,0.0.2,MIT
 persistent_params,1.0.0,MIT
 pg_translatable,0.0.1,""

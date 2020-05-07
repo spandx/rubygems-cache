@@ -1732,6 +1732,7 @@ peatio-litecoin,0.2.0,MIT
 peatio-litecoin,2.4.0,MIT
 peatio-litecoin,2.5.0,MIT
 peatio-litecoin,2.5.1,MIT
+peatio-litecoin,2.5.2,MIT
 peek-host,1.0.0,""
 peek-vars,1.0.0,""
 peentar_id,1.0.0,MIT
@@ -2688,6 +2689,7 @@ zammad_api,1.0.2,""
 zammad_api,1.0.3,""
 zammad_api,1.0.4,""
 zammad_api,1.0.5,""
+zammad_api,1.0.6,""
 zc_broker_kd,0.1.0,MIT
 zeli,0.1.0,MIT
 zeli,0.2.0,MIT

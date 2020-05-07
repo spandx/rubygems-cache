@@ -2168,6 +2168,7 @@ railties,6.0.1,MIT
 railties,6.0.2,MIT
 railties,6.0.2.1,MIT
 railties,6.0.2.2,MIT
+railties,6.0.3,MIT
 raise_js,0.0.1,""
 raise_js,0.0.2,""
 rake-migrations,0.2.0,MIT

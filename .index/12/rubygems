@@ -63,6 +63,7 @@ actioncable,6.0.1,MIT
 actioncable,6.0.2,MIT
 actioncable,6.0.2.1,MIT
 actioncable,6.0.2.2,MIT
+actioncable,6.0.3,MIT
 activemodel-immutable_validator,0.0.1,MIT
 activemodel-immutable_validator,0.0.2,MIT
 activerecord_bulkoperation,0.0.2,Ruby
@@ -73,6 +74,7 @@ activerecord_bulkoperation,0.0.6,Ruby
 activerecord_bulkoperation,0.0.7,Ruby
 activerecord_bulkoperation,0.0.8,Ruby
 activerecord_bulkoperation,0.1.0,Ruby
+activerecord_bulkoperation,0.2.0,Ruby
 activerecord_hoarder,0.0.1,MIT
 activerecord_hoarder,0.0.2,MIT
 activerecord_strict_validations,0.3,BSD 3-Clause

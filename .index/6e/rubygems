@@ -199,6 +199,7 @@ activerecord-jdbcteradata-adapter,0.4.1,""
 activerecord-jdbcteradata-adapter,0.4.2,""
 activerecord-jdbcteradata-adapter,0.5.0,""
 activerecord-jdbcteradata-adapter,0.5.1,""
+activerecord-mysql-reconnect-before-retry,0.5.0,MIT
 acts_as_markup_extended,1.0.2,""
 acts_as_token,0.0.1,MIT
 advance,0.1.0,MIT

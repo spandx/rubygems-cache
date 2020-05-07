@@ -186,6 +186,7 @@ activesupport,6.0.1,MIT
 activesupport,6.0.2,MIT
 activesupport,6.0.2.1,MIT
 activesupport,6.0.2.2,MIT
+activesupport,6.0.3,MIT
 activity_stream_client,0.0.10,""
 activity_stream_client,0.0.11,""
 activity_stream_client,0.0.12,""

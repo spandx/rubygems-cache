@@ -83,6 +83,7 @@ activejob,6.0.1,MIT
 activejob,6.0.2,MIT
 activejob,6.0.2.1,MIT
 activejob,6.0.2.2,MIT
+activejob,6.0.3,MIT
 activerecord-devkit,1.0.0,MIT
 activerecord-devkit,1.1.0,MIT
 adapt-charyf,0.2.1,MIT

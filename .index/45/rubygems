@@ -1123,6 +1123,7 @@ graphql_devise,0.10.0,MIT
 graphql_devise,0.10.1,MIT
 graphql_devise,0.11.0,MIT
 graphql_devise,0.11.1,MIT
+graphql_devise,0.11.2,MIT
 graphql_devise,0.2.0,MIT
 graphql_devise,0.3.0,MIT
 graphql_devise,0.4.0,MIT
@@ -2404,6 +2405,7 @@ relaton,0.7.0,BSD-2-Clause
 relaton,0.8.0,BSD-2-Clause
 relaton,0.9.0,BSD-2-Clause
 relaton,1.0.0,BSD-2-Clause
+relaton,1.0.1,BSD-2-Clause
 reloaded,0.0.1,MIT
 remote_history,0.0.0.1,""
 respec,0.1.0,""

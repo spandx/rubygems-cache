@@ -1392,6 +1392,7 @@ kind,1.6.0,MIT
 kind,1.7.0,MIT
 kind,1.8.0,MIT
 kind,1.9.0,MIT
+kind,2.0.0,MIT
 kitchen-policyfile-nodes,1.0.0,Apache-2.0
 kitchen-policyfile-nodes,1.0.1,Apache-2.0
 kitchen-policyfile-nodes,1.1.0,Apache-2.0
