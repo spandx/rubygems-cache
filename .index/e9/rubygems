@@ -142,6 +142,7 @@ aws-sdk-comprehend,1.28.0,Apache-2.0
 aws-sdk-comprehend,1.29.0,Apache-2.0
 aws-sdk-comprehend,1.3.0,Apache-2.0
 aws-sdk-comprehend,1.30.0,Apache-2.0
+aws-sdk-comprehend,1.31.0,Apache-2.0
 aws-sdk-comprehend,1.4.0,Apache-2.0
 aws-sdk-comprehend,1.5.0,Apache-2.0
 aws-sdk-comprehend,1.6.0,Apache-2.0
@@ -2405,6 +2406,7 @@ oraclebmc,2.0.8,UPL-1.0-|-Apache-2.0
 oraclebmc,2.0.9,UPL-1.0-|-Apache-2.0
 oraclebmc,2.1.0,UPL-1.0-|-Apache-2.0
 orb_def,0.0.1,MIT
+orb_def,0.0.2,MIT
 osqp,0.1.0,MIT
 osqp,0.1.1,Apache-2.0
 paperclip-oss,0.0.0,MIT
@@ -2938,6 +2940,7 @@ slack-ruby-bot,0.11.2,MIT
 slack-ruby-bot,0.12.0,MIT
 slack-ruby-bot,0.13.0,MIT
 slack-ruby-bot,0.14.0,MIT
+slack-ruby-bot,0.15.0,MIT
 slack-ruby-bot,0.2.0,MIT
 slack-ruby-bot,0.3.0,MIT
 slack-ruby-bot,0.3.1,MIT

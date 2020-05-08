@@ -295,6 +295,7 @@ aws-sdk-codepipeline,1.27.0,Apache-2.0
 aws-sdk-codepipeline,1.28.0,Apache-2.0
 aws-sdk-codepipeline,1.29.0,Apache-2.0
 aws-sdk-codepipeline,1.3.0,Apache-2.0
+aws-sdk-codepipeline,1.30.0,Apache-2.0
 aws-sdk-codepipeline,1.4.0,Apache-2.0
 aws-sdk-codepipeline,1.5.0,Apache-2.0
 aws-sdk-codepipeline,1.6.0,Apache-2.0
@@ -309,6 +310,7 @@ aws-sdk-pinpointsmsvoice,1.11.0,Apache-2.0
 aws-sdk-pinpointsmsvoice,1.12.0,Apache-2.0
 aws-sdk-pinpointsmsvoice,1.13.0,Apache-2.0
 aws-sdk-pinpointsmsvoice,1.14.0,Apache-2.0
+aws-sdk-pinpointsmsvoice,1.15.0,Apache-2.0
 aws-sdk-pinpointsmsvoice,1.2.0,Apache-2.0
 aws-sdk-pinpointsmsvoice,1.3.0,Apache-2.0
 aws-sdk-pinpointsmsvoice,1.4.0,Apache-2.0
@@ -355,6 +357,7 @@ aws-sdk-redshift,1.39.0,Apache-2.0
 aws-sdk-redshift,1.4.0,Apache-2.0
 aws-sdk-redshift,1.40.0,Apache-2.0
 aws-sdk-redshift,1.41.0,Apache-2.0
+aws-sdk-redshift,1.42.0,Apache-2.0
 aws-sdk-redshift,1.5.0,Apache-2.0
 aws-sdk-redshift,1.6.0,Apache-2.0
 aws-sdk-redshift,1.7.0,Apache-2.0

@@ -191,6 +191,7 @@ aws-sdk-codedeploy,1.25.0,Apache-2.0
 aws-sdk-codedeploy,1.26.0,Apache-2.0
 aws-sdk-codedeploy,1.27.0,Apache-2.0
 aws-sdk-codedeploy,1.28.0,Apache-2.0
+aws-sdk-codedeploy,1.29.0,Apache-2.0
 aws-sdk-codedeploy,1.3.0,Apache-2.0
 aws-sdk-codedeploy,1.4.0,Apache-2.0
 aws-sdk-codedeploy,1.5.0,Apache-2.0
@@ -204,6 +205,7 @@ aws-sdk-worklink,1.10.0,Apache-2.0
 aws-sdk-worklink,1.11.0,Apache-2.0
 aws-sdk-worklink,1.12.0,Apache-2.0
 aws-sdk-worklink,1.13.0,Apache-2.0
+aws-sdk-worklink,1.14.0,Apache-2.0
 aws-sdk-worklink,1.2.0,Apache-2.0
 aws-sdk-worklink,1.3.0,Apache-2.0
 aws-sdk-worklink,1.4.0,Apache-2.0
@@ -1326,6 +1328,7 @@ mdub-sham_rack,1.0.0,""
 mdub-sham_rack,1.1.2,""
 meals,1.2.3,MIT
 meals,1.2.4,MIT
+meals,1.2.5,MIT
 mecab-light,0.0.1,""
 mecab-light,0.1.1,""
 mecab-light,0.2.0,""
@@ -1908,6 +1911,7 @@ ruby-dagger,0.3.3,MIT
 ruby-internal,0.8.3,""
 ruby-internal,0.8.5,""
 ruby-jade,0.0.1,""
+ruby_stan,0.1.0,""
 rubysl-logger,1.0.0,BSD
 rubysl-logger,2.0.0,BSD
 rubysl-logger,2.1.0,BSD
@@ -2628,6 +2632,7 @@ tramway-admin,1.3.7,MIT
 tramway-admin,1.3.8,MIT
 tramway-admin,1.3.9,MIT
 tramway-admin,1.30,MIT
+tramway-admin,1.30.0.1,MIT
 tramway-admin,1.4,MIT
 tramway-admin,1.5,MIT
 tramway-admin,1.5.1,MIT
@@ -2693,6 +2698,7 @@ tramway-event,1.12.3.1,MIT
 tramway-event,1.12.3.2,MIT
 tramway-event,1.12.3.3,MIT
 tramway-event,1.12.3.4,MIT
+tramway-event,1.12.3.5,MIT
 tramway-event,1.2,MIT
 tramway-event,1.2.1,MIT
 tramway-event,1.2.2,MIT

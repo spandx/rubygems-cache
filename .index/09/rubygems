@@ -52,6 +52,7 @@ activemerchant,1.104.0,MIT
 activemerchant,1.105.0,MIT
 activemerchant,1.106.0,MIT
 activemerchant,1.107.1,MIT
+activemerchant,1.107.2,MIT
 activemerchant,1.11.0,""
 activemerchant,1.12.0,""
 activemerchant,1.12.1,""
@@ -384,6 +385,7 @@ aws-sdk-lambdapreview,1.14.0,Apache-2.0
 aws-sdk-lambdapreview,1.15.0,Apache-2.0
 aws-sdk-lambdapreview,1.16.0,Apache-2.0
 aws-sdk-lambdapreview,1.17.0,Apache-2.0
+aws-sdk-lambdapreview,1.18.0,Apache-2.0
 aws-sdk-lambdapreview,1.2.0,Apache-2.0
 aws-sdk-lambdapreview,1.3.0,Apache-2.0
 aws-sdk-lambdapreview,1.4.0,Apache-2.0

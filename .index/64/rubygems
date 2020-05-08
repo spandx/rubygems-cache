@@ -651,6 +651,7 @@ aws-sdk-appsync,1.21.0,Apache-2.0
 aws-sdk-appsync,1.22.0,Apache-2.0
 aws-sdk-appsync,1.23.0,Apache-2.0
 aws-sdk-appsync,1.24.0,Apache-2.0
+aws-sdk-appsync,1.25.0,Apache-2.0
 aws-sdk-appsync,1.3.0,Apache-2.0
 aws-sdk-appsync,1.4.0,Apache-2.0
 aws-sdk-appsync,1.5.0,Apache-2.0
@@ -742,6 +743,7 @@ aws-sdk-rds,1.80.0,Apache-2.0
 aws-sdk-rds,1.81.0,Apache-2.0
 aws-sdk-rds,1.82.0,Apache-2.0
 aws-sdk-rds,1.83.0,Apache-2.0
+aws-sdk-rds,1.84.0,Apache-2.0
 aws-sdk-rds,1.9.0,Apache-2.0
 aws-sdk-resources,2.0.22,Apache-2.0
 aws-sdk-resources,2.0.23,Apache-2.0
@@ -1382,6 +1384,7 @@ aws-sdk-resources,2.11.50,Apache-2.0
 aws-sdk-resources,2.11.500,Apache-2.0
 aws-sdk-resources,2.11.501,Apache-2.0
 aws-sdk-resources,2.11.502,Apache-2.0
+aws-sdk-resources,2.11.503,Apache-2.0
 aws-sdk-resources,2.11.51,Apache-2.0
 aws-sdk-resources,2.11.52,Apache-2.0
 aws-sdk-resources,2.11.53,Apache-2.0

@@ -347,6 +347,7 @@ async-http,0.51.6,MIT
 async-http,0.52.0,MIT
 async-http,0.52.1,MIT
 async-http,0.52.2,MIT
+async-http,0.52.3,MIT
 async-http,0.6.0,""
 async-http,0.8.0,""
 async-http,0.9.0,""
@@ -2904,6 +2905,7 @@ vault,0.11.0,MPL-2.0
 vault,0.12.0,MPL-2.0
 vault,0.13.0,MPL-2.0
 vault,0.13.1,MPL-2.0
+vault,0.13.2,MPL-2.0
 vault,0.2.0,MPL-2.0
 vault,0.3.0,MPL-2.0
 vault,0.4.0,MPL-2.0

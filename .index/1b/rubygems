@@ -209,6 +209,7 @@ autobot,0.0.1,MIT
 automatthew-autocode,0.9.3,""
 aws-sdk-kinesisvideosignalingchannels,1.0.0,Apache-2.0
 aws-sdk-kinesisvideosignalingchannels,1.1.0,Apache-2.0
+aws-sdk-kinesisvideosignalingchannels,1.2.0,Apache-2.0
 backlog_reporter,0.2.0,MIT
 backlog_reporter,0.2.1,MIT
 bamboolab_cookies,0.0.1,Bamboolab

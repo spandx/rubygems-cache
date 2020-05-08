@@ -356,6 +356,7 @@ au_pair,1.0.5,MIT
 au_pair,1.0.6,MIT
 au_pair,1.0.7,MIT
 aws-sdk-iotsitewise,1.0.0,Apache-2.0
+aws-sdk-iotsitewise,1.1.0,Apache-2.0
 aws_ec2_dns_name,0.1.3,MIT
 aws_ec2_dns_name,0.1.4,MIT
 aws_ec2_dns_name,0.1.5,MIT
@@ -1760,6 +1761,7 @@ messente_api,1.0.3,Apache-2.0
 messente_api,1.1.0,Apache-2.0
 messente_api,1.2.0,Apache-2.0
 messente_api,1.2.1,Apache-2.0
+messente_api,1.2.2,Apache-2.0
 metanorma-csa,1.4.0,BSD-2-Clause
 metanorma-csa,1.4.1,BSD-2-Clause
 metanorma-csa,1.4.2,BSD-2-Clause

@@ -238,6 +238,7 @@ aws-sdk-cloudwatchevents,1.24.0,Apache-2.0
 aws-sdk-cloudwatchevents,1.25.0,Apache-2.0
 aws-sdk-cloudwatchevents,1.26.0,Apache-2.0
 aws-sdk-cloudwatchevents,1.27.0,Apache-2.0
+aws-sdk-cloudwatchevents,1.28.0,Apache-2.0
 aws-sdk-cloudwatchevents,1.3.0,Apache-2.0
 aws-sdk-cloudwatchevents,1.4.0,Apache-2.0
 aws-sdk-cloudwatchevents,1.5.0,Apache-2.0
@@ -255,6 +256,7 @@ aws-sdk-fsx,1.14.0,Apache-2.0
 aws-sdk-fsx,1.15.0,Apache-2.0
 aws-sdk-fsx,1.16.0,Apache-2.0
 aws-sdk-fsx,1.17.0,Apache-2.0
+aws-sdk-fsx,1.18.0,Apache-2.0
 aws-sdk-fsx,1.2.0,Apache-2.0
 aws-sdk-fsx,1.3.0,Apache-2.0
 aws-sdk-fsx,1.4.0,Apache-2.0
@@ -277,6 +279,7 @@ aws-sdk-mturk,1.18.0,Apache-2.0
 aws-sdk-mturk,1.19.0,Apache-2.0
 aws-sdk-mturk,1.2.0,Apache-2.0
 aws-sdk-mturk,1.20.0,Apache-2.0
+aws-sdk-mturk,1.21.0,Apache-2.0
 aws-sdk-mturk,1.3.0,Apache-2.0
 aws-sdk-mturk,1.4.0,Apache-2.0
 aws-sdk-mturk,1.5.0,Apache-2.0
@@ -303,6 +306,7 @@ aws-sdk-snowball,1.22.0,Apache-2.0
 aws-sdk-snowball,1.23.0,Apache-2.0
 aws-sdk-snowball,1.24.0,Apache-2.0
 aws-sdk-snowball,1.25.0,Apache-2.0
+aws-sdk-snowball,1.26.0,Apache-2.0
 aws-sdk-snowball,1.3.0,Apache-2.0
 aws-sdk-snowball,1.4.0,Apache-2.0
 aws-sdk-snowball,1.5.0,Apache-2.0
@@ -2257,6 +2261,7 @@ runfile,0.10.1,MIT
 runfile,0.10.2,MIT
 runfile,0.10.3,MIT
 runfile,0.11.0,MIT
+runfile,0.11.1,MIT
 runfile,0.2.0,MIT
 runfile,0.2.1,MIT
 runfile,0.2.2,MIT
