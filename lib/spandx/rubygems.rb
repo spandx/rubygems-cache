@@ -5,6 +5,7 @@ require 'digest'
 require 'net/hippie'
 require 'nokogiri'
 require 'pathname'
+require 'spandx'
 require 'yaml'
 require 'zlib'
 

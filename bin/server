@@ -2,4 +2,18 @@
 
 export PGDATA=$PWD/db/data
 mkdir -p tmp/sockets
-postgres -F -D $PGDATA -k $PWD/tmp/sockets
+postgres \
+  -D "$PGDATA" \
+  -k "$PWD/tmp/sockets" \
+  --max_wal_senders=1 \
+  --fsync=off \
+  --listen_addresses='' \
+  --log_destination='stderr' \
+  --logging_collector=off \
+  --log_rotation_age=1d \
+  --log_rotation_size=0 \
+  --max_connections=2 \
+  --superuser_reserved_connections=1 \
+  --shared_buffers=1024MB \
+  --timezone=UTC \
+  --work_mem=512MB

@@ -21,6 +21,18 @@ module Spandx
         end
       end
 
+      def dispose
+        db_connection&.close
+        @db_connection = nil
+      end
+
+      def self.latest
+        backups = Backups.new
+        yield backups.to_a.last
+      ensure
+        backups.dispose
+      end
+
       private
 
       def to_xml(raw_xml)
