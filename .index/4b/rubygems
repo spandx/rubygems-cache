@@ -220,6 +220,7 @@ aws-sdk-quicksight,1.15.0,Apache-2.0
 aws-sdk-quicksight,1.16.0,Apache-2.0
 aws-sdk-quicksight,1.17.1,Apache-2.0
 aws-sdk-quicksight,1.18.0,Apache-2.0
+aws-sdk-quicksight,1.19.0,Apache-2.0
 aws-sdk-quicksight,1.2.0,Apache-2.0
 aws-sdk-quicksight,1.3.0,Apache-2.0
 aws-sdk-quicksight,1.4.0,Apache-2.0
@@ -261,6 +262,7 @@ aws-sdk-servicecatalog,1.34.0,Apache-2.0
 aws-sdk-servicecatalog,1.35.0,Apache-2.0
 aws-sdk-servicecatalog,1.36.0,Apache-2.0
 aws-sdk-servicecatalog,1.37.0,Apache-2.0
+aws-sdk-servicecatalog,1.38.0,Apache-2.0
 aws-sdk-servicecatalog,1.4.0,Apache-2.0
 aws-sdk-servicecatalog,1.5.0,Apache-2.0
 aws-sdk-servicecatalog,1.6.0,Apache-2.0
@@ -489,6 +491,7 @@ chef-bin,15.8.23,Apache-2.0
 chef-bin,15.9.17,Apache-2.0
 chef-bin,16.0.257,Apache-2.0
 chef-bin,16.0.275,Apache-2.0
+chef-bin,16.0.287,Apache-2.0
 chef-jabber-paste-snitch,1.0.1,MIT
 chitin,1.0.1,""
 chitin,1.0.2,""
@@ -2321,6 +2324,7 @@ rom-changeset,5.1.0,MIT
 rom-changeset,5.1.1,MIT
 rom-changeset,5.1.2,MIT
 rom-changeset,5.2.1,MIT
+rom-changeset,5.2.3,MIT
 roomorama-validates_email,0.2.0,""
 roomorama-validates_email,0.2.1,""
 roomorama-validates_email,0.2.2,""

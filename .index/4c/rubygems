@@ -1482,6 +1482,7 @@ foreman-tasks,0.9.6,""
 foreman-tasks,1.0.0,""
 foreman-tasks,1.0.1,""
 foreman-tasks,1.1.0,""
+foreman-tasks,1.1.1,""
 forward-slash,1.0.0,MIT
 funky-tlv,0.2.0,MIT
 funky-tlv,0.2.1,MIT
@@ -2717,6 +2718,7 @@ specgen,0.234.0,""
 specgen,0.235.0,""
 specgen,0.236.0,""
 specgen,0.237.0,""
+specgen,0.238.0,""
 split-api,0.0.2,MIT
 sqskiq,0.0.1,""
 sqskiq,0.0.2,""

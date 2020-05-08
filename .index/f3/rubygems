@@ -303,6 +303,7 @@ aws-sdk-cloudfront,1.23.0,Apache-2.0
 aws-sdk-cloudfront,1.24.0,Apache-2.0
 aws-sdk-cloudfront,1.25.0,Apache-2.0
 aws-sdk-cloudfront,1.26.0,Apache-2.0
+aws-sdk-cloudfront,1.27.0,Apache-2.0
 aws-sdk-cloudfront,1.3.0,Apache-2.0
 aws-sdk-cloudfront,1.4.0,Apache-2.0
 aws-sdk-cloudfront,1.5.0,Apache-2.0
@@ -331,6 +332,7 @@ aws-sdk-glacier,1.24.0,Apache-2.0
 aws-sdk-glacier,1.25.0,Apache-2.0
 aws-sdk-glacier,1.26.0,Apache-2.0
 aws-sdk-glacier,1.27.0,Apache-2.0
+aws-sdk-glacier,1.28.0,Apache-2.0
 aws-sdk-glacier,1.3.0,Apache-2.0
 aws-sdk-glacier,1.4.0,Apache-2.0
 aws-sdk-glacier,1.5.0,Apache-2.0

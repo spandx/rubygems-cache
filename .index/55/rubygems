@@ -1731,6 +1731,7 @@ jit_preloader,0.2.1,MIT
 jit_preloader,0.2.2,MIT
 jit_preloader,0.2.3,MIT
 jit_preloader,0.2.4,MIT
+jit_preloader,0.2.5,MIT
 jlgrock-flexible-jekyll-theme,0.1.0,GPL-3.0
 jlgrock-flexible-jekyll-theme,0.3.0,GPL-3.0
 jquery-matchheight-rails,0.5.0,MIT
@@ -3280,6 +3281,8 @@ tramway-page,1.5.2.2,MIT
 tramway-page,1.5.2.3,MIT
 tramway-page,1.5.3,MIT
 tramway-page,1.5.3.1,MIT
+tramway-page,1.5.3.2,MIT
+tramway-page,1.5.3.3,MIT
 transactional_lock,0.1.0,MIT
 tree_support,0.1.0,""
 tree_support,0.1.1,""

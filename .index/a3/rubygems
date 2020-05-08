@@ -178,6 +178,7 @@ aws-sdk-pinpoint,1.35.0,Apache-2.0
 aws-sdk-pinpoint,1.36.0,Apache-2.0
 aws-sdk-pinpoint,1.37.0,Apache-2.0
 aws-sdk-pinpoint,1.38.0,Apache-2.0
+aws-sdk-pinpoint,1.39.0,Apache-2.0
 aws-sdk-pinpoint,1.4.0,Apache-2.0
 aws-sdk-pinpoint,1.5.0,Apache-2.0
 aws-sdk-pinpoint,1.6.0,Apache-2.0
@@ -1829,6 +1830,7 @@ pulp_rpm_client,3.0.0,GPL-2.0
 pulp_rpm_client,3.1.0,GPL-2.0+
 pulp_rpm_client,3.2.0,GPL-2.0+
 pulp_rpm_client,3.3.0,GPL-2.0+
+pulp_rpm_client,3.3.1,GPL-2.0+
 puppet-http,0.1.3,MIT
 qoobaa-force_encoding,2.0.0,""
 quizlet-ruby,0.0.1,""

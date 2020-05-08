@@ -1686,6 +1686,9 @@ omniauth-icos,1.0.6,""
 omniauth-icos,1.0.7,""
 omniauth-icos,1.0.9,""
 onedrive_api,0.3.0,""
+openapi_first,0.10.0,MIT
+openapi_first,0.10.1,MIT
+openapi_first,0.10.2,MIT
 openapi_first,0.6.0,MIT
 openapi_first,0.6.1,MIT
 openapi_first,0.6.10,MIT

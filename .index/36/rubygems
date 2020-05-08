@@ -331,6 +331,7 @@ aws-sdk-swf,1.15.0,Apache-2.0
 aws-sdk-swf,1.16.0,Apache-2.0
 aws-sdk-swf,1.17.0,Apache-2.0
 aws-sdk-swf,1.18.0,Apache-2.0
+aws-sdk-swf,1.19.0,Apache-2.0
 aws-sdk-swf,1.2.0,Apache-2.0
 aws-sdk-swf,1.3.0,Apache-2.0
 aws-sdk-swf,1.4.0,Apache-2.0
@@ -349,6 +350,7 @@ awslive-inputlooper,0.1.7,MIT
 awslive-inputlooper,0.1.8,MIT
 awslive-inputlooper,0.1.9,MIT
 awslive-inputlooper,0.2.0,MIT
+awslive-inputlooper,0.2.3,MIT
 babylonia,0.0.1,MIT
 babylonia,0.0.2,MIT
 babylonia,0.0.3,MIT

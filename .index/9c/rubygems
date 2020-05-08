@@ -131,6 +131,7 @@ aws-sdk-robomaker,1.2.0,Apache-2.0
 aws-sdk-robomaker,1.20.0,Apache-2.0
 aws-sdk-robomaker,1.21.0,Apache-2.0
 aws-sdk-robomaker,1.22.0,Apache-2.0
+aws-sdk-robomaker,1.23.0,Apache-2.0
 aws-sdk-robomaker,1.3.0,Apache-2.0
 aws-sdk-robomaker,1.4.0,Apache-2.0
 aws-sdk-robomaker,1.5.0,Apache-2.0
@@ -730,6 +731,7 @@ google-cloud-os_login,0.5.3,Apache-2.0
 google-cloud-os_login,0.6.0,Apache-2.0
 google-cloud-os_login,0.6.1,Apache-2.0
 google-cloud-os_login,0.7.0,Apache-2.0
+google-cloud-os_login,1.0.0,Apache-2.0
 google-cloud-video_intelligence-v1p2beta1,0.1.0,Apache-2.0
 google-cloud-video_intelligence-v1p2beta1,0.1.1,Apache-2.0
 google_custom_search_api,0.0.1,""
