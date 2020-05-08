@@ -2,6 +2,7 @@
 
 require 'spandx/rubygems'
 require 'thor'
+require 'csv'
 
 module Spandx
   module Rubygems
@@ -9,7 +10,7 @@ module Spandx
       desc 'list', 'List the rubygems.index'
       def list
         index.each do |row|
-          puts row.inspect
+          puts CSV.generate_line(row)
         end
       end
 
