@@ -7,4 +7,5 @@ cd "$(dirname "$0")/.."
 [ -z "$DEBUG" ] || set -x
 
 bin/cibuild
+echo "[$(date "+%H:%M:%S")] ==> Publishing package…"
 bundle exec rake release
