@@ -110,6 +110,7 @@ asana,0.1.1,MIT
 asana,0.1.2,MIT
 asana,0.10.0,MIT
 asana,0.10.1,MIT
+asana,0.10.2,MIT
 asana,0.2.0,MIT
 asana,0.3.0,MIT
 asana,0.4.0,MIT
@@ -2517,6 +2518,7 @@ sorbet-static-universal-darwin-18,0.5.5575,Apache-2.0
 sorbet-static-universal-darwin-18,0.5.5576,Apache-2.0
 sorbet-static-universal-darwin-18,0.5.5579,Apache-2.0
 sorbet-static-universal-darwin-18,0.5.5585,Apache-2.0
+sorbet-static-universal-darwin-18,0.5.5605,Apache-2.0
 soybean,2.2.1,""
 soybean,2.4.0,""
 soybean,2.5.0,""

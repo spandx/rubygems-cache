@@ -1244,6 +1244,7 @@ kaminari_bootstrap_paginator,0.1.0,""
 kaykay-vlad,1.2.0.1,""
 keka,0.1.0,MIT
 keka,0.2.0,MIT
+keka,0.3.0,MIT
 keyczar_ruby,0.2.0,""
 keyczar_ruby,0.3.0,""
 keyczar_ruby,0.3.1,""
@@ -1947,6 +1948,7 @@ phcaccounts,8.0.1,MIT
 phcaccounts,8.0.2,MIT
 phcaccounts,9.0.0,MIT
 philbot,0.0.1,MIT
+pillar,0.0.0,""
 pinfo-rails,0.1.2,MIT
 pinfo-rails,0.1.4,MIT
 pinfo-rails,0.1.5,MIT

@@ -2474,6 +2474,7 @@ vagrant-vmware-esxi,2.4.2,GNU
 vagrant-vmware-esxi,2.4.3,GNU
 vagrant-vmware-esxi,2.4.4,GNU
 vagrant-vmware-esxi,2.4.5,GNU
+vagrant-vmware-esxi,2.5.0,GNU
 vagrant-zentoo,0.1.0,""
 vagrant-zentoo,0.2.0,""
 vagrant-zentoo,0.2.1,""

@@ -763,6 +763,8 @@ etracking,2.5.8,MIT
 etracking,2.5.9,MIT
 etracking,2.6.0,MIT
 etracking,2.6.3,MIT
+etracking,2.6.6,MIT
+etracking,2.6.9,MIT
 evernote_utils,0.0.1,MIT
 evernote_utils,0.0.2,MIT
 evernote_utils,0.0.3,MIT
@@ -973,6 +975,7 @@ gctools,0.2.2,MIT
 gctools,0.2.3,MIT
 gctools,0.2.4,MIT
 geminio,0.1.0,MIT
+ghost_train,0.0.1,MIT
 git-heroes,0.0.1,MIT
 git-heroes,0.0.2,MIT
 git-modified,0.2.0,MIT

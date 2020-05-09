@@ -1429,6 +1429,8 @@ morpheus-cli,4.1.8,MIT
 morpheus-cli,4.1.9,MIT
 morpheus-cli,4.2,MIT
 morpheus-cli,4.2.1,MIT
+morpheus-cli,4.2.10,MIT
+morpheus-cli,4.2.11,MIT
 morpheus-cli,4.2.2,MIT
 morpheus-cli,4.2.3,MIT
 morpheus-cli,4.2.4,MIT
@@ -2230,6 +2232,7 @@ tapioca,0.2.7,MIT
 tapioca,0.2.8,MIT
 tapioca,0.3.0,MIT
 tapioca,0.3.1,MIT
+tapioca,0.4.0,MIT
 tco,0.0.1,""
 tco,0.1.0,MIT
 tco,0.1.1,MIT

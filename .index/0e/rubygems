@@ -1890,6 +1890,8 @@ rack-oidc-api,0.0.2,MIT
 rack-throttle-capped,1.0.0,MIT
 rack_konami,1.0.0,""
 radiustar,0.0.8,""
+radix_encoding,0.1.0,MIT
+radix_encoding,0.1.0.1,MIT
 railcar,1.0.0,""
 rails-bootstrap-sass-grid_size_display,0.0.1,MIT
 rails-bootstrap-sass-grid_size_display,1.0.0,MIT

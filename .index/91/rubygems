@@ -883,6 +883,7 @@ aws-sdk-core,2.11.500,Apache-2.0
 aws-sdk-core,2.11.501,Apache-2.0
 aws-sdk-core,2.11.502,Apache-2.0
 aws-sdk-core,2.11.503,Apache-2.0
+aws-sdk-core,2.11.504,Apache-2.0
 aws-sdk-core,2.11.51,Apache-2.0
 aws-sdk-core,2.11.52,Apache-2.0
 aws-sdk-core,2.11.53,Apache-2.0
@@ -2750,6 +2751,7 @@ meetup_client,0.0.8,MIT
 meetup_client,0.1.0,MIT
 meetup_client,1.0.0,MIT
 memoize_until,1.2.0,MIT
+memoize_until,1.2.1,MIT
 method_tracer,0.0.1,MIT
 metricsense,0.1.0,""
 metricsense,0.1.1,""
