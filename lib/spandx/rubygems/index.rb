@@ -3,6 +3,8 @@
 module Spandx
   module Rubygems
     class Index
+      include Enumerable
+
       COMMON_LICENSES = ['MIT', 'Apache-2.0', 'GPL-3.0', 'LGPL-3.0', 'BSD', 'BSD-3-Clause', 'WFTPL'].freeze
       CORRECTIONS = {
         '2-clause BSD-style license' => 'BSD-2-Clause',
@@ -33,7 +35,8 @@ module Spandx
       attr_reader :cache
 
       def initialize
-        @cache = ::Spandx::Core::Cache.new('rubygems', root: Spandx::Rubygems.root.join('../../../.index'))
+        root = Spandx::Rubygems.root.join('../../../.index')
+        @cache = ::Spandx::Core::Cache.new('rubygems', root: root)
       end
 
       def licenses_for(name:, version:)
