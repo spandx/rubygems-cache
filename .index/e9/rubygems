@@ -2407,6 +2407,7 @@ oraclebmc,2.0.9,UPL-1.0-|-Apache-2.0
 oraclebmc,2.1.0,UPL-1.0-|-Apache-2.0
 orb_def,0.0.1,MIT
 orb_def,0.0.2,MIT
+orb_def,0.0.3,MIT
 osqp,0.1.0,MIT
 osqp,0.1.1,Apache-2.0
 paperclip-oss,0.0.0,MIT

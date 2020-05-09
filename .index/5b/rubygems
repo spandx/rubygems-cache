@@ -460,6 +460,7 @@ cmu,0.0.3,MIT
 cocoapods-extension,0.0.1,MIT
 cocoapods-extension,0.0.2,MIT
 cocoapods-extension,0.0.3,MIT
+cocoapods-extension,0.0.4,MIT
 code_output,0.0.1,""
 codesnippet,0.0.1,GPL-3.0
 comiditaULL,0.1.1,MIT
@@ -1301,6 +1302,7 @@ lets-collab,0.1.1,MIT
 lets-collab,0.1.2,MIT
 librollenspielsache-rb,0.0.1,""
 librollenspielsache-rb,0.1.0,""
+librollenspielsache-rb,0.1.1,""
 linode_cluster,0.1.0,MIT
 linode_cluster,0.1.1,MIT
 linode_cluster,0.1.2,MIT

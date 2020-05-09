@@ -77,6 +77,8 @@ activeadmin-ajax_filter,0.4.2,MIT
 activeadmin-ajax_filter,0.4.3,MIT
 activeadmin-ajax_filter,0.4.4,MIT
 activeadmin-ajax_filter,0.4.5,MIT
+activeadmin-ajax_filter,0.4.6,MIT
+activeadmin-ajax_filter,0.5.0,MIT
 activeadmin_skin_mk,0.0.1,MIT
 activejob-retry,0.0.1,MIT
 activejob-retry,0.1.1,MIT
@@ -842,6 +844,7 @@ deep-cover,0.7.7,MIT
 deep-cover,0.7.8,MIT
 deep-cover,0.7.9,MIT
 deep-cover,0.8.0,MIT
+deep-cover,0.8.1,MIT
 deep-freeze,1.0.0,MIT
 deep-freeze,1.0.1,MIT
 definition,0.1.0,MIT
@@ -2190,6 +2193,7 @@ ruby-saml,0.8.0,""
 ruby-saml,0.8.1,""
 ruby-saml,0.8.10,""
 ruby-saml,0.8.11,""
+ruby-saml,0.8.12,""
 ruby-saml,0.8.2,""
 ruby-saml,0.8.3,""
 ruby-saml,0.8.4,""

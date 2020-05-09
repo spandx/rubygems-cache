@@ -947,6 +947,7 @@ elparser,0.0.4,MIT
 elparser,0.0.5,MIT
 elparser,0.0.6,MIT
 elparser,0.0.7,MIT
+embulk-parser-variable_length_bytes,0.1.0,MIT
 endeavor,0.0.0,""
 engineyard-cucumber,0.3.101,""
 engineyard-metadata,0.2.3,""

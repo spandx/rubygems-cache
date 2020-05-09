@@ -184,6 +184,7 @@ arcadia_cops,3.3.0,MIT
 arcadia_cops,3.4.0,MIT
 arcadia_cops,3.5.0,MIT
 arcadia_cops,3.5.2,MIT
+arcadia_cops,3.5.3,MIT
 arfy,0.2,""
 async-websocket,0.10.0,MIT
 async-websocket,0.11.0,MIT
@@ -2289,6 +2290,7 @@ lite-service,1.0.3,MIT
 liugang,1.0.0,MIT
 liugang,1.0.1,MIT
 lnrpc,0.1.0,MIT
+lnrpc,0.10.0,MIT
 lnrpc,0.5.2,MIT
 lnrpc,0.6.1,MIT
 lnrpc,0.7.0,MIT

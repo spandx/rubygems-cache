@@ -1663,6 +1663,7 @@ mini_kraken,0.1.01,MIT
 mini_kraken,0.1.02,MIT
 mini_kraken,0.1.03,MIT
 mini_kraken,0.1.04,MIT
+mini_kraken,0.1.05,MIT
 mini_portile,0.4.0,""
 mini_portile,0.4.1,""
 mini_portile,0.5.0,MIT
@@ -2065,6 +2066,7 @@ puppet-syntax,2.4.3,MIT
 puppet-syntax,2.5.0,MIT
 puppet-syntax,2.6.0,MIT
 puppet-syntax,2.6.1,MIT
+puppet-syntax,3.0.0,MIT
 pushnote,0.0.1,MIT
 pushnote,0.0.2,MIT
 pushnote,0.0.3,MIT

@@ -2074,6 +2074,8 @@ leak_stopper,0.0.1,MIT
 lenientcsv,1.0.0,MIT
 levenshtein-ffi,1.0.3,""
 levenshtein-ffi,1.1.0,BSD 2-Clause
+levenshtein_str,0.1.0,MIT
+levenshtein_str,0.1.1,MIT
 lgustafson-validatable,1.8.6,""
 lgustafson-validatable,1.8.7,""
 libxml-jruby-modified-jruby,1.0.1,""
