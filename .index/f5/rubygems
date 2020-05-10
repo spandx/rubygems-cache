@@ -1465,6 +1465,8 @@
 "fluent-plugin-stats","0.3.5","MIT"
 "fluent-plugin-stats","0.3.6","MIT"
 "fluent-plugin-stats","0.4.0","MIT"
+"fluent-plugin-swarm-metadata","0.1.0","Apache-2.0"
+"fluent-plugin-swarm-metadata","0.1.1","Apache-2.0"
 "foreman-architect","0.1.0","BSD"
 "fortitude","0.0.1","MIT"
 "fortitude","0.0.10","MIT"
