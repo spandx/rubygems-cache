@@ -13,6 +13,8 @@ postgres \
   --log_rotation_age=1d \
   --log_rotation_size=0 \
   --max_connections=2 \
+  --min_wal_size=4GB \
+  --max_wal_size=8GB \
   --superuser_reserved_connections=1 \
   --shared_buffers=1024MB \
   --timezone=UTC \
