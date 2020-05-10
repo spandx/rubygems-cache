@@ -3,11 +3,7 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
-echo "Adding hstore extension"
-bin/sql -q -c "CREATE EXTENSION IF NOT EXISTS hstore;"
-
-echo "Dropping tables that we're going to load in"
-bin/sql -q -c "DROP TABLE IF EXISTS dependencies, gem_downloads, linksets, rubygems, versions CASCADE;"
+bin/sql -q -c "CREATE EXTENSION IF NOT EXISTS hstore; DROP TABLE IF EXISTS dependencies, gem_downloads, linksets, rubygems, versions CASCADE; DROP ROLE IF EXISTS rubygems_master; CREATE ROLE rubygems_master;"
 
 latest_url="$1"
 curl --progress-bar "${latest_url}" > tmp/public_postgresql.tar
