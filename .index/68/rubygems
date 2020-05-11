@@ -606,6 +606,7 @@
 "clutter-gtk","3.4.0","LGPL-2.1+"
 "clutter-gtk","3.4.1","LGPL-2.1+"
 "clutter-gtk","3.4.2","LGPL-2.1+"
+"clutter-gtk","3.4.3","LGPL-2.1+"
 "cocoapods-dep","1.0.0","MIT"
 "cocoapods-dep","1.0.1","MIT"
 "cocoapods-dep","1.0.2","MIT"
