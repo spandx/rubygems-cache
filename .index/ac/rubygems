@@ -2506,6 +2506,7 @@
 "vagrant-trellis-cert","0.4.0","MIT"
 "vagrant-trellis-cert","0.5.0","MIT"
 "vagrant-trellis-cert","0.5.1","MIT"
+"vagrant-trellis-cert","0.5.2","MIT"
 "vagrant-winrmcli","1.0.0",""
 "vagrant-winrmcli","1.0.1",""
 "vagrant-winrmcli","1.0.3",""

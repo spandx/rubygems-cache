@@ -816,6 +816,7 @@
 "faraday-restrict-ip-addresses","0.1.2","Unlicense"
 "faraday_hal_middleware","0.0.1","MIT"
 "faraday_hal_middleware","0.1.0","MIT"
+"faraday_hal_middleware","0.1.1","MIT"
 "faraday_middleware-multi_json","0.0.5",""
 "faraday_middleware-multi_json","0.0.6",""
 "fastlane-plugin-cosigner","1.0.0","MIT"
