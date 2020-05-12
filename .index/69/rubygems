@@ -1549,6 +1549,7 @@
 "node_impl","3.2.1","GPL-3.0"
 "node_impl","3.3.0","GPL-3.0"
 "node_impl","3.4.0","GPL-3.0"
+"node_impl","3.5.0","GPL-3.0"
 "nomagic_capistrano_recipes","0.0.2",""
 "nomagic_capistrano_recipes","0.0.3",""
 "nomagic_capistrano_recipes","0.0.5",""
