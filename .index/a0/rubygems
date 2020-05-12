@@ -602,6 +602,7 @@
 "chef-provisioning-azure","0.4.0","Apache-2.0"
 "chef-provisioning-azure","0.5.0","Apache-2.0"
 "chef-provisioning-azure","0.6.0","Apache-2.0"
+"chef-sugar-sre","5.1.13","Apache-2.0"
 "cinch-memo","0.1.2",""
 "cinch-urbandictionary","0.10.0",""
 "cinch-urbandictionary","0.10.1",""

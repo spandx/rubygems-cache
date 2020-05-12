@@ -686,6 +686,7 @@
 "cwyckoff-rosetta_queue","0.3.0",""
 "cwyckoff-rosetta_queue","0.3.3",""
 "danger-gitlab_reviewbot","1.0.0","MIT"
+"danger-gitlab_reviewbot","1.0.1","MIT"
 "data_grid","0.0.1",""
 "data_grid","0.0.2",""
 "dave_string_helper","0.1.1","MIT"

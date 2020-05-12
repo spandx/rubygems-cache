@@ -1961,6 +1961,7 @@
 "redis-unique-queue","1.0.2","MIT"
 "redis-unique-queue","1.0.3","MIT"
 "redis-unique-queue","2.0","MIT"
+"redis-unique-queue","2.1","MIT"
 "redpotion","0.1","MIT"
 "redpotion","0.2","MIT"
 "redpotion","0.2.1","MIT"
