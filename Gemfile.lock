@@ -1,12 +1,11 @@
 GIT
   remote: https://github.com/spandx/spandx.git
-  revision: 2438ab1c4824f3381c9f62ec5015b63052e2c520
+  revision: 40460a4d5d7d6265f8adf85eb7255c6fac739ed0
   branch: concurrency
   specs:
     spandx (0.12.3)
       addressable (~> 2.7)
       bundler (>= 1.16, < 3.0.0)
-      fastest-csv (~> 0.0)
       net-hippie (~> 0.3)
       nokogiri (~> 1.10)
       parslet (~> 2.0)
@@ -34,7 +33,6 @@ GEM
     crack (0.4.3)
       safe_yaml (~> 1.0.0)
     diff-lcs (1.3)
-    fastest-csv (0.0.4)
     hashdiff (1.0.1)
     jaro_winkler (1.5.4)
     mini_portile2 (2.4.0)
