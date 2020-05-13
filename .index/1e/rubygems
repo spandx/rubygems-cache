@@ -424,6 +424,7 @@
 "chef-cli","1.0.9","Apache-2.0"
 "chef-cli","2.0.0","Apache-2.0"
 "chef-cli","2.0.10","Apache-2.0"
+"chef-cli","3.0.1","Apache-2.0"
 "chef-provisioning-upcloud","0.2.0","MIT"
 "chef-rundeck2","0.1.1","MIT"
 "chef-rundeck2","0.1.3","MIT"
