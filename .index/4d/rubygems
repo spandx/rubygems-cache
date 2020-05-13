@@ -2451,6 +2451,7 @@
 "subhash","0.1.4",""
 "subhash","0.1.5",""
 "subscription_fu","0.2.0",""
+"subscription_int","0.1.0","GPL-3.0"
 "super_logger","0.1.0","MIT"
 "swerling-synapse","0.0.1",""
 "system_executor","1.0.0","GPL-3.0"
