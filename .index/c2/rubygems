@@ -319,6 +319,7 @@
 "base_convert","4.0.200111","MIT"
 "base_jump","0.0.1","LGPLV3"
 "base_scraper_service","0.1.0",""
+"base_scraper_service","0.1.1",""
 "beambridge","0.9.0","Scott Fleckenstein and Tom Preston-Werner"
 "bicycle_jhpark","2.2.1","MIT"
 "biggs","0.3.1",""
