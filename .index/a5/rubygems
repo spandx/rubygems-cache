@@ -438,6 +438,7 @@
 "aws-sdk-ec2","1.97.0","Apache-2.0"
 "aws-sdk-ec2","1.98.0","Apache-2.0"
 "aws-sdk-ec2","1.99.0","Apache-2.0"
+"aws-sdk-macie2","1.0.0","Apache-2.0"
 "aws-sdk-resourcegroupstaggingapi","1.0.0","Apache-2.0"
 "aws-sdk-resourcegroupstaggingapi","1.0.1","Apache-2.0"
 "aws-sdk-resourcegroupstaggingapi","1.1.0","Apache-2.0"
