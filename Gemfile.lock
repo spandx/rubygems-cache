@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/spandx/spandx.git
-  revision: 40460a4d5d7d6265f8adf85eb7255c6fac739ed0
+  revision: f1a6736ed78c9fb48645f45505b57b61cc71c822
   branch: concurrency
   specs:
     spandx (0.12.3)
