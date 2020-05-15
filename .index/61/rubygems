@@ -2856,6 +2856,7 @@
 "ssh_keygen","1.0.3","Apache-2.0"
 "ssh_keygen","1.1.0","Apache-2.0"
 "startback-web","0.6.0","MIT"
+"startback-web","0.7.0","MIT"
 "stash-merritt","0.0.1","MIT"
 "stash-merritt","0.1.0","MIT"
 "stash-merritt","0.1.1","MIT"
