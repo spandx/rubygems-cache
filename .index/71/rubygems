@@ -2444,6 +2444,7 @@
 "rack-useragent","0.0.5","MIT"
 "rackspace-scaling","0.0.1",""
 "radiant-navigation_tags-extension","0.2.2",""
+"rails-gz-cache","0.0.1","MIT"
 "rails-prg","0.1.0","MIT"
 "rails-prg","0.1.1","MIT"
 "rails-remote-ssl-cert","0.0.1",""
