@@ -2793,6 +2793,8 @@
 "rdf-yoda_triples","0.1.0","Unlicense"
 "rdp-rb","0.4.3","Apache-2.0"
 "reaper","0.0.1",""
+"recode","0.0.1","MIT"
+"recode","0.1.0","MIT"
 "redis-slave-read","0.1",""
 "redis-slave-read","0.2.1",""
 "redis-store-json","3.0.0",""

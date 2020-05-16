@@ -2149,6 +2149,7 @@
 "peatio-bitcoincash","2.5.0","MIT"
 "peatio-bitcoincash","2.5.1","MIT"
 "peatio-bitcoincash","2.5.2","MIT"
+"peatio-bitcoincash","2.6.0","MIT"
 "pg_dump","0.1.0",""
 "pg_dump","0.2.0",""
 "pg_dump","0.3.0",""
