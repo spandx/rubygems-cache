@@ -983,6 +983,7 @@
 "expose_db","0.2.0","MIT"
 "extoptparse","1.0.0","AGPL-3.0"
 "f_service","0.1.0","MIT"
+"f_service","0.1.1","MIT"
 "factory","1.0.0",""
 "factory","1.0.1",""
 "factory_girl_bs_gen","0.0.1","MIT"
