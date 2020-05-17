@@ -1717,6 +1717,7 @@
 "pkgr","1.7.0","MIT"
 "pkgr","1.7.1","MIT"
 "pkgr","1.7.2","MIT"
+"plain_serializer","0.1.0","MIT"
 "platipus","0.1.0","MIT"
 "playapi","0.0.1",""
 "playapi","0.0.3",""
