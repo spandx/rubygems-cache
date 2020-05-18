@@ -1477,6 +1477,8 @@
 "gtfs_engine","1.4.1","GPL 3"
 "gtfs_engine","1.4.2","GPL 3"
 "gtfs_engine","1.5.3","GPL-3.0"
+"gtfs_engine","2.0.0","GPL-3.0"
+"gtfs_engine","2.1.0","GPL-3.0"
 "hallo","1.0.0",""
 "hanami-utils","0.0.0",""
 "hanami-utils","0.7.0","MIT"
