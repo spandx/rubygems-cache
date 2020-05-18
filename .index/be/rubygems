@@ -590,6 +590,7 @@
 "domainatrix","0.0.8",""
 "dotenv-schema-rails","0.0.1","MIT"
 "dpkg-s3","0.1.0","MIT"
+"dpkg-s3","0.2.0","MIT"
 "drud","0.0.1","MIT"
 "drud","0.0.10","MIT"
 "drud","0.0.2","MIT"
