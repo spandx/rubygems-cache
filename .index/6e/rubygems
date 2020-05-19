@@ -1212,6 +1212,7 @@
 "facebook-messenger","1.4.1","MIT"
 "facebook-messenger","1.5.0","MIT"
 "fastlane-plugin-carthage_cache_res","0.1.2","MIT"
+"fastlane-plugin-github_action","1.0.0","MIT"
 "fastlane-plugin-promo_code","0.1.0","MIT"
 "fastlane-plugin-update_device_name","0.1.0","MIT"
 "fastlane-plugin-update_device_name","0.1.1","MIT"

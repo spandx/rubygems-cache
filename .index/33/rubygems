@@ -925,6 +925,7 @@
 "halibut-rails","0.0.1","MIT"
 "halo","0.1.0",""
 "haml-coderay","0.2.0",""
+"handle-system-rest","0.1.1","APACHE"
 "hash-initializer","0.1.1","MIT"
 "hash-initializer","0.1.2","MIT"
 "hcl","0.4.1","MIT"

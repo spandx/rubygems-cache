@@ -1717,6 +1717,7 @@
 "node_int","2.1.0","GPL-3.0"
 "node_int","2.2.0","GPL-3.0"
 "node_int","2.3.0","GPL-3.0"
+"node_int","3.0.0","GPL-3.0"
 "nsq-env","0.0.3","BSD"
 "nsq-env","0.0.4","BSD"
 "nsq-env","0.0.6","BSD"

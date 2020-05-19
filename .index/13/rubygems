@@ -1002,6 +1002,7 @@
 "google-cloud-dlp","0.8.0","Apache-2.0"
 "google-cloud-dlp","0.9.0","Apache-2.0"
 "google-cloud-dlp","0.9.1","Apache-2.0"
+"google-cloud-dlp","1.0.0","Apache-2.0"
 "google-cloud-resource_manager","0.20.0","Apache-2.0"
 "google-cloud-resource_manager","0.20.1","Apache-2.0"
 "google-cloud-resource_manager","0.21.0","Apache-2.0"

@@ -3001,6 +3001,7 @@
 "wandrecities","0.0.2","MIT"
 "wandrecities","0.0.3","MIT"
 "wasmtime","0.1.0","Apache-2.0 WITH LLVM-exception"
+"wasmtime","0.2.0","Apache-2.0 WITH LLVM-exception"
 "wbench","0.2.1",""
 "wbench","0.2.2",""
 "wbench","0.2.3",""
