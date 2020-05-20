@@ -3181,6 +3181,7 @@
 "waypoints","0.1.1","MIT"
 "waypoints","0.1.2","MIT"
 "weather_usa","0.1.0","MIT"
+"weather_usa","0.1.4","MIT"
 "webget-activerecord_memoize_class_methods","1.0.0",""
 "weblinc-wysihtml5-rails","1.0.0","MIT"
 "whereabouts","0.5.4",""

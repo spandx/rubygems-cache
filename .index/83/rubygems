@@ -2014,6 +2014,7 @@
 "paypal-sdk-buttonmanager","1.98.1",""
 "paypal-sdk-buttonmanager","1.98.2",""
 "pdf-parser","0.1.0","MIT"
+"pdf-parser","0.2.0","MIT"
 "pdfjs_viewer-rails","0.0.1","MIT"
 "pdfjs_viewer-rails","0.0.2","MIT"
 "pdfjs_viewer-rails","0.0.3","MIT"
