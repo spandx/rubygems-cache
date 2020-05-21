@@ -735,6 +735,7 @@
 "google-cloud-os_login","0.7.0","Apache-2.0"
 "google-cloud-os_login","1.0.0","Apache-2.0"
 "google-cloud-os_login","1.0.1","Apache-2.0"
+"google-cloud-os_login","1.1.0","Apache-2.0"
 "google-cloud-video_intelligence-v1p2beta1","0.1.0","Apache-2.0"
 "google-cloud-video_intelligence-v1p2beta1","0.1.1","Apache-2.0"
 "google_custom_search_api","0.0.1",""
