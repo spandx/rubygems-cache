@@ -795,6 +795,7 @@
 "fluent-plugin-prometheus","1.7.1","Apache-2.0"
 "fluent-plugin-prometheus","1.7.2","Apache-2.0"
 "fluent-plugin-prometheus","1.7.3","Apache-2.0"
+"fluent-plugin-prometheus","1.8.0","Apache-2.0"
 "fluent-plugin-setproctitle","0.0.1","MIT"
 "fluent-plugin-setproctitle","0.0.2","MIT"
 "fluent-plugin-splunk-parser","0.1.0","BSD-2-Clause"
