@@ -85,6 +85,7 @@
 "activeadmin_reorderable","0.0.3","MIT"
 "activeadmin_reorderable","0.1.0","MIT"
 "activeadmin_reorderable","0.1.2","MIT"
+"activerecord-hash_options","0.1.0","MIT"
 "acts_as_parameter_object","0.0.1","MIT"
 "acts_as_versioned31","0.6.1",""
 "after_ship","0.0.10","MIT"

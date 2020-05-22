@@ -2858,6 +2858,8 @@
 "sensu-plugins-influxdb","2.0.0","MIT"
 "sensu-plugins-traffic-server","0.0.1","MIT"
 "sensu-plugins-traffic-server","0.0.2","MIT"
+"serialized-hashie","1.0.1",""
+"serialized-hashie","1.0.2","MIT"
 "service_config","0.0.1",""
 "service_config","0.0.2",""
 "service_config","0.1.0",""
