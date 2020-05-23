@@ -546,6 +546,7 @@
 "chef-notifier","1.0.0",""
 "chef-utils","0.0.1","Apache-2.0"
 "chef-utils","15.10.12","Apache-2.0"
+"chef-utils","15.11.3","Apache-2.0"
 "chef-utils","15.5.15","Apache-2.0"
 "chef-utils","15.5.16","Apache-2.0"
 "chef-utils","15.5.17","Apache-2.0"

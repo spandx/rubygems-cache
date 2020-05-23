@@ -2493,6 +2493,7 @@
 "puma-cloudwatch","0.4.0","MIT"
 "puma-cloudwatch","0.4.1","MIT"
 "puma-cloudwatch","0.4.2","MIT"
+"puma-cloudwatch","0.4.3","MIT"
 "punt-receiver","0.0.1","MIT"
 "puppetlabs_spec_helper","0.10.0","Apache-2.0"
 "puppetlabs_spec_helper","0.10.1","Apache-2.0"

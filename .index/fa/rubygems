@@ -896,6 +896,7 @@
 "embulk-decoder-commons-compress","0.3.3","MIT"
 "embulk-decoder-commons-compress","0.4.0","MIT"
 "embulk-decoder-commons-compress","0.4.1","MIT"
+"embulk-decoder-commons-compress","0.4.2","MIT"
 "embulk-filter-calcite","0.1.0","Apache-2.0"
 "embulk-filter-calcite","0.1.1","Apache-2.0"
 "embulk-filter-calcite","0.1.2","Apache-2.0"

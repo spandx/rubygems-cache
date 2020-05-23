@@ -2700,6 +2700,8 @@
 "webdriver","0.4.0","MIT"
 "webdriver","0.5.0","MIT"
 "webdriver","0.6.0","MIT"
+"webdriver","0.6.2","MIT"
+"webdriver","0.6.3","MIT"
 "webficient-rack-tidy","0.0.2",""
 "webficient-rack-tidy","0.2.0",""
 "webmail_provider","0.9.1","MIT"
