@@ -76,6 +76,7 @@
 "activerecord-databasevalidations","0.3.1","MIT"
 "activerecord-databasevalidations","0.4.0","MIT"
 "activerecord-databasevalidations","0.5.0","MIT"
+"activerecord-databasevalidations","0.5.1","MIT"
 "activerecord-jdbcmssql-adapter","1.2.1",""
 "activerecord-jdbcmssql-adapter","1.2.2.1",""
 "activerecord-jdbcmssql-adapter","1.2.5",""

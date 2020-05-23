@@ -358,6 +358,7 @@
 "aws-sdk-iotsitewise","1.0.0","Apache-2.0"
 "aws-sdk-iotsitewise","1.1.0","Apache-2.0"
 "aws-sdk-iotsitewise","1.2.0","Apache-2.0"
+"aws-sdk-iotsitewise","1.3.0","Apache-2.0"
 "aws_ec2_dns_name","0.1.3","MIT"
 "aws_ec2_dns_name","0.1.4","MIT"
 "aws_ec2_dns_name","0.1.5","MIT"
