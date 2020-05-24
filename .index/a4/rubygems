@@ -1412,6 +1412,8 @@
 "logstash-output-applicationinsights","0.9.1","Apache-2.0"
 "logstash-output-applicationinsights","0.9.2","Apache-2.0"
 "logstash-output-applicationinsights","0.9.3","Apache-2.0"
+"magicka","0.0.1",""
+"magicka","0.1.0",""
 "magistrate","0.5.1",""
 "maicoin","0.1.0",""
 "maicoin","0.1.1",""

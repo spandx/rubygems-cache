@@ -1730,6 +1730,7 @@
 "locomotive-heroku","0.0.1",""
 "locomotive-heroku","0.0.2",""
 "locomotive-heroku","0.1.0",""
+"logstash-codec-idmef","0.9.0","Apache-2.0"
 "logstash-filter-accesswatch","0.1.0","Apache-2.0"
 "logstash-filter-accesswatch","0.2.0","Apache-2.0"
 "logstash-filter-accesswatch","0.2.2","Apache-2.0"
