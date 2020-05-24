@@ -1967,6 +1967,7 @@
 "qtbindings","4.8.6.3","LGPL-2.1"
 "qtbindings","4.8.6.4","LGPL-2.1"
 "qtbindings","4.8.6.5","LGPL-2.1"
+"query_count","1.0.0","MIT"
 "quick_file","1.0.4",""
 "quick_file","1.2.0",""
 "qunit-selenium","0.0.4","MIT"

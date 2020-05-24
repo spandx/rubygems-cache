@@ -2812,6 +2812,7 @@
 "tvd-ssh","0.0.4",""
 "tvdb_client","0.1.0","MIT"
 "tvdb_client","0.1.1","MIT"
+"twitch_oauth2","0.1.0","MIT"
 "twittermotion","0.0.2",""
 "type-script-source","1.8.9","MIT"
 "uk_companies_house","0.1.1","MIT"
