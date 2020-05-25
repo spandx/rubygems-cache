@@ -488,6 +488,7 @@
 "carrierwave-virus_free","0.0.2","MIT"
 "carrierwave-virus_free","0.0.3","MIT"
 "carrierwave-virus_free","0.1.0","MIT"
+"cassandra_store","1.0.0","MIT"
 "catalogue","0.0.2",""
 "cdd","0.0.1",""
 "cdd","0.0.2",""
