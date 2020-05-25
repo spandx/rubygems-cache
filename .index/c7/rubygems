@@ -1950,6 +1950,7 @@
 "omf_common","6.2.2","MIT"
 "omf_common","6.2.3","MIT"
 "omniauth-aliexpress-oauth2","0.1.0","MIT"
+"omniauth-aliexpress-oauth2","1.0","MIT"
 "omniauth-betable","1.0","MIT"
 "omniauth_dailycred","0.1.0","MIT"
 "omniauth_dailycred","0.1.1","MIT"

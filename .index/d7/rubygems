@@ -604,6 +604,7 @@
 "devise-jira-authenticable","0.0.3","MIT"
 "devise-jira-authenticable","0.0.4","MIT"
 "devise-jira-authenticable","0.0.5","MIT"
+"devise-jira-authenticable","0.0.6","MIT"
 "devise_saml_authenticatable","0.0.1",""
 "devise_saml_authenticatable","0.0.2",""
 "devise_saml_authenticatable","0.1.0",""

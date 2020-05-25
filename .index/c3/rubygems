@@ -2448,6 +2448,7 @@
 "stack_loop","0.1.0","MIT"
 "stanford-core-nlp-abstractor","0.5.3",""
 "stax-datadog","0.0.1","MIT"
+"stax-helm","0.0.1","MIT"
 "stealth-luis","0.9.0","MIT"
 "stealth-luis","1.0.0","MIT"
 "stn-simple_token_authentication","1.7.1","GPL-3.0-only"
