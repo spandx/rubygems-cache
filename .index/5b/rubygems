@@ -791,6 +791,7 @@
 "gitlab-exporter","7.0.1","MIT"
 "gitlab-exporter","7.0.2","MIT"
 "gitlab-exporter","7.0.3","MIT"
+"gitlab-exporter","7.0.4","MIT"
 "gnuplot-multiplot","0.0.1","MIT"
 "google_analytics_feeds","0.1.2",""
 "grape-throttler","1.0.0","MIT"

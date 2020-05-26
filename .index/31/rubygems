@@ -690,6 +690,7 @@
 "em_aws","0.3.2","MIT"
 "em_aws","1.0.0","MIT"
 "em_aws","1.0.1","MIT"
+"embulk-filter-unnest-java","0.1.0","Apache-2.0"
 "emerson","0.0.10",""
 "emerson","0.0.11",""
 "emerson","0.0.4",""

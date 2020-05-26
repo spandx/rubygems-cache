@@ -2480,6 +2480,7 @@
 "smart_proxy_dhcp_remote_isc","0.0.2","GPL-3.0-only"
 "smart_proxy_dhcp_remote_isc","0.0.3","GPL-3.0-only"
 "smart_proxy_dhcp_remote_isc","0.0.4","GPL-3.0-only"
+"smart_proxy_dhcp_remote_isc","0.0.5","GPL-3.0-only"
 "smoodit","0.0.2",""
 "sms_sender_ots","1.4.0","MIT"
 "socket.io-client-simple","0.0.1","MIT"
