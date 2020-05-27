@@ -2389,6 +2389,7 @@
 "vacuum","3.1.0","MIT"
 "vacuum","3.2.0","MIT"
 "vacuum","3.3.0","MIT"
+"vacuum","3.4.0","MIT"
 "vagrant-chefdev","0.1.0","MIT"
 "vagrant-chefdev","0.1.1","MIT"
 "vagrant-haipa","0.0.1",""

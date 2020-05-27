@@ -728,6 +728,8 @@
 "defra_ruby_mocks","1.4.0","The Open Government Licence (OGL) Version 3"
 "den","0.1.2",""
 "den","0.2.0",""
+"dependabot-test-ruby-package","1.0.0","MIT"
+"dependabot-test-ruby-package","1.0.1","MIT"
 "devise_date_restrictable","0.0.1","MIT"
 "devise_date_restrictable","0.0.2","MIT"
 "devise_date_restrictable","1.0.0","MIT"
