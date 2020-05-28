@@ -1110,6 +1110,7 @@
 "kommen-freckle-cmd","0.0.1",""
 "ktl-java","1.0.0","BSD-3-Clause"
 "ktl-java","1.1.0","BSD-3-Clause"
+"kube_deploy_tools","3.0.5","Apache-2.0"
 "lackie","0.1.9",""
 "latinverb_deponent_string_deriver","1.0.0","MIT"
 "lazy_records","0.0.1","MIT"

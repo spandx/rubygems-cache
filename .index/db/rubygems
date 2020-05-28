@@ -1603,6 +1603,7 @@
 "ios7crypt","0.3","FreeBSD"
 "iot_services","0.1.0",""
 "iot_services","0.1.1",""
+"iot_services","0.1.2",""
 "iron_core","0.1.2",""
 "iron_core","0.1.6",""
 "iron_core","0.4.1",""
