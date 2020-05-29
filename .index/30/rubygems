@@ -1950,6 +1950,8 @@
 "pagerduty-full","0.1.2",""
 "parameter_substitution","0.2.0",""
 "parameter_substitution","1.0.0",""
+"parameter_substitution","1.1.0",""
+"parameter_substitution","1.2.0",""
 "partitioner_pg","0.1.0",""
 "partitioner_pg","0.2.0",""
 "passwd","0.0.1","MIT"
