@@ -2428,6 +2428,7 @@
 "sensu-plugins-eep","0.0.1","MIT"
 "sensu-plugins-eep","0.0.2","MIT"
 "sensu-plugins-eep","0.0.3","MIT"
+"sepa_reason_codes","1.0.1","MIT"
 "sequel-paginate","0.1.1","MIT"
 "sequel-vertica","0.0.6",""
 "sequel-vertica","0.1.0",""
