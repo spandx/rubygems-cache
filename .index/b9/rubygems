@@ -1924,6 +1924,7 @@
 "protozaur","1.1.0","MIT"
 "pry-remote-em-java","1.1.0","Nonstandard"
 "pry-remote-em-java","1.1.1","Nonstandard"
+"pry-remote-em-java","1.1.2","Nonstandard"
 "puppet-lint-reference_on_declaration_outside_of_class-check","1.0.8","APL2"
 "puppet-lint-reference_on_declaration_outside_of_class-check","1.1.1","APL2"
 "pusher_fcm","0.0.2","MIT"

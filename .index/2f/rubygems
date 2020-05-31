@@ -996,6 +996,7 @@
 "groonga-query-log","1.6.7","LGPLv2.1+"
 "groonga-query-log","1.6.8","LGPLv2.1+"
 "groonga-query-log","1.6.9","LGPLv2.1+"
+"groonga-query-log","1.7.0","LGPLv2.1+"
 "gumby-framework","0.0.1",""
 "handlebars_routes","0.0.3",""
 "hanzo","0.0.1","MIT"
