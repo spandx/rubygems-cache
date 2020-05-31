@@ -2429,6 +2429,7 @@
 "rspec-resembles_json_matchers","0.7.4",""
 "rspec-resembles_json_matchers","0.8.0",""
 "rspec-resembles_json_matchers","0.9.0",""
+"rspec-resembles_json_matchers","0.9.1",""
 "rubtools","0.0.1","MIT"
 "rubtools","0.0.2","MIT"
 "rubtools","0.0.3","MIT"

@@ -1420,6 +1420,7 @@
 "google_drive","3.0.2","BSD-3-Clause"
 "google_drive","3.0.3","BSD-3-Clause"
 "google_drive","3.0.4","BSD-3-Clause"
+"google_drive","3.0.5","BSD-3-Clause"
 "grpc_conventions","0.1",""
 "grpc_conventions","0.2",""
 "guess_paging","0.1.0","MIT"
