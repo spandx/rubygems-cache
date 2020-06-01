@@ -2006,6 +2006,7 @@
 "rails_timeseries","0.1.1","MIT"
 "rails_timeseries","0.1.2","MIT"
 "range_compacter","1.0.0","MIT"
+"range_compacter","1.0.1","MIT"
 "rash_kesha_antonov","1.0.0",""
 "rb_termbox","0.1.0",""
 "rb_termbox","0.2.0","MIT"

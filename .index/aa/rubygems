@@ -690,6 +690,7 @@
 "email_list_field","1.2.0","MIT"
 "embulk-input-zendesk_guide","0.1.0","MIT"
 "embulk-input-zendesk_guide","0.1.1","MIT"
+"embulk-input-zendesk_guide","0.1.2","MIT"
 "enceladus","0.0.2","MIT"
 "enceladus","0.0.3","MIT"
 "enceladus","0.0.4","MIT"

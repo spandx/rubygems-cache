@@ -846,6 +846,8 @@
 "feedcellar-gtk","0.1.0","LGPLv2.1 or later"
 "find_and_map","0.0.1",""
 "find_and_map","1.0.0",""
+"firestore-odm","0.1.0","BSD-2-Clause"
+"firestore-odm","0.1.1","BSD-2-Clause"
 "fixer_api_client","0.1.0","MIT"
 "flag","0.0.1","MIT-|-HUGWARE"
 "flag","0.0.2","MIT-|-HUGWARE"
