@@ -236,6 +236,7 @@
 "azure_mgmt_automation","0.17.0","MIT"
 "azure_mgmt_automation","0.17.1","MIT"
 "azure_mgmt_automation","0.17.2","MIT"
+"azure_mgmt_automation","0.17.3","MIT"
 "backup_qiniu","0.1.0","MIT"
 "backup_qiniu","0.1.1","MIT"
 "basic_test","0.2.0","MIT"

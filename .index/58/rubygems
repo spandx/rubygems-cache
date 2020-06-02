@@ -327,6 +327,7 @@
 "azure_cognitiveservices_spellcheck","0.17.0","MIT"
 "azure_cognitiveservices_spellcheck","0.18.0","MIT"
 "azure_cognitiveservices_spellcheck","0.18.1","MIT"
+"azure_cognitiveservices_spellcheck","0.18.2","MIT"
 "azure_jwt_auth","0.1.1","MIT"
 "azure_jwt_auth","0.2.0","MIT"
 "azure_jwt_auth","0.3.0","MIT"

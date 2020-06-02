@@ -233,6 +233,7 @@
 "azure_mgmt_msi","0.16.0","MIT"
 "azure_mgmt_msi","0.17.0","MIT"
 "azure_mgmt_msi","0.17.1","MIT"
+"azure_mgmt_msi","0.17.2","MIT"
 "bare_gato","0.0.1",""
 "bare_gato","0.0.2",""
 "bare_gato","0.0.3",""

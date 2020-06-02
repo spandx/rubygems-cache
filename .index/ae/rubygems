@@ -200,6 +200,7 @@
 "autometal-piwik","1.0.1","MIT"
 "autometal-piwik","1.0.3","MIT"
 "azure_mgmt_adhybridhealth_service","0.17.0","MIT"
+"azure_mgmt_adhybridhealth_service","0.17.1","MIT"
 "background_worker","0.0.3","MIT"
 "background_worker","0.0.4","MIT"
 "background_worker","0.0.5","MIT"

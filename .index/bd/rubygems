@@ -256,6 +256,7 @@
 "azure-storage-table","1.0.1","MIT"
 "azure-storage-table","2.0.1","MIT"
 "azure_mgmt_bot_service","0.17.0","MIT"
+"azure_mgmt_bot_service","0.17.1","MIT"
 "babeltrace","0.1.0","MIT"
 "babeltrace","0.1.1","MIT"
 "babeltrace","0.1.2","MIT"

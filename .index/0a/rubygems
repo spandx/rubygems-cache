@@ -176,6 +176,7 @@
 "azure_mgmt_billing","0.17.0","MIT"
 "azure_mgmt_billing","0.17.1","MIT"
 "azure_mgmt_billing","0.17.2","MIT"
+"azure_mgmt_billing","0.17.3","MIT"
 "bandit","0.0.2",""
 "bandit","0.0.7",""
 "bandit","0.0.8",""
