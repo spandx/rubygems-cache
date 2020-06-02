@@ -106,6 +106,7 @@
 "azure_mgmt_edgegateway","0.17.0","MIT"
 "azure_mgmt_edgegateway","0.17.1","MIT"
 "azure_mgmt_edgegateway","0.18.0","MIT"
+"azure_mgmt_edgegateway","0.18.1","MIT"
 "barking_iguana-cf_lint","0.0.1","MIT"
 "basic_auth_http","0.0.1",""
 "basis-band","0.0.0","MIT"

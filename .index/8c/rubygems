@@ -203,6 +203,7 @@
 "azure_mgmt_relay","0.17.0","MIT"
 "azure_mgmt_relay","0.17.1","MIT"
 "azure_mgmt_relay","0.17.2","MIT"
+"azure_mgmt_relay","0.17.3","MIT"
 "babysitter","0.0.1",""
 "babysitter","0.0.10",""
 "babysitter","0.0.11",""

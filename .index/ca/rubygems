@@ -699,6 +699,7 @@
 "attr_cleaner","1.0.0",""
 "attr_cleaner","1.1.0",""
 "azure_mgmt_vmware_cloudsimple","0.17.0","MIT"
+"azure_mgmt_vmware_cloudsimple","0.17.1","MIT"
 "barnie","0.2.0",""
 "barnie","0.3.2",""
 "batch_actions","0.0.1","MIT"

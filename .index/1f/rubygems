@@ -195,6 +195,7 @@
 "axtags","0.1.0","MIT"
 "azure_mgmt_azurestack","0.17.0","MIT"
 "azure_mgmt_azurestack","0.17.1","MIT"
+"azure_mgmt_azurestack","0.17.2","MIT"
 "backbone-associations-rails","0.1.0",""
 "backbone-associations-rails","0.2.0",""
 "backbone-associations-rails","0.3.0",""
