@@ -2451,6 +2451,7 @@
 "vagrant-bolt","0.1.2","Apache-2.0"
 "vagrant-bolt","0.2.0","Apache-2.0"
 "vagrant-bolt","0.2.1","Apache-2.0"
+"vagrant-bolt","0.3.0","Apache-2.0"
 "vagrant-hostmanager","0.0.1",""
 "vagrant-hostmanager","0.0.2",""
 "vagrant-hostmanager","0.0.3",""
