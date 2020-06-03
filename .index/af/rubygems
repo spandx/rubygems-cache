@@ -1187,6 +1187,7 @@
 "fluent-plugin-nfct-parser","0.1.1","MIT"
 "fluent-plugin-parser-protobuf","0.1.0","Apache-2.0"
 "fluent-plugin-parser-protobuf","0.1.1","Apache-2.0"
+"fluent-plugin-parser-protobuf","0.1.2","Apache-2.0"
 "fluent-plugin-prometheus_pushgateway","0.0.1","Apache-2.0"
 "fluent-plugin-prometheus_pushgateway","0.0.2","Apache-2.0"
 "folder","0.0.1","MIT"

@@ -581,6 +581,7 @@
 "devise-jwt","0.5.8","MIT"
 "devise-jwt","0.5.9","MIT"
 "devise-jwt","0.6.0","MIT"
+"devise-jwt","0.7.0","MIT"
 "directory_listing","0.0.1",""
 "directory_listing","0.0.2",""
 "directory_listing","0.0.3",""

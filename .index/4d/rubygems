@@ -2296,6 +2296,7 @@
 "sassc-x64-mingw32","2.2.0","MIT"
 "sassc-x64-mingw32","2.2.1","MIT"
 "sassc-x64-mingw32","2.3.0","MIT"
+"sassc-x64-mingw32","2.4.0","MIT"
 "scheme_plist_generator","1.0.0","MIT"
 "scheme_plist_generator","1.0.1","MIT"
 "scottmotte-merb-auth-slice-password-reset","0.9.14",""
