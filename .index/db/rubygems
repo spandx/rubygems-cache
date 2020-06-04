@@ -467,6 +467,7 @@
 "azure-armrest","0.9.7","Apache-2.0"
 "azure-armrest","0.9.8","Apache-2.0"
 "azure-armrest","0.9.9","Apache-2.0"
+"azure_info","0.1.0","Apache2.0"
 "balinterdi-missing_t","0.1.0",""
 "balinterdi-missing_t","0.1.1",""
 "balinterdi-missing_t","0.1.2",""

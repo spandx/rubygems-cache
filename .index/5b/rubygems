@@ -2296,6 +2296,7 @@
 "site_prism","3.4","BSD-3-Clause"
 "site_prism","3.4.1","BSD-3-Clause"
 "site_prism","3.4.2","BSD-3-Clause"
+"site_prism","3.5","BSD-3-Clause"
 "sitemap_boiler","0.1.0","MIT"
 "sitepress-rails","0.1.16",""
 "sitepress-rails","0.1.17",""
