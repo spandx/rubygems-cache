@@ -2090,6 +2090,7 @@
 "imagebin","1.0.5",""
 "imap_processor","1.5","MIT"
 "imap_processor","1.6","MIT"
+"imap_processor","1.7","MIT"
 "infopark_dashboard","0.0.1","LGPL-3.0-only"
 "infopark_dashboard","0.0.2","LGPL-3.0-only"
 "infopark_dashboard","0.0.3","LGPL-3.0-only"
