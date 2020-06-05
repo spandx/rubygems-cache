@@ -2966,6 +2966,7 @@
 "store_attribute","0.5.3","MIT"
 "store_attribute","0.6.0","MIT"
 "store_attribute","0.7.0","MIT"
+"store_attribute","0.7.1","MIT"
 "string_entropy","0.1.0","MIT"
 "string_to_point","0.1.0",""
 "submit","0.0.1",""
