@@ -1789,6 +1789,7 @@
 "rapngasm","3.1.6","libpng/zlib"
 "rapngasm","3.1.7","libpng/zlib"
 "rapngasm","3.2.0","libpng/zlib"
+"rbr","0.1.0",""
 "rdbms_sampler","1.1.1","MIT"
 "rdbms_sampler","1.2.0","MIT"
 "react_renderer","1.0.0","MIT"
