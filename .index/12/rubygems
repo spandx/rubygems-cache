@@ -1910,6 +1910,7 @@
 "projectlocker_pulse","0.2.1",""
 "projectlocker_pulse","1.0.0",""
 "props_template","0.13.0","MIT"
+"props_template","0.14.0","MIT"
 "pry-byebyebug","1.0.0","MIT"
 "pry-byebyebug","1.0.1","MIT"
 "pry-state","0.1.10","MIT"
