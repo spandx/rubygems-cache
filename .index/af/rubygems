@@ -2530,6 +2530,7 @@
 "re2","1.2.0","BSD-3-Clause"
 "readable-token","0.1.0","MIT"
 "readable-token","0.1.1","MIT"
+"recog-intrigue","2.3.7",""
 "redis-i18n","0.0.0",""
 "redis-i18n","0.6.1",""
 "redis-i18n","0.6.5",""
