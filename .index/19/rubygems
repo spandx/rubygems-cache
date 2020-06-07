@@ -1304,6 +1304,8 @@
 "logstash-input-jmx","3.0.7","Apache-2.0"
 "lolol","0.1.0","MIT"
 "lolol","0.2.0","MIT"
+"lopert_palindrome","0.1.0",""
+"lopert_palindrome","0.2.0",""
 "lovelotte-rails","0.0.1","MIT"
 "lovelotte-rails","0.0.2","MIT"
 "lovelotte-rails","0.0.3","MIT"

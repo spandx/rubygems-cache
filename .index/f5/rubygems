@@ -1830,6 +1830,8 @@
 "ip_address_serializer","0.0.1","MIT"
 "isikukood","0.1.1",""
 "isikukood","0.1.2",""
+"jekyll-replace-last","1.0.0","MIT"
+"jekyll-replace-last","1.0.1","MIT"
 "jekyll_strict_front_matter","0.1.1","MIT"
 "jhubert_common","0.0.1",""
 "jscookie-rails","2.0.3","MIT"
