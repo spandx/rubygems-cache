@@ -1322,6 +1322,7 @@
 "has_uuid","0.1.0",""
 "hash_cache","0.0.1","MIT"
 "hash_cache","0.0.2","MIT"
+"hashes_equal","0.1.0","MIT"
 "headless-rails","0.0.1","MIT"
 "headless-rails","0.0.2","MIT"
 "headless-rails","0.0.3","MIT"
