@@ -2615,6 +2615,7 @@
 "thread_safe-java","0.3.6","Apache-2.0"
 "tide-api","0.2.0","MIT"
 "tide-api","0.3.0","MIT"
+"tide-api","0.4.0","MIT"
 "time-tracker","0.1","CC Attribution Non-Commercial"
 "time-tracker","0.2","CC Attribution Non-Commercial"
 "timezone-to-utc","1.0.0",""

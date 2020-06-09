@@ -2222,6 +2222,7 @@
 "pgq_prometheus","0.1.0","MIT"
 "pgq_prometheus","0.2.0","MIT"
 "pgq_prometheus","0.2.1","MIT"
+"pgq_prometheus","0.2.2","MIT"
 "pgx","1.0.1","MIT"
 "pgx","1.0.2","MIT"
 "pivotal_tracker_cli","5.0.0","MIT"

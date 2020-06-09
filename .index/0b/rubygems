@@ -103,6 +103,8 @@
 "activejob-perform_later","1.0.1","MIT"
 "activejob-perform_later","1.0.2","MIT"
 "activerecord-column-reader","0.0.2",""
+"activerecord-connection_pool_instrumenter","0.1.0",""
+"activerecord-connection_pool_instrumenter","0.2.0",""
 "activerecord-deadlock_retry","0.0.3",""
 "activerecord-import_with_callbacks","0.3.7","MIT"
 "activerecord-refresh_connection","0.0.1","MIT"
