@@ -531,6 +531,7 @@
 "azure_mgmt_network","0.9.0","MIT"
 "backup-aliyun2","0.1.5","MIT"
 "backup-aliyun2","0.1.6","MIT"
+"backup-aliyun2","0.1.7","MIT"
 "baidu_ueditor_rails5","0.2.0",""
 "baidu_ueditor_rails5","0.3.0",""
 "baidu_ueditor_rails5","0.3.1",""

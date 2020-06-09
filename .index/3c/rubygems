@@ -2219,6 +2219,7 @@
 "redis_lock","0.4.2",""
 "redis_lock","0.4.3",""
 "redis_lock","0.4.4",""
+"renamr","1.0.2","BSD-2-Clause"
 "replace","1.0.1","MIT"
 "replace","1.0.2","MIT"
 "respond_to_missing","0.0.1",""

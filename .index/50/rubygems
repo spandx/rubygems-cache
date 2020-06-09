@@ -277,6 +277,7 @@
 "capify-rbenv","3.0.0","MIT"
 "capify-rbenv","4.0.0","MIT"
 "capify-rbenv","4.0.1","MIT"
+"capify-rbenv","5.0.0","MIT"
 "capistrano-services","0.0.1",""
 "capistrano-system-v-service","0.1.0","MIT"
 "capistrano-tarball","0.1.1","MIT"

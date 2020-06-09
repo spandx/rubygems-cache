@@ -2942,6 +2942,7 @@
 "stringify-time","0.0.6","MIT"
 "sumo-check-redis-integer","0.0.1",""
 "sumo-check-redis-integer","0.1.0","Nonstandard"
+"sumo-check-redis-integer","0.1.1","Nonstandard"
 "superp-rubyzip","0.1.0",""
 "supervision","0.1.0","MIT"
 "supervision","0.2.0","MIT"
