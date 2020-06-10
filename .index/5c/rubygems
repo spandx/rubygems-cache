@@ -2545,6 +2545,7 @@
 "shiprails","0.1.9","MIT"
 "show_me_the_object","0.1.0",""
 "sidekiq-instrumentation","1.1.0","Apache-2.0"
+"sidekiq-instrumentation","1.2.0","Apache-2.0"
 "simple-rpc","1.0.2",""
 "simple-rpc","1.0.3",""
 "simple-rpc","1.0.4",""
