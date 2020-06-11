@@ -183,6 +183,7 @@
 "aws-sdk-iotthingsgraph","1.5.0","Apache-2.0"
 "aws-sdk-iotthingsgraph","1.6.0","Apache-2.0"
 "aws-sdk-iotthingsgraph","1.7.0","Apache-2.0"
+"aws-sdk-iotthingsgraph","1.8.0","Apache-2.0"
 "badgerhash","0.0.1","GNU LGPL"
 "bai-money","0.5.0",""
 "barkeep-client","0.0.2",""

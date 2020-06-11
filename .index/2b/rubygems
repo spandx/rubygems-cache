@@ -3731,6 +3731,7 @@
 "zaif_wrapper","0.1.1","MIT"
 "zaif_wrapper","0.1.2","MIT"
 "zaif_wrapper","1.0.0","MIT"
+"zenoss_client","0.10.0",""
 "zenoss_client","0.5.0",""
 "zenoss_client","0.5.4",""
 "zenoss_client","0.6.0","GPL-3.0"
