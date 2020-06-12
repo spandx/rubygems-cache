@@ -2125,6 +2125,8 @@
 "rubysl-socket","2.1.3","BSD"
 "rubysl-socket","2.2","BSD"
 "rubysl-socket","2.2.1","BSD"
+"sb-config","0.1.0",""
+"sb-config","0.2.0",""
 "scbi_plot","0.0.4",""
 "scbi_plot","0.0.6",""
 "scbi_plot","0.0.7",""
