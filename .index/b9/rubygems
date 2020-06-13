@@ -129,6 +129,7 @@
 "aws-cleaner","2.4.0","MIT"
 "aws-cleaner","2.4.1","MIT"
 "aws-cleaner","2.4.2","MIT"
+"aws-iam-authenticator-rb-x86_64-linux","0.1.0","Apache-2.0"
 "azure_mgmt_cost_management","0.17.0","MIT"
 "azure_mgmt_cost_management","0.17.1","MIT"
 "azuread-auth","0.1.1","mit"
