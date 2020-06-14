@@ -2384,6 +2384,7 @@
 "shoulda","3.4.0","MIT"
 "shoulda","3.5.0","MIT"
 "shoulda","3.6.0","MIT"
+"shoulda","4.0.0","MIT"
 "sidekick","0.6.5",""
 "sidekick","0.7.0",""
 "simdjson","0.1.0","MIT"

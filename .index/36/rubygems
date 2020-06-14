@@ -2359,6 +2359,7 @@
 "openapi3_parser","0.7.0","MIT"
 "openapi3_parser","0.8.0","MIT"
 "openapi3_parser","0.8.1","MIT"
+"openapi3_parser","0.8.2","MIT"
 "opscode-mixlib-cli","1.0.4",""
 "order_tree","0.0.2",""
 "organization_audit","1.0.0","MIT"
