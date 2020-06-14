@@ -384,6 +384,7 @@
 "capistrano-spa","0.0.1","MIT"
 "cardano_wallet","0.1.0","MIT"
 "cardano_wallet","0.1.1","MIT"
+"cardano_wallet","0.1.2","MIT"
 "carrierwave-upyun","0.1",""
 "carrierwave-upyun","0.1.2",""
 "carrierwave-upyun","0.1.7",""
