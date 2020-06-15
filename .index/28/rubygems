@@ -503,6 +503,8 @@
 "debug_logger","0.0.2","MIT"
 "debug_logger","0.0.3","MIT"
 "debug_logger","0.0.4.1","MIT"
+"debug_logger","0.0.5","MIT"
+"debug_logger","0.0.5.5","MIT"
 "defaults_for","0.0.2",""
 "delayed_job_restart","0.0.0",""
 "delayed_job_restart","0.0.1",""

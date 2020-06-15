@@ -1306,6 +1306,7 @@
 "kubeclient","4.4.0","MIT"
 "kubeclient","4.5.0","MIT"
 "kubeclient","4.6.0","MIT"
+"kubeclient","4.7.0","MIT"
 "kuehne-nagel-despatch-interface","0.0.1",""
 "kuehne-nagel-despatch-interface","0.0.2",""
 "kuehne-nagel-despatch-interface","0.0.3",""

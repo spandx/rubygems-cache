@@ -1904,6 +1904,7 @@
 "nd_transmission","0.0.2","MIT"
 "net-pns","0.0.1","GPL"
 "net-pns","1.0.0","GPL"
+"newrelic-sidekiq-stats","0.0.1",""
 "noderb","0.0.11",""
 "noderb","0.0.2",""
 "noderb","0.0.3",""

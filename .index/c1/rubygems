@@ -1318,6 +1318,7 @@
 "heroic-sns","1.1.1","Apache"
 "heroic-sns","1.1.2","Apache"
 "heroic-sns","1.1.3","Apache"
+"heroic-sns","1.2","Apache"
 "heroku_db_env","0.0.3",""
 "herr","0.7.3","MIT"
 "hiera-yaml-gather","0.0.1",""
