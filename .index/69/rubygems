@@ -2406,6 +2406,7 @@
 "stronger_parameters","2.9.1","Apache-2.0"
 "stroop","0.1.0","MIT"
 "stroop","1.0.0","MIT"
+"stroop","1.1.0","MIT"
 "struct-alias_member","0.0.3","MIT"
 "struct-alias_member","0.1.0","MIT"
 "supa","0.1.1","MIT"

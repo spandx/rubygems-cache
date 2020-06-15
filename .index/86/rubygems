@@ -1172,6 +1172,7 @@
 "ht-memcache-lock","0.3.1",""
 "http-2","0.10.0","MIT"
 "http-2","0.10.1","MIT"
+"http-2","0.10.2","MIT"
 "http-2","0.6.1","MIT"
 "http-2","0.6.3","MIT"
 "http-2","0.7.0","MIT"
