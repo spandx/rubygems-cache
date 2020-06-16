@@ -1899,6 +1899,7 @@
 "gollum_rails","3.0.0","AGPL"
 "google-cloud-monitoring-dashboard-v1","0.1.0","Apache-2.0"
 "google-cloud-monitoring-dashboard-v1","0.1.1","Apache-2.0"
+"google-cloud-monitoring-dashboard-v1","0.2.0","Apache-2.0"
 "google-safe-browsing-lookup","0.1.0",""
 "google-safe-browsing-lookup","0.1.1",""
 "google-safe-browsing-lookup","0.1.2",""

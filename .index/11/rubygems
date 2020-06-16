@@ -269,6 +269,7 @@
 "capistrano-scm-copy_strategy","1.0.3","MIT"
 "capistrano-scm-copy_strategy","1.0.4","MIT"
 "capistrano3-foreman-precogs","0.4","MIT"
+"carray-io-csv","0.9.0","MIT"
 "carrierwave-aws-record-model","0.0.1",""
 "cartman","0.2.0",""
 "cartman","0.3.0",""

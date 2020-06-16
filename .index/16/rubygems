@@ -295,6 +295,7 @@
 "aws-sdk-appconfig","1.6.0","Apache-2.0"
 "aws-sdk-appconfig","1.7.0","Apache-2.0"
 "aws-sdk-appconfig","1.7.1","Apache-2.0"
+"aws-sdk-appconfig","1.8.0","Apache-2.0"
 "aws-sdk-wafv2","1.0.0","Apache-2.0"
 "aws-sdk-wafv2","1.1.0","Apache-2.0"
 "aws-sdk-wafv2","1.2.0","Apache-2.0"
