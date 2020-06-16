@@ -1142,6 +1142,8 @@
 "logstash-filter-grok","4.1.1","Apache-2.0"
 "logstash-filter-grok","4.2.0","Apache-2.0"
 "logstash-filter-grok","4.3.0","Apache-2.0"
+"logstash-filter-kubernetes_metadata-test","1.0.5","Apache-2.0"
+"logstash-filter-kubernetes_metadata-test","1.0.6","Apache-2.0"
 "logstash-filter-wkt_to_geojson","0.1.0","Apache-2.0"
 "logstash-filter-wkt_to_geojson","0.1.1","Apache-2.0"
 "logstash-filter-wkt_to_geojson","0.1.2","Apache-2.0"

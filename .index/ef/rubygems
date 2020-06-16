@@ -403,6 +403,8 @@
 "capistrano3-git-push","0.1.1","MIT"
 "capsaicin","0.1.11",""
 "card_number_validator","0.1.1","MIT"
+"carray-narray","0.9.0","MIT"
+"carray-narray","0.9.1","MIT"
 "cas_ticket_check_padrino","0.0.10",""
 "caterer","0.0.1",""
 "caterer","0.1.0",""
