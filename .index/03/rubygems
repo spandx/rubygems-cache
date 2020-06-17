@@ -1895,6 +1895,7 @@
 "redis_stream","0.1.0",""
 "redis_stream","0.2.0",""
 "redis_stream","0.2.1",""
+"redis_stream","0.3.0",""
 "redlock-rb","0.1.1","MIT"
 "relay_api_client","0.0.1","MIT"
 "relay_api_client","0.0.2","MIT"

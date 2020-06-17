@@ -215,6 +215,7 @@
 "aws-sdk-qldb","1.5.0","Apache-2.0"
 "aws-sdk-qldb","1.6.0","Apache-2.0"
 "aws-sdk-qldb","1.6.1","Apache-2.0"
+"aws-sdk-qldb","1.7.0","Apache-2.0"
 "aws-sdk-sqs","1.0.0","Apache-2.0"
 "aws-sdk-sqs","1.1.0","Apache-2.0"
 "aws-sdk-sqs","1.10.0","Apache-2.0"

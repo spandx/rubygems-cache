@@ -447,6 +447,7 @@
 "delayed_job_worker_pool","0.2.1","MIT"
 "delayed_job_worker_pool","0.2.2","MIT"
 "delayed_job_worker_pool","0.2.3","MIT"
+"delayed_job_worker_pool","0.3.0","MIT"
 "dependency_inspector","0.1.1","MIT"
 "deployinator","0.0.0","MIT"
 "deployinator","0.0.1","GNU"
