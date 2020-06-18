@@ -858,6 +858,7 @@
 "fluent-migrator-command-runner","0.0.4","MIT"
 "fluent-migrator-command-runner","0.0.5","MIT"
 "fluent-migrator-command-runner","0.6","MIT"
+"fluent-migrator-command-runner","0.7","MIT"
 "fluent-plugin-gcp_pubsub","0.1.0","GPL-3.0"
 "fluent-plugin-gcp_pubsub","0.2.0","GPL-3.0"
 "fluent-plugin-gcp_pubsub","0.3.0","GPL-3.0"

@@ -773,6 +773,7 @@
 "fluent-plugin-azurestorage-gen2","0.2.7","MIT License"
 "fluent-plugin-azurestorage-gen2","0.2.8","MIT License"
 "fluent-plugin-azurestorage-gen2","0.2.9","MIT License"
+"fluent-plugin-azurestorage-gen2","0.3.0","MIT License"
 "fluent-plugin-k8s-metrics","1.1.1","Apache-2.0"
 "fluent-plugin-mixi_community","0.0.1",""
 "fluent-plugin-mixi_community","0.0.2",""
