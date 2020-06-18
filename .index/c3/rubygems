@@ -165,6 +165,7 @@
 "activemodel","6.0.2.2","MIT"
 "activemodel","6.0.3","MIT"
 "activemodel","6.0.3.1","MIT"
+"activemodel","6.0.3.2","MIT"
 "activerecord-humanized_errors","1.0.1","MIT"
 "activerecord-humanized_errors","1.0.2","MIT"
 "activerecord-humanized_errors","1.1.0","MIT"

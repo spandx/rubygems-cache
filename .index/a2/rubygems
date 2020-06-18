@@ -606,6 +606,7 @@
 "chef-config","16.0.287","Apache-2.0"
 "chef-config","16.1.0","Apache-2.0"
 "chef-config","16.1.16","Apache-2.0"
+"chef-config","16.2.44","Apache-2.0"
 "chef-handler-jenkins","0.1",""
 "chef-handler-jenkins","0.2",""
 "chef-handler-jenkins","0.3",""
