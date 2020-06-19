@@ -615,6 +615,7 @@
 "checkson","0.9","BSD-3-Clause"
 "checkson","0.91","BSD-3-Clause"
 "checkson","0.92","BSD-3-Clause"
+"checkson","1.0","BSD-3-Clause"
 "cheese-chef-provisioning-azurerm","1.0.4","Apache-2.0"
 "cheese-chef-provisioning-azurerm","1.0.5","Apache-2.0"
 "cheese-chef-provisioning-azurerm","1.0.6","Apache-2.0"

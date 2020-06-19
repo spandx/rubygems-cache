@@ -2449,6 +2449,7 @@
 "sfx-sidekiq-opentracing","0.0.1","Apache-2.0"
 "sfx-sidekiq-opentracing","0.0.2","Apache-2.0"
 "sfx-sidekiq-opentracing","0.0.3","Apache-2.0"
+"sfx-sidekiq-opentracing","0.0.4","Apache-2.0"
 "shack_kit","0.1.1","MIT"
 "shack_kit","0.1.2","MIT"
 "shack_kit","0.2.0","MIT"
