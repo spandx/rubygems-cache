@@ -215,6 +215,7 @@
 "aws-sdk-sesv2","1.5.0","Apache-2.0"
 "aws-sdk-sesv2","1.6.0","Apache-2.0"
 "aws-sdk-sesv2","1.6.1","Apache-2.0"
+"aws-sdk-sesv2","1.7.0","Apache-2.0"
 "aws_status","1.0.1","MIT"
 "aws_status","1.0.2","MIT"
 "aws_status","1.0.3","MIT"

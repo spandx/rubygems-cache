@@ -1821,6 +1821,8 @@
 "rspec-longrun","3.0.0",""
 "rspec-longrun","3.0.1",""
 "rspec-longrun","3.1.0",""
+"rspec-openapi","0.1.0","MIT"
+"rspec-openapi","0.1.1","MIT"
 "rspec-sound","0.1.0",""
 "rubocop-config-prettier","0.1.0",""
 "rubocop-config-prettier","0.1.1",""

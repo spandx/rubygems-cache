@@ -702,6 +702,7 @@
 "fluent-plugin-map","0.1.3","Apache-2.0"
 "fluent-plugin-map","0.2.0","Apache-2.0"
 "fluent-plugin-map","0.2.1","Apache-2.0"
+"fluent-plugin-map","0.3.0","Apache-2.0"
 "fluent-plugin-out_hosted_graphite","0.0.1","MIT"
 "fluent-plugin-out_hosted_graphite","0.0.2","MIT"
 "fluent-plugin-winevtlog","0.0.2","Apache license"
