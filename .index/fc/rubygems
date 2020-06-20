@@ -2025,6 +2025,7 @@
 "pslm","0.0.0","LGPL-3.0-|-MIT"
 "pubchem","0.0.5","MIT"
 "pubchem","0.1.1","MIT"
+"puppet-lint-manifest_whitespace-check","0.0.1","MIT"
 "puppet-magnum","3.0.0","Apache License, Version 2.0"
 "puppet-magnum","3.0.0","Apache-2.0"
 "puppet-magnum","3.0.1","Apache License, Version 2.0"
