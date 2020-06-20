@@ -1924,6 +1924,7 @@
 "make-rubygem-debs","0.3.6",""
 "man","0.1.0",""
 "manageiq-style","1.0.0","MIT"
+"manageiq-style","1.0.1","MIT"
 "mappable_object_attributes","0.1.0","MIT"
 "marc-fastxmlwriter","0.1.0","MIT"
 "marc-fastxmlwriter","1.0.0","MIT"

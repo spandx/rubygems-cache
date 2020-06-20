@@ -1674,6 +1674,7 @@
 "nrpe_check","0.0.4",""
 "nrpe_check","0.1.0",""
 "nuri_game-tsx_reader","0.1.0",""
+"oauth2_api_client","1.0.0","MIT"
 "octoplex","0.0.1",""
 "omniauth-meetup","0.0.5",""
 "omniauth-meetup","0.0.6",""
