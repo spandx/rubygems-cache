@@ -2276,6 +2276,7 @@
 "rmath3d_plain","1.2.0","zlib/libpng"
 "rmath3d_plain","1.2.1","zlib/libpng"
 "rmath3d_plain","1.2.2","Zlib"
+"rmath3d_plain","1.2.3","Zlib"
 "roar","0.10.0",""
 "roar","0.11.10",""
 "roar","0.11.11",""
