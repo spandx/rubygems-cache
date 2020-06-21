@@ -957,6 +957,7 @@
 "fastlane-plugin-try_scan","0.2.0","MIT"
 "fastlane-plugin-try_scan","0.2.1","MIT"
 "fastlane-plugin-try_scan","0.3.0","MIT"
+"fastlane-plugin-try_scan","0.4.0","MIT"
 "fastlane-plugin-upload_symbols_to_new_relic","0.1.0","MIT"
 "fastlane-plugin-upload_symbols_to_new_relic","0.1.1","MIT"
 "favebomb","0.1.0",""

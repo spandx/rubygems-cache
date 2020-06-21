@@ -2170,6 +2170,7 @@
 "rails-patterns","0.5.0","MIT"
 "rails-patterns","0.6.0","MIT"
 "rails-patterns","0.7.3","MIT"
+"rails_vue_generator","0.2.0","MIT"
 "rake-confirm","0.0.1",""
 "rake-confirm","0.0.3",""
 "rake-confirm","0.0.4",""
