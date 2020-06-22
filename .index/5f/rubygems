@@ -2614,6 +2614,8 @@
 "pry-rake","0.0.2","MIT"
 "pry-rake","0.0.3","MIT"
 "psyho_juicer","1.0.9",""
+"puppet-module-posix-dev-r2.7","0.5.0","Apache-2.0"
+"puppet-module-win-system-r2.7","0.5.0","Apache-2.0"
 "qrpc","0.2.2",""
 "qrpc","0.3.2",""
 "qrpc","0.9.0",""

@@ -2087,6 +2087,7 @@
 "puppet-lint-uncuddled_else-check","0.1.1","MIT"
 "puppet-lint-yumrepo_gpgcheck_enabled-check","0.0.1","MIT"
 "puppet-lint-yumrepo_gpgcheck_enabled-check","0.0.2","MIT"
+"puppet-module-win-default-r2.7","0.5.0","Apache-2.0"
 "pwa","1.0.0","MIT"
 "pwa","1.1.0","MIT"
 "pwa","1.2.0","MIT"
