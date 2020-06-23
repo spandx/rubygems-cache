@@ -1302,6 +1302,7 @@
 "keycloak-admin","0.7.3","MIT"
 "keycloak-admin","0.7.4","MIT"
 "keycloak-admin","0.7.5","MIT"
+"keycloak-admin","0.7.6","MIT"
 "knife-solo_data_bag","0.2.2",""
 "knife-solo_data_bag","0.3.0",""
 "knife-solo_data_bag","0.3.1",""

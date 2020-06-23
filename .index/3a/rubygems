@@ -2116,6 +2116,7 @@
 "sensu-plugins-openldap","0.0.3","MIT"
 "sensu-plugins-openldap","1.0.0","MIT"
 "sensu-plugins-openldap","1.0.1","MIT"
+"sensu-plugins-openldap","2.0.0","MIT"
 "sensu-plugins-statful","0.0.1","MIT"
 "sensu-plugins-statful","0.0.2","MIT"
 "servitore","0.1.0","MIT"
