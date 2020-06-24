@@ -816,6 +816,7 @@
 "fluent-plugin-mysqlslowquerylog","0.0.1",""
 "fluent-plugin-mysqlslowquerylog","0.0.2",""
 "fluent-plugin-mysqlslowquerylog","0.0.3",""
+"fluent-plugin-record-splitter","0.0.1","MIT"
 "fluent-plugin-uuid2podname","0.0.1",""
 "fluent-rubyprof","0.0.1","MIT"
 "fluent-rubyprof","0.0.2","MIT"

@@ -865,6 +865,7 @@
 "fault_tolerant_router","1.2.0","GPL-2.0"
 "faye-reconnect","0.0.2","MIT"
 "faye-reconnect","0.0.3","MIT"
+"faye-reconnect","1.0.0","MIT"
 "ffi-nats-core","0.2.1",""
 "ffi-nats-core","0.2.2",""
 "ffi-nats-core","0.3.0",""

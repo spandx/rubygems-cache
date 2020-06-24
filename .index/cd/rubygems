@@ -2212,6 +2212,7 @@
 "sendcloud_client","0.0.1","MIT"
 "sendcloud_client","0.0.2","MIT"
 "sendcloud_client","0.0.3","MIT"
+"sensu-plugins-nexmo","1.0.0","MIT"
 "sensu-plugins-request-tracker","0.0.1","MIT"
 "sensu-plugins-request-tracker","0.0.2","MIT"
 "sensu-plugins-request-tracker","1.0.0","MIT"
