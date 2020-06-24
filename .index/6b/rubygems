@@ -234,6 +234,7 @@
 "aws-liam","0.0.8","MIT"
 "aws-sdk-groundstation","1.0.0","Apache-2.0"
 "aws-sdk-groundstation","1.1.0","Apache-2.0"
+"aws-sdk-groundstation","1.10.0","Apache-2.0"
 "aws-sdk-groundstation","1.2.0","Apache-2.0"
 "aws-sdk-groundstation","1.3.0","Apache-2.0"
 "aws-sdk-groundstation","1.4.0","Apache-2.0"

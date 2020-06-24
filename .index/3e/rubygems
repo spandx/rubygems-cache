@@ -811,6 +811,7 @@
 "exception_notification","4.2.2","MIT"
 "exception_notification","4.3.0","MIT"
 "exception_notification","4.4.0","MIT"
+"exception_notification","4.4.1","MIT"
 "fast_ext","0.3.0",""
 "fastlane-plugin-gradle_properties","0.1.0","MIT"
 "fest","0.0.2","MIT"
