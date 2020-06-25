@@ -1846,6 +1846,8 @@
 "ohm-geoindex","0.0.3","MIT"
 "omniauth-firmafon","1.0.0","MIT"
 "omniauth-protect","1.0.0","MIT"
+"omniauth-protect","2.0.0","MIT"
+"omniauth-protect","3.0.0","MIT"
 "omniauth-strava","0.0.1",""
 "omniauth-strava","0.0.2",""
 "omniauth-strava","0.0.3",""
