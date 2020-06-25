@@ -2890,6 +2890,7 @@
 "serializable_attributes","1.1.0",""
 "serializable_attributes","1.2.0",""
 "shopify-cli","0.9.0","Nonstandard"
+"shopify-cli","0.9.1","MIT"
 "sidekiq-ent","0.0.1","Commercial"
 "signed_multiset","0.0.1","MIT"
 "signed_multiset","0.0.2","MIT"

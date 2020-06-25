@@ -1829,6 +1829,7 @@
 "open_auth2","0.10.0",""
 "opentelemetry-adapters-sinatra","0.3.0","Apache-2.0"
 "opentelemetry-adapters-sinatra","0.4.0","Apache-2.0"
+"opentelemetry-adapters-sinatra","0.4.1","Apache-2.0"
 "opentsdb","0.1.1","MIT"
 "opentsdb","0.2.0","MIT"
 "opentsdb","1.0.0","MIT"
