@@ -1016,6 +1016,7 @@
 "fastlane-plugin-react_native_release","0.5.0","MIT"
 "fastlane-plugin-react_native_release","0.6.0","MIT"
 "fastlane-plugin-react_native_release","0.7.0","MIT"
+"fastlane-plugin-react_native_release","0.8.0","MIT"
 "fastlane-plugin-xcodebuild_analyze","1.0.0","MIT"
 "fba_fee_calculator","1.0.1","MIT"
 "fba_fee_calculator","1.0.2","MIT"
