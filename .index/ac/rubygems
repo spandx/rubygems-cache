@@ -2593,6 +2593,7 @@
 "wkhtmltopdf-binary","0.12.5.3","Apache-2.0"
 "wkhtmltopdf-binary","0.12.5.4","Apache-2.0"
 "wkhtmltopdf-binary","0.12.6","Apache-2.0"
+"wkhtmltopdf-binary","0.12.6.1","Apache-2.0"
 "wkhtmltopdf-binary","0.9.9.2",""
 "wkhtmltopdf-binary","0.9.9.3",""
 "wordfilter_client","0.0.1",""

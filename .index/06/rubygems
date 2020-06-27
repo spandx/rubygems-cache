@@ -1332,6 +1332,8 @@
 "fernet-cli","0.5","Apache-2.0"
 "file_compare","0.1.0","MIT"
 "file_compare","0.1.1","MIT"
+"firebase_auth","1.0.0","MIT"
+"firebase_auth","1.0.1","MIT"
 "fix_tsv_conflict","0.1.0",""
 "fix_tsv_conflict","0.1.1",""
 "fix_tsv_conflict","0.1.2",""
