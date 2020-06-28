@@ -680,6 +680,7 @@
 "daptiv-foodcritic-rules","0.0.1","APACHE2"
 "daptiv-foodcritic-rules","0.0.2","APACHE2"
 "daptiv-foodcritic-rules","1.0.0","APACHE2"
+"date_range_rollout","0.1.0","MIT"
 "dbd-jdbc-java","0.1.6",""
 "decidim-sortitions","0.11.1","AGPL-3.0"
 "decidim-sortitions","0.11.2","AGPL-3.0"
