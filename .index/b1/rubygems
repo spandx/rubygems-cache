@@ -629,6 +629,8 @@
 "chef-provisioning-vra","0.2.1","Apache-2.0"
 "chef-provisioning-vra","0.3.0","Apache-2.0"
 "chef-provisioning-vra","1.0.0","Apache-2.0"
+"chili_logger","0.0.0","MIT"
+"chili_logger","0.0.1","MIT"
 "choo","1.0.0","MIT"
 "choo","1.0.1","MIT"
 "chuyeow-injour","0.2.0",""
