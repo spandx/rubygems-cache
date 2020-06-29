@@ -645,6 +645,7 @@
 "davidsons","4.0.0","MIT"
 "davidsons","5.0.0","MIT"
 "davidsons","5.0.1","MIT"
+"db-mysql","0.1.0","MIT"
 "db-query-matchers","0.1.0","MIT"
 "db-query-matchers","0.1.1","MIT"
 "db-query-matchers","0.1.2","MIT"
