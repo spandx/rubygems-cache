@@ -2758,6 +2758,7 @@
 "vagrant-sshfs","1.3.2","GPL-2.0"
 "vagrant-sshfs","1.3.3","GPL-2.0"
 "vagrant-sshfs","1.3.4","GPL-2.0"
+"vagrant-sshfs","1.3.5","GPL-2.0"
 "vagrant-veertu","0.0.12","MIT"
 "vagrant-veertu","0.0.15","MIT"
 "vagrant-veertu","0.0.17","MIT"

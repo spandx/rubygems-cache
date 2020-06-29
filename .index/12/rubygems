@@ -2177,6 +2177,7 @@
 "sensu-plugins-io-checks","2.0.0","MIT"
 "sensu-plugins-io-checks","3.0.0","MIT"
 "sensu-plugins-io-checks","3.0.1","MIT"
+"sensu-plugins-ssl-boutetnico","1.0.0","MIT"
 "sequel_test_after_commit","0.0.2","MIT"
 "sequel_test_after_commit","0.0.3","MIT"
 "sequel_test_after_commit","0.0.4","MIT"

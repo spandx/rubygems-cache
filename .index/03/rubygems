@@ -284,6 +284,7 @@
 "calendarium-romanum","0.5.0","LGPL-3.0-|-MIT"
 "calendarium-romanum","0.6.0","LGPL-3.0-|-MIT"
 "calendarium-romanum","0.7.0","LGPL-3.0-|-MIT"
+"calendarium-romanum","0.7.1","LGPL-3.0-|-MIT"
 "capistrano-git-archive","0.0.1","MIT"
 "capistrano-git-archive","0.0.2","MIT"
 "capistrano-strategy-copy-partial","0.0.1",""
