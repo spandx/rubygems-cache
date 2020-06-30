@@ -1211,6 +1211,7 @@
 "jsonb_accessor","0.3.2","MIT"
 "jsonb_accessor","0.3.3","MIT"
 "jsonb_accessor","1.0.0","MIT"
+"jsonb_accessor","1.1.0","MIT"
 "jubjub","0.0.1",""
 "jubjub","0.0.6",""
 "jwilger-cucumber","0.3.11.200906161550",""

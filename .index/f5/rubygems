@@ -1397,6 +1397,7 @@
 "ecf_classify","1.0.2","GPL-3.0-only"
 "em-berp-protocol","1.0.1",""
 "em-berp-protocol","1.0.2",""
+"embulk-input-marketo-extended","0.6.18","Apache2"
 "emoji-validator","0.1.0","MIT"
 "emoji-validator","0.1.1","MIT"
 "emoji-validator","0.1.2","MIT"
