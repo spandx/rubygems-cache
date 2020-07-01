@@ -457,6 +457,7 @@
 "credit_card_processor","0.0.1",""
 "credit_card_processor","0.0.2",""
 "cruz","0.1.0","MIT"
+"crypto_cipher","1.0.0","MIT"
 "cryptrb","0.0.3","MIT"
 "cumulus_ruby","0.1.0","MIT"
 "cumulus_ruby","0.1.1","MIT"

@@ -1398,6 +1398,7 @@
 "fluent-plugin-flowcounter-simple","0.0.2","MIT"
 "fluent-plugin-flowcounter-simple","0.0.3","MIT"
 "fluent-plugin-flowcounter-simple","0.0.4","MIT"
+"fluent-plugin-flowcounter-simple","0.1.0","MIT"
 "fluent-plugin-fortigate-syslog-parser","0.1.1","MIT"
 "fluent-plugin-msgpack-rpc","0.2.1",""
 "fluent-plugin-multiprocess","0.1.0","Apache-2.0"
