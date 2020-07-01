@@ -1796,6 +1796,7 @@
 "resque-heroku","0.0.4",""
 "retry_it","0.1.0","MIT"
 "retry_it","0.1.1","MIT"
+"retry_it","0.1.2","MIT"
 "rexy","0.0.1",""
 "rexy","0.0.2",""
 "rien","0.0.1","Apache-2.0"
