@@ -949,6 +949,8 @@
 "fastlane-plugin-danger_result","0.1.2","MIT"
 "fastlane-plugin-danger_result","0.2.2","MIT"
 "fastlane-plugin-lock_keychain","0.1.0","MIT"
+"fastlane-plugin-work_wechat","0.1.0","MIT"
+"fastlane-plugin-work_wechat","0.1.1","MIT"
 "fig18-x86_64-linux","0.1.38",""
 "fig18-x86_64-linux","0.1.41",""
 "firewatir","1.8.0",""

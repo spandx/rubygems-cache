@@ -1320,6 +1320,7 @@
 "jdbc-postgres","42.0.0","BSD"
 "jdbc-postgres","42.1.2","BSD"
 "jdbc-postgres","42.1.4","BSD"
+"jdbc-postgres","42.2.14","BSD"
 "jdbc-postgres","42.2.5","BSD"
 "jdbc-postgres","42.2.6","BSD"
 "jdbc-postgres","9.2.1002",""
