@@ -1868,6 +1868,7 @@
 "old_school","0.0.5",""
 "omniauth-cybozu","0.0.1","MIT"
 "omniauth-cybozu","0.1.1","MIT"
+"omniauth-cybozu","0.1.2","MIT"
 "omniauth-kerberos","0.3.0",""
 "omniauth-linkedin-oauth2","0.0.1",""
 "omniauth-linkedin-oauth2","0.0.2",""

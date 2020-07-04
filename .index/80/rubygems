@@ -1504,6 +1504,7 @@
 "hstore_attributes","1.0.4","MIT"
 "html_css_to_image","0.1.0","MIT"
 "html_css_to_image","0.1.1","MIT"
+"html_css_to_image","0.1.2","MIT"
 "http_objects","0.0.1",""
 "http_objects","0.0.2",""
 "http_objects","0.0.3",""

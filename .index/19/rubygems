@@ -280,6 +280,7 @@
 "capitalize-names","1.0.4","MIT"
 "capitalize-names","1.0.5","MIT"
 "capitalize-names","1.0.6","MIT"
+"capybara-wsl","0.2.0","MIT"
 "carrier-services","0.0.1","MIT"
 "carrierwave-aliyun-crud","0.1.0",""
 "carrierwave-aliyun-crud","0.1.1",""
