@@ -2016,6 +2016,7 @@
 "redis-mutex","3.0.0",""
 "redis-mutex","4.0.0",""
 "redis-mutex","4.0.1",""
+"redis-mutex","4.0.2",""
 "release_dove","0.1.0","MIT"
 "release_dove","0.2.0","MIT"
 "release_dove","0.3.0","MIT"
