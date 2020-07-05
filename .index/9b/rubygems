@@ -999,6 +999,7 @@
 "hydra-file-access","5.3.0",""
 "hydra-file-access","5.4.1",""
 "hystrix-ruby","0.0.1",""
+"i18n_def_scanner","0.1.0","MIT"
 "i18n_lookup","0.1.0","MIT"
 "i18n_lookup","0.2.0","MIT"
 "i18n_lookup","0.3.0","MIT"
