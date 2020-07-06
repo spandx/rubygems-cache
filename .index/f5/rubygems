@@ -2658,6 +2658,7 @@
 "outstream-json","0.2.0","MIT"
 "pager-jrails","0.3.20080506",""
 "pager-jrails","0.3.20080507",""
+"patch_ruby","1.0.0","MIT"
 "paypal-sdk-adaptiveaccounts","1.102.0",""
 "paypal-sdk-adaptiveaccounts","1.102.1",""
 "paypal-sdk-adaptiveaccounts","1.96.0",""
