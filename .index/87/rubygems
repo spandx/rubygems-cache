@@ -2513,6 +2513,7 @@
 "redis_web_manager","0.3.1","MIT"
 "redis_web_manager","0.3.2","MIT"
 "redis_web_manager","0.3.3","MIT"
+"redis_web_manager","0.3.4","MIT"
 "rekognition","0.0.1","MIT"
 "resque-analytics","0.5.0","MIT"
 "resque-analytics","0.6.0","MIT"
