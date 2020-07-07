@@ -475,6 +475,8 @@
 "databasedotcom-isolated","0.1.0",""
 "dawn","0.1.0","MIT"
 "db","0.0.0",""
+"db","0.5.0",""
+"db","0.5.1","MIT"
 "dc-settingslogic","2.1.0",""
 "dc-settingslogic","2.1.1",""
 "debitcard_validator","0.1.0",""

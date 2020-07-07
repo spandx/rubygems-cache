@@ -169,6 +169,7 @@
 "ar_checked_migration","3.2","MIT"
 "ar_checked_migration","4.0","MIT"
 "arel-order","1.0.0","MIT"
+"aservice","0.0.2","MIT"
 "ash-adb","0.0.0",""
 "ash-adb","0.0.1",""
 "ash-adb","0.0.2",""

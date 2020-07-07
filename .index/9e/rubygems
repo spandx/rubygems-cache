@@ -2489,6 +2489,8 @@
 "rack-ga-track","0.5.0","MIT"
 "rack-ga-track","0.6.0","MIT"
 "rack-ga-track","0.7.0","MIT"
+"rack-identicon","1.0.0","MIT"
+"rack-identicon","1.0.1","MIT"
 "rack-lacquer","0.0.1","MIT"
 "rack-lacquer","0.0.2","MIT"
 "rack-lacquer","0.0.3","MIT"
