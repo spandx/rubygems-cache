@@ -672,6 +672,7 @@
 "fbauth","1.2.2.2",""
 "ffi-fasttext","0.1.0","MIT"
 "ffi-fasttext","0.1.1","MIT"
+"ffi-fasttext","0.3.0","MIT"
 "ffi_wide_char","1.0.0","MIT"
 "ffi_wide_char","1.0.1","MIT"
 "ffi_wide_char","1.0.2","MIT"
