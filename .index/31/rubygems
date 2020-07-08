@@ -1784,6 +1784,7 @@
 "omisego","0.9.4","MIT"
 "omisego","0.9.5","MIT"
 "omisego","0.9.6","MIT"
+"omniauth-bouncie","0.1.0",""
 "omniauth-dropbox-oauth2","0.1.0","MIT"
 "omniauth-dropbox-oauth2","0.2.0",""
 "omniauth-dropbox-oauth2","0.3.0",""
