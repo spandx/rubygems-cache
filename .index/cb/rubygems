@@ -1079,6 +1079,7 @@
 "flattendb","0.2.1",""
 "flattendb","0.2.2",""
 "fluent-plugin-rabbitmq-json-trace-parser","0.1.0","MIT"
+"fluent-plugin-redshift-out2","0.4.1",""
 "fluent-plugin-timestamper","0.0.1","MIT"
 "fontina-windows","0.1.0","MIT"
 "fontina-windows","0.2.0","MIT"

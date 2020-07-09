@@ -1418,6 +1418,7 @@
 "lograge-sql-one-line","0.1.6","MIT"
 "lograge-sql-one-line","0.1.7","MIT"
 "logstash-output-elastic_app_search","1.0.0","Apache-2.0"
+"logstash-output-elastic_app_search","1.1.0","Apache-2.0"
 "lola","0.1.1",""
 "lola","0.1.2","MIT"
 "lola","0.1.3","MIT"

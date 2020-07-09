@@ -3104,6 +3104,8 @@
 "wavefront-sdk","3.7.0","BSD-2-Clause"
 "wavefront-sdk","3.7.1","BSD-2-Clause"
 "wavefront-sdk","4.0.0","BSD-2-Clause"
+"wavefront-sdk","5.0.0","BSD-2-Clause"
+"wavefront-sdk","5.0.1","BSD-2-Clause"
 "web_package-rails","0.1.0","MIT"
 "webshot","0.0.1","MIT"
 "webshot","0.0.10","MIT"

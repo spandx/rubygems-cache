@@ -849,6 +849,7 @@
 "dyspatch_client","3.0.1","Apache-2.0"
 "dyspatch_client","4.0.0","Apache-2.0"
 "dyspatch_client","5.0.0","Apache-2.0"
+"dyspatch_client","5.0.1","Apache-2.0"
 "ealdent-simple-tree","0.1.0",""
 "eb_capistrano_extensions","0.0.3",""
 "ec2_amitools","1.0.2","Amazon Software License"
