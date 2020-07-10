@@ -2113,6 +2113,7 @@
 "sidekiq-congestion","0.0.3","MIT"
 "sidekiq-congestion","0.0.4","MIT"
 "sidekiq-congestion","0.1.0","MIT"
+"sidekiq-congestion","0.1.1","MIT"
 "sidekiq-scheduler-multihost","0.1.0",""
 "sidekiq-scheduler-multihost","0.1.1",""
 "sigdump","0.1.0",""

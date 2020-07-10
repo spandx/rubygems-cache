@@ -2643,6 +2643,7 @@
 "torquebox-activejob-adapter","0.0.2","MIT"
 "tplot","0.0.2",""
 "tpm-key_attestation","0.1.0","Apache-2.0"
+"tpm-key_attestation","0.10.0","Apache-2.0"
 "tpm-key_attestation","0.2.0","Apache-2.0"
 "tpm-key_attestation","0.3.0","Apache-2.0"
 "tpm-key_attestation","0.4.0","Apache-2.0"

@@ -822,6 +822,7 @@
 "evt-schema","1.2.0.1","MIT"
 "evt-schema","1.2.2.0","MIT"
 "evt-schema","2.2.2.0","MIT"
+"evt-schema","2.2.3.0","MIT"
 "factory_bot_sequences","4.8.3","MIT"
 "factory_girl_generator","0.0.2",""
 "fake_service","0.0.1","MIT"
