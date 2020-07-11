@@ -2426,6 +2426,7 @@
 "has_counter_on","1.0.0","MIT"
 "hash_generator","1.0.0","MIT"
 "hash_generator","1.1.0","MIT"
+"hash_tree","0.1.0",""
 "hasherize_csv","0.0.2",""
 "hasherize_csv","0.0.3",""
 "hasherize_csv","0.0.4",""
