@@ -1826,6 +1826,7 @@
 "grape","1.3.1","MIT"
 "grape","1.3.2","MIT"
 "grape","1.3.3","MIT"
+"grape","1.4.0","MIT"
 "graphql_model_mapper","0.0.2","MIT"
 "graphql_model_mapper","0.0.3","MIT"
 "graphql_model_mapper","0.0.4","MIT"
