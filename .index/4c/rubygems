@@ -1161,6 +1161,7 @@
 "fluent-plugin-amqp","0.12.0","Apache-2.0"
 "fluent-plugin-amqp","0.13.0","Apache License, Version 2.0"
 "fluent-plugin-amqp","0.13.0","Apache-2.0"
+"fluent-plugin-amqp","0.14.0","Apache-2.0"
 "fluent-plugin-amqp","0.2.0","Apache License, Version 2.0"
 "fluent-plugin-amqp","0.2.0","Apache-2.0"
 "fluent-plugin-amqp","0.3.0","Apache License, Version 2.0"

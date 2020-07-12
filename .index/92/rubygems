@@ -1725,6 +1725,7 @@
 "lookfile","0.1.4","Expat"
 "lookfile","0.1.5","Expat"
 "lsda","1.0.0","MIT"
+"lsda","2.0.0","MIT"
 "magical-service","0.0.0","MIT"
 "mail_daemon","0.0.10","MIT"
 "mail_daemon","0.0.12","MIT"
