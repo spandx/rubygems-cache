@@ -1483,6 +1483,7 @@
 "greeting_message","0.0.0","MIT"
 "grosser-autotest","4.0.3",""
 "grosser-autotest","4.0.4",""
+"gruffle","0.0.1",""
 "gs2-ruby-sdk-realtime","0.0.1","Apache-2.0"
 "gs2-ruby-sdk-realtime","0.1.0","Apache-2.0"
 "guard-eslint","1.0.0","MIT"
