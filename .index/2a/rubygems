@@ -1304,6 +1304,8 @@
 "google-webfonts","0.3.1",""
 "google-webfonts","0.3.2",""
 "google_maps","0.3.1","MIT"
+"google_spreadsheet_bulk_fetcher","1.0.0",""
+"google_spreadsheet_bulk_fetcher","1.0.1",""
 "googleapis-common-protos","1.1.0","BSD-3-Clause"
 "googleapis-common-protos","1.1.1","Apache-2.0"
 "googleapis-common-protos","1.2.0","Apache-2.0"
