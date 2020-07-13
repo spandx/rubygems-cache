@@ -524,6 +524,7 @@
 "capistrano-rbenv","2.1.4","MIT"
 "capistrano-rbenv","2.1.5","MIT"
 "capistrano-rbenv","2.1.6","MIT"
+"capistrano-rbenv","2.2.0","MIT"
 "capistrano-sidekiq-scheduler-roles","0.1.0","MIT"
 "capistrano-sidekiq-scheduler-roles","0.1.1","MIT"
 "capistrano-sidekiq-scheduler-roles","0.1.2","MIT"
