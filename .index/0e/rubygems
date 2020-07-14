@@ -1080,6 +1080,7 @@
 "fog-openstack","1.0.9","MIT"
 "fog-prune","0.1.0",""
 "fog-prune","0.1.2",""
+"formalism-sequel_transactions","0.1.0","MIT"
 "formula_1","0.0.0","MIT"
 "foto","0.0.1",""
 "foto","0.0.2",""
@@ -2962,4 +2963,5 @@
 "zlocalize","4.2.2",""
 "zlocalize","4.2.4",""
 "zlocalize","6.0.1","MIT"
+"zlocalize","6.0.1.1","MIT"
 "zoology","0.1",""
