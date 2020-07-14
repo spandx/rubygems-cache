@@ -2126,6 +2126,7 @@
 "html","0.1.1","MIT"
 "html","0.1.2","MIT"
 "html2ansi","0.0.1","WTFPL"
+"html2ansi","0.0.2","WTFPL"
 "httpserver","0.0.6","MIT"
 "huginn_time_filter_agent","0.1","MIT"
 "human_date","0.0.1",""
