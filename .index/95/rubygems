@@ -1725,6 +1725,7 @@
 "embiggen","1.3.0","MIT"
 "embiggen","1.4.0","MIT"
 "embiggen","1.5.0","MIT"
+"embulk-input-jdbc-java","0.11.0","Apache-2.0"
 "employer-activerecord","0.0.1","MIT"
 "employer-activerecord","0.1","MIT"
 "employer-activerecord","0.1.1","MIT"

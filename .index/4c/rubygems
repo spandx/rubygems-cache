@@ -860,6 +860,7 @@
 "embulk-input-hdfs","0.3.0","MIT"
 "embulk-input-hdfs","0.3.1","MIT"
 "embulk-input-hdfs","0.3.2","MIT"
+"embulk-input-sqlserver-java","0.11.0","Apache-2.0"
 "encoder-rb","0.0.5",""
 "ende","0.0.1","WTFPL"
 "ende","0.1.1","WTFPL"
