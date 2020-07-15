@@ -2016,6 +2016,7 @@
 "mprtad_lotto","0.1.1","MIT"
 "multi_logger","0.0.1",""
 "multi_logger","0.1.0",""
+"multi_logger","0.2.0",""
 "multiple_man_sidekiq","0.0.1","MIT"
 "multiple_man_sidekiq","0.0.2","MIT"
 "multiple_man_sidekiq","0.0.3","MIT"

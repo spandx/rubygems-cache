@@ -902,6 +902,7 @@
 "fiscali","2.4.3","MIT"
 "fluent-newrelic-insights","0.1.0",""
 "fluent-newrelic-insights","0.1.1",""
+"fluent-plugin-file-with-header","0.1.0","Apache-2.0"
 "fontlike","0.0.1","MIT"
 "fontlike","0.0.2","MIT"
 "fontlike","0.0.3","MIT"

@@ -147,6 +147,8 @@
 "api","0.0.7",""
 "api-responder","1.0.0",""
 "api-responder","1.0.1","MIT"
+"api_client-java","0.5.24","Apache-2.0"
+"api_client-java","0.5.25","Apache-2.0"
 "api_service","0.0.1","MIT"
 "apollo_upload_server","0.1.0","MIT"
 "apollo_upload_server","1.0.0","MIT"
