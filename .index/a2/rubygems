@@ -1672,6 +1672,7 @@
 "logstash-output-riemann","3.0.4","Apache-2.0"
 "logstash-output-riemann","3.0.5","Apache-2.0"
 "logstash-output-riemann","3.0.6","Apache-2.0"
+"logstash-output-riemann","3.0.7","Apache-2.0"
 "lostboy-aasm","2.0.5.1",""
 "lowfive","0.1.4","MIT"
 "lyberteam-capistrano-devel","3.0.0",""

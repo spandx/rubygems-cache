@@ -1908,6 +1908,7 @@
 "faster_rails_partial_lookup","0.1.0",""
 "fastlane-plugin-bitrise_automation","0.1.0","ISC"
 "fastlane-plugin-bitrise_automation","0.1.1","ISC"
+"fastlane-plugin-bitrise_automation","0.2.0","ISC"
 "fastlane-plugin-dmg","0.1.0","MIT"
 "fastlane-plugin-dmg","0.1.1","MIT"
 "ffi-stat","0.0.1",""

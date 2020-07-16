@@ -1191,6 +1191,8 @@
 "ip_to_earth","2.0.0","MIT"
 "ip_to_earth","2.0.1","MIT"
 "ip_to_earth","2.0.2","MIT"
+"is2-aws-ssm-env","0.1.1","Apache-2.0"
+"is2-aws-ssm-env","0.1.2","Apache-2.0"
 "ishuhui","0.1.0","MIT"
 "ishuhui","0.1.1","MIT"
 "itamae-plugin-recipe-kafka","0.0.1","MIT"

@@ -45,6 +45,7 @@
 "active_record_inherit_assoc","2.6.0","Apache-2.0"
 "active_record_inherit_assoc","2.7.0","Apache-2.0"
 "active_record_inherit_assoc","2.8.0","Apache-2.0"
+"active_record_inherit_assoc","2.9.0","Apache-2.0"
 "active_service_mapper","0.0.1",""
 "active_text","0.0.1",""
 "active_text","0.0.3",""
