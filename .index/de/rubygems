@@ -839,6 +839,7 @@
 "evt-entity_projection","1.0.1.1","MIT"
 "evt-entity_projection","1.0.1.2","MIT"
 "evt-entity_projection","2.0.1.2","MIT"
+"evt-entity_projection","2.0.1.3","MIT"
 "exception_manager","1.0.0","MIT"
 "exception_manager","1.0.1","MIT"
 "extattr","0.1.1",""

@@ -2414,6 +2414,7 @@
 "rate_limit-htb","0.1.1","MIT"
 "rb_pager","0.1.0","MIT"
 "rb_pager","0.1.1","MIT"
+"rb_pager","0.2.0","MIT"
 "rds-s3-backup","0.0.1",""
 "rds-s3-backup","0.0.2",""
 "rds-s3-backup","0.0.3",""

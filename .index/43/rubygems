@@ -49,6 +49,8 @@
 "activeadmin-generator","0.0.8",""
 "activeadmin-generator","0.0.9",""
 "activerecord-real_enums","0.0.1","MIT"
+"activerecord_archive","1.0.1","MIT"
+"activerecord_archive","1.0.2","MIT"
 "adap","0.0.10",""
 "adap","0.0.12",""
 "adap","0.0.13",""
