@@ -2749,6 +2749,7 @@
 "raygun-apm-x86_64-linux","1.0.7",""
 "raygun-apm-x86_64-linux","1.0.8",""
 "raygun-apm-x86_64-linux","1.0.9",""
+"raygun-apm-x86_64-linux","1.050",""
 "rb_heap","1.0.0","MIT"
 "rbx-require-relative-universal-ruby-1.9.2","0.0.5",""
 "rbx-require-relative-universal-ruby-1.9.2","0.0.6",""
