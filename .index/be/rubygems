@@ -2099,6 +2099,7 @@
 "rubocop-vendor","0.3.0","MIT"
 "rubocop-vendor","0.4.0","MIT"
 "rubocop-vendor","0.5.0","MIT"
+"ruby-ambient","0.1.0",""
 "ruby-dtrace-consumer","0.4.0",""
 "ruby-gps","0.0.3","MIT"
 "ruby-multi-progressbar","1.0.0","LICENSE"

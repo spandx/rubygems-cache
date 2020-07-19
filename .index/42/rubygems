@@ -2542,6 +2542,7 @@
 "uvrb","0.2.0","MIT"
 "vagrant-box-updater","0.0.2",""
 "vagrant-box-updater","0.0.3",""
+"vagrant-mutagen-utilizer","0.2.0","MIT"
 "vagrant-test-subject","0.0.1",""
 "validation_tracker","0.0.1",""
 "vaportext","0.0.0",""

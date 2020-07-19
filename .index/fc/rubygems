@@ -1747,6 +1747,7 @@
 "mysql2-client-general_log","0.2.1","MIT"
 "mysql_rake_tasks","0.0.3",""
 "mysql_rake_tasks","0.1.3",""
+"mysql_rake_tasks","1.0.0","MIT"
 "nandi","0.8.0",""
 "nandi","0.9.0","MIT"
 "nanoc-rust","0.1","MIT"
