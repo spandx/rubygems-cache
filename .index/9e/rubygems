@@ -1235,6 +1235,7 @@
 "dynamic_router","0.0.7","MIT"
 "dynamic_router","0.0.9","MIT"
 "eac_docker","0.1.0",""
+"eac_docker","0.2.0",""
 "easy-uuid","0.1.0",""
 "edgar","0.0.10",""
 "edgar","0.0.11",""

@@ -1554,6 +1554,7 @@
 "net_http_detector","0.0.1",""
 "neufelry-twitter","0.4.2",""
 "nexmo-jwt","0.1.0","MIT"
+"nexmo-jwt","0.1.1","MIT"
 "ngrok","1.6.1","MIT"
 "nmax","0.1","MIT"
 "nmaximal","0.1.0","MIT"
