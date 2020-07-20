@@ -1471,6 +1471,8 @@
 "nagios_check","0.3.0",""
 "nagios_check","0.3.1",""
 "nagios_check","0.4.0",""
+"naija-faker","1.0.0","MIT"
+"naija-faker","1.0.1","MIT"
 "nano_metrics","0.0.1","MIT"
 "narray_ffi","0.1","BSD"
 "narray_ffi","0.2","BSD"

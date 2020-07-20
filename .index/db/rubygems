@@ -731,6 +731,8 @@
 "cloudflare-dns-update","2.3.0","MIT"
 "cloudflare-dns-update","2.4.0","MIT"
 "cloudflare-dns-update","2.4.1","MIT"
+"cloudflare-dns-update","3.0.0","MIT"
+"cloudflare-dns-update","3.0.1","MIT"
 "cmath","0.0.1","BSD-2-Clause"
 "cmath","1.0.0","BSD-2-Clause"
 "cocoapods-dependencies","0.0.1","MIT"
