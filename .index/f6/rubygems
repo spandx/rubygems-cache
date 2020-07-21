@@ -2421,6 +2421,7 @@
 "rubocop-rails","2.5.1","MIT"
 "rubocop-rails","2.5.2","MIT"
 "rubocop-rails","2.6.0","MIT"
+"rubocop-rails","2.7.0","MIT"
 "rubocop_delayed_job","1.0.0","MIT"
 "rubocop_delayed_job","1.1.0","MIT"
 "ruby-aaws-simple","0.0.3",""
