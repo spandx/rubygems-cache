@@ -3002,6 +3002,8 @@
 "veritrans","2.1.3","MIT"
 "veritrans","2.2.0","MIT"
 "veritrans","2.3.0","MIT"
+"versioned-routes-rails","0.1.0",""
+"versioned-routes-rails","0.2.0",""
 "versionone_sdk","0.0.1","MIT"
 "versionone_sdk","0.0.2","MIT"
 "versionone_sdk","0.0.3","MIT"
