@@ -1846,6 +1846,7 @@
 "lita-sensu2","0.3.2","Apache-2.0"
 "lita-whats","0.1.0","MIT"
 "lita-whats","0.1.1","MIT"
+"logical_friday","0.1.0","MIT"
 "logstash-codec-snowplow","0.3","Apache-2.0"
 "logstash-codec-snowplow","0.4","Apache-2.0"
 "logstash-codec-snowplow","0.5","Apache-2.0"

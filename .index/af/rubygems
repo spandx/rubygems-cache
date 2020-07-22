@@ -1589,6 +1589,8 @@
 "jekyll-index-generator","0.0.1","MIT"
 "jekyll-inline-external-svg","1.1.1","GPL-3.0"
 "jekyll-linked-posts","0.1.0","GPL-3.0"
+"jekyll-rtd-theme","0.0.1","MIT"
+"jekyll-rtd-theme","0.1.0","MIT"
 "jekyll-s3","0.0.1",""
 "jekyll-s3","0.0.5",""
 "jekyll-s3","0.0.6",""
