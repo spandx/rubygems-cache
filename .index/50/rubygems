@@ -1230,6 +1230,7 @@
 "logstash-input-customkafka","0.0.1","Apache-2.0"
 "logstash-input-customkafka","0.0.2","Apache-2.0"
 "logstash-input-customkafka","0.0.3","Apache-2.0"
+"logstash-input-customkafka","0.0.4","Apache-2.0"
 "logstash-input-fluentd","2.0.1","Apache-2.0"
 "logstash-input-fluentd","2.0.2","Apache-2.0"
 "logstash-input-fluentd","2.0.4","Apache-2.0"

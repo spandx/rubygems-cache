@@ -1374,6 +1374,7 @@
 "libv8-universal-darwin-15","6.2.414.42.1","MIT"
 "libv8-universal-darwin-15","6.3.292.48.1","MIT"
 "libv8-universal-darwin-15","6.7.288.46.1","MIT"
+"libv8-universal-darwin-15","8.4.255.0","MIT"
 "lightning-onion","0.1.0","MIT"
 "lightning-onion","0.2.0","MIT"
 "lightning-onion","0.2.1","MIT"
