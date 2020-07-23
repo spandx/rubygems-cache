@@ -1864,6 +1864,7 @@
 "nifty_settings","2.0.0","MIT"
 "no-cache","1.0.0","MIT"
 "no-cache","1.0.1","MIT"
+"no-cache","1.0.2","MIT"
 "nogara-redis_failover","0.9.1",""
 "nogara-redis_failover","1.0.0",""
 "nogara-redis_failover","1.0.1",""

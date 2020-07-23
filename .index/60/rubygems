@@ -2886,6 +2886,7 @@
 "snap_svg-rails","0.4.1","MIT"
 "snapshot_aggregate_root","0.5.0","MIT"
 "sorbet-runtime-stub","0.1.4","MIT"
+"sorbet-runtime-stub","0.2.0","MIT"
 "sortviz","0.5.2","MIT"
 "sortviz","0.5.3","MIT"
 "sortviz","0.6.0","MIT"

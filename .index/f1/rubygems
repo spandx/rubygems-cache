@@ -1933,6 +1933,7 @@
 "mina-kubernetes","2.0.0","MIT"
 "mina-kubernetes","2.2.3","MIT"
 "mina-kubernetes","2.2.4","MIT"
+"mina-kubernetes","2.3.0","MIT"
 "minad-evaluator","0.1",""
 "minad-evaluator","0.1.1",""
 "minad-evaluator","0.1.2",""
