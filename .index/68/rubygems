@@ -2223,6 +2223,8 @@
 "redis-session-store","0.10.0","MIT"
 "redis-session-store","0.11.0","MIT"
 "redis-session-store","0.11.1","MIT"
+"redis-session-store","0.11.2","MIT"
+"redis-session-store","0.11.3","MIT"
 "redis-session-store","0.2.0",""
 "redis-session-store","0.2.1","MIT"
 "redis-session-store","0.2.3","MIT"

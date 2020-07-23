@@ -616,6 +616,7 @@
 "cairo","1.16.3","Ruby"
 "cairo","1.16.4","Ruby"
 "cairo","1.16.5","Ruby"
+"cairo","1.16.6","Ruby-|-GPL-2.0-or-later"
 "calendar_china","0.1.0","MIT"
 "calendar_china","1.0.0","MIT"
 "cap-ssh-key-man","1.1.0",""
@@ -2929,3 +2930,4 @@
 "zinv","0.1.2","MIT"
 "zinv","0.1.3","MIT"
 "zinv","0.1.4","MIT"
+"zspec","1.0.0","MIT"

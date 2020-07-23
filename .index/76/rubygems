@@ -2188,6 +2188,7 @@
 "static_type","0.0.1","MIT"
 "statsd.scala","0.0.2",""
 "statsd.scala","0.0.3",""
+"stop_in_debugger","0.1.0",""
 "str_helper_rml_dpl","0.2.0","MIT"
 "strong_form","0.0.1","AGPL-3.0"
 "strong_form","0.0.2","AGPL-3.0"
