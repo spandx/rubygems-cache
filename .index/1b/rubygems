@@ -1047,6 +1047,7 @@
 "fitvids-rails","1.0.3",""
 "fitvids-rails","1.1.0",""
 "fluent-plugin-claymore","1.0.0","Apache-2.0"
+"fluent-plugin-json","0.1.0","Apache-2.0"
 "fluent-plugin-scalyr-threaded","1.0.8.8","Apache-2.0"
 "flyerhzm-regexp_crawler","0.1.0",""
 "flyerhzm-regexp_crawler","0.2.0",""
