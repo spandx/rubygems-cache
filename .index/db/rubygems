@@ -1812,6 +1812,7 @@
 "knife-google","5.0.2","Apache-2.0"
 "knife-google","5.0.3","Apache-2.0"
 "knife-google","5.0.4","Apache-2.0"
+"knife-google","5.0.5","Apache-2.0"
 "knife-kvm","0.1.2",""
 "knife-rhn","0.1.0",""
 "knife-rhn","0.2.0",""
