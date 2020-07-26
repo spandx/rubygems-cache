@@ -2119,6 +2119,7 @@
 "rbbeamer","0.5.5","GPL-3"
 "rbbeamer","0.5.6","GPL-3"
 "rbbeamer","0.5.7","GPL-3"
+"rbmnist","0.1.0","MIT"
 "recursive-open-struct","0.1.0",""
 "recursive-open-struct","0.3.1","MIT"
 "recursive-open-struct","0.4.0","MIT"

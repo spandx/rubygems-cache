@@ -1154,6 +1154,7 @@
 "guard-erb","0.0.2",""
 "hasura_handler","0.1.0","MIT"
 "hasura_handler","0.1.1","MIT"
+"hasura_handler","0.1.2","MIT"
 "heading_with_title","0.0.1","MIT"
 "heading_with_title","0.0.2","MIT"
 "heading_with_title","0.0.3","MIT"
