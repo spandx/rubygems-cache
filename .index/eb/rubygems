@@ -2399,6 +2399,7 @@
 "sensu-plugins-azure-burstable-metrics","0.0.5","MIT"
 "sensu-plugins-azure-burstable-metrics","0.0.6","MIT"
 "sensu-plugins-azure-burstable-metrics","0.0.7","MIT"
+"sensu-plugins-azure-burstable-metrics","0.0.8","MIT"
 "sensu-plugins-chef","0.0.1","MIT"
 "sensu-plugins-chef","0.0.2","MIT"
 "sensu-plugins-chef","0.0.3","MIT"

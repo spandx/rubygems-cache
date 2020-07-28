@@ -1072,6 +1072,7 @@
 "evt-casing","0.3.0.3","MIT"
 "evt-casing","1.0.0.0","MIT"
 "evt-casing","2.0.0.0","MIT"
+"evt-messaging-fixtures","0.0.0.0","MIT"
 "ezcater_rubocop","0.49.0","MIT"
 "ezcater_rubocop","0.49.1","MIT"
 "ezcater_rubocop","0.49.2","MIT"
