@@ -447,6 +447,7 @@
 "capistrano3-nginx_unicorn","0.0.6",""
 "capistrano3-nginx_unicorn","0.0.7",""
 "capistrano3-nginx_unicorn","0.1",""
+"capistrano3-ssh","0.1.0","MIT"
 "cassie","1.0.0.1","MIT"
 "cassie","1.0.2","MIT"
 "cassie","1.0.3","MIT"

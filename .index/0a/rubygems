@@ -1966,6 +1966,7 @@
 "ops_manager_ui_drivers","2.9.5","Apache-2.0"
 "ops_manager_ui_drivers","2.9.6","Apache-2.0"
 "optimizeplayer","0.0.1","MIT"
+"orion_wholesale","1.0.0","MIT"
 "outbox-twilio","0.2.0","MIT"
 "outbox-twilio","0.3.0","MIT"
 "outbox-twilio","0.3.1","MIT"
