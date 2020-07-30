@@ -3157,6 +3157,8 @@
 "vendorificator","0.5.2",""
 "vendorificator","0.5.3","MIT"
 "vendorificator","0.6.0","MIT"
+"version_utils","0.1.0","MIT"
+"version_utils","0.1.1","MIT"
 "view_source_map","0.0.1",""
 "view_source_map","0.0.2",""
 "view_source_map","0.0.3",""

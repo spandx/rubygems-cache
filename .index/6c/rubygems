@@ -28,6 +28,7 @@
 "active_storage-send_zip","0.3.1","MIT"
 "active_storage-send_zip","0.3.2","MIT"
 "active_storage-send_zip","0.3.3","MIT"
+"active_storage-send_zip","0.3.4","MIT"
 "activerecord-jdbcmysql-adapter","1.1.2",""
 "activerecord-jdbcmysql-adapter","1.2.0",""
 "activerecord-jdbcmysql-adapter","1.2.5",""
