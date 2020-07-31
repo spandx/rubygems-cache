@@ -206,6 +206,7 @@
 "aws-sdk-guardduty","1.35.1","Apache-2.0"
 "aws-sdk-guardduty","1.36.0","Apache-2.0"
 "aws-sdk-guardduty","1.37.0","Apache-2.0"
+"aws-sdk-guardduty","1.38.0","Apache-2.0"
 "aws-sdk-guardduty","1.4.0","Apache-2.0"
 "aws-sdk-guardduty","1.5.0","Apache-2.0"
 "aws-sdk-guardduty","1.6.0","Apache-2.0"

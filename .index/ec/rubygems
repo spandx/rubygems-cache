@@ -2219,6 +2219,7 @@
 "rails_blogger_engine","0.0.1","MIT"
 "rails_blogger_engine","0.0.2","MIT"
 "rails_blogger_engine","1.0.0","MIT"
+"rails_engine_test","0.1.0","MIT"
 "rails_no_database_in_view","0.0.1",""
 "rails_no_database_in_view","0.0.2",""
 "rails_var_to_js_helper","0.1.0","MIT"

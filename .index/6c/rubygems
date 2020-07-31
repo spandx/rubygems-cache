@@ -2628,6 +2628,7 @@
 "systemd-journal","1.3.2","MIT"
 "systemd-journal","1.3.3","MIT"
 "systemd-journal","1.4.1","MIT"
+"systemd-journal","1.4.2","MIT"
 "tassadar-server","0.1.0",""
 "taubot","0.0.0","Modified University of Illinois/NCSA"
 "tax_on_titan","0.0.1","MIT"
