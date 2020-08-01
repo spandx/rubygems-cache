@@ -76,6 +76,7 @@
 "activerecord-import","1.0.3","Ruby"
 "activerecord-import","1.0.4","Ruby"
 "activerecord-import","1.0.5","MIT"
+"activerecord-import","1.0.6","MIT"
 "acts_as_currency","0.0.0","MIT"
 "acts_as_immutable","1.0.0",""
 "agregador","0.0.1","MIT"
