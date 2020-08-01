@@ -1699,6 +1699,7 @@
 "omniauth-multiple_providers","0.0.4","MIT"
 "omniauth-nettoken","0.1.0",""
 "omniauth-segment","0.1","MIT"
+"omniauth-segment","0.1.1","MIT"
 "omniauth-xero-partner","0.0.1","MIT"
 "omniauth-xero-partner","0.0.2","MIT"
 "omniauth-xero-partner","0.0.3","MIT"
