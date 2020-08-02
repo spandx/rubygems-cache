@@ -223,6 +223,7 @@
 "apartment-sidekiq","1.0.0","MIT"
 "apartment-sidekiq","1.1.0","MIT"
 "apartment-sidekiq","1.2.0","MIT"
+"api-exporter","0.2.0","MIT"
 "apiary_blueprint_convertor","0.1.1","MIT"
 "apiary_blueprint_convertor","0.2.0","MIT"
 "apisync","0.1.0","MIT"
