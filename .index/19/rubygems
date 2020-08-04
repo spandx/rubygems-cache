@@ -2032,6 +2032,7 @@
 "rack-mini-profiler","2.0.1","MIT"
 "rack-mini-profiler","2.0.2","MIT"
 "rack-mini-profiler","2.0.3","MIT"
+"rack-mini-profiler","2.0.4","MIT"
 "rack-webdav","0.4.0",""
 "rack-webdav","0.4.1",""
 "rack-webdav","0.4.2","MIT"

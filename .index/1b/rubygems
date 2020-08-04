@@ -61,6 +61,7 @@
 "active_fedora-datastreams","0.2.0",""
 "active_graphql","0.2.1","MIT"
 "active_graphql","0.2.2","MIT"
+"active_graphql","0.2.3","MIT"
 "active_merchant_cyber_source_subscriptions","0.1.0",""
 "activerecord-postgres-json-rails4","0.3.0","MIT"
 "activeuuid","0.0.1",""
