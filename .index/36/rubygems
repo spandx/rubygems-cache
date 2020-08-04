@@ -2977,6 +2977,7 @@
 "try-eager","0.0.1","MIT"
 "tus-client","0.0.1","MIT"
 "tus-client","0.0.2","MIT"
+"tus-client","0.0.3","MIT"
 "uniquify-uuid","0.0.4","MIT"
 "usmu-s3","1.0.0","MIT"
 "usmu-s3","1.0.1","MIT"

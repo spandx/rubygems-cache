@@ -2481,6 +2481,7 @@
 "semantic_logger","4.6.1","Apache-2.0"
 "semantic_logger","4.7.0","Apache-2.0"
 "semantic_logger","4.7.1","Apache-2.0"
+"semantic_logger","4.7.2","Apache-2.0"
 "sensu-plugins-docker-checks","0.0.1","MIT"
 "sensu-plugins-docker-checks","0.0.2","MIT"
 "sensu-plugins-fsmounts","0.0.1","MIT"

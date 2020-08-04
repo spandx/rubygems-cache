@@ -1827,6 +1827,7 @@
 "net-http-spdy","0.0.2",""
 "net-http-spdy","0.0.3",""
 "newebpay-rails","2.0.0","MIT"
+"newebpay-rails","2.0.1","MIT"
 "nice_uuid","0.0.6","MIT"
 "nice_uuid","0.0.7","MIT"
 "nicoapi-core","0.0.1","MIT"

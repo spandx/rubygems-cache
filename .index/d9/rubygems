@@ -2213,6 +2213,8 @@
 "evok-to-mqtt","0.5.2.1","Apache-2.0"
 "evt-schema-fixtures","0.0.0.0","MIT"
 "evt-schema-fixtures","0.0.0.1","MIT"
+"evt-schema-fixtures","0.0.0.2","MIT"
+"evt-schema-fixtures","0.0.0.3","MIT"
 "exmail","0.1.0","MIT"
 "facebook_app_token","0.1.0","MIT"
 "fake_primary_key","0.0.1","MIT"
