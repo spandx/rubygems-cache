@@ -3545,6 +3545,7 @@
 "work_queue","2.5.3",""
 "work_queue","2.5.4","MIT"
 "yabeda-prometheus-mmap","0.1.0","MIT"
+"yabeda-prometheus-mmap","0.1.1","MIT"
 "yellow","0.0.0","MIT"
 "ygg","0.0.1",""
 "your_platform","0.0.2",""

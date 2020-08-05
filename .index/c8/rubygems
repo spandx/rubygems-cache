@@ -644,6 +644,8 @@
 "clier","1.0.3.1","MIT"
 "cloudelete","0.0.3",""
 "cm_logger","0.0.1","MIT"
+"cm_logger","0.0.2","MIT"
+"cm_logger","0.0.3","MIT"
 "cmdparser","1.0","GPL-3.0-only"
 "cmdparser","1.1","GPL-3.0-only"
 "coal-x86_64-darwin-13","0.0.1","MIT"
