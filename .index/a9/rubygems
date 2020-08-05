@@ -2250,6 +2250,7 @@
 "rspec-puppet-facts","1.9.2","Apache-2.0"
 "rspec-puppet-facts","1.9.5","Apache-2.0"
 "rspec-puppet-facts","1.9.6","Apache-2.0"
+"rspec-puppet-facts","2.0.0","Apache-2.0"
 "rspec_api_documentation","0.4.0",""
 "rspec_api_documentation","0.4.4",""
 "rspec_api_documentation","0.6.0",""
