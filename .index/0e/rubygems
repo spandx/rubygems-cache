@@ -848,6 +848,7 @@
 "dynamodb_framework","1.6.1","MIT"
 "dynamodb_framework","1.7.0","MIT"
 "dynamodb_framework","1.8.0","MIT"
+"dynamodb_framework","1.9.0","MIT"
 "edi4r","0.9.6.2","Ruby"
 "edifact_parser","0.9.0",""
 "edifact_parser","0.9.1",""

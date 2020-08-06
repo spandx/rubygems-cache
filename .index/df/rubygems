@@ -1297,6 +1297,7 @@
 "embulk-filter-flatten_json","0.0.2","MIT"
 "embulk-output-sftp-java","0.2.3","MIT"
 "embulk-output-sftp-java","0.2.4","MIT"
+"embulk-output-sftp-java","0.2.5","MIT"
 "emoji-formatter","0.1.1","MIT"
 "endymion-ginsu","0.0.0",""
 "endymion-ginsu","0.1.0",""

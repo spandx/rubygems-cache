@@ -984,6 +984,7 @@
 "faraday-tracer","0.6.0","MIT"
 "faraday-tracer","0.6.1","MIT"
 "faraday-tracer","0.7.0","MIT"
+"fastlane-plugin-ad_licenselint","1.0.0","MIT"
 "fastlane-plugin-buggly","0.1.7","MIT"
 "fastlane-plugin-bugsnag_sourcemaps_upload","0.1.0","MIT"
 "fastlane-plugin-bugsnag_sourcemaps_upload","0.1.2","MIT"
