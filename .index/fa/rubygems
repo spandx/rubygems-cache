@@ -192,6 +192,7 @@
 "anytick","0.1.0","MIT"
 "anytick","0.2.0","MIT"
 "api_authorization","0.1.0","MIT"
+"api_authorization","0.1.2","MIT"
 "apple_manifest_rails","0.0.2","MIT-|-WTFPL"
 "apple_manifest_rails","0.0.3","MIT-|-WTFPL"
 "apple_store_inventory_checker","0.1.0","MIT"
