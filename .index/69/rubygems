@@ -1967,6 +1967,7 @@
 "rspec-solr","2.0.0",""
 "rspec-solr","3.0.0",""
 "rspeed","0.0.1","MIT"
+"rspeed","0.1.0","MIT"
 "rubinius-core-api","0.0.1",""
 "rubocop-definition_validator","0.1.0",""
 "rubocop-definition_validator","0.1.1",""
