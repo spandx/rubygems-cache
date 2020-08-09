@@ -670,6 +670,7 @@
 "concurrent-ruby-ext-x86-mingw32","1.1.4","MIT"
 "concurrent-ruby-ext-x86-mingw32","1.1.5","MIT"
 "concurrent-ruby-ext-x86-mingw32","1.1.6","MIT"
+"concurrent-ruby-ext-x86-mingw32","1.1.7","MIT"
 "conditional_sample","0.1.0","GPL-3.0"
 "conditional_sample","1.0.0","GPL-3.0"
 "config_module","0.0.1",""

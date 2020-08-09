@@ -541,6 +541,7 @@
 "concurrent-ruby","1.1.4","MIT"
 "concurrent-ruby","1.1.5","MIT"
 "concurrent-ruby","1.1.6","MIT"
+"concurrent-ruby","1.1.7","MIT"
 "content-security-policy","0.1.3",""
 "content_crawler","0.0.1","MIT"
 "conv_ja_char","0.0.1","MIT"
