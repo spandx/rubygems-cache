@@ -473,6 +473,7 @@
 "concurrent-ruby-ext-x64-mingw32","1.1.4","MIT"
 "concurrent-ruby-ext-x64-mingw32","1.1.5","MIT"
 "concurrent-ruby-ext-x64-mingw32","1.1.6","MIT"
+"concurrent-ruby-ext-x64-mingw32","1.1.7","MIT"
 "concurrent-ruby-x86-linux","0.7.0","MIT"
 "concurrent-ruby-x86-linux","0.7.1","MIT"
 "concurrent-ruby-x86-linux","0.7.2","MIT"
