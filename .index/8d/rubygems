@@ -2368,6 +2368,7 @@
 "spree_mollie_gateway","3.2.0","BSD"
 "spree_mollie_gateway","3.2.1","BSD"
 "spree_mollie_gateway","4.0.0","BSD"
+"spree_mollie_gateway","4.0.1","BSD"
 "spree_stock_email","0.0.1",""
 "spree_stock_email","0.0.2",""
 "spree_stock_email","0.0.3",""
