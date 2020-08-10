@@ -435,6 +435,7 @@
 "capistrano-env_config","0.0.3","GPL-3.0"
 "capistrano-env_config","0.0.4","GPL-3.0"
 "capistrano-env_config","0.0.5","GPL-3.0"
+"capistrano-env_config","0.0.6","MIT"
 "caracara","0.1.0",""
 "caracara","0.2.0",""
 "caracara","0.3.0",""
