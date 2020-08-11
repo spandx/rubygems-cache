@@ -1335,6 +1335,7 @@
 "fluent-plugin-docker-metrics","0.0.2","Apache License, Version 2.0"
 "fluent-plugin-docker-metrics","0.0.2","Apache-2.0"
 "fluent-plugin-heroku-http","0.0.1","Apache-2.0"
+"fluent-plugin-heroku-http","0.0.2","Apache-2.0"
 "fluent-plugin-idobata","0.0.0","Ruby's"
 "fluent-plugin-idobata","0.0.1","Ruby's"
 "fluent-plugin-idobata","0.0.2","Ruby's"

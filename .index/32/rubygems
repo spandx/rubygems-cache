@@ -1869,6 +1869,7 @@
 "logstash-output-slack","2.0.3","MIT-|-Apache-2.0"
 "logstash-output-slack","2.1.0","MIT-|-Apache-2.0"
 "logstash-output-slack","2.1.1","MIT-|-Apache-2.0"
+"logstash-output-slack","2.2.0","MIT-|-Apache-2.0"
 "lowdown","0.0.1","MIT"
 "lowdown","0.0.2","MIT"
 "lowdown","0.0.3","MIT"
