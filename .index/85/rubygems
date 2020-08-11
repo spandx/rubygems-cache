@@ -2057,6 +2057,8 @@
 "redis_attr","0.0.1","MIT"
 "redis_ring_client","0.0.2",""
 "redis_ring_client","0.1.2",""
+"regexgen","0.1.0","MIT"
+"regexgen","0.1.1","MIT"
 "reggae_eda","0.0.6","MIT"
 "remockable","0.0.11",""
 "remockable","0.1.1",""

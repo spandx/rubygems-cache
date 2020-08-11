@@ -2259,6 +2259,7 @@
 "gollum-auth","0.7.1","MIT"
 "google-cloud-debugger-v2","0.1.0","Apache-2.0"
 "google-cloud-debugger-v2","0.1.1","Apache-2.0"
+"google-cloud-debugger-v2","0.1.2","Apache-2.0"
 "google-cloud-secret_manager","0.1.0","Apache-2.0"
 "google-cloud-secret_manager","0.2.0","Apache-2.0"
 "google-cloud-secret_manager","0.2.1","Apache-2.0"
