@@ -2566,6 +2566,7 @@
 "redis-i18n","0.6.1",""
 "redis-i18n","0.6.5",""
 "redis-i18n","0.7.0","MIT"
+"redis-i18n","0.8.0","MIT"
 "redplot","0.1.0",""
 "reidiculous-actionwebservice-client","3.0.6",""
 "rejectu","0.0.1","MIT"
