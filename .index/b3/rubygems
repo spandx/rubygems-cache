@@ -1885,6 +1885,7 @@
 "fluent-diagtool","0.1.5","Apache-2.0"
 "fluent-diagtool","0.1.6","Apache-2.0"
 "fluent-diagtool","0.1.7","Apache-2.0"
+"fluent-diagtool","0.1.8","Apache-2.0"
 "fluent-plugin-aerospike-cluster","0.0.1","Apache-2.0"
 "fluent-plugin-aerospike-cluster","0.0.2","Apache-2.0"
 "fluent-plugin-aerospike-cluster","0.0.3","Apache-2.0"
