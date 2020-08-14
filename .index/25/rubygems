@@ -2932,6 +2932,7 @@
 "telize","0.0.2","MIT"
 "terrapin","0.6.0","MIT"
 "tesseract_ffi","0.2.0","MIT"
+"tesseract_ffi","0.3.0","MIT"
 "test-unit-capybara","1.0.0",""
 "test-unit-capybara","1.0.1",""
 "test-unit-capybara","1.0.3","LGPLv2 or later"
