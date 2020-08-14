@@ -420,6 +420,7 @@
 "capistrano-rsync-plugin","0.2.0","MIT"
 "capistrano-runit-rake","0.2.0","MIT"
 "capybara-ember-inspector","1.6.2","MIT"
+"carbon-copy","0.1.2",""
 "cedric-shorty","0.1",""
 "cgi-query_string","0.1.0","MIT"
 "charger","0.0.1",""
