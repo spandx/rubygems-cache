@@ -826,6 +826,7 @@
 "delayed_job_master","2.0.1","MIT"
 "delorean_test_bed","0.0.2","MIT"
 "delorean_test_bed","0.0.3","MIT"
+"delorean_test_bed","0.0.4","MIT"
 "denormalize-field","0.1.1",""
 "denormalize-field","0.1.2",""
 "denormalize-field","0.1.3",""

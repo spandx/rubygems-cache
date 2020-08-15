@@ -2359,6 +2359,8 @@
 "ruby_hlr_client","0.0.17","Apache-2.0"
 "ruby_hlr_client","0.0.18","Apache-2.0"
 "ruby_hlr_client","0.0.9",""
+"ruby_hlr_client","2.0.0","Apache-2.0"
+"ruby_hlr_client","2.0.1","Apache-2.0"
 "rultor","0.1.0","BSD"
 "rultor","0.1.1","BSD"
 "rultor","0.2.0","BSD"

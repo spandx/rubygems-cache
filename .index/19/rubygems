@@ -1725,6 +1725,8 @@
 "pfcas","0.2.5","BSD"
 "pg_closure_tree_rebuild","0.1.0","MIT"
 "pg_closure_tree_rebuild","1.0.0","MIT"
+"phs_mailer","0.1.0",""
+"phs_mailer","0.2.0",""
 "pick_and_roll","0.1","MIT"
 "pick_and_roll","0.9","MIT"
 "pick_and_roll","0.9.1","MIT"
