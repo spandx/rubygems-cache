@@ -2898,6 +2898,7 @@
 "seven_zip_ruby-x86-mswin32-100","1.2.3","LGPL + unRAR"
 "seven_zip_ruby-x86-mswin32-100","1.2.4","LGPL + unRAR"
 "sftp_downloader","0.1.0","MIT"
+"shear","0.1.1","MIT"
 "shenvy","0.1.0","MIT"
 "shenvy","0.1.1","MIT"
 "sht_rails","0.1.1",""

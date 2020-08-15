@@ -974,6 +974,7 @@
 "ghn","2.4.1","MIT"
 "girc","0.0.1",""
 "girc","0.0.2",""
+"gist_generator","0.1.1","MIT"
 "git_fetcher","0.1.0","MIT"
 "git_fetcher","0.2.0","MIT"
 "git_pivotal_tracker","0.0.5",""
