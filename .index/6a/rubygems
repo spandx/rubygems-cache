@@ -1526,6 +1526,8 @@
 "omf_rc","6.2.3","MIT"
 "omniauth-asana","0.0.1",""
 "omniauth-asana","0.0.2",""
+"omniauth-django","1.0.0","MIT"
+"omniauth-django","1.0.1","MIT"
 "omniauth-paymium","1.0.1","MIT"
 "omniauth-paymium","1.0.10","MIT"
 "omniauth-paymium","1.0.2","MIT"
