@@ -3403,6 +3403,7 @@
 "proxysql_query_log-parser","0.0.3",""
 "proxysql_query_log-parser","0.0.4",""
 "pry-stackexplorer","0.0.0.1","MIT"
+"pry-stackexplorer","0.5.1.1","MIT"
 "pry_testcase","0.1.0","CC0-1.0"
 "pry_testcase","0.2.0","CC0-1.0"
 "pry_testcase","0.3.0","CC0-1.0"

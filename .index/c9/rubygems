@@ -2191,6 +2191,7 @@
 "racecar","1.0.0","Apache-2.0"
 "racecar","1.0.1","Apache-2.0"
 "racecar","1.1.0","Apache-2.0"
+"racecar","1.2.0","Apache-2.0"
 "rack-chuck","1.0.0","MIT"
 "rack-pretty_json","1.0.0",""
 "rack-request_replication","0.0.1","MIT"

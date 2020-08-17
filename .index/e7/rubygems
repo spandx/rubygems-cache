@@ -1495,6 +1495,7 @@
 "ghpreview-instant_markdown_d","0.0.2","MIT"
 "git-extras","0.1.0","MIT"
 "github-authentication","0.1.0","MIT"
+"github-authentication","0.1.2","MIT"
 "gitignores","0.0.1",""
 "gitignores","0.0.2",""
 "gitignores","0.0.3",""

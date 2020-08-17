@@ -300,6 +300,8 @@
 "airbrake-ruby","4.7.1","MIT"
 "airbrake-ruby","4.8.0","MIT"
 "airbrake-ruby","4.9.0","MIT"
+"airbrake-ruby","5.0.0","MIT"
+"airbrake-ruby","5.0.1","MIT"
 "akdubya-mapel","0.1.3",""
 "akdubya-mapel","0.1.4",""
 "alanj-alanj-mass_assignment_test_helper","0.0.1",""
