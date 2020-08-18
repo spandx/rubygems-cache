@@ -3238,6 +3238,7 @@
 "pronto-android_lint","0.1.1","MIT"
 "pronto-android_lint","0.1.2","MIT"
 "pul_uv_rails","2.0.1","Apache2"
+"pulp_ansible_client","0.2.0","GPL-2.0+"
 "puppet-lint-space_after_comma-check","1.0.1","MIT"
 "puppet-lint-space_after_comma-check","1.0.2","MIT"
 "pushpop","0.1.0",""

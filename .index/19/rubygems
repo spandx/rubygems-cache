@@ -1599,6 +1599,7 @@
 "occi-cli","4.3.9","Apache License, Version 2.0"
 "occi-cli","4.3.9","Apache-2.0"
 "octocorn_spree_theme","0.0.0",""
+"ogdf","0.1.0","MIT"
 "ol-whisk_deploy","0.6.25",""
 "ol-whisk_deploy","0.6.26",""
 "omniauth-capsule","0.0.2","MIT"

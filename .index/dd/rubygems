@@ -702,6 +702,8 @@
 "flueconf","0.0.1","MIT"
 "fluent-plugin-f5-beacon","0.0.1","Apache-2.0"
 "fluent-plugin-f5-beacon","0.0.2","Apache-2.0"
+"fluent-plugin-f5-beacon","0.0.3","Apache-2.0"
+"fluent-plugin-f5-beacon","0.0.4","Apache-2.0"
 "fluent-plugin-in_http_healthcheck","0.0.1",""
 "fluent-plugin-map","0.0.4",""
 "fluent-plugin-map","0.0.5",""

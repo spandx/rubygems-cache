@@ -739,6 +739,8 @@
 "daterangepicker-rails","0.0.3","MIT"
 "dates_resolver","0.0.1","MIT"
 "dates_resolver","0.1.0","MIT"
+"delayed_job_es","0.1.5","MIT"
+"delayed_job_es","0.1.7","MIT"
 "delinquo","0.0.10","MIT"
 "delinquo","0.0.12","MIT"
 "delinquo","0.0.13","MIT"

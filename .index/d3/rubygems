@@ -3902,6 +3902,7 @@
 "vagrant-dsc","2.0.0","MIT"
 "validates_hostname","1.0.1","MIT"
 "validates_hostname","1.0.10","MIT"
+"validates_hostname","1.0.11","MIT"
 "validates_hostname","1.0.2","MIT"
 "validates_hostname","1.0.3","MIT"
 "validates_hostname","1.0.4","MIT"

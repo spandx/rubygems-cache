@@ -115,6 +115,7 @@
 "activerecord-oracle_enhanced-adapter","6.0.0","MIT"
 "activerecord-oracle_enhanced-adapter","6.0.2","MIT"
 "activerecord-oracle_enhanced-adapter","6.0.3","MIT"
+"activerecord-oracle_enhanced-adapter","6.0.4","MIT"
 "activerecord-redshift-adapter-ng","0.9.0","MIT"
 "activerecord-redshift-adapter-ng","0.9.1","MIT"
 "acts_as_slugable","1.0.1","MIT"

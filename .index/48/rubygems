@@ -99,6 +99,7 @@
 "active_remote","5.1.1",""
 "active_remote","5.2.0",""
 "activea_dmin_trix","0.0.1","MIT"
+"activerecord-mysql-enum","0.1.0",""
 "activestorage-office-previewer","0.1.0","MIT"
 "activestorage-office-previewer","0.1.1","MIT"
 "activestorage-office-previewer","0.1.2","MIT"
