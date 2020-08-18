@@ -3340,6 +3340,7 @@
 "sdl","0.4.0","MIT"
 "sdl","0.4.1","MIT"
 "sdl","0.4.2","MIT"
+"sdl","0.5.0","MIT"
 "seamule","0.0.1","MIT"
 "sensu-plugins-php-fpm-boutetnico","1.0.0","MIT"
 "sensu-plugins-sensu","0.0.1","MIT"
