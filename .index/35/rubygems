@@ -2123,6 +2123,7 @@
 "redis-sinatra","1.4.0",""
 "redis-sinatra","1.4.1","MIT"
 "redis-sinatra","1.4.2","MIT"
+"redis-throttle","0.0.1","MIT"
 "redis_rate_limit","1.0.0","MIT"
 "redis_rate_limit","2.0.0","MIT"
 "redqueen","0.0.1","MIT"
