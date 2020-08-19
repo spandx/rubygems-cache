@@ -2049,6 +2049,7 @@
 "redcloth-rails","0.1.0",""
 "redcloth-rails","0.1.1",""
 "redcloth-rails","0.2.0",""
+"redis-interlock","0.0.1","MIT"
 "redundant","0.0.1","MIT"
 "releaf-permissions","0.2.1",""
 "releaf-permissions","1.0.10","MIT"
