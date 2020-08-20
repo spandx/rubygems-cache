@@ -708,6 +708,7 @@
 "circonus","3.6.8","MIT"
 "circonus","3.6.9","MIT"
 "clarity_tracking_number","0.0.1",""
+"cli_pix","0.1.0","MIT"
 "cloudenv","0.0.1","MIT"
 "cloudxls","0.1.2",""
 "cloudxls","0.1.3",""

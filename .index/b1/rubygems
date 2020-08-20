@@ -1231,6 +1231,7 @@
 "graph2relational","0.0.2","MIT"
 "grid_struct","0.0.1","MIT"
 "grid_struct","0.1.0","MIT"
+"grpc_server","0.0.1","MIT"
 "gsiener-analytical","2.10.2",""
 "guardrail_notifier","0.2.11",""
 "gyft","0.0.1","MIT"

@@ -412,6 +412,8 @@
 "correios-sro_validator","0.1.2","MIT"
 "correios-sro_validator","0.2.0","MIT"
 "covalent","0.0.1","MIT"
+"cqrs_core","0.0.1",""
+"cqrs_core","0.0.2",""
 "cronjorb","0.1.0",""
 "crowdai_admin","1.0.0","MIT"
 "crowdai_admin","1.0.1","MIT"

@@ -2272,6 +2272,7 @@
 "ruby_event_store-rom","0.44.0","MIT"
 "ruby_event_store-rom","1.0.0","MIT"
 "ruby_event_store-rom","1.1.0","MIT"
+"ruby_event_store-rom","1.1.1","MIT"
 "ruby_ext","0.4.17",""
 "ruby_ext","0.4.21",""
 "ruby_ext","0.4.22",""
