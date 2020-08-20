@@ -234,6 +234,7 @@
 "aws-sdk-lakeformation","1.5.1","Apache-2.0"
 "aws-sdk-lakeformation","1.6.0","Apache-2.0"
 "aws-sdk-lakeformation","1.7.0","Apache-2.0"
+"aws-sdk-lakeformation","1.8.0","Apache-2.0"
 "bahuvrihi-tap","0.10.0",""
 "bahuvrihi-tap","0.10.1",""
 "bahuvrihi-tap","0.10.2",""

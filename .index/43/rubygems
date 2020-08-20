@@ -742,6 +742,7 @@
 "ec2-blackout","0.0.8",""
 "ec2-blackout","0.0.9",""
 "ecm_comments_backend","0.0.1","MIT"
+"ecs_oneshot","0.1.0","MIT"
 "edgar_view_tool","0.1.0","MIT"
 "elastic_stats","0.0.1",""
 "elsa","0.0.1","MIT"
