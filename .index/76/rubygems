@@ -1169,6 +1169,7 @@
 "logstash-integration-rabbitmq-java","7.0.2","Apache-2.0"
 "logstash-integration-rabbitmq-java","7.0.3","Apache-2.0"
 "logstash-integration-rabbitmq-java","7.1.0","Apache-2.0"
+"logstash-integration-rabbitmq-java","7.1.1","Apache-2.0"
 "logstash-output-file_closeable","0.1.0","Apache-2.0"
 "logstash-output-file_closeable","2.0.0","Apache-2.0"
 "logstash-output-file_closeable","2.1.0","Apache-2.0"

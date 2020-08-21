@@ -3243,6 +3243,7 @@
 "sensu-plugins-sslcrt","0.0.1","MIT"
 "sepomex_client","0.1.0","MIT"
 "sepomex_client","0.1.1","MIT"
+"sepomex_client","0.2.0","MIT"
 "sequel-migrate-java","0.1.0",""
 "sequel-migrate-java","0.1.1","MIT"
 "sequel-migrate-java","0.1.2","MIT"

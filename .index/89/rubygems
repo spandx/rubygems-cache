@@ -160,6 +160,7 @@
 "audited_change_set","0.0.6",""
 "auth-armor","0.1.0","MIT"
 "auth-armor","0.1.1","MIT"
+"auth-armor","0.1.2","MIT"
 "auto_assigner","0.1.0","MIT"
 "autogen_rspec","0.0.0",""
 "autogen_rspec","0.0.2",""
