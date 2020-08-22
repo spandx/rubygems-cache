@@ -394,6 +394,8 @@
 "chef-vault","3.4.2","Apache-2.0"
 "chef-vault","3.4.3","Apache-2.0"
 "chef-vault","4.0.1","Apache-2.0"
+"chef-vault","4.0.10","Apache-2.0"
+"chef-vault","4.0.11","Apache-2.0"
 "chef-vault","4.0.6","Apache-2.0"
 "chewy-resque","0.0.1","MIT"
 "chewy-resque","0.0.2","MIT"

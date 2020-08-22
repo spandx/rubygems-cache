@@ -1395,6 +1395,7 @@
 "kitchen-digitalocean","0.10.6","Apache-2.0"
 "kitchen-digitalocean","0.10.7","Apache-2.0"
 "kitchen-digitalocean","0.11.0","Apache-2.0"
+"kitchen-digitalocean","0.11.1","Apache-2.0"
 "kitchen-digitalocean","0.2.0","Apache-2.0"
 "kitchen-digitalocean","0.2.1","Apache-2.0"
 "kitchen-digitalocean","0.3.0","Apache-2.0"
