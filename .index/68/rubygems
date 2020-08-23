@@ -2563,6 +2563,7 @@
 "soft_deletion","1.3.1","MIT"
 "soft_deletion","1.4.0","MIT"
 "soft_deletion","1.5.0","MIT"
+"sonarqube","1.0.0","BSD-2-Clause"
 "source_locator","0.0.1",""
 "source_locator","0.0.2",""
 "source_locator","0.0.3",""
