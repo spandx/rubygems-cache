@@ -1434,6 +1434,7 @@
 "github-watching","0.0.2","MIT"
 "github-web-hooks-receiver","1.0.0","GPL-3.0+"
 "github-web-hooks-receiver","1.0.1","GPL-3.0+"
+"github_activity","0.0.0","MIT"
 "gitignore","0.1.0",""
 "glorify","0.0.2",""
 "glorify","0.0.3",""
