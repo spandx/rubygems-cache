@@ -2117,6 +2117,7 @@
 "em-xmpp","0.0.6",""
 "em-xmpp","0.0.7",""
 "em-xmpp","0.0.8",""
+"embulk-input-kafka","0.1.0","MIT"
 "embulk-parser-joni_regexp","0.1.0","MIT"
 "emmet_notifications","0.0.1","MIT"
 "encrypted","0.0.1","LICENCE.txt"
