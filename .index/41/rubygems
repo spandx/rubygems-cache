@@ -177,6 +177,7 @@
 "azure_mgmt_netapp","0.18.4","MIT"
 "azure_mgmt_netapp","0.19.0","MIT"
 "azure_mgmt_netapp","0.20.0","MIT"
+"azure_mgmt_netapp","0.20.1","MIT"
 "backboneAX","0.0.10",""
 "backboneAX","0.0.4",""
 "backboneAX","0.0.8",""
