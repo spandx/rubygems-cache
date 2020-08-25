@@ -212,6 +212,7 @@
 "azure_mgmt_hdinsight","0.17.8","MIT"
 "azure_mgmt_hdinsight","0.18.0","MIT"
 "azure_mgmt_hdinsight","0.18.1","MIT"
+"azure_mgmt_hdinsight","0.18.2","MIT"
 "azure_mgmt_operational_insights","0.14.0","MIT"
 "azure_mgmt_operational_insights","0.15.0","MIT"
 "azure_mgmt_operational_insights","0.15.1","MIT"
