@@ -2835,6 +2835,8 @@
 "sidekiq-redis-logger","0.1.1",""
 "sidekiq-redis-logger","0.1.2",""
 "sidekiq-redis-logger","0.2.0",""
+"simple-trail","0.0.1","MIT"
+"simple-trail","0.0.3","MIT"
 "simple_bmp","0.0.3","MIT"
 "simple_bmp","0.1.0","MIT"
 "simple_bmp","0.2.4","MIT"

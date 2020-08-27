@@ -2796,6 +2796,7 @@
 "simple_scheduler","1.1.1","MIT"
 "simple_scheduler","1.2.0","MIT"
 "simple_signer","0.0.2",""
+"simplecov-json-formatter","0.1.1",""
 "sinatra_ip_to_street_address","0.0.1","MIT"
 "sinatra_ip_to_street_address","0.0.2","MIT"
 "sinatra_ip_to_street_address","0.0.3","MIT"
