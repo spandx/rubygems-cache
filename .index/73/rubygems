@@ -873,6 +873,8 @@
 "fancy_irb","1.2.1","MIT"
 "fancy_prompt","0.0.1.1","MIT"
 "fastlane-plugin-codemagic","0.1.0","MIT"
+"fastlane-plugin-codemagic","0.1.1","MIT"
+"fastlane-plugin-codemagic","0.1.2","MIT"
 "fastlane-plugin-fabric_beta_unregistered_devices","0.1.0","MIT"
 "fastlane-plugin-pgyer","0.1.0","MIT"
 "fastlane-plugin-pgyer","0.2.0","MIT"

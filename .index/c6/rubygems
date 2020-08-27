@@ -1538,6 +1538,7 @@
 "gitlab-fluent-plugin-redis-slowlog","0.0.2","MIT"
 "gitlab-fluent-plugin-redis-slowlog","0.1.0","MIT"
 "gitlab-fluent-plugin-redis-slowlog","0.1.1","MIT"
+"gitlab-fluent-plugin-redis-slowlog","0.1.2","MIT"
 "gkss-rails","0.1.0","MIT"
 "gkss-rails","0.1.1","MIT"
 "gkss-rails","0.1.2","MIT"

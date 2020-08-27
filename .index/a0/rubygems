@@ -1972,6 +1972,7 @@
 "puma_worker_killer","0.1.0","MIT"
 "puma_worker_killer","0.1.1","MIT"
 "puma_worker_killer","0.2.0","MIT"
+"puma_worker_killer","0.3.0","MIT"
 "puppetdb-ruby","0.0.1","apache"
 "puppetdb-ruby","1.0.0","apache"
 "puppetdb-ruby","1.1.0","apache"
