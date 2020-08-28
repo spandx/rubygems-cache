@@ -442,6 +442,7 @@
 "cache_local","0.0.1","MIT"
 "calcexam","0.0.2",""
 "calendar_date_select_rails3","1.16.2",""
+"can","0.10.11","MIT"
 "can","0.9.19","MIT"
 "cannon_tools","0.1.0","MIT"
 "cap-scm-upload","0.1.0","MIT"

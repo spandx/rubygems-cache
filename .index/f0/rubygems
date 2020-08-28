@@ -2864,6 +2864,7 @@
 "sentry-raven","3.0.1","Apache-2.0"
 "sentry-raven","3.0.2","Apache-2.0"
 "sentry-raven","3.0.3","Apache-2.0"
+"sentry-raven","3.0.4","Apache-2.0"
 "sequel_acts_as_versionable","0.0.2",""
 "sequel_acts_as_versionable","0.0.3",""
 "serverspec-aws","0.1.0","BSD-3-Clause"
