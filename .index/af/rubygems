@@ -1083,6 +1083,7 @@
 "embulk-output-kafka","0.1.5","MIT"
 "embulk-output-kafka","0.1.6","MIT"
 "embulk-output-kafka","0.1.7","MIT"
+"embulk-output-kafka","0.1.8","MIT"
 "emojify_rspec_formatter","0.1.5","MIT"
 "enchaine","0.1.0","GNU GPL v3 (or later)"
 "encore","0.0.2","BSD 3-Clause"

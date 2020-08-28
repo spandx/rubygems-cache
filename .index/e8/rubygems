@@ -75,6 +75,7 @@
 "active_wrapper","0.4.6",""
 "active_wrapper","0.4.7",""
 "active_wrapper","0.4.9",""
+"activerecord-except","0.1.0","MIT"
 "activerecord_where_assoc","0.1.0","MIT"
 "activerecord_where_assoc","0.1.1","MIT"
 "activerecord_where_assoc","0.1.2","MIT"

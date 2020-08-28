@@ -1918,6 +1918,7 @@
 "fastlane-plugin-bitrise_automation","0.2.1","ISC"
 "fastlane-plugin-dmg","0.1.0","MIT"
 "fastlane-plugin-dmg","0.1.1","MIT"
+"fastlane-plugin-simple_loco","2.0.0","MIT"
 "ffi-stat","0.0.1",""
 "ffi-stat","0.0.2",""
 "ffi-stat","0.2.0","MIT"
