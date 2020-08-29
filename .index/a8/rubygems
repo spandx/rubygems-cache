@@ -1267,6 +1267,7 @@
 "jsmenubuilder","0.3.3","MIT"
 "json2json","0.0.1","MIT"
 "juxtapose","0.0.1","MIT"
+"jwt-authenticated","1.0.0",""
 "kage","0.9.2",""
 "kaigara","0.0.1","MIT"
 "kaigara","0.0.3","MIT"

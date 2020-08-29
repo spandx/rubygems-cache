@@ -2061,6 +2061,7 @@
 "puma-plugin-systemd","0.1.2","MIT"
 "puma-plugin-systemd","0.1.3","MIT"
 "puma-plugin-systemd","0.1.4","MIT"
+"puma-plugin-systemd","0.1.5","MIT"
 "pwnix-api-client","0.1",""
 "pwnix-api-client","1.1",""
 "pwnix-api-client","1.4",""
