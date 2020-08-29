@@ -62,6 +62,7 @@
 "activerecord-retriable","0.3.0","MIT"
 "activerecord-string-enum","0.0.1","MIT"
 "activerecord-string-enum","0.0.2","MIT"
+"activestorage-pinata","0.0.1","MIT"
 "activestorage-tencent_cos","0.0.1",""
 "activestorage-tencent_cos","0.0.2",""
 "aescryptor","0.0.1","MIT"
