@@ -1539,6 +1539,7 @@
 "generate_admin","0.0.1","Apache-2.0"
 "geocoder_here_maps","0.1.0","MIT"
 "geocoder_here_maps","0.2.0","MIT"
+"geocoder_here_maps","0.3.0","MIT"
 "gesund-redis","0.0.1","MIT"
 "gesund-redis","0.0.2","MIT"
 "getty","0.0.1","MIT"
