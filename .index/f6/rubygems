@@ -1449,6 +1449,7 @@
 "google_translator","0.0.1",""
 "grape-swagger-active_model_serializers","0.1.1","MIT"
 "graph-rails","0.0.1",""
+"graphiti-activegraph","0.1.2","MIT"
 "gtk2twitter","2.3.0",""
 "guard-bower_rails","1.0.0","MIT"
 "guard-docker","0.0.1","MIT"

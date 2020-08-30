@@ -79,6 +79,8 @@
 "activeresource-response","1.4.0","MIT"
 "activestorage-horcrux","0.0.1","MIT"
 "activestorage-horcrux","0.0.2","MIT"
+"activestorage-horcrux","0.0.3","MIT"
+"activestorage-horcrux","0.0.4","MIT"
 "actor","0.1.0","MIT"
 "acts_as_versionable","0.3.1",""
 "after_commit_action","0.1.4","MIT"
