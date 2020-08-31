@@ -269,6 +269,7 @@
 "azure-storage-queue","1.0.1","MIT"
 "azure-storage-queue","1.1.0","MIT"
 "azure-storage-queue","2.0.1","MIT"
+"azure-storage-queue","2.0.2","MIT"
 "bard-staging_banner","0.1.0",""
 "bard-staging_banner","0.2.0",""
 "bbbot-ruby","0.0.1",""
