@@ -571,6 +571,7 @@
 "dawnscanner","1.6.7","MIT"
 "dawnscanner","1.6.8","MIT"
 "dawnscanner","1.6.9","MIT"
+"dcc","0.1.0","BSD 3 clause"
 "devise_oauth_token_authenticatable","0.0.1",""
 "devise_session_expirable","0.1.0","MIT"
 "devise_session_expirable","0.1.1","MIT"
