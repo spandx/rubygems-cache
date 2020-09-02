@@ -1820,6 +1820,7 @@
 "moj_tribunals_config","1.5.2","MIT"
 "moj_tribunals_config","1.6.0","MIT"
 "moneyball","0.0.1","MIT"
+"moneytree-rails","0.1.0","MIT"
 "mongo_request_logger","0.1.0",""
 "mongo_request_logger","0.2.0",""
 "mongo_request_logger","0.2.1",""

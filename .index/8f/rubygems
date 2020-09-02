@@ -2679,6 +2679,7 @@
 "shot","1.0.4","MIT"
 "shoutout","0.0.1","MIT"
 "shoutout","0.0.2","MIT"
+"sidekiq-log_json_formatter","0.0.1","MIT"
 "sidekiq-queues-exporter","0.1.0","MIT"
 "sidekiq-queues-exporter","0.1.1","MIT"
 "sidekiq-queues-exporter","0.1.2","MIT"

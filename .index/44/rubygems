@@ -1495,6 +1495,7 @@
 "ogc","0.2.1","MIT"
 "omniauth-cgtrader","1.0.0","MIT"
 "omniauth-identity","1.1.1",""
+"omniauth-identity","2.0.0","MIT"
 "omniauth-live_connect","0.0.1","MIT"
 "omniauth-paypal-permissions","1.0.0","MIT"
 "oneline_log_formatter","0.0.1",""
