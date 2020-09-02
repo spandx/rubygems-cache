@@ -2496,6 +2496,7 @@
 "newrelic-sidekiq-metrics","1.0.3","MIT"
 "newrelic-sidekiq-metrics","1.0.6","MIT"
 "newrelic-sidekiq-metrics","1.1.0","MIT"
+"newrelic-sidekiq-metrics","1.1.1","MIT"
 "ninoxe","0.0.8",""
 "ninoxe","0.0.9",""
 "ninoxe","0.1.0",""

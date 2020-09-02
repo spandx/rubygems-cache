@@ -390,6 +390,7 @@
 "cisco_acl_intp","0.0.4","MIT"
 "cloud_events","0.1.0","Apache-2.0"
 "cloud_events","0.1.1","Apache-2.0"
+"cloud_events","0.1.2","Apache-2.0"
 "cloud_party","0.1.1","MIT"
 "cloud_party","0.1.2","MIT"
 "cloud_party","0.1.3","MIT"
