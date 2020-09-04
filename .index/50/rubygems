@@ -728,6 +728,7 @@
 "fluent-plugin-flatten","0.1.1","MIT"
 "fluent-plugin-forward-aws-alt","0.1.9",""
 "fluent-plugin-forward-aws-alt","0.2.0",""
+"fluent-plugin-k8s","0.0.1","MIT"
 "fluent-plugin-throttle","0.0.1","Apache-2.0"
 "fluent-plugin-throttle","0.0.2","Apache-2.0"
 "fluent-plugin-throttle","0.0.3","Apache-2.0"

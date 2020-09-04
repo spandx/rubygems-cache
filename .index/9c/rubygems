@@ -557,6 +557,7 @@
 "embulk-input-jdbc","0.9.2","Apache-2.0"
 "embulk-input-jdbc","0.9.3","Apache-2.0"
 "encryptatron","1.0.0",""
+"encryptatron","1.0.1",""
 "english_thesaurus","0.0.1","MIT"
 "entangledstate-isbn","1.0.0",""
 "entangledstate-isbn","1.0.1",""

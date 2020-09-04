@@ -2064,6 +2064,7 @@
 "log_box","0.0.3","MIT"
 "logstash-filter-ip2proxy","1.0.0","Apache-2.0"
 "logstash-filter-ip2proxy","1.1.0","Apache-2.0"
+"logstash-filter-ip2proxy","2.0.0","Apache-2.0"
 "logstash-output-loganalytics","0.1.0","Apache-2.0"
 "logstash-output-loganalytics","0.2.0","Apache-2.0"
 "lwes","0.8.4",""
