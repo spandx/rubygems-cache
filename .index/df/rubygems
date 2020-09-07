@@ -3247,6 +3247,7 @@
 "trinidad_mssql_dbpool_extension","0.7.0",""
 "trinidad_mssql_dbpool_extension","0.8.0",""
 "true_table","0.1.1","MIT"
+"true_table","0.1.2","MIT"
 "trueskill-ranked","1.0",""
 "trueskill-ranked","2.1",""
 "trustly-client-ruby","0.0.6","MIT"

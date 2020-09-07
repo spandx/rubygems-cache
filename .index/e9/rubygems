@@ -2226,6 +2226,7 @@
 "logstash-filter-wurfl_device_detection","0.3.1","Apache-2.0"
 "logstash-filter-wurfl_device_detection","0.3.2","Apache-2.0"
 "logstash-filter-wurfl_device_detection","0.3.3","Apache-2.0"
+"logstash-filter-wurfl_device_detection","0.3.4","Apache-2.0"
 "logstash-input-azuretopicthreadable","0.9.3","Apache-2.0"
 "logstash-input-azuretopicthreadable","0.9.4","Apache-2.0"
 "logstash-input-azuretopicthreadable","0.9.5","Apache-2.0"
