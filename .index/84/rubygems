@@ -3136,6 +3136,7 @@
 "unicorn","5.5.4","GPL-2.0+-|-Ruby-1.8"
 "unicorn","5.5.5","GPL-2.0+-|-Ruby-1.8"
 "unicorn","5.6.0","GPL-2.0+-|-Ruby-1.8"
+"unicorn","5.7.0","GPL-2.0+-|-Ruby-1.8"
 "ut-rubocop-rails","0.0.1","MIT"
 "ut-rubocop-rails","0.0.2","MIT"
 "vagabond","0.1.0",""

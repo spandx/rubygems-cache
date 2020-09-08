@@ -2451,6 +2451,7 @@
 "role-rails","0.3.2",""
 "role-rails","1.0.0",""
 "role-rails","1.4.0","MIT"
+"rollups","0.1.0","MIT"
 "rouge-lines","3.2.3","MIT-|-BSD-2-Clause"
 "route_downcaser","0.1.0",""
 "route_downcaser","0.1.1",""
