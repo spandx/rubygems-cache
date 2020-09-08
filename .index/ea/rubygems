@@ -2154,6 +2154,7 @@
 "openssl-cmac","1.0.0","MIT"
 "openssl-cmac","2.0.0","MIT"
 "openssl-cmac","2.0.1","MIT"
+"optimum","1.0.0",""
 "ozeias-rship","0.0.1",""
 "ozeias-rship","0.0.2",""
 "pacto","0.0.1","MIT"
