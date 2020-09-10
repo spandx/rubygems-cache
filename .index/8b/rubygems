@@ -1835,6 +1835,7 @@
 "mention-api","0.1.0","MIT"
 "mhartl-catch_cookie_exception","1.0",""
 "middleman-images","0.1.0","MIT"
+"middleman-images","0.2.0","MIT"
 "mime_type","0.0.1","MIT"
 "minimum_crud","0.1.0","MIT"
 "minitext","0.0.6","MIT"
