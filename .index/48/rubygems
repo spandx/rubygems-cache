@@ -1129,6 +1129,7 @@
 "gocd-slack-server","0.0.23","MIT"
 "gocd-slack-server","0.0.25","MIT"
 "gocd-slack-server","0.0.26","MIT"
+"google-cloud-policy_troubleshooter-v1","0.1.0","Apache-2.0"
 "govspeak","0.8.11",""
 "govspeak","0.8.14",""
 "govspeak","0.8.5",""

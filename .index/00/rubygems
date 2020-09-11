@@ -1075,6 +1075,7 @@
 "grpc-x86-linux","1.30.1","Apache-2.0"
 "grpc-x86-linux","1.30.2","Apache-2.0"
 "grpc-x86-linux","1.31.1","Apache-2.0"
+"grpc-x86-linux","1.32.0","Apache-2.0"
 "grpc-x86-linux","1.4.0","BSD-3-Clause"
 "grpc-x86-linux","1.4.1","BSD-3-Clause"
 "grpc-x86-linux","1.4.5","BSD-3-Clause"
