@@ -2319,6 +2319,8 @@
 "thingfish-datastore-filesystem","0.2.0","BSD-3-Clause"
 "thingfish-datastore-filesystem","0.2.1","BSD-3-Clause"
 "thingfish-datastore-filesystem","0.2.2","BSD-3-Clause"
+"this_feature-adapters-split_io","0.4.0","MIT"
+"this_feature-adapters-split_io","0.4.1","MIT"
 "thjalfi","0.0.1","MIT"
 "tida_template","0.0.1",""
 "tida_template","0.0.3",""

@@ -283,6 +283,7 @@
 "bank_of_baku","0.2.0","BSD-2-Clause"
 "bank_of_baku","0.2.1","BSD-2-Clause"
 "bank_of_baku","1.0.0","BSD-2-Clause"
+"barray","1.0.0","MIT"
 "beagleboard","0.1.0","MIT"
 "beagleboard","0.1.1","MIT"
 "beanworker","0.0.2",""

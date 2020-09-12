@@ -949,6 +949,7 @@
 "embulk-parser-poi_excel","0.1.5","MIT"
 "embulk-parser-poi_excel","0.1.6","MIT"
 "embulk-parser-poi_excel","0.1.7","MIT"
+"embulk-parser-poi_excel","0.1.9","MIT"
 "enterprise-scripts","0.1.0",""
 "enumerable-chain","0.1.0","MIT"
 "erb-yaml","1.0.0",""

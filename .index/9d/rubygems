@@ -1394,6 +1394,7 @@
 "money-open-exchange-rates","1.2.1","MIT"
 "money-open-exchange-rates","1.2.2","MIT"
 "money-open-exchange-rates","1.3.0","MIT"
+"money-open-exchange-rates","1.4.0","MIT"
 "money_xml_validator","0.0.1","MIT"
 "money_xml_validator","1.0.0","MIT"
 "mongo_test_server","0.0.3",""
