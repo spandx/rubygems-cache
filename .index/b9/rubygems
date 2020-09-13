@@ -1414,6 +1414,7 @@
 "jruby-readability","0.5.6",""
 "jsm","0.1.0","MIT"
 "jsom-pagination","0.1.0","MIT"
+"jsom-pagination","0.1.1","MIT"
 "json_rpc_over_mqtt_example","0.0.1","MIT"
 "keyword_search","1.5.0","MIT"
 "kilza","1.0.0","MIT"
