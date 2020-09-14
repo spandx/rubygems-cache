@@ -975,6 +975,7 @@
 "data-validator","1.1.2","MIT"
 "db_backup","1.0.0",""
 "db_backup","1.0.1",""
+"dbml","0.1.0","MIT"
 "dead_simple_authorization","0.1.0","MIT"
 "dead_simple_authorization","0.2.0","MIT"
 "dead_simple_authorization","0.2.1","MIT"
