@@ -2804,6 +2804,7 @@
 "rspec-abhakungszeichen-formatter","0.0.2",""
 "rspec-parameterized-context","0.0.1","MIT"
 "rspec-parameterized-context","0.0.2","MIT"
+"rspec-parameterized-context","0.0.3","MIT"
 "rspec-sharding","0.1.0",""
 "rspec-snapshot","0.1.0",""
 "rspec-snapshot","0.1.1",""
