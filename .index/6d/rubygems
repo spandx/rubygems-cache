@@ -227,6 +227,7 @@
 "bones-compiler","1.6.0","LICENSE"
 "bootboot","0.1.1","MIT"
 "bootboot","0.1.2","MIT"
+"bootboot","0.2.0","MIT"
 "bootstrap_kaminari","0.0.2",""
 "bootstrap_kaminari","0.0.5",""
 "bosh-plugin-pipeline","0.2.0","MIT"
