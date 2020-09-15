@@ -1550,6 +1550,7 @@
 "ilstyle","0.4.5","MIT"
 "image_limit_resize","0.1.0","MIT"
 "image_limit_resize","0.1.1","MIT"
+"image_limit_resize","0.1.2","MIT"
 "inheritance-helper","0.1.0",""
 "inheritance-helper","0.1.5","MIT"
 "inline_styles","1.1.2",""

@@ -417,6 +417,7 @@
 "capistrano-six_pm","0.1.0","MIT"
 "capistrano-slack-notifier","0.0.1","MIT"
 "card","0.0.1","MIT"
+"card","1.100.0","GPL-2.0-|-GPL-3.0"
 "card","1.15.0","GPL"
 "card","1.15.1","GPL"
 "card","1.15.2","GPL"
