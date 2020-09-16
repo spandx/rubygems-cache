@@ -10,6 +10,7 @@
 "active_record-remote","0.0.1","MIT"
 "active_record-remote","0.0.2","MIT"
 "active_record-remote","0.0.3","MIT"
+"activeresource-statsd","9001.0",""
 "acts_as_random_id","1.0.0",""
 "acts_as_scriptural","0.0.1","MIT"
 "acts_as_scriptural","0.0.2","MIT"
