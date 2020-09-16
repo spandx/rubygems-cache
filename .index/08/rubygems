@@ -433,6 +433,7 @@
 "circler","0.6.2","MIT"
 "circler","0.6.4","MIT"
 "clio-search","0.0.2",""
+"cluster-registry","9001.0",""
 "cocoapods-dylint","0.0.1","MIT"
 "cocoapods-dylint","0.1.0","MIT"
 "cocoapods-dylint","0.2.0","MIT"

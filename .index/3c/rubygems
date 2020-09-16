@@ -797,6 +797,7 @@
 "endpoint_stub","1.4.5","MIT"
 "enum_style","0.1.0","MIT"
 "enum_style","0.1.1","MIT"
+"erb-mux","9001.0",""
 "erik_server","0.0.1","MIT"
 "erik_server","0.0.2","MIT"
 "erik_server","0.0.5","MIT"
