@@ -1412,6 +1412,7 @@
 "google-cloud-dns","0.31.0","Apache-2.0"
 "google-cloud-dns","0.32.0","Apache-2.0"
 "google-cloud-dns","0.32.1","Apache-2.0"
+"google-cloud-dns","0.33.0","Apache-2.0"
 "google_safe_browsing","0.3.4",""
 "google_safe_browsing","0.3.6",""
 "google_safe_browsing","0.4.0",""
