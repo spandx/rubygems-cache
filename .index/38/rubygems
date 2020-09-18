@@ -759,6 +759,7 @@
 "epp-client-afnic","0.15.0",""
 "epp-client-afnic","0.15.1",""
 "epp-client-afnic","0.15.2",""
+"erb","2.2.0","Ruby-|-BSD-2-Clause"
 "erlash","0.1.0","MIT"
 "erlash","0.1.1","MIT"
 "estated","0.1.0","MIT"
