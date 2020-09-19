@@ -2409,6 +2409,7 @@
 "rubocop-ast","0.3.0","MIT"
 "rubocop-ast","0.4.0","MIT"
 "rubocop-ast","0.4.1","MIT"
+"rubocop-ast","0.4.2","MIT"
 "rubocop_rules","1.0.1",""
 "rubocop_rules","1.0.2",""
 "rubocop_rules","1.1.0",""

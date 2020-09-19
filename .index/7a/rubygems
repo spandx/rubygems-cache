@@ -538,6 +538,7 @@
 "capistrano-rsync-local","1.2","LAGPL"
 "capistrano-rsync-local","2.0","LAGPL"
 "capistrano-rsync-local","2.0.1","LAGPL"
+"card-mod-prosemirror_editor","0.1","GPL-2.0-|-GPL-3.0"
 "cassandra_model","0.9.18","Apache-2.0"
 "cassandra_model","0.9.19","Apache-2.0"
 "cassandra_model","0.9.21","Apache-2.0"
