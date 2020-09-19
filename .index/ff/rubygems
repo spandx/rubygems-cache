@@ -927,6 +927,7 @@
 "em-ftpd-memory","0.0.5","MIT"
 "em-ftpd-memory","0.0.6","MIT"
 "em-ftpd-memory","0.0.7","MIT"
+"embulk-filter-murmur2_partitioner-java","0.2.0","MIT"
 "embulk-filter-protobuf","0.1.0","MIT"
 "embulk-filter-pseudo-java","0.1","Apache-2.0"
 "embulk-input-redshift-java","0.11.0","Apache-2.0"

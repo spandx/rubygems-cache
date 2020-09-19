@@ -60,6 +60,7 @@
 "acme-client","2.0.4","MIT"
 "acme-client","2.0.5","MIT"
 "acme-client","2.0.6","MIT"
+"acme-client","2.0.7","MIT"
 "acms_ruby","0.1.0","MIT"
 "active_command","0.1.0","Apache-2.0"
 "active_path-view_injection","0.1.0",""
