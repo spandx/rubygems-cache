@@ -3956,6 +3956,7 @@
 "wavefront-cli","6.1.0","BSD-2-Clause"
 "wavefront-cli","7.1.0","BSD-2-Clause"
 "wavefront-cli","7.2.0","BSD-2-Clause"
+"wavefront-cli","8.0.0","BSD-2-Clause"
 "waypoints_rails","3.0.0","MIT"
 "waypoints_rails","4.0.1","MIT"
 "webaccount","0.2.3","Ruby"
