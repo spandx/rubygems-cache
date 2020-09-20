@@ -1799,6 +1799,7 @@
 "oga-java","3.2","MPL-2.0"
 "oga-java","3.3","MPL-2.0"
 "ohmysmtp-rails","0.1.0","MIT"
+"ohmysmtp-rails","0.1.1","MIT"
 "omniauth-dnb","0.1.0","MIT"
 "omniauth-leaddyno","0.1.0","MIT"
 "omniauth-mailru","0.2.0",""
