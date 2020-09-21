@@ -619,6 +619,8 @@
 "creact","0.0.2","MIT"
 "creact","0.1.0","MIT"
 "css_compressor","0.0.1","MIT"
+"csv_to_sqlite3","0.1.0","MIT"
+"csv_to_sqlite3","0.1.1","MIT"
 "cucumber-ajaxer","0.0.4",""
 "dancroak-sortable_table","0.0.4",""
 "dancroak-sortable_table","0.1.0",""

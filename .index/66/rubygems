@@ -831,6 +831,7 @@
 "email-vigenere","0.0.4","MIT"
 "email-vigenere","0.0.5","MIT"
 "embulk-output-cassandra-java","0.4.0","MIT"
+"embulk-output-cassandra-java","0.4.1","MIT"
 "endicia_label_server","0.1.0","AGPL"
 "endicia_label_server","0.2.0","AGPL"
 "enkrip","0.1.0","MIT"
