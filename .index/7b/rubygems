@@ -1902,6 +1902,7 @@
 "minitest_rollbar","0.3.0","BSD-2-Clause"
 "minitest_rollbar","0.3.1","BSD-2-Clause"
 "minitest_rollbar","0.3.3","BSD-2-Clause"
+"minitest_rollbar","1.0.0","MIT"
 "minus5_daemon","0.2.0",""
 "missing_validators","0.1",""
 "missing_validators","0.1.1",""

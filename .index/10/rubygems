@@ -283,6 +283,7 @@
 "activeadmin_dynamic_fields","0.2.6","MIT"
 "activeadmin_dynamic_fields","0.2.8","MIT"
 "activeadmin_dynamic_fields","0.3.0","MIT"
+"activeadmin_dynamic_fields","0.4.0","MIT"
 "activeforecast","1.0.0",""
 "activejob-scheduler","0.0.1","MIT"
 "activerecord-after-transaction","0.0.1","MIT"
