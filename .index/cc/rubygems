@@ -828,6 +828,8 @@
 "fast_serializer","1.1.0","MIT"
 "fast_serializer","1.1.1","MIT"
 "fast_serializer","1.1.2","MIT"
+"feature_flag_client","0.2.0","MIT"
+"feature_flag_client","0.2.2","MIT"
 "festivoscolombia","0.0.1",""
 "festivoscolombia","0.0.2","MIT"
 "fetchable-uri","0.0.1","MIT"

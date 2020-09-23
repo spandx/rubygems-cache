@@ -1876,6 +1876,7 @@
 "go_secure","0.65","MIT"
 "go_secure","0.66","MIT"
 "go_secure","0.67","MIT"
+"go_secure","0.70","MIT"
 "gocd-orchestrator","0.0.0","MIT"
 "goliath-chimp","0.0.1","Apache-2.0"
 "goliath-chimp","0.0.2","Apache-2.0"

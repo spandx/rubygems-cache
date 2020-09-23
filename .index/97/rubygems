@@ -743,6 +743,7 @@
 "ember-seo","0.1","MIT"
 "embulk-input-cassandra-java","0.1.0","MIT"
 "embulk-input-cassandra-java","0.2.1","MIT"
+"embulk-input-cassandra-java","0.2.2","MIT"
 "embulk-parser-sisimai","0.1.0","MIT"
 "embulk-parser-sisimai","0.1.1","MIT"
 "enigma_encrypto","0.1.0","MIT"

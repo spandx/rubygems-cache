@@ -2146,6 +2146,7 @@
 "settingable","0.5.0","MIT"
 "sexy_validators","0.0.1",""
 "sexy_validators","0.0.5",""
+"should_send_same_site_none","0.1.0","MIT"
 "shrine-uploadcare","0.1.0","MIT"
 "shrine-uploadcare","0.2.0","MIT"
 "shrine-uploadcare","0.3.0","MIT"
