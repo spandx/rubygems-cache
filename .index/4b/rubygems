@@ -2203,6 +2203,7 @@
 "pseudo_legal_move_tablebase-shogi","1.0.0","MIT"
 "pseudo_legal_move_tablebase-shogi","2.0.0","MIT"
 "pseudo_legal_move_tablebase-shogi","2.0.1","MIT"
+"pseudo_legal_move_tablebase-shogi","2.0.2","MIT"
 "psplugin_releases","0.1.1","MIT"
 "psplugin_releases","0.1.2","MIT"
 "public-suffix-list","0.1.2",""

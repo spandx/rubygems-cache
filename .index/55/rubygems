@@ -2935,6 +2935,7 @@
 "sequel_pg","1.12.4","MIT"
 "sequel_pg","1.12.5","MIT"
 "sequel_pg","1.13.0","MIT"
+"sequel_pg","1.14.0","MIT"
 "sequel_pg","1.2.2",""
 "sequel_pg","1.5.1",""
 "sequel_pg","1.6.10","MIT"
