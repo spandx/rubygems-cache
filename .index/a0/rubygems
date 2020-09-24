@@ -1050,6 +1050,7 @@
 "fluent-plugin-pgjson","1.0.1","Apache-2.0"
 "fluent-plugin-redis-store-dtdream","1.0","Apache-2.0"
 "fluent-plugin-redis-store-dtdream","1.1","Apache-2.0"
+"fluent-plugin-sd-dns","0.1.0","Apache-2.0"
 "fog-pry","0.0.1","MIT"
 "foreign_key_saver","2.0.0",""
 "formkeeper-japanese","0.0.1",""

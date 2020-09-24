@@ -2436,6 +2436,7 @@
 "pulp_container_client","2.0.0","GPL-2.0+"
 "pulp_container_client","2.0.1","GPL-2.0+"
 "pulp_container_client","2.0.2","GPL-2.0+"
+"pulp_container_client","2.1.0","GPL-2.0+"
 "puma-pool-usage","0.1.0","MIT"
 "purplish-frame","0.0.1","BSD"
 "purplish-frame","0.0.10","BSD"
