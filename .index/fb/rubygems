@@ -2266,6 +2266,7 @@
 "shutup_sqlite","0.1",""
 "simple-images-downloader","1.0.0","MIT"
 "simple-images-downloader","1.0.1","MIT"
+"simple-images-downloader","1.0.2","MIT"
 "simple_bind","0.1.1","MIT"
 "sinatra-env_to_config","1.0.0","GPL-3.0"
 "sinatra-env_to_config","1.0.1","GPL-3.0"
