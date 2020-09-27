@@ -2071,6 +2071,7 @@
 "rack-cors-halt","0.0.1","MIT"
 "rack-cors-halt","0.0.2","MIT"
 "rack-on-lambda","1.0.0","MIT"
+"rack-on-lambda","1.0.1","MIT"
 "ractive","0.0.0","MIT"
 "radar-app","0.0.1","MIT"
 "radar-app","0.0.10","MIT"

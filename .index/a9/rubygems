@@ -3103,6 +3103,8 @@
 "webistrano_cli","0.0.6",""
 "webistrano_cli","0.0.7",""
 "webistrano_cli","0.0.8","MIT"
+"webpack_native","0.1.5","MIT"
+"webpack_native","0.1.6","MIT"
 "webrtc_rails","0.0.1",""
 "webrtc_rails","0.0.2",""
 "whois","2.0.0",""

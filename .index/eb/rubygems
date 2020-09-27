@@ -380,6 +380,8 @@
 "azure_mgmt_recovery_services_site_recovery","0.17.3","MIT"
 "backup_restore_db","0.1.0","MIT"
 "backup_restore_db","0.1.3","MIT"
+"backup_restore_db","0.1.4","MIT"
+"backup_restore_db","0.1.5","MIT"
 "bahuvrihi-ms-data_explorer","0.0.2",""
 "bahuvrihi-ms-data_explorer","0.0.3",""
 "bahuvrihi-ms-data_explorer","0.1.0",""

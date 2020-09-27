@@ -2465,6 +2465,7 @@
 "sensu-plugins-process-checks","4.0.1","MIT"
 "sensu-plugins-process-checks","4.1.0","MIT"
 "sensu-plugins-process-checks","4.2.0","MIT"
+"sensu-plugins-process-checks","4.2.1","MIT"
 "sentiment_lib","0.0.1",""
 "sentiment_lib","0.2",""
 "sentiment_lib","0.2.1",""

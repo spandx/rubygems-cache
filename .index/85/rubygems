@@ -2471,6 +2471,7 @@
 "ruby-prof-x86-mingw32","0.12.1",""
 "ruby-uriparser","0.1.1","MIT"
 "ruby-uriparser","0.1.2","MIT"
+"ruby-uriparser","0.2.0","MIT"
 "ruby_nsx_cli","0.1.0","MIT"
 "ruby_nsx_cli","0.1.1","MIT"
 "ruby_pocket","0.1.1","MIT"
