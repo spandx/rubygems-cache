@@ -2880,6 +2880,7 @@
 "torch-rb","0.3.5","BSD-3-Clause"
 "torch-rb","0.3.6","BSD-3-Clause"
 "torch-rb","0.3.7","BSD-3-Clause"
+"torch-rb","0.4.0","BSD-3-Clause"
 "torquebox-transactions","2.0.0",""
 "torquebox-transactions","2.0.1",""
 "torquebox-transactions","2.0.3",""
