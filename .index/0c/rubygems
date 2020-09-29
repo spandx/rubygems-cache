@@ -34,6 +34,7 @@
 "activecontext","0.1",""
 "activecontext","0.2.1",""
 "activerecord-concernable","0.4.0",""
+"activerecord-encryptor","0.1.1","MIT"
 "activerecord-hideable","1.0.1","MIT"
 "activerecord-hideable","1.0.2","MIT"
 "activerecord-hideable","1.0.3","MIT"

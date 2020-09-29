@@ -2242,6 +2242,8 @@
 "jscolor-rails","1.4.2.1","MIT"
 "jscolor-rails","1.4.4","MIT"
 "json-mapping","0.1.0","MIT"
+"json-schema-generator2","0.0.10","MIT"
+"json-schema-generator2","0.0.9","MIT"
 "kealy_cms","0.0.3",""
 "kealy_cms","0.0.5",""
 "kjohnston-lean_scaffold","0.1.0",""
