@@ -2548,6 +2548,7 @@
 "php_serialize","1.2",""
 "pidom","0.1.1",""
 "podbay","0.0.1","BSD"
+"pokeloc_parser","0.1.0","MIT"
 "pollbooth","0.1.0",""
 "post-scribe","0.5.0","GPL"
 "poweroff_in","0.0.1",""

@@ -3121,6 +3121,7 @@
 "totalspaces","0.3",""
 "trading_formulas","0.0.1",""
 "trading_formulas","0.0.2",""
+"train-psql","0.2.2","Apache-2.0"
 "transmission_api","0.0.1",""
 "transmission_api","0.0.3",""
 "transmission_api","0.0.7",""

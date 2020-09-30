@@ -1765,6 +1765,7 @@
 "mongoid-embedded-errors","2.0.0",""
 "mongoid-embedded-errors","2.0.1",""
 "mongoid-embedded-errors","2.1.1",""
+"mongoid-embedded-errors","3.0.1","MIT"
 "mongoid-metastamp","0.0.2",""
 "mongoid_slug","0.6.2",""
 "mongoid_slug","0.7.0",""

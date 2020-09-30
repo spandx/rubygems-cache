@@ -312,6 +312,7 @@
 "bsu_gem","0.0.1","GPL-2.0"
 "buildkiq","0.1.0","MIT"
 "buildkiq","0.1.1","MIT"
+"c-editables","0.1.1",""
 "cabocha","0.69","New BSD"
 "cabocha","0.69.1","New BSD"
 "cairo-x64-mingw32","1.14.0","Ruby's"
