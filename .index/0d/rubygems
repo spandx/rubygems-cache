@@ -3151,6 +3151,7 @@
 "sidekiq-benchmark","0.5.2","MIT"
 "sidekiq-benchmark","0.6.0","MIT"
 "sidekiq-benchmark","0.7.0","MIT"
+"sidekiq-benchmark","0.7.1","MIT"
 "simonmenke-exception_browser_plugin","0.0.1",""
 "simple_events_redis","0.0.2",""
 "simple_events_redis","0.0.3",""
