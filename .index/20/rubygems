@@ -133,6 +133,7 @@
 "authn-rails","1.8.0",""
 "aws-sdk-elasticinference","1.0.0","Apache-2.0"
 "aws-sdk-elasticinference","1.1.0","Apache-2.0"
+"aws-sdk-elasticinference","1.10.0","Apache-2.0"
 "aws-sdk-elasticinference","1.2.0","Apache-2.0"
 "aws-sdk-elasticinference","1.3.0","Apache-2.0"
 "aws-sdk-elasticinference","1.4.0","Apache-2.0"

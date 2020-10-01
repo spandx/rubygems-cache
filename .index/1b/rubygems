@@ -218,6 +218,7 @@
 "aws-sdk-kinesisvideosignalingchannels","1.5.0","Apache-2.0"
 "aws-sdk-kinesisvideosignalingchannels","1.6.0","Apache-2.0"
 "aws-sdk-kinesisvideosignalingchannels","1.7.0","Apache-2.0"
+"aws-sdk-kinesisvideosignalingchannels","1.8.0","Apache-2.0"
 "backlog_reporter","0.2.0","MIT"
 "backlog_reporter","0.2.1","MIT"
 "bamboolab_cookies","0.0.1","Bamboolab"
