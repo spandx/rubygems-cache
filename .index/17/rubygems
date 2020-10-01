@@ -226,6 +226,7 @@
 "awesome_type","0.0.1",""
 "aws-sdk-appflow","1.0.0","Apache-2.0"
 "aws-sdk-appflow","1.1.0","Apache-2.0"
+"aws-sdk-appflow","1.2.0","Apache-2.0"
 "aws_ses_newsletters","0.0.1","MIT"
 "babosa","0.3.10",""
 "babosa","0.3.11",""
