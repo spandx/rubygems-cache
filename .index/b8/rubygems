@@ -321,6 +321,7 @@
 "aws-sdk-glue","1.70.0","Apache-2.0"
 "aws-sdk-glue","1.71.0","Apache-2.0"
 "aws-sdk-glue","1.72.0","Apache-2.0"
+"aws-sdk-glue","1.73.0","Apache-2.0"
 "aws-sdk-glue","1.8.0","Apache-2.0"
 "aws-sdk-glue","1.9.0","Apache-2.0"
 "aws-sdk-kinesis","1.0.0","Apache-2.0"

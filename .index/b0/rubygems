@@ -978,6 +978,7 @@
 "event_sourcery","0.21.0",""
 "event_sourcery","0.22.0",""
 "event_sourcery","0.23.0",""
+"event_sourcery","0.23.1",""
 "exception_list","0.0.1","MIT"
 "exception_notification-rake","0.0.1",""
 "exception_notification-rake","0.0.2",""
