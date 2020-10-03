@@ -2679,6 +2679,8 @@
 "rails-security-backports","0.0.2","MIT"
 "rails-security-backports","0.0.3","MIT"
 "rails-template-cache-senexx","0.2.1","MIT"
+"rails_admin_content_builder_rails_6","1.0.0","MIT"
+"rails_admin_content_builder_rails_6","1.0.1","MIT"
 "rails_admin_markdown","0.0.4","MIT"
 "rake_easy_rsa","0.3.0","MIT"
 "rake_easy_rsa","0.5.0","MIT"
