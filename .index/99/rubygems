@@ -2538,6 +2538,7 @@
 "qti","2.2.0","MIT"
 "qti","2.3.0","MIT"
 "qti","2.4.0","MIT"
+"qti","2.4.1","MIT"
 "querly","0.1.0",""
 "querly","0.10.0",""
 "querly","0.11.0",""
@@ -3759,3 +3760,5 @@
 "zerobearing2-facebooker","1.0.46",""
 "zilkey-active_api","0.1.0",""
 "zilkey-active_api","0.2.0",""
+"zine_brewer","1.0.0","MIT"
+"zine_brewer","1.1.0","MIT"

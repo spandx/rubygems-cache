@@ -352,6 +352,7 @@
 "asterisk-ami","0.0.2","MIT"
 "asterisk-ami","0.0.3","MIT"
 "asterisk-ami","0.0.4","MIT"
+"async-limiter","0.0.1","MIT"
 "asyncjs-rails","0.0.2","MIT"
 "asyncjs-rails","0.0.3","MIT"
 "attributes_for","0.1.0","MIT"
