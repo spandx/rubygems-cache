@@ -3450,6 +3450,8 @@
 "travis-encrypt","0.0.1","MIT"
 "travis-encrypt","0.0.5","MIT"
 "tree_handler","0.1.0","MIT"
+"tree_handler","0.1.1","MIT"
+"tree_handler","0.1.2","MIT"
 "tsig_api","1.0.5","MIT"
 "tsig_api","1.0.6","MIT"
 "tubular-rails","1.0.2","MIT"

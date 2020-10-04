@@ -2946,6 +2946,7 @@
 "spymemcached.jruby-java","1.0.8","MIT"
 "spymemcached.jruby-java","1.0.9","MIT"
 "sql-migrations-rails","1.0.0","MIT"
+"sql-migrations-rails","1.0.1","MIT"
 "sqltestrunner","0.0.1",""
 "sqltestrunner","0.0.2",""
 "ssoroka-bleak_house","4.1.1",""
