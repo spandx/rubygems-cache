@@ -2506,6 +2506,7 @@
 "qualtrics_api","0.0.9","MIT"
 "qubole-statsd-instrument","2.1.4","MIT"
 "qubole-statsd-instrument","2.1.5","MIT"
+"qubole-statsd-instrument","2.1.6","MIT"
 "querobolsa-bootstrap-sass","0.1.0",""
 "querobolsa-bootstrap-sass","0.2",""
 "querobolsa-bootstrap-sass","0.2.1",""
