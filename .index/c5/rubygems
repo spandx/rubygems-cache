@@ -2864,6 +2864,8 @@
 "sysloggable","0.2.1",""
 "tag_gpfox","0.0.1",""
 "tag_logger","1.0.0","MIT"
+"tag_logger","1.0.1","MIT"
+"tag_logger","1.0.2","MIT"
 "tagtical","1.0.6",""
 "tagtical","1.0.8",""
 "tagtical","1.1.3",""
