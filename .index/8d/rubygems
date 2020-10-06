@@ -47,6 +47,8 @@
 "acl","0.2",""
 "acnfp-trans-counter","0.1.0",""
 "act_as_pingback","0.1.1","MIT"
+"active_campaign_webhooks","0.2.13","MIT"
+"active_campaign_webhooks","0.2.14","MIT"
 "active_record_patch_first_or_create","0.0.1","MIT"
 "active_record_patch_first_or_create","0.0.2","MIT"
 "active_record_patch_first_or_create","0.0.3","MIT"
