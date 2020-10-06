@@ -613,6 +613,7 @@
 "debug_logging","1.0.7",""
 "debug_logging","1.0.8","MIT"
 "debug_logging","1.0.9","MIT"
+"debug_logging","2.0.0","MIT"
 "delayed_kiss","0.1.1",""
 "delayed_kiss","0.2.1",""
 "delayed_kiss","0.2.2",""

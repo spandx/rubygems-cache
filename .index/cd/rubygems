@@ -1285,6 +1285,7 @@
 "jsonfmt","0.0.2","MIT"
 "jvm_bytecode","0.0.1","MIT"
 "kalibera","0.1","MIT"
+"kalibera","0.1.1","MIT"
 "killrails","0.0.1","MIT"
 "killrails","0.0.2","MIT"
 "knack","0.0.1","MIT"
@@ -2945,4 +2946,5 @@
 "zeebe_bpmn_rspec","0.3.0","MIT"
 "zeebe_bpmn_rspec","0.3.1","MIT"
 "zeebe_bpmn_rspec","0.4.0","MIT"
+"zeebe_bpmn_rspec","0.4.1","MIT"
 "zto","0.0.0","MIT"
