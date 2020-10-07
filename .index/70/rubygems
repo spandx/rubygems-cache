@@ -1492,6 +1492,7 @@
 "logstash-output-loginsight","0.2.2","Apache-2.0"
 "logstash-output-loginsight","0.3.0","Apache-2.0"
 "lucasalary","0.1.13",""
+"lucasalary","0.1.14","GPL"
 "luikore-bk201","0.0.2",""
 "luikore-bk201","0.0.3",""
 "magellan-log-funnel","1.0.0","MIT"
