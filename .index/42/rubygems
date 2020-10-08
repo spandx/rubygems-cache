@@ -1602,6 +1602,7 @@
 "mobilize-ssh","1.390","Apache-2.0"
 "mochizuki","0.0.2","MIT"
 "mochizuki","0.0.3","MIT"
+"mochizuki","0.0.4","MIT"
 "mockstarter","0.1.0",""
 "mongoid_atomic_votes","0.1.0",""
 "mongoid_atomic_votes","0.1.1",""

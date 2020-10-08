@@ -1905,6 +1905,7 @@
 "opencnam","1.0.1","MIT"
 "opentelemetry-instrumentation-restclient","0.5.0","Apache-2.0"
 "opentelemetry-instrumentation-restclient","0.6.0","Apache-2.0"
+"opentelemetry-instrumentation-restclient","0.7.0","Apache-2.0"
 "oridomi-rails","1.0.0",""
 "ownet","0.2.0",""
 "ownet","0.2.1",""
