@@ -1691,6 +1691,7 @@
 "logist","0.1.2","MIT"
 "logist","0.1.3","MIT"
 "logist","0.1.4","MIT"
+"logist","0.2.0","MIT"
 "logstash-codec-graphite","0.1.0","Apache-2.0"
 "logstash-codec-graphite","0.1.1","Apache-2.0"
 "logstash-codec-graphite","0.1.2","Apache-2.0"
