@@ -29,6 +29,7 @@
 "ShapeDoc","0.3.6",""
 "acmesmith-ns1","0.1.0","MIT"
 "act-on","0.0.1","GPL-3.0-only"
+"active_record-union_relation","0.1.0","MIT"
 "acts_as_api","0.3.3",""
 "acts_as_api","0.4",""
 "acts_as_api","0.4.2",""
