@@ -1451,6 +1451,7 @@
 "hydra-core","10.6.2","APACHE2"
 "hydra-core","10.7.0","APACHE2"
 "hydra-core","11.0.0","APACHE2"
+"hydra-core","11.0.1","APACHE2"
 "hydra-core","5.0.0",""
 "hydra-core","5.0.1",""
 "hydra-core","5.1.0",""

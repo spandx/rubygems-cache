@@ -2209,6 +2209,7 @@
 "pulp_2to3_migration_client","0.2.1","GPL-2.0+"
 "pulp_2to3_migration_client","0.3.0","GPL-2.0+"
 "pulp_2to3_migration_client","0.4.0","GPL-2.0+"
+"pulp_2to3_migration_client","0.4.1","GPL-2.0+"
 "puppet-itemize","0.0.1","Apache-2.0"
 "puppet-itemize","0.0.2","Apache-2.0"
 "puppet-itemize","0.0.3","Apache-2.0"
