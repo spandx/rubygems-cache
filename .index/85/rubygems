@@ -3135,6 +3135,8 @@
 "vagrant-unbundled","2.2.9.0","MIT"
 "vagrant_rbapi","0.0.1","GPL-3.0-only"
 "vagrant_rbapi","0.0.2","GPL-3.0-only"
+"validates_unchangeable","0.1.0","MIT"
+"validates_unchangeable","0.1.1","MIT"
 "valodzka-valodzka-tmail","1.2.3.2",""
 "vault8","0.1.0","MIT"
 "vault8","0.1.1","MIT"

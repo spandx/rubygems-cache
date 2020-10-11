@@ -3115,6 +3115,7 @@
 "xorg_buffer","1.1.1","GPL-2.0"
 "xorg_buffer","1.1.2","GPL-2.0"
 "xotelia-ruby","0.1.1","MIT"
+"xssh-aws","0.1.0",""
 "yancya-big_query","0.1.0","MIT"
 "yancya-big_query","0.1.1","MIT"
 "yancya-big_query","0.1.2","MIT"
