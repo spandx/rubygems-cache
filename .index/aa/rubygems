@@ -416,6 +416,7 @@
 "captainu-chinook","0.1.8","MIT"
 "captainu-chinook","0.1.9","MIT"
 "captainu-chinook","0.2.0","MIT"
+"capybara_helpers","0.1.0",""
 "carrierwave-serializable","0.0.1",""
 "carrierwave-serializable","0.0.2",""
 "carrierwave-serializable","0.0.3",""

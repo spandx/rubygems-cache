@@ -1689,6 +1689,7 @@
 "iron_mq","6.0.4","BSD-2-Clause"
 "iron_mq","6.0.5","BSD-2-Clause"
 "is_a_validator","1.0.0","MIT"
+"is_a_validator","2.0.0","MIT"
 "jackdempsey-rpx_now","0.5.8",""
 "jbootstrap","0.0.3",""
 "jbootstrap","0.0.3.1",""

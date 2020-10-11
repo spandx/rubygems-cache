@@ -2684,6 +2684,7 @@
 "sprockets-umodule","1.0.0",""
 "sprockets-umodule","1.1.0",""
 "sprockets-umodule","1.1.1","MIT"
+"sql_generator","1.0.0","MIT"
 "sso_client","0.0.5",""
 "sso_client","0.0.8",""
 "sso_client","0.3.0",""
