@@ -1916,6 +1916,7 @@
 "routing_filter_locale_unless_api","0.2.3",""
 "rrivera2-rubycalc","0.0.2","ARTISTIC"
 "rspec-checkstyle_formatter","0.1.0","MIT"
+"rspec-checkstyle_formatter","0.1.1","MIT"
 "rspec-english","0.0.1","MIT"
 "rspec-english","0.0.2","MIT"
 "rspec-html","0.1.0","MIT"

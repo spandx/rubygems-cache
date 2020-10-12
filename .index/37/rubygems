@@ -1243,6 +1243,7 @@
 "kubes","0.3.3","Apache2.0"
 "kubes","0.3.4","Apache2.0"
 "kubes","0.3.5","Apache2.0"
+"kubes","0.4.0","Apache2.0"
 "kuby-sidekiq","0.2.0",""
 "kuby-sidekiq","0.3.0",""
 "lastpass-cli","0.1.1","MIT"

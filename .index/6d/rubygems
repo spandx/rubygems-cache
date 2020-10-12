@@ -1830,6 +1830,7 @@
 "omniauth-douban-oauth2","0.0.7","MIT"
 "omniauth-draft","0.3.3","MIT"
 "omniauth-fiware","0.1.0",""
+"omniauth-saml-fix-slo-intecsoft","1.10.2","MIT"
 "one_conf_compare","0.0.1",""
 "one_conf_compare","0.0.2",""
 "one_conf_compare","0.0.3",""
