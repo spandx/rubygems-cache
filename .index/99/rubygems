@@ -739,6 +739,7 @@
 "digest-blake3","0.22.0","MIT"
 "digest-blake3","0.22.1","MIT"
 "digest-blake3","0.34.0","MIT"
+"digest-blake3","0.37.0","MIT"
 "discourse_api","0.1.1","MIT"
 "discourse_api","0.1.2","MIT"
 "discourse_api","0.10.0","MIT"

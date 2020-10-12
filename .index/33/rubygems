@@ -665,6 +665,7 @@
 "enju_trunk_frbr","2.0.0",""
 "environment_config","1.2.0",""
 "environment_config","1.5.0","MIT"
+"eol-cartograph","0.1.0","MIT"
 "eph","0.1.00","MIT"
 "erb_latex","0.0.1","MIT"
 "erb_latex","0.2.0","MIT"
