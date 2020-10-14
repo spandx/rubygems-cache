@@ -770,6 +770,7 @@
 "fluent-plugin-modsecurity","0.1.2","MIT"
 "fluent-plugin-modsecurity","0.1.3","MIT"
 "fluent-plugin-modsecurity","0.1.4","MIT"
+"fluent-plugin-modsecurity","0.1.5","MIT"
 "fluent-plugin-redis_list_poller","0.1.0","apache2"
 "fluent-plugin-redis_list_poller","1.0.0","apache2"
 "fluent-plugin-redis_list_poller","1.0.1","apache2"

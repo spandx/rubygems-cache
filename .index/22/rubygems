@@ -3018,6 +3018,7 @@
 "royw-drbman","0.0.4",""
 "royw-drbman","0.0.5",""
 "royw-drbman","0.0.6",""
+"rspec-let-fallback","0.1.0","MIT"
 "rspec-pretty_fail_formatter","0.0.1","MIT"
 "rspec-radar","0.1.0","MIT"
 "rspec-todo","0.0.1","MIT"
