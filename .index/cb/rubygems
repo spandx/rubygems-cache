@@ -2065,6 +2065,7 @@
 "rspec-api-matchers","0.6.1","MIT"
 "rspec-api-matchers","0.7.0","MIT"
 "rspec-api-matchers","0.7.1","MIT"
+"rspec-let_fallback","0.1.0","MIT"
 "rsummary","0.1.1","MIT"
 "rsummary","0.1.2","MIT"
 "rubikame","0.1.0","MIT"

@@ -2109,6 +2109,7 @@
 "golden-setting","0.8.0","MIT"
 "goliath_rack_sprockets","0.1.0",""
 "google-analytics-data-v1alpha","0.1.0","Apache-2.0"
+"google-analytics-data-v1alpha","0.2.0","Apache-2.0"
 "google-cloud-trace-v2","0.1.0","Apache-2.0"
 "google-cloud-trace-v2","0.1.1","Apache-2.0"
 "google-cloud-trace-v2","0.1.2","Apache-2.0"
