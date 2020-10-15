@@ -1250,6 +1250,7 @@
 "dyna_model","0.0.8","MIT"
 "dyna_model","0.0.9","MIT"
 "easy_decorator","0.0.0","MIT"
+"easy_decorator","0.1.0","MIT"
 "easyship-doorkeeper-jwt","0.0.1","MIT"
 "editable_table_rails","0.0.1","MIT"
 "either-monad","0.0.1","MIT"

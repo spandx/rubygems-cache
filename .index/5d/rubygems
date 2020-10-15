@@ -1164,6 +1164,7 @@
 "kcna","0.1.0","MIT"
 "kcna","0.2.0","MIT"
 "kcna","0.3.0","MIT"
+"keycloak_oauth","0.1.0","MIT"
 "kitchen-docker_adv","0.0.1","Apache-2.0"
 "kitchen-docker_adv","0.0.2","Apache-2.0"
 "knife-hp","0.3.0",""

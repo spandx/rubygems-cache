@@ -2675,6 +2675,8 @@
 "require_params","0.0.2","MIT"
 "require_params","0.0.3","MIT"
 "resque-stages","0.0.1","MIT"
+"resque-stages","0.0.2","MIT"
+"resque-stages","0.0.3","MIT"
 "resta","0.1.0","MIT"
 "rna","0.1.0",""
 "rna","0.1.1",""
