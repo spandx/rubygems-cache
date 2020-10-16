@@ -737,6 +737,7 @@
 "fluent-plugin-specinfra_inventory","0.2.2","MIT"
 "fluent-plugin-specinfra_inventory","0.2.3","MIT"
 "fluent-plugin-specinfra_inventory","0.2.4","MIT"
+"fluentd-test","1.11.4","Apache-2.0"
 "fnode","0.0.2","MIT"
 "fractious-http_status_exceptions","0.1.4.2",""
 "framework7_rails","1.0.0.1","MIT"
