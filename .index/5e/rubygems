@@ -1911,6 +1911,7 @@
 "json_serialize","2.2.1",""
 "json_serialize","2.2.2",""
 "jsonapi-rspec","0.0.1","MIT"
+"jsonapi-rspec","0.0.10","MIT"
 "jsonapi-rspec","0.0.2","MIT"
 "jsonapi-rspec","0.0.3","MIT"
 "jsonapi-rspec","0.0.4","MIT"
