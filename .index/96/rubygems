@@ -2447,6 +2447,7 @@
 "omniauth-google-oauth2","0.7.0","MIT"
 "omniauth-google-oauth2","0.8.0","MIT"
 "omniauth-keystone","0.0.1",""
+"omniauth-zendesk_sell","1.0.0","MIT"
 "open-uri-and-write","0.1.0",""
 "open_rpg","0.0.1","MIT"
 "openam_auth","0.0.1","MIT"
