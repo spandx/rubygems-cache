@@ -1563,6 +1563,8 @@
 "preflight","0.3.0",""
 "prerequisites","0.1.0","MIT"
 "prerequisites","0.2.0","MIT"
+"pretty_fractions","0.1.0",""
+"pretty_fractions","0.1.1",""
 "primus_lapus","0.1.0","MIT"
 "primus_lapus","0.1.1","MIT"
 "primus_lapus","0.1.2","MIT"
