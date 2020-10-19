@@ -2865,6 +2865,7 @@
 "ruby-ethereum","0.9.3","MIT"
 "ruby-ethereum","0.9.4","MIT"
 "ruby-ethereum","0.9.6","MIT"
+"ruby-grafana-reporter","0.1.6","MIT"
 "ruby-safenet","0.0.1",""
 "ruby-safenet","0.0.2",""
 "ruby-safenet","0.0.3",""
