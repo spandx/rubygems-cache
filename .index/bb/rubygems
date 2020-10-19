@@ -1088,6 +1088,7 @@
 "duo_api","1.0.0","BSD-3-Clause"
 "duo_api","1.0.1","BSD-3-Clause"
 "duo_api","1.1.0","BSD-3-Clause"
+"dup_send_blocker","0.0.1","MIT"
 "easy-pin","1.0.0","MIT"
 "easy-pin","1.0.1","MIT"
 "ebay-ysr","0.1.1","MIT"

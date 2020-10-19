@@ -862,6 +862,8 @@
 "float-formats","0.4.0","MIT"
 "float-formats","0.4.1","MIT"
 "fluent-plugin-condition-checker","0.1.0","Apache-2.0"
+"fluent-plugin-condition-checker","1.0.0","Apache-2.0"
+"fluent-plugin-condition-checker","2.0.0","Apache-2.0"
 "fluent-plugin-mongo-slow-query","0.0.1",""
 "fluent-plugin-mongo-slow-query","0.0.2",""
 "fluent-plugin-mongo-slow-query","0.0.3",""
