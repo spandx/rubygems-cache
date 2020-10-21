@@ -2249,6 +2249,7 @@
 "sinatra-sprockets-ext","0.0.3",""
 "siteguard_lite-custom_signature","0.3.0","MIT"
 "siteguard_lite-custom_signature","0.4.0","MIT"
+"siteguard_lite-custom_signature","0.5.0","MIT"
 "sixarm_ruby_range_parse","1.0.2","BSD-|-GPL-|-MIT-|-PAL-|-Various"
 "sixarm_ruby_range_parse","1.0.3","BSD-|-GPL-|-MIT-|-PAL-|-Various"
 "sixarm_ruby_range_parse","1.0.4","Apache-2.0-|-Artistic-2.0-|-BSD-3-Clause-|-GPL-3.0-|-MIT-|-MPL-2.0"

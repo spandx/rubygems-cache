@@ -345,6 +345,7 @@
 "comet","0.0.7","MIT"
 "comet","0.0.8","MIT"
 "compass-fluid-video","1.0",""
+"concurrent-shm","0.1.0","Apache-2.0"
 "configer","1.0.0",""
 "configer","1.1.0",""
 "configer","1.1.2",""
