@@ -1360,6 +1360,8 @@
 "kinu","2.0.0",""
 "knife-gandi","0.2.0",""
 "knife-rackspace-load-balancer","0.0.3",""
+"knock-oauth2_code_verifier","0.1.1","MIT"
+"knock-oauth2_code_verifier","0.1.2","MIT"
 "kobys_view_tool","0.1.0","MIT"
 "kontoapi-ruby","0.1.1",""
 "kontoapi-ruby","0.3.0","MIT"
