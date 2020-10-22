@@ -1430,6 +1430,7 @@
 "hermod","2.5.2","Apache-2.0"
 "hermod","2.5.3","Apache License, Version 2.0"
 "hermod","2.5.3","Apache-2.0"
+"hermod","2.6.1","Apache-2.0"
 "highlight_js-rails","0.0.2",""
 "hipster_sql_to_hbase","0.1.2","MIT"
 "hipster_sql_to_hbase","0.1.3","MIT"
