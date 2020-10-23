@@ -619,6 +619,8 @@
 "cocainum","0.7","Ruby-|-LGPL-3.0-only"
 "cocainum","0.8","Ruby-|-LGPL-3.0-only"
 "cocainum","0.9","Ruby-|-LGPL-3.0-only"
+"cocoapods-dependency-graph","1.0.2","MIT"
+"cocoapods-dependency-graph","1.0.3","MIT"
 "cocoapods-packager-m","1.6.1","MIT"
 "cocoapods-packager-m","1.6.3","MIT"
 "cocoapods-packager-m","1.6.4","MIT"
