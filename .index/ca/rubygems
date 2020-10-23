@@ -3022,6 +3022,7 @@
 "metric_fu-metrical","1.0.0",""
 "metric_fu-metrical","1.0.1","MIT"
 "mg_manager","2300.4.2","MIT"
+"mg_manager","2400.1.1","MIT"
 "mg_manager","3.8.0","MIT"
 "micro_migrations","0.0.1",""
 "micro_migrations","0.0.2",""

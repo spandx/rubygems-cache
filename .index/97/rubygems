@@ -1634,6 +1634,7 @@
 "kitchen-vcenter","2.7.9","Apache-2.0"
 "kitchen-vcenter","2.8.0","Apache-2.0"
 "kitchen-vcenter","2.8.2","Apache-2.0"
+"kitchen-vcenter","2.8.6","Apache-2.0"
 "klarna-app-loggers","1.2.0",""
 "knitter","0.1","MIT"
 "knitter","0.1.1","MIT"

@@ -694,6 +694,8 @@
 "devise-authy","2.2.1","MIT"
 "diapason","0.1.0","MIT"
 "digital_ocean_inventory","0.1.0","MIT"
+"digital_ocean_inventory","0.1.1","MIT"
+"digital_ocean_inventory","0.1.2","MIT"
 "dino_upsert","0.1.0","MIT"
 "dino_upsert","0.1.1","MIT"
 "dir_size_renamer","0.0.2",""
