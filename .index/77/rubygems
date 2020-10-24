@@ -1623,6 +1623,7 @@
 "level_travel","0.6.0","MIT"
 "level_travel","0.7.0","MIT"
 "lex-memcached","0.1.1",""
+"lex-memcached","0.1.2",""
 "libciel","0.0.0.1","Ruby License (2-clause BSDL or Artistic)"
 "libciel","0.0.0.2","Ruby License (2-clause BSDL or Artistic)"
 "libciel","0.0.0.3","Ruby License (2-clause BSDL or Artistic)"
