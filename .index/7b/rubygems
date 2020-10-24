@@ -168,6 +168,7 @@
 "assert-rack-test","1.0.3",""
 "assert-rack-test","1.0.4","MIT"
 "assert-rack-test","1.0.5","MIT"
+"association_reflections","0.0.1","MIT"
 "auser-poolparty-extensions","0.0.1",""
 "auser-poolparty-extensions","0.0.3",""
 "auser-poolparty-extensions","0.0.7",""

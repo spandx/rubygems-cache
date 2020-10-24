@@ -2414,6 +2414,7 @@
 "sidekiq-eventbus","0.0.4","MIT"
 "sidekiq-eventbus","0.0.5","MIT"
 "sidekiq-eventbus","0.0.6","MIT"
+"sidekiq-eventbus","0.1.0","MIT"
 "sidekiq-worker-job","0.0.1","MIT"
 "sidekiq-worker-job","0.1.0","MIT"
 "sidekiq-worker-job","0.2.0","MIT"
