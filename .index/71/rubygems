@@ -2553,6 +2553,7 @@
 "rails_default_url_options","2.1.0","same as ruby's"
 "rails_default_url_options","3.0.0","same as ruby's"
 "rails_default_url_options","5.0.0","Ruby"
+"rails_default_url_options","6.0.0","Ruby"
 "rails_girls","0.1.1","MIT"
 "rails_girls","0.1.2","MIT"
 "rails_will_paginate_seo_helper","0.1.0","MIT"
