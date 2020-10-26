@@ -1949,6 +1949,7 @@
 "danger-homete","1.0.0","Apache License"
 "danger-warnings","0.0.1","MIT"
 "danger-warnings","0.1.0","MIT"
+"daqing_kramdown","2.3.1","MIT"
 "database_validation","0.0.2",""
 "datadog_rails","0.1.0","MIT"
 "datadog_rails","0.2.0","MIT"
