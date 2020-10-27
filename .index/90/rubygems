@@ -1263,6 +1263,7 @@
 "guard-cucumber","2.1.2","MIT"
 "guard-cucumber","3.0.0","MIT"
 "guardrail","2.0.0","MIT"
+"guardrail","2.0.1","MIT"
 "guess_html_encoding","0.0.1",""
 "guess_html_encoding","0.0.10",""
 "guess_html_encoding","0.0.11",""
