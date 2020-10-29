@@ -992,6 +992,7 @@
 "fastlane-plugin-cordova","2.2.0","MIT"
 "fastlane-plugin-cordova","2.2.1","MIT"
 "fastlane-plugin-cordova","3.0.0","MIT"
+"fastlane-plugin-cordova","3.1.0","MIT"
 "fastlane-plugin-merge_junit_report","0.1.0","MIT"
 "fastlane-plugin-merge_junit_report","0.1.1","MIT"
 "fastlane-plugin-merge_junit_report","0.1.2","MIT"

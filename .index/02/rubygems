@@ -1994,6 +1994,7 @@
 "flex_core","0.0.7",""
 "flex_core","0.0.8",""
 "flex_core","0.0.9",""
+"flowfile","0.0.1","Public Domain"
 "fluent-plugin-buffer-lightening","0.0.1","Apache-2.0"
 "fluent-plugin-buffer-lightening","0.0.2","Apache-2.0"
 "fluent-plugin-kafka-custom-ruby-version","0.9.3","Apache-2.0"
