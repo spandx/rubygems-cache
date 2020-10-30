@@ -1399,6 +1399,7 @@
 "gruf-lightstep","1.2.0","MIT"
 "gruf-lightstep","1.2.1","MIT"
 "gruf-lightstep","1.3.0","MIT"
+"gruf-lightstep","1.4.0","MIT"
 "guard-ecukes","0.0.1",""
 "guard-git-scribe","0.0.1",""
 "guard-jshint-node","0.0.1",""

@@ -1308,6 +1308,7 @@
 "html_safe_attribute","1.0.0",""
 "html_safe_attribute","1.0.1",""
 "htmlrender","0.0.0","MIT"
+"htmlrender","0.0.1","MIT"
 "http_requests","1.0.0","MIT"
 "http_requests","1.1.1","MIT"
 "hyperstack-config","0.1","MIT"
