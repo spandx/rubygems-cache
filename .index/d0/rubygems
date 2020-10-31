@@ -628,6 +628,8 @@
 "em_pessimistic","0.2.0",""
 "emailvision4rails","0.1.3",""
 "endoscope","0.0.1","MIT"
+"env_switcher","1.0.0","MIT"
+"env_switcher","1.0.1","MIT"
 "error-log","0.0.1","MIT"
 "esage-chef-agent","2.0.11","Apache-2.0"
 "euro_currency_conversion_rate","0.0.0","MIT"

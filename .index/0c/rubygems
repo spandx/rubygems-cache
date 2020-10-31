@@ -2667,6 +2667,7 @@
 "sys-uname","1.1.1","Apache-2.0"
 "sys-uname","1.2.0","Apache-2.0"
 "sys-uname","1.2.1","Apache-2.0"
+"sys-uname","1.2.2","Apache-2.0"
 "tableau_notify","0.0.1",""
 "tableau_notify","0.0.2",""
 "tableau_notify","0.0.3",""
