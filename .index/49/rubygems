@@ -196,6 +196,7 @@
 "autosuggest-rb","0.1.4",""
 "azure_mgmt_automanage","0.17.0","MIT"
 "azure_mgmt_digitaltwins","0.17.0","MIT"
+"azure_mgmt_digitaltwins","0.18.0","MIT"
 "azure_mgmt_features","0.10.0","MIT"
 "azure_mgmt_features","0.11.0","MIT"
 "azure_mgmt_features","0.12.0","MIT"

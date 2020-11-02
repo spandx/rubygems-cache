@@ -245,6 +245,7 @@
 "azure_mgmt_container_service","0.20.2","MIT"
 "azure_mgmt_container_service","0.20.3","MIT"
 "azure_mgmt_container_service","0.20.4","MIT"
+"azure_mgmt_container_service","0.21.0","MIT"
 "azure_mgmt_resource_health","0.17.0","MIT"
 "azure_mgmt_resource_health","0.17.1","MIT"
 "azure_mgmt_support","0.17.0","MIT"

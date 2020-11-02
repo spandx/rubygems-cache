@@ -517,6 +517,7 @@
 "capistrano-deployinfo","0.0.2","MIT"
 "capistrano-deployinfo","1.0.0","MIT"
 "capistrano-nobrainer","0.2.0",""
+"capistrano-nobrainer","0.3.0",""
 "capistrano-pinned_releases","1.0.0",""
 "capistrano-pinned_releases","1.0.1",""
 "capistrano-pinned_releases","1.0.2",""

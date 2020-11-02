@@ -823,6 +823,7 @@
 "git_cli","0.1.0","GPL-3.0"
 "git_cli","0.2.0","GPL-3.0"
 "git_cli","0.3.0","GPL-3.0"
+"git_cli","0.4.0","GPL-3.0"
 "github_pages_rake_tasks","0.1.1","MIT"
 "github_pages_rake_tasks","0.1.2","MIT"
 "github_pages_rake_tasks","0.1.3","MIT"
