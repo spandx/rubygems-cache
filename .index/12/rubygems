@@ -228,6 +228,7 @@
 "azure_mgmt_security","0.18.0","MIT"
 "azure_mgmt_security","0.18.1","MIT"
 "azure_mgmt_security","0.18.2","MIT"
+"azure_mgmt_security","0.19.0","MIT"
 "backup-aliyun","0.1.0","MIT"
 "backup-aliyun","0.1.1","MIT"
 "backup-aliyun","0.2.0","MIT"
