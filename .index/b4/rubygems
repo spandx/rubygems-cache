@@ -2364,6 +2364,7 @@
 "pad_utils","1.9.0","Apache-2.0"
 "pad_utils","1.9.1","Apache-2.0"
 "pagseguro-sdk","2.6.2","AAL"
+"pagseguro-sdk","2.6.3","AAL"
 "paper_trail-active_record","0.1.0",""
 "paper_trail-active_record","0.1.1",""
 "paper_trail-active_record","0.1.2",""
