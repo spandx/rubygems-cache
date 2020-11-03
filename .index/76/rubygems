@@ -2166,6 +2166,7 @@
 "smart_driver","1.2.1","MIT"
 "smart_proxy_dhcp_kea","0.0.7","GPL-3.0-only"
 "smart_proxy_dhcp_kea","0.0.8","GPL-3.0"
+"smart_proxy_dhcp_kea","0.1.2","GPL-3.0"
 "social_snippet-registry_core","0.0.1","MIT"
 "social_snippet-registry_core","0.0.10","MIT"
 "social_snippet-registry_core","0.0.11","MIT"
