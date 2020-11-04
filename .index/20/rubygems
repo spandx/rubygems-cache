@@ -551,6 +551,7 @@
 "cfnresponse","0.2.0","MIT"
 "cfnresponse","0.3.0","MIT"
 "cfnresponse","0.4.0","MIT"
+"chaos_detector","0.4.9","MIT"
 "chartmogul-ruby","0.1.1","MIT"
 "chartmogul-ruby","0.1.2","MIT"
 "chartmogul-ruby","0.1.3","MIT"

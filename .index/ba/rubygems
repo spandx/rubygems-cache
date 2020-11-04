@@ -1573,6 +1573,7 @@
 "minimodel","0.1.0",""
 "minimodel","1.0.0",""
 "minimodel","2.0.0","LGPL-3.0"
+"minimodel","2.0.1","LGPL-3.0"
 "minitest-filecontent","0.1.0",""
 "minitest-growl","0.1.0",""
 "minitest-optional_retry","0.0.2","MIT"
