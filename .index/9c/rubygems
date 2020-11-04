@@ -1641,6 +1641,8 @@
 "model_driven_api","2.2.7","MIT"
 "model_driven_api","2.2.8","MIT"
 "model_driven_api","2.2.9","MIT"
+"model_driven_api","2.3.0","MIT"
+"model_driven_api","2.3.1","MIT"
 "moneymarket","0.0.1","MIT"
 "mongo_mapper-readonly_attributes","0.0.2","MIT"
 "mongoid-collection-separated","0.1.1","MIT"
