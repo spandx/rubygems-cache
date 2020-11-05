@@ -3800,6 +3800,7 @@
 "web-console","4.0.2","MIT"
 "web-console","4.0.3","MIT"
 "web-console","4.0.4","MIT"
+"web-console","4.1.0","MIT"
 "web_socket_rb","0.1.1","MIT"
 "web_socket_rb","0.1.2","MIT"
 "webpulser-jrails","0.4.2",""
