@@ -1343,6 +1343,7 @@
 "fluent-plugin-tail-multiline","0.1.5",""
 "fluent-plugin-threshold","0.1.0","MIT"
 "fluent-plugin-threshold","0.2.0","MIT"
+"fluentd-plugin-annotation-filter","1.0.1","MIT"
 "fluentd-tcp-capturer","0.1.0",""
 "fluentd-tcp-capturer","0.1.1",""
 "fluentd-tcp-capturer","0.1.2",""
