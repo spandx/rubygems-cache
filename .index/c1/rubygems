@@ -1062,6 +1062,7 @@
 "fluent-plugin-http-ex","0.0.3",""
 "fluent-plugin-onlineuser","0.0.1",""
 "fluent-plugin-tcl_kubernetes_metadata_filter","0.0.9","Apache-2.0"
+"fluent-plugin-vmware-log-intelligence","2.0.5","MIT"
 "fog-dropbox","0.0.1","MIT"
 "francois-shoulda","2.0.5.1",""
 "francois-shoulda","2.0.5.2",""

@@ -2088,6 +2088,7 @@
 "sensu-plugins-microsoft-teams","1.3.0","MIT"
 "sensu-plugins-microsoft-teams","1.3.1","MIT"
 "sensu-plugins-microsoft-teams","2.0.0","MIT"
+"sentry-rails","0.1.1","Apache-2.0"
 "serverkit-aws","0.0.3","MIT"
 "serverkit-aws","0.0.4","MIT"
 "sha_wna","0.0.1","MIT"
