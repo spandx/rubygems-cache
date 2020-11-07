@@ -2288,6 +2288,7 @@
 "pkcs11_protect_server","0.2.7","MIT"
 "pkcs11_protect_server","0.3.0","MIT"
 "pkcs11_protect_server","0.3.2","MIT"
+"pkcs11_protect_server","0.3.3","MIT"
 "plehoux-poltergeist","1.4.0",""
 "poise-service-aix","0.1.2","Apache-2.0"
 "polemic","0.0.1",""
