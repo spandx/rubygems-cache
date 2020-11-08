@@ -1117,6 +1117,8 @@
 "gapinc-rbvmomi","1.6.0",""
 "gapinc-rbvmomi","1.6.1",""
 "gbuild","0.2.0","MIT"
+"gci","0.1.1","MIT"
+"gci","0.1.2","MIT"
 "gh_inspector","1.0.0",""
 "gh_inspector","1.0.1",""
 "gh_inspector","1.0.2","MIT"

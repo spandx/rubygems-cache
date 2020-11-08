@@ -1930,6 +1930,8 @@
 "logstash-filter-time_chunks","1.1.1","Apache-2.0"
 "lucadeal","0.2.13","GPL"
 "lucadeal","0.2.14","GPL"
+"lucadeal","0.2.15","GPL"
+"lucadeal","0.2.16","GPL"
 "lucadeal","0.2.6",""
 "lucadeal","0.2.7","GPL"
 "lucadeal","0.2.9","GPL"
