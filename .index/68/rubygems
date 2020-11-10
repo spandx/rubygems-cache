@@ -1467,6 +1467,7 @@
 "jdbc-mssql-java","0.6.0","MIT"
 "jdbc-mssql-java","0.7.0","MIT"
 "jdbc-mssql-java","0.8.0","MIT"
+"jdbc-mssql-java","0.9.0","MIT"
 "je","0.0.6",""
 "je","0.1.0",""
 "je","0.1.3",""
