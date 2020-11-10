@@ -2830,6 +2830,7 @@
 "weather_gem_kg","0.7.0","MIT"
 "weather_gem_kg","0.9.0","MIT"
 "webget-current_user","1.2.2",""
+"weblogic-jmx4r","0.1.6",""
 "with_process_lock","0.1.0",""
 "with_process_lock","0.1.1",""
 "with_process_lock","1.0.0",""
