@@ -349,6 +349,7 @@
 "bcp47_spec","0.2.1","MIT"
 "beaker-hiera","0.1.0","Apache2"
 "beaker-hiera","0.1.1","Apache2"
+"beaker-hiera","0.2.0","Apache2"
 "benschwarz-smoke","0.2.3",""
 "benschwarz-smoke","0.2.4",""
 "benschwarz-smoke","0.3.10",""
