@@ -1143,6 +1143,7 @@
 "fluent-plugin-sendgrid-event","0.0.4","MIT"
 "fluent-plugin-sendgrid-event","0.0.5","MIT"
 "fluent-plugin-sendgrid-event","0.0.6","MIT"
+"fluent-plugin-sendgrid-event","0.0.7","MIT"
 "fluent-plugin-simple-logentries","0.0.3","MIT"
 "fluent-plugin-simple-logentries","0.1.0","MIT"
 "fluent-plugin-simple-logentries","0.1.1","MIT"

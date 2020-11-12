@@ -397,6 +397,7 @@
 "capistrano-deploy_locker","0.3.0","MIT"
 "capistrano-relevance","0.0.1",""
 "capistrano-the-best-compression","0.0.11","MIT"
+"capistrano-the-best-compression","0.0.12","MIT"
 "carrierwave-docsplit","0.0.1",""
 "carrierwave-docsplit","0.0.2",""
 "cdg-services","0.0.1","MIT"
