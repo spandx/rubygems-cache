@@ -1594,6 +1594,7 @@
 "knife_cookbook_dependencies","0.0.5",""
 "kubes_aws","0.1.0","Apache2.0"
 "kubes_aws","0.2.0","Apache2.0"
+"kubes_aws","0.3.0","Apache2.0"
 "kuport","0.1.0","MIT"
 "kuport","0.1.1","MIT"
 "kuport","0.1.2","MIT"

@@ -300,6 +300,7 @@
 "avdi-faraday","0.8.1",""
 "aws-ip","0.0.1","MIT"
 "aws-ip","0.0.2","MIT"
+"aws-sdk-gluedatabrew","1.0.0","Apache-2.0"
 "aws_xregion_sync","0.1","MIT"
 "b2b_center_api","0.0.1","MIT"
 "b2b_center_api","0.0.10","MIT"
