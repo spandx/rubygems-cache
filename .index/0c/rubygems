@@ -854,6 +854,7 @@
 "first_gem","1.0",""
 "first_gem","2.0",""
 "first_gem_trit","0.0.0","MIT"
+"fluent-plugin-griddb","1.0.1","Apache-2.0"
 "fluent-plugin-path2tag","0.0.1","MIT"
 "fluent-plugin-path2tag","0.0.2","MIT"
 "fluent-plugin-path2tag","0.0.3","MIT"
