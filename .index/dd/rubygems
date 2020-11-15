@@ -1503,6 +1503,7 @@
 "mlangenberg-googlesearch","0.2.3",""
 "mlangenberg-googlesearch","0.3.0",""
 "mlangenberg-googlesearch","1.0.0",""
+"moex_api","0.1.0","MIT"
 "mongo_db","0.1.11",""
 "mongo_db","0.1.2",""
 "mongo_mapper_acts_as_tree","0.3.1",""
