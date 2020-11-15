@@ -3359,6 +3359,7 @@
 "takihiro-simple_syslog_logger","0.0.6",""
 "takihiro-simple_syslog_logger","0.0.7",""
 "taskmapper-bugzilla","0.4.0",""
+"tc-cli","2300.4.2","MIT"
 "tengine_rails_plugin","1.1.0","MPL2.0/LGPLv3"
 "tengine_rails_plugin","1.2.0","MPL2.0/LGPLv3"
 "tengine_rails_plugin","1.2.1","MPL2.0/LGPLv3"

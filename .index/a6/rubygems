@@ -356,6 +356,7 @@
 "async-http","0.52.3","MIT"
 "async-http","0.52.4","MIT"
 "async-http","0.52.5","MIT"
+"async-http","0.53.0","MIT"
 "async-http","0.6.0",""
 "async-http","0.8.0",""
 "async-http","0.9.0",""

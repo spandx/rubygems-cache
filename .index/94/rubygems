@@ -2643,6 +2643,7 @@
 "tokfile","0.0.8","GPL-3.0-only"
 "tokfile","0.0.9","GPL-3.0-only"
 "ton_sdk_client","1.0.6","MIT"
+"ton_sdk_client","1.0.9","MIT"
 "toppr","0.8.1",""
 "tori-rails","0.1.0",""
 "tori-rails","0.1.1",""
