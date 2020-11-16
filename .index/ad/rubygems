@@ -147,6 +147,7 @@
 "async-pool","0.3.0",""
 "async-pool","0.3.1",""
 "async-pool","0.3.2","MIT"
+"async-pool","0.3.3","MIT"
 "att-swift","1.0","MIT"
 "attr_asker","0.1.0","MIT"
 "attr_delegated","0.0.1","MIT"
