@@ -639,6 +639,7 @@
 "calx_client","0.1.0","MIT"
 "calx_client","0.1.1","MIT"
 "camerontaylor-em-http-request","0.1.7",""
+"cancan-eager_load","0.0.1","MIT"
 "capistrano-cakephp","0.0.1","MIT"
 "capistrano-jelastic","0.1.0","MIT"
 "capistrano-jelastic","0.1.1","MIT"
