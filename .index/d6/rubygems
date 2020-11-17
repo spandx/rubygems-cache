@@ -2635,6 +2635,7 @@
 "signalfx-tracing","1.5.0","Apache-2.0"
 "signalfx-tracing","1.5.1","Apache-2.0"
 "signalfx-tracing","1.5.2","Apache-2.0"
+"signalfx-tracing","1.6.0","Apache-2.0"
 "sinatra-datamapper","0.0.1",""
 "sinatra-datamapper","0.0.2",""
 "sinatra-rate-limiter","0.2.1","MIT"
