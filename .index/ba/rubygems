@@ -221,6 +221,7 @@
 "atk-x86-mingw32","3.2.7","LGPL-2.1+"
 "atk-x86-mingw32","3.2.8","LGPL-2.1+"
 "atk-x86-mingw32","3.2.9","LGPL-2.1+"
+"atomic_first_or_create","1.0","MIT"
 "atrium-ruby","0.2.2","MIT"
 "atrium-ruby","0.2.3","MIT"
 "atrium-ruby","0.3.0","MIT"

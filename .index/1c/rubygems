@@ -830,6 +830,8 @@
 "github_merge_sign","1.1.0","MIT"
 "gitlab-akerl","4.0.0","BSD"
 "gitloc-marissa","0.1.0","MIT"
+"gitloc-marissa","0.1.1","MIT"
+"gitloc-marissa","0.2.0","MIT"
 "gitscrub","0.0.4",""
 "gitscrub","0.0.8",""
 "gmaps-rails","0.0.1","MIT"

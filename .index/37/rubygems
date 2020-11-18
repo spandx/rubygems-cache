@@ -2065,6 +2065,7 @@
 "puppet-lint-numericvariable","1.0.3","MIT"
 "puppet_metadata","0.1.0","Apache-2.0"
 "puppet_metadata","0.2.0","Apache-2.0"
+"puppet_metadata","0.3.0","Apache-2.0"
 "purgecss_rails","0.5.0","MIT"
 "purgecss_rails","0.7.0","MIT"
 "pwd","1.0.0",""
