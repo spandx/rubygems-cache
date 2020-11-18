@@ -2096,6 +2096,7 @@
 "rabbit_messaging","0.7.0",""
 "rabbit_messaging","0.7.1",""
 "rabbit_messaging","0.8.1",""
+"rabbit_messaging","0.9.0",""
 "rack-config_env","0.0.1","MIT"
 "rack-halt","0.0.1",""
 "rack-halt","0.0.2",""

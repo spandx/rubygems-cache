@@ -1822,6 +1822,7 @@
 "ocpclient","0.0.1","MIT"
 "ocpclient","0.0.2","MIT"
 "octojson","0.0.2","MIT"
+"octojson","0.0.3","MIT"
 "octoprosing","0.0.1",""
 "octoprosing","0.0.2",""
 "ohm-stateful-model","1.0.0",""
