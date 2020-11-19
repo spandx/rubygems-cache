@@ -2330,6 +2330,7 @@
 "rack-transaction","0.1.0",""
 "rack-transaction","0.2.0",""
 "rackspace","0.1.2",""
+"ractor-supervisor","0.1.0","MIT"
 "rails_web_cache","0.1.0","MIT"
 "rails_web_cache","0.2.0","MIT"
 "rails_web_cache","0.3.0","MIT"
