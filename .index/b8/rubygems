@@ -2165,6 +2165,7 @@
 "redis","4.2.1","MIT"
 "redis","4.2.2","MIT"
 "redis","4.2.3","MIT"
+"redis","4.2.4","MIT"
 "redux_gen","0.1.0","MIT"
 "redux_gen","0.1.1","MIT"
 "redux_gen","0.1.2","MIT"
