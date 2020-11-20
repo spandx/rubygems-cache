@@ -2231,6 +2231,7 @@
 "puppet","6.8.0",""
 "puppet","6.8.1",""
 "puppet","6.9.0",""
+"puppet","7.0.0",""
 "puppet-module-posix-dev-r2.1","0.0.1","Apache-2.0"
 "puppet-module-posix-dev-r2.1","0.0.10","Apache-2.0"
 "puppet-module-posix-dev-r2.1","0.0.2","Apache-2.0"

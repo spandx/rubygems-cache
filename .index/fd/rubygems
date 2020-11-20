@@ -1126,6 +1126,7 @@
 "embulk-input-bigquery_extract_files","0.0.11","MIT"
 "embulk-input-bigquery_extract_files","0.0.12","MIT"
 "embulk-input-bigquery_extract_files","0.0.13","MIT"
+"embulk-input-bigquery_extract_files","0.0.14","MIT"
 "embulk-input-bigquery_extract_files","0.0.3","MIT"
 "embulk-input-bigquery_extract_files","0.0.4","MIT"
 "embulk-input-bigquery_extract_files","0.0.5","MIT"

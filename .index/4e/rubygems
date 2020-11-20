@@ -938,6 +938,7 @@
 "google-cells","0.3.0","MIT"
 "google-cells","0.4.0","MIT"
 "google-cloud-assured_workloads-v1beta1","0.1.0","Apache-2.0"
+"google-cloud-assured_workloads-v1beta1","0.2.0","Apache-2.0"
 "google-cloud-scheduler","0.1.0","Apache-2.0"
 "google-cloud-scheduler","0.2.0","Apache-2.0"
 "google-cloud-scheduler","0.3.0","Apache-2.0"
