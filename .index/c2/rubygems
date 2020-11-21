@@ -318,6 +318,7 @@
 "auto_gem_updater","0.2.1","MIT"
 "auto_gem_updater","0.2.2","MIT"
 "awesome_print_json","0.8.0","MIT"
+"awesome_print_json","0.9.0","MIT"
 "aws4","0.0.1",""
 "aws4","0.0.2",""
 "axe-core-cucumber","4.0.0",""
