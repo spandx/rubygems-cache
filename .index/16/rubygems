@@ -2126,6 +2126,7 @@
 "rac1-endirecte","0.1.1",""
 "rack-git-version","0.0.1",""
 "rack-pesticide","1.0.4","MIT"
+"rack-pesticide","1.0.5","MIT"
 "rack-piwik","0.1.1",""
 "rack-piwik","0.2.0",""
 "rack-piwik","0.2.1",""
