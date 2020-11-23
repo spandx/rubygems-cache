@@ -61,6 +61,7 @@
 "active_hash","3.1.0","MIT"
 "active_record_encrypted_string","1.0.0",""
 "active_record_encrypted_string","1.1.0",""
+"active_record_encrypted_string","1.2.0",""
 "active_record_ignored_attributes","0.0.4",""
 "active_record_ignored_attributes","0.0.5",""
 "activeadmin-sqlpage","0.1.0","MIT"

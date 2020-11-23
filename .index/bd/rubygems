@@ -451,6 +451,7 @@
 "cmd_executable","1.2.0","MIT"
 "cmd_executable","1.2.1","MIT"
 "cmd_executable","1.2.2","MIT"
+"cmd_executable","1.2.3","MIT"
 "collectd-dsl","0.3.5",""
 "color-output","0.0.3","MIT"
 "color_matcher","1.0.1","MIT"
