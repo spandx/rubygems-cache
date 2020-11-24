@@ -1343,6 +1343,7 @@
 "fluentd","1.9.3","Apache-2.0"
 "fog-azure","0.0.1","MIT"
 "fog-azure","0.0.2","MIT"
+"fontcustom_canvas","0.1.0","MIT"
 "foreman-export-daemontools","0.1.0","BSD"
 "foreman_content","0.1","GPL-3"
 "foreman_content","0.2","GPL-3"
