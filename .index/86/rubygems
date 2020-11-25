@@ -2292,6 +2292,7 @@
 "regexp_parser","1.8.0","MIT"
 "regexp_parser","1.8.1","MIT"
 "regexp_parser","1.8.2","MIT"
+"regexp_parser","2.0.0","MIT"
 "reindeer","0.0.1",""
 "reindeer","0.0.2",""
 "restful-sharepoint","0.1.1","MIT"

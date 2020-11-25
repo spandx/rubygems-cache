@@ -1239,6 +1239,8 @@
 "libring","1.0.7","MIT"
 "libring","1.0.8","MIT"
 "libring","1.0.9","MIT"
+"libv8-x86_64-darwin-20","7.3.492.27.1","MIT"
+"libv8-x86_64-darwin-20","8.4.255.0","MIT"
 "lifen_fhir","0.1.1","MIT"
 "lifen_fhir","0.2.0","MIT"
 "lifen_fhir","0.3.0","MIT"

@@ -643,6 +643,7 @@
 "ecal_client","0.1.3","MIT"
 "ecal_client","0.1.4","MIT"
 "ecal_client","0.1.5","MIT"
+"ecs-logging","0.1.0","Apache-2.0"
 "edinet_api_client","1.0.0","MIT"
 "ehahn-procwatch","0",""
 "em-wssh","0.3.0","MIT"

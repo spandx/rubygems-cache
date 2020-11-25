@@ -2209,6 +2209,7 @@
 "shrt","0.0.4","MIT"
 "shrt","0.0.5","MIT"
 "shrt","0.0.6","MIT"
+"sidekiq-kubernetes-probes","0.1.0","MIT"
 "simp-rake-helpers","1.0.10","Apache-2.0"
 "simp-rake-helpers","1.0.11","Apache-2.0"
 "simp-rake-helpers","1.0.12","Apache-2.0"

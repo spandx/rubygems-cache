@@ -2585,6 +2585,7 @@
 "vagrant-hostsupdater","1.0.1","MIT"
 "vagrant-hostsupdater","1.0.2","MIT"
 "vagrant-hostsupdater","1.1.1.160","MIT"
+"vagrant-hostsupdater","1.2.0","MIT"
 "vagrant-nfs4j","0.1.0","Apache-2.0"
 "vagrant-nfs4j","0.1.1","Apache-2.0"
 "vagrant-nfs4j","0.1.2","Apache-2.0"
