@@ -2192,6 +2192,7 @@
 "qat-core","6.0.0","GPL-3.0"
 "qat-core","6.0.3","GPL-3.0"
 "qat-core","7.0.0","GPL-3.0"
+"qat-core","8.0.0","GPL-3.0"
 "quantipay-authlogic_haapi","1.0.2",""
 "quantipay-authlogic_haapi","1.0.3",""
 "question_compiler","0.0.0",""

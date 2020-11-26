@@ -1437,6 +1437,7 @@
 "jquery_pwstrength_bootstrap","1.2.2","MIT"
 "jquerypp-rails","1.0.2",""
 "jruby-readability","0.5.6",""
+"jrubyfx-fxmlloader-openjfx.patch-java","0.4.2","GPL-2.0-with-classpath-exception"
 "jsm","0.1.0","MIT"
 "jsom-pagination","0.1.0","MIT"
 "jsom-pagination","0.1.1","MIT"

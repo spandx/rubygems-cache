@@ -2502,6 +2502,7 @@
 "ruby-mailchecker","3.3.7","MIT"
 "ruby-mailchecker","3.3.8","MIT"
 "ruby-mailchecker","3.3.9","MIT"
+"ruby-mailchecker","4.0.0","MIT"
 "ruby-prof-x86-mingw32","0.11.2",""
 "ruby-prof-x86-mingw32","0.12.1",""
 "ruby-uriparser","0.1.1","MIT"
