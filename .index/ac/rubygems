@@ -1926,6 +1926,7 @@
 "persey","1.0.0","MIT"
 "phantomjs_polyfill-rails","1.0.0","MIT"
 "piesync-puma","3.12.6","BSD-3-Clause"
+"piesync-puma","3.12.6.1","BSD-3-Clause"
 "pingify","0.0.1","MIT"
 "pingify","0.0.2","MIT"
 "pingify","0.0.3","MIT"
