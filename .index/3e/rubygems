@@ -1877,6 +1877,7 @@
 "opentelemetry-instrumentation-mysql2","0.6.0","Apache-2.0"
 "opentelemetry-instrumentation-mysql2","0.7.0","Apache-2.0"
 "opentelemetry-instrumentation-mysql2","0.8.0","Apache-2.0"
+"opentelemetry-instrumentation-mysql2","0.9.0","Apache-2.0"
 "oracle-model-generator","0.3.2","Artistic 2.0"
 "oracle-model-generator","0.4.0","Artistic 2.0"
 "oracle-model-generator","0.4.1","Artistic 2.0"

@@ -1035,6 +1035,7 @@
 "email_data","1606065366","MIT"
 "email_data","1606172235","MIT"
 "email_data","1606361847","MIT"
+"email_data","1606495330","MIT"
 "embulk-parser-variable_length_bytes","0.1.0","MIT"
 "embulk-parser-variable_length_bytes","0.1.1","MIT"
 "endeavor","0.0.0",""

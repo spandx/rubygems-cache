@@ -2528,6 +2528,7 @@
 "registrar-rails","0.3.1",""
 "registrar-rails","0.3.2",""
 "registrar-rails","0.3.3",""
+"render_vue_component","0.0.1","MIT"
 "resque-multi-step","1.0.1",""
 "resque-multi-step","1.1.2",""
 "resque-multi-step","2.0.0",""
