@@ -2048,6 +2048,7 @@
 "pico_http_parser","0.0.4","Artistic"
 "pkernel","0.1","MIT"
 "pkernel","0.2","MIT"
+"pkernel","0.5.1","MIT"
 "plain","0.0.3","MIT"
 "plain","0.0.5","MIT"
 "platformx","0.0.4","Use by permission only."

@@ -458,6 +458,8 @@
 "blacklight_marc","0.0.7","MIT"
 "blacklight_marc","0.0.8","MIT"
 "blacklight_marc","0.0.9","MIT"
+"blakey","0.1.0",""
+"blakey","0.3.0",""
 "bloomfilter-rb-without-native","2.1.3",""
 "bootstrap-wysihtml5-rails","0.2",""
 "bootstrap-wysihtml5-rails","0.2.1",""
