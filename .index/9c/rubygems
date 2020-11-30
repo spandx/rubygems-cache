@@ -651,6 +651,7 @@
 "fabricators","0.1.1","MIT"
 "fabricators","0.1.2","MIT"
 "factory_filler","0.1.0","MIT"
+"fake_servicebus","0.0.2","MIT"
 "fasta_util","0.2.1",""
 "fasta_util","0.4.0",""
 "fastlane-plugin-bugly","0.1.0","MIT"

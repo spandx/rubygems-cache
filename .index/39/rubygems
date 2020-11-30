@@ -2304,6 +2304,8 @@
 "tables","0.0.14",""
 "taft","0.1.0","MIT"
 "taft","0.2.0","MIT"
+"taft","0.2.1","MIT"
+"taft","0.2.2","MIT"
 "tcp_syslog","1.0.2",""
 "tdd_deploy","0.1.11",""
 "tdd_deploy","0.1.12",""

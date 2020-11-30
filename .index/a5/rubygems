@@ -1650,6 +1650,7 @@
 "idn_ffi","0.1.2",""
 "image_zoomer","0.0.1","MIT"
 "image_zoomer","0.0.2","MIT"
+"imagewriter","0.1.0","CC-PDDC"
 "increment_persistent","0.0.1",""
 "increment_persistent","0.0.2",""
 "initialize_with","0.0.1","MIT"

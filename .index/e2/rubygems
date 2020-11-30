@@ -2842,6 +2842,7 @@
 "stp_client","0.4.4","MIT"
 "stp_client","0.4.5","MIT"
 "stp_client","0.5.0","MIT"
+"stp_client","0.5.1","MIT"
 "stream_rails","1.0","Apache-2.0"
 "stream_rails","1.1","Apache-2.0"
 "stream_rails","2.0","Apache-2.0"

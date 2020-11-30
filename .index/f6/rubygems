@@ -2353,6 +2353,7 @@
 "rack-scriptstacker","0.1.3","WTFPL"
 "rack-scriptstacker","0.1.4","WTFPL"
 "rack-scriptstacker","0.1.5","WTFPL"
+"ractor-tmvar","0.1.2","MIT"
 "rails-alertify","0.2.12",""
 "rails-alertify","0.2.13",""
 "rails-alertify","0.3.2",""

@@ -2059,6 +2059,7 @@
 "pkernel_jce","0.1","MIT"
 "pkernel_jce","0.2","MIT"
 "pkernel_jce","0.3","MIT"
+"pkernel_jce","0.7.0","MIT"
 "pkwde-renum","1.0.2",""
 "postgresql-check","0.0.1","MIT"
 "postgresql-check","0.0.2","MIT"
