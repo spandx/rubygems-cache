@@ -211,6 +211,7 @@
 "azure_mgmt_policy_insights","0.17.5","MIT"
 "azure_mgmt_policy_insights","0.17.6","MIT"
 "azure_mgmt_policy_insights","0.17.7","MIT"
+"azure_mgmt_policy_insights","0.17.8","MIT"
 "backports","2.6.5",""
 "backports","2.6.6",""
 "backports","2.6.7",""

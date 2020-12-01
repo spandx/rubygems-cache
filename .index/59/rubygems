@@ -260,6 +260,7 @@
 "azure_mgmt_container_registry","0.18.2","MIT"
 "azure_mgmt_container_registry","0.18.3","MIT"
 "azure_mgmt_container_registry","0.18.4","MIT"
+"azure_mgmt_container_registry","0.18.5","MIT"
 "azure_mgmt_serialconsole","0.17.0","MIT"
 "azure_mgmt_serialconsole","0.17.1","MIT"
 "b_encode","0.0.1","MIT"

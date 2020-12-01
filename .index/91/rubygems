@@ -1471,6 +1471,7 @@
 "azure_mgmt_synapse","0.17.0","MIT"
 "azure_mgmt_synapse","0.17.1","MIT"
 "azure_mgmt_synapse","0.17.2","MIT"
+"azure_mgmt_synapse","0.17.3","MIT"
 "baidu_lbs_sdk","0.0.1","MIT"
 "baidu_lbs_sdk","0.0.2","MIT"
 "bamfcsv","0.0.2",""

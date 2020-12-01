@@ -2435,6 +2435,7 @@
 "sensors_analytics_sdk","1.5.3",""
 "sensors_analytics_sdk","1.6.0",""
 "sensors_analytics_sdk","1.6.1",""
+"sensors_analytics_sdk","1.6.2",""
 "sensu-plugins-greylog","0.0.1","MIT"
 "sequel_mapper","0.0.1","MIT"
 "sequel_mapper","0.0.3","MIT"
