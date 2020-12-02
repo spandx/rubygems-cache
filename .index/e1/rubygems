@@ -901,6 +901,7 @@
 "exception_handling","2.6.1",""
 "exception_handling","2.7.0",""
 "exception_handling","2.8.0",""
+"exception_handling","2.8.1",""
 "expiring_asset_links","1.0.0",""
 "expiring_asset_links","1.1.1",""
 "expiring_asset_links","1.1.2","MIT"

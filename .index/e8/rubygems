@@ -2118,6 +2118,7 @@
 "pry-box","0.1.1","MIT"
 "pulp_deb_client","2.6.1","GPL-2.0+"
 "pulp_deb_client","2.7.0","GPL-2.0+"
+"pulp_deb_client","2.8.0","GPL-2.0+"
 "puma-stats-logger","0.1.0","MIT"
 "puma-stats-logger","0.2.0","MIT"
 "puma-stats-logger","0.2.1","MIT"

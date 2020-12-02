@@ -2074,6 +2074,7 @@
 "persephone","2.0.0",""
 "pg_qtop","0.0.1","BSD-3-Clause"
 "pg_qtop","0.0.2","BSD-3-Clause"
+"pghero_fork","2.7.3","MIT"
 "phantomjs","1.8.1.0",""
 "phantomjs","1.8.1.1",""
 "phantomjs","1.9.2.0",""

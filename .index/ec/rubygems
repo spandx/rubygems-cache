@@ -1479,6 +1479,8 @@
 "krypt-ossl","0.1.0","MIT"
 "kumo","0.0.2",""
 "kumo","0.0.3",""
+"lambda-store-hll","0.0.0","MIT"
+"lambda-store-hll","0.0.1","MIT"
 "language_list","0.1.0",""
 "language_list","1.0.0",""
 "language_list","1.1.0",""

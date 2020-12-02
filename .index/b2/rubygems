@@ -388,6 +388,7 @@
 "browshot","1.8.0",""
 "bucketer","0.0.1","GPL"
 "bucketer","0.0.2","GPL"
+"buildkite-builder","1.0.0","MIT"
 "bulmajs-rails","0.11.0","MIT"
 "bulmajs-rails","0.3.2","MIT"
 "bulmajs-rails","0.3.3","MIT"
