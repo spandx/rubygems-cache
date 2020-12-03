@@ -2809,6 +2809,7 @@
 "sift","2.2.1",""
 "sift","3.0.0",""
 "sift","4.0.0",""
+"signalfx-nethttp-instrumentation","0.1.0","Apache-2.0"
 "signauth","0.0.1",""
 "signauth","0.0.2",""
 "signauth","0.0.3",""

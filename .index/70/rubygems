@@ -1155,6 +1155,7 @@
 "green_shoes","1.1.374",""
 "grpc_opencensus_interceptor","0.0.1","MIT"
 "grpc_opencensus_interceptor","0.0.2","MIT"
+"grpc_opencensus_interceptor","0.0.3","MIT"
 "gtk2_expander_settings","0.0.2","MIT"
 "gtk2_expander_settings","0.0.3","MIT"
 "gtk2_expander_settings","0.0.4","MIT"
