@@ -2410,6 +2410,7 @@
 "shortcut","0.0.1","MIT"
 "shortcut","0.0.2","MIT"
 "sic-activerecord-sqlserver-adapter","4.0.0",""
+"signalfx-sidekiq-opentracing","0.1.0","Apache-2.0"
 "signup","1.0.0","MIT"
 "simple-decorator","0.1.2",""
 "simple_find","0.0.3","MIT"

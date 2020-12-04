@@ -2491,6 +2491,7 @@
 "rspec-sorbet","1.5.0","MIT"
 "rspec-sorbet","1.6.0","MIT"
 "rspec-sorbet","1.7.0","MIT"
+"rspec-sorbet","1.8.0","MIT"
 "rspec_around_all","0.1.1","MIT"
 "rspec_around_all","0.2.0","MIT"
 "rspec_gem","0.0.1",""

@@ -1121,6 +1121,7 @@
 "goodreads-easy-api","0.1.0","None"
 "goodreads-easy-api","0.1.1","None"
 "goodreads-easy-api","0.1.2","MIT"
+"google-cloud-service_control-v1","0.1.0","Apache-2.0"
 "google_currency_exchange","0.0.5",""
 "google_short_links","0.1.2",""
 "googlebook","0.1.0",""
