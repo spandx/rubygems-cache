@@ -2849,6 +2849,7 @@
 "qcloud_vod","0.0.1","MIT"
 "qubole-redis-rails","5.0.2","MIT"
 "queris","0.8.1",""
+"queue-bus","0.10.0",""
 "queue-bus","0.5.0",""
 "queue-bus","0.5.1",""
 "queue-bus","0.5.2",""
