@@ -532,6 +532,8 @@
 "convertator","0.3.1","MIT"
 "copy_github_labels","0.1.0","MIT"
 "cotcube-indicators","0.1.10","BSD-4-Clause"
+"cotcube-indicators","0.1.11","BSD-4-Clause"
+"cotcube-indicators","0.1.12","BSD-4-Clause"
 "cotcube-indicators","0.1.9","BSD-4-Clause"
 "couchbase_model_logging","0.0.6",""
 "couchbase_model_logging","0.0.7",""

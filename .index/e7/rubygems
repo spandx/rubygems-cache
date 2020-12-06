@@ -2244,6 +2244,7 @@
 "notification-handler","1.2.6","MIT"
 "notification-handler","2.0.0","MIT"
 "notification-handler","3.0.2","MIT"
+"notification-handler","3.0.3","MIT"
 "nyargl_recaptcha","0.0.1","MIT"
 "nyargl_recaptcha","0.0.2","MIT"
 "object_deep_diff","0.1.0",""

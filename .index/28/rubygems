@@ -2175,6 +2175,7 @@
 "puppet-lint-package_ensure-check","0.2.0","Apache-2.0"
 "puppet-lint-resource_outside_class-check","0.0.1","MIT"
 "purecloudclient_v2a","0.1.1","MIT"
+"querylet","1.0.0","MIT"
 "rabbit-slide-kou-readable-code-tsukuba-icebreaker","2015.7.4.0","CC BY-SA 4.0"
 "rabbit-slide-oss-gate-workshop-tutorial-overview","2016.11.26.0","CC BY-SA 4.0"
 "rabbit-slide-oss-gate-workshop-tutorial-overview","2016.11.26.2","CC BY-SA 4.0"

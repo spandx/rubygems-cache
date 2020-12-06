@@ -1848,6 +1848,7 @@
 "notifications-rails","1.2.6","MIT"
 "notifications-rails","2.0.0","MIT"
 "notifications-rails","3.0.2","MIT"
+"notifications-rails","3.0.3","MIT"
 "oauth2_hmac_sign","0.1.0",""
 "objspace-age","0.0.1",""
 "observer_comp","0.1.0","GPL-3.0"

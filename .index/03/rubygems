@@ -941,6 +941,7 @@
 "ipaddr_extensions","1.0.0",""
 "ipaddr_extensions","1.0.1",""
 "ipaddr_extensions","1.0.2",""
+"is-async","0.0.1","MPL-2.0"
 "is-lazy","0.9.1","GNU LGPL"
 "itunesfred","0.0.1","GPLv2"
 "jakewendt-active_record_sunspotter","0.0.12",""
