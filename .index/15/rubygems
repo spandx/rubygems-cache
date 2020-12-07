@@ -772,6 +772,7 @@
 "ember_serialize","0.0.9","MIT"
 "embulk-input-github_graphql-java","0.1.0","MIT"
 "embulk-input-github_graphql-java","0.1.1","MIT"
+"embulk-input-github_graphql-java","0.2.0","MIT"
 "emojify","0.0.7",""
 "encrypted_id","1.1.1","MIT"
 "entrez","0.1.1",""
