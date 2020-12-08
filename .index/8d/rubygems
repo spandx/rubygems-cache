@@ -851,6 +851,7 @@
 "enhanced_request_forgery_protection","0.9.1",""
 "env_compare","0.1.0",""
 "env_compare","0.1.1",""
+"env_compare","0.1.4",""
 "erik-text-box","0.2.0","BSD"
 "erp_rules","3.0.1",""
 "erp_rules","3.0.4",""

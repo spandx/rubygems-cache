@@ -2414,6 +2414,8 @@
 "ruboty-weather","0.0.4","MIT"
 "ruboty-weather","0.0.5","MIT"
 "ruboty-yes","1.0.0","MIT"
+"ruby-llvm-next","10.0.0",""
+"ruby-llvm-next","11.0.1",""
 "rubysl-open-uri","1.0.0","BSD"
 "rubysl-open-uri","2.0.0","BSD"
 "rudisco","1.0.0","MIT"
