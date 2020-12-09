@@ -2293,6 +2293,7 @@
 "postmarkdown","0.0.9","MIT"
 "powerball","0.0.2","Apache-2.0"
 "prime","0.1.0","BSD-2-Clause"
+"prime","0.1.2","Ruby-|-BSD-2-Clause"
 "progimage","0.1.0","MIT"
 "protobuf-rpc-socket","0.1.0","MIT"
 "protobuf-rpc-socket","0.2.0","MIT"

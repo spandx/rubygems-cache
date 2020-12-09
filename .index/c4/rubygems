@@ -1845,6 +1845,7 @@
 "inertia_rails","1.6.0","MIT"
 "inertia_rails","1.7.0","MIT"
 "inertia_rails","1.7.1","MIT"
+"inertia_rails","1.8.0","MIT"
 "influxdb-metrics","0.0.1","MIT"
 "inform","0.0.4",""
 "inform","0.0.6",""

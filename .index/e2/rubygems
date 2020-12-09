@@ -250,6 +250,7 @@
 "autocorrect","0.0.1",""
 "avalanche-rails","1.1.2","MIT"
 "avalanche-rails","1.2.0","MIT"
+"aws-sdk-emrcontainers","1.0.0","Apache-2.0"
 "aws-sdk-frauddetector","1.0.0","Apache-2.0"
 "aws-sdk-frauddetector","1.1.0","Apache-2.0"
 "aws-sdk-frauddetector","1.10.0","Apache-2.0"

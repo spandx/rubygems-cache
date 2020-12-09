@@ -1060,6 +1060,7 @@
 "god","0.13.6",""
 "god","0.13.7",""
 "godfather","0.0.2","MIT"
+"google-cloud-data_labeling","0.1.0","Apache-2.0"
 "google-oauth2-installed","0.0.1","MIT"
 "google-oauth2-installed","0.0.2","MIT"
 "google-oauth2-installed","0.0.3","MIT"

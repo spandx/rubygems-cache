@@ -1205,6 +1205,7 @@
 "gmap_coordinates_picker","0.1.0",""
 "gmap_coordinates_picker","0.1.2",""
 "google-cloud-os_config","0.1.0","Apache-2.0"
+"google-cloud-os_config","1.0.0","Apache-2.0"
 "google-player","0.0.1","MIT"
 "google-player","0.0.2","MIT"
 "google-player","0.0.3","MIT"

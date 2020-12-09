@@ -1965,6 +1965,7 @@
 "gollum_rails","1.6.5","AGPL"
 "gollum_rails","3.0.0","AGPL"
 "google-cloud-billing-budgets","0.1.0","Apache-2.0"
+"google-cloud-billing-budgets","1.0.0","Apache-2.0"
 "google-cloud-monitoring-dashboard-v1","0.1.0","Apache-2.0"
 "google-cloud-monitoring-dashboard-v1","0.1.1","Apache-2.0"
 "google-cloud-monitoring-dashboard-v1","0.2.0","Apache-2.0"
