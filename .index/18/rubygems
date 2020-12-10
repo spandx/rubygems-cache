@@ -1088,6 +1088,7 @@
 "email_validator","2.0.0",""
 "email_validator","2.0.1",""
 "email_validator","2.1.0",""
+"email_validator","2.2.0","MIT"
 "embulk-executor-remoteserver","0.1.0","MIT"
 "embulk-executor-remoteserver","0.1.1","MIT"
 "embulk-executor-remoteserver","0.2.0","MIT"

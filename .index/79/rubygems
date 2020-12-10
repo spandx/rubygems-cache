@@ -2528,6 +2528,7 @@
 "rails","6.0.3.2","MIT"
 "rails","6.0.3.3","MIT"
 "rails","6.0.3.4","MIT"
+"rails","6.1.0","MIT"
 "rails-assets-cdn","0.1.0",""
 "rails-pipeline","1.1.1",""
 "rails3-active_form","2.0.0",""
