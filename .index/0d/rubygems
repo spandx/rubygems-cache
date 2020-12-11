@@ -923,6 +923,7 @@
 "chef-handler-datadog","0.12.3","BSD"
 "chef-handler-datadog","0.13.0","BSD"
 "chef-handler-datadog","0.14.0","BSD"
+"chef-handler-datadog","0.15.0","BSD"
 "chef-handler-datadog","0.2.0","BSD"
 "chef-handler-datadog","0.3.0","BSD"
 "chef-handler-datadog","0.4.0","BSD"

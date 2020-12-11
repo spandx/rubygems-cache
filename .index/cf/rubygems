@@ -181,6 +181,7 @@
 "aws-sdk-networkmanager","1.6.0","Apache-2.0"
 "aws-sdk-networkmanager","1.7.0","Apache-2.0"
 "aws-sdk-networkmanager","1.8.0","Apache-2.0"
+"aws-sdk-networkmanager","1.9.0","Apache-2.0"
 "aws_assume_role-universal-darwin","1.1.0","Apache-2.0"
 "aws_assume_role-universal-darwin","1.1.1","Apache-2.0"
 "aws_assume_role-universal-darwin","1.2.0","Apache-2.0"
