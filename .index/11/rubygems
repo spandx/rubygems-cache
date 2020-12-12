@@ -1145,6 +1145,7 @@
 "haml_lint","0.35.0","MIT"
 "haml_lint","0.36.0","MIT"
 "hanny","0.1.0","BSD-2-Clause"
+"has_unique_random","1.0.0","MIT"
 "haversine_distance","1.0.0",""
 "haversine_distance","1.1.1","MIT"
 "hbci","0.2.0","MIT"

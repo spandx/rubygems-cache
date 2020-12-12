@@ -2642,6 +2642,7 @@
 "ondrejsika-jekyll-theme-example","0.1.1","MIT"
 "ondrejsika-jekyll-theme-example","1.0.0","MIT"
 "opentelemetry-exporter-otlp","0.10.0","Apache-2.0"
+"opentelemetry-exporter-otlp","0.11.0","Apache-2.0"
 "opentelemetry-exporter-otlp","0.6.0","Apache-2.0"
 "opentelemetry-exporter-otlp","0.7.0","Apache-2.0"
 "opentelemetry-exporter-otlp","0.8.0","Apache-2.0"

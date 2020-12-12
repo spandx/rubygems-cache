@@ -1829,6 +1829,7 @@
 "opener-language-identifier","4.4.1","Apache-2.0"
 "openrareplay","0.1.1","AGPL-3.0"
 "opentelemetry-instrumentation-all","0.10.0","Apache-2.0"
+"opentelemetry-instrumentation-all","0.11.0","Apache-2.0"
 "opentelemetry-instrumentation-all","0.5.0","Apache-2.0"
 "opentelemetry-instrumentation-all","0.6.0","Apache-2.0"
 "opentelemetry-instrumentation-all","0.7.0","Apache-2.0"

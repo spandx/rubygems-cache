@@ -1513,6 +1513,7 @@
 "openbeautyfacts","0.5.1","MIT"
 "opensecrets","1.0.0","MIT"
 "opentelemetry-propagator-b3","0.10.0","Apache-2.0"
+"opentelemetry-propagator-b3","0.11.0","Apache-2.0"
 "opentelemetry-propagator-b3","0.8.0","Apache-2.0"
 "opentelemetry-propagator-b3","0.9.0","Apache-2.0"
 "ops_preflight","0.9.0",""
