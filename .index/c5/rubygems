@@ -359,6 +359,7 @@
 "cancancan","3.0.1","MIT"
 "cancancan","3.0.2","MIT"
 "cancancan","3.1.0","MIT"
+"cancancan","3.2.0","MIT"
 "capistrano-dockerized","0.1.0","MIT"
 "capistrano-measure","0.10.0","MIT"
 "capistrano-measure","0.8.0","MIT"
