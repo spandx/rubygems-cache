@@ -1839,6 +1839,7 @@
 "pdf2html_docker","0.1.1","MIT"
 "pdf_links_checker","0.1.0","MIT"
 "pdf_links_checker","0.1.1","MIT"
+"pdf_links_checker","0.1.2","MIT"
 "pdfkit-heroku","0.1.2",""
 "pdfunite","0.1.0","MIT"
 "pdfunite","0.2.0","MIT"
