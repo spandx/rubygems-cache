@@ -3418,6 +3418,7 @@
 "vagrant-hostmanager-ext","1.8.8","MIT"
 "vagrant-vrealize","0.0.4","BSD-3-Clause"
 "vagrant-vrealize","1.0.1","BSD-3-Clause"
+"vagrant-vultr_pro","0.2.0","MIT"
 "vagrant-windows-update","0.0.3","LGPL-3.0-only"
 "vagrant-windows-update","0.0.4","LGPL-3.0-only"
 "vagrant-windows-update","0.0.5","LGPL-3.0-only"

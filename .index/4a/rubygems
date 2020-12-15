@@ -975,6 +975,7 @@
 "fame","0.0.1","MIT"
 "fame","0.1","MIT"
 "fastlane-plugin-jira_issue_link","0.1.0","MIT"
+"fastlane-plugin-jira_issue_link","0.1.1","MIT"
 "fastlane-plugin-killsimulator","0.1.0","MIT"
 "fastlane-plugin-update_android_strings","0.1.0","MIT"
 "fauna-echoe","3.2",""

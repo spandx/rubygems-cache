@@ -2150,6 +2150,7 @@
 "pulp_certguard_client","1.0.1","GPL-2.0+"
 "pulp_certguard_client","1.0.2","GPL-2.0+"
 "pulp_certguard_client","1.0.3","GPL-2.0+"
+"pulp_certguard_client","1.1.0","GPL-2.0+"
 "puppet-lint-file_source_rights-check","0.1.0","Apache-2.0"
 "puppet-lint-file_source_rights-check","0.1.1","Apache-2.0"
 "puzzlearn","0.0.1","MIT"

@@ -3005,6 +3005,8 @@
 "undo-serializer-active_model","0.2.2","MIT"
 "uri_query_merger","1.0.0","WTFPL"
 "uri_service-client","0.1.0",""
+"user_access_manager","0.1.0","MIT"
+"user_access_manager","0.1.2","MIT"
 "useragent_parser","0.1.0",""
 "useragent_parser","0.2.3",""
 "utopia","0.10.0",""

@@ -835,6 +835,7 @@
 "data_migrate","6.3.0","MIT"
 "data_migrate","6.4.0","MIT"
 "data_migrate","6.5.0","MIT"
+"data_migrate","6.6.0","MIT"
 "data_paths","0.3.0",""
 "data_paths","0.3.1",""
 "database_error_handler","0.0.1","MIT"
