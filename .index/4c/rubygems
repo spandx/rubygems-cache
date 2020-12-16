@@ -1088,6 +1088,7 @@
 "facter","4.0.43",""
 "facter","4.0.44",""
 "facter","4.0.46","MIT"
+"facter","4.0.47","MIT"
 "factory_faster","0.0.2","MIT"
 "factory_faster","0.0.3","MIT"
 "fake-hash","0.1.0",""

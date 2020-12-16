@@ -997,6 +997,7 @@
 "docker-fluent-logger","0.0.8","MIT"
 "docker-fluent-logger","0.0.9","MIT"
 "docker-fluent-logger","1.0.0","MIT"
+"docker-fluent-logger","1.0.1","MIT"
 "dockerfile2bash","0.1.0","MIT"
 "dockerfile2bash","0.1.1","MIT"
 "dockerfile2bash","0.1.2","MIT"
