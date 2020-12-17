@@ -2661,6 +2661,7 @@
 "protobuf-activerecord","5.1.0","MIT"
 "protobuf-activerecord","5.2.0","MIT"
 "protobuf-activerecord","6.0.0","MIT"
+"protobuf-activerecord","6.1.0","MIT"
 "proxy_to","0.1.0","MIT"
 "pry-rake","0.0.1","MIT"
 "pry-rake","0.0.2","MIT"

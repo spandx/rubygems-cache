@@ -509,6 +509,7 @@
 "coral_vagrant","0.2.5","GPL-3.0-only"
 "coral_vagrant","0.2.8","GPL-3.0-only"
 "coral_vagrant","0.4.0","GPL-3.0-only"
+"cotcube-bardata","0.1.1","BSD-4-Clause"
 "couchbase-jruby","0.0.1",""
 "couchbase-jruby-client-java","0.1.0","Apache"
 "couchbase-jruby-client-java","0.1.5","Apache"

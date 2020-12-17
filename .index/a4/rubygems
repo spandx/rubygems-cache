@@ -2211,6 +2211,8 @@
 "rubysl-socket","2.1.3","BSD"
 "rubysl-socket","2.2","BSD"
 "rubysl-socket","2.2.1","BSD"
+"sapristi","0.1.0","AGPL-3.0-or-later-|-Nonstandard"
+"sapristi","0.1.1","AGPL-3.0-or-later-|-Nonstandard"
 "sb-config","0.1.0",""
 "sb-config","0.2.0",""
 "sb-config","0.3.0",""

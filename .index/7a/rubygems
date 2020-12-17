@@ -541,6 +541,7 @@
 "capistrano-direnv","0.0.1","Apache-2.0"
 "capistrano-https_github_deploy","0.0.1","MIT"
 "capistrano-nvm202x","2.2.0","MIT"
+"capistrano-nvm202x","3.0.0","MIT"
 "capistrano-rsync-local","1.1","LAGPL"
 "capistrano-rsync-local","1.2","LAGPL"
 "capistrano-rsync-local","2.0","LAGPL"

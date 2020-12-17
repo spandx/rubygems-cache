@@ -135,6 +135,7 @@
 "assert_value","1.5.3","MIT"
 "assert_value","1.5.4","MIT"
 "assert_value","1.5.5","MIT"
+"async-http-web","0.0.1","MIT"
 "audio_player","1.0.1",""
 "audio_player","1.0.2",""
 "audit_weasel","0.0.1","MIT"
