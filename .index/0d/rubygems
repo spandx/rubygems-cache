@@ -2648,6 +2648,7 @@
 "pool_balancing","0.1.0",""
 "postgres-vacuum-monitor","0.10.0",""
 "postgres-vacuum-monitor","0.10.1",""
+"postgres-vacuum-monitor","0.11.0",""
 "postgres-vacuum-monitor","0.2.2",""
 "postgres-vacuum-monitor","0.2.3",""
 "postgres-vacuum-monitor","0.3.0",""

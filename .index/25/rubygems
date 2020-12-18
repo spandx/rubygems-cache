@@ -608,6 +608,7 @@
 "delayed_job_groups_plugin","0.4.2","MIT"
 "delayed_job_groups_plugin","0.4.3","MIT"
 "delayed_job_groups_plugin","0.5.0","MIT"
+"delayed_job_groups_plugin","0.6.0","MIT"
 "delayed_mailhopper","0.0.2",""
 "deploy_docus","0.0.10",""
 "deploy_docus","0.0.4",""

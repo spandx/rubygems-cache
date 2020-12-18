@@ -1642,6 +1642,7 @@
 "deploy_log","0.3.2","MIT"
 "deploy_mongo","0.0.2",""
 "digest","1.0.0","Ruby-|-BSD-2-Clause"
+"digest","3.0.0","Ruby-|-BSD-2-Clause"
 "discoverer","0.0.1",""
 "discoverer","0.0.2",""
 "discoverer","0.0.3",""

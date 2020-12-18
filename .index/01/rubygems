@@ -2237,6 +2237,7 @@
 "mongoid-auto_increment","2.2.0","MIT"
 "mongoid-auto_increment","2.3.0","MIT"
 "mongoid-auto_increment","2.4.0","MIT"
+"mongoid-auto_increment","2.5.1","MIT"
 "mongoid_paranoia","0.1.2","MIT"
 "mongoid_paranoia","0.2.0","MIT"
 "mongoid_paranoia","0.2.1","MIT"

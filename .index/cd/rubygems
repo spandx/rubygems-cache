@@ -372,6 +372,8 @@
 "bruce-bitmask-attribute","1.0.0",""
 "bucket-cli","0.0.1","MIT"
 "bucket-cli","0.0.2","MIT"
+"bundler_audit_notifier","0.0.0",""
+"bundler_audit_notifier","0.0.1",""
 "burden","0.1.0","MIT"
 "burden","0.1.1","MIT"
 "burden","0.1.2","MIT"
