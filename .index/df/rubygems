@@ -391,6 +391,8 @@
 "bigdecimal","1.4.4","ruby"
 "bigdecimal","2.0.0","ruby"
 "bigdecimal","2.0.2","Ruby"
+"bigdecimal","2.0.3","Ruby"
+"bigdecimal","3.0.0","Ruby"
 "binnacle_ar","0.0.2","MIT"
 "bio-statsample-glm","0.1.0","MIT"
 "bio-statsample-glm","0.1.1","MIT"

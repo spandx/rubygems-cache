@@ -1249,6 +1249,7 @@
 "jruby_excelcom-java","0.0.5","Apache-2.0"
 "jsTimezoneDetect-rails","1.0.5","MIT"
 "jsTimezoneDetect-rails","1.0.6","MIT"
+"json_schema-rs","0.0.1","MIT"
 "jsonb_accessor","0.1.0","MIT"
 "jsonb_accessor","0.2.0","MIT"
 "jsonb_accessor","0.3.0","MIT"

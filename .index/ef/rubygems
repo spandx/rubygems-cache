@@ -38,6 +38,7 @@
 "accuweather","0.2.0",""
 "accuweather","0.2.2","MIT"
 "accuweather","0.2.3","MIT"
+"activerecord_readonly","0.1.0","MIT"
 "acts_as_dag","1.0.2",""
 "acts_as_dag","1.0.3",""
 "acts_as_dag","1.0.5",""

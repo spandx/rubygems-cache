@@ -675,6 +675,8 @@
 "event_store_client","0.2.4","MIT"
 "event_store_client","0.2.5","MIT"
 "event_store_client","0.2.6","MIT"
+"event_store_client","0.2.7","MIT"
+"event_store_client","0.2.8","MIT"
 "eventbrite","0.0.1","MIT"
 "eventbrite","0.1.0","MIT"
 "eventmachine-swinsian","0.0.1",""

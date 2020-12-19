@@ -838,6 +838,7 @@
 "environ","1.0.0","MIT"
 "environ","1.0.1","MIT"
 "environ","1.0.2","MIT"
+"epicsLUKB","1.8.0","LGPL-3.0"
 "epoch_api","0.1.0","MIT"
 "epoch_api","0.1.1","MIT"
 "epoch_api","0.1.2","MIT"
