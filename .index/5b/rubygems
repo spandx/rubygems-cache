@@ -438,6 +438,7 @@
 "carrierwave-datamapper","0.2.2",""
 "categorical","0.0.4","MIT"
 "categorical","0.0.9","MIT"
+"categorical","0.0.9.1","MIT"
 "cdfimx","0.0.1","MIT"
 "cdmdexer","0.17.7","MIT"
 "cdmdexer","0.17.9","MIT"

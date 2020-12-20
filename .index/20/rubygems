@@ -2125,6 +2125,7 @@
 "redis-time-series","0.5.0","MIT"
 "redis-time-series","0.5.1","MIT"
 "redis-time-series","0.5.2","MIT"
+"redis-time-series","0.6.0","MIT"
 "redpomo","0.0.12",""
 "redpomo","0.0.13",""
 "redpomo","0.0.3",""
