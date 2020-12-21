@@ -1462,6 +1462,7 @@
 "fluent-plugin-mqtt-io","0.4.2","Apache-2.0"
 "fluent-plugin-mqtt-io","0.4.3","Apache-2.0"
 "fluent-plugin-mqtt-io","0.4.4","Apache-2.0"
+"fluent-plugin-mqtt-io","0.5.0","Apache-2.0"
 "fluent-plugin-sqlite3","0.0.0",""
 "fluent-plugin-sqlite3","0.1.0",""
 "fluent-plugin-sqlite3","0.1.1",""

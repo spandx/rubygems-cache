@@ -993,6 +993,7 @@
 "faraday-honeycomb","0.3.2","Apache-2.0"
 "faraday-honeycomb","0.3.3","Apache-2.0"
 "faraday_oauth2_ccg_middleware","0.1.0","MIT"
+"faraday_oauth2_ccg_middleware","0.1.1","MIT"
 "fastlane-plugin-coveralls","1.0.0","MIT"
 "fastlane-plugin-coveralls","1.0.1","MIT"
 "fastlane-plugin-increment_version_code","0.1.0","MIT"

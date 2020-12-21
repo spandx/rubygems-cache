@@ -2442,6 +2442,7 @@
 "sidekiq-worker-job","0.2.1","MIT"
 "sidekiq-worker-job","0.3.0","MIT"
 "sidekiq-worker-job","0.4.0","MIT"
+"sidekiq-worker-job","0.4.1","MIT"
 "sidekiq_cleaner","5.3.6","LGPL-3.0"
 "sidekiq_cleaner","5.3.8","LGPL-3.0"
 "silly_templates","0.0.3",""

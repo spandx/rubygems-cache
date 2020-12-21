@@ -2735,6 +2735,7 @@
 "rails_titleize_special_characters","0.0.3","MIT"
 "rails_views_path","0.1.0","MIT"
 "rake_gpg","0.10.0","MIT"
+"rake_gpg","0.12.0","MIT"
 "rake_gpg","0.2.0","MIT"
 "rake_gpg","0.4.0","MIT"
 "rake_gpg","0.6.0","MIT"
