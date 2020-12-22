@@ -657,6 +657,7 @@
 "delayed_job_active_record_unique","0.0.1","MIT"
 "delayed_job_active_record_unique","0.0.2","MIT"
 "delegate","0.1.0","BSD-2-Clause"
+"delegate","0.2.0","Ruby-|-BSD-2-Clause"
 "delete_paranoid","1.0.1",""
 "delete_paranoid","1.0.5",""
 "delete_paranoid","2.0.0",""

@@ -160,6 +160,7 @@
 "bankscrap-ibercaja","1.0.0","MIT"
 "bbenezech-serialist","0.1.0",""
 "benchmark","0.1.0","BSD-2-Clause"
+"benchmark","0.1.1","Ruby-|-BSD-2-Clause"
 "benchmark_wrapper","0.0.1","MIT"
 "bio-gem","1.0.0",""
 "bio-gem","1.1.0",""

@@ -1952,6 +1952,7 @@
 "neptune-local","0.2.0","MIT"
 "neptune-local","0.3.0","MIT"
 "net-pop","0.1.0","BSD-2-Clause"
+"net-pop","0.1.1","Ruby-|-BSD-2-Clause"
 "newrelic-elasticsearch","0.1.0",""
 "newrelic-elasticsearch","0.1.1",""
 "newrelic-elasticsearch","0.1.2",""
