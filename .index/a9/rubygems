@@ -2642,6 +2642,7 @@
 "slack-notify","0.4.0","MIT"
 "slack-notify","0.4.1","MIT"
 "slack-notify","0.5.0","MIT"
+"slack-notify","0.6.0","MIT"
 "slack_notification_generator","0.1.0","UNLICENSE"
 "slack_notification_generator","0.1.1","UNLICENSE"
 "slack_notification_generator","0.2.0","UNLICENSE"

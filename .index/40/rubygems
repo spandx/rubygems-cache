@@ -83,6 +83,7 @@
 "activeldap","6.0.2","Ruby's-|-GPLv2 or later"
 "activeldap","6.0.3","Ruby's-|-GPLv2 or later"
 "activeldap","6.0.4","Ruby's-|-GPLv2 or later"
+"activeldap","6.1.0","Ruby's-|-GPLv2 or later"
 "activerecord-sqlserver-adapter_new","4.2.15","MIT"
 "activerecord_session_cleaner","1.0.0","MIT"
 "activerecord_session_cleaner","1.0.1","MIT"
