@@ -948,6 +948,7 @@
 "evt","0.3.4","BSD-3-Clause"
 "evt","0.3.5","BSD-3-Clause"
 "evt","0.3.6","BSD-3-Clause"
+"evt","0.4.0","BSD-3-Clause"
 "evt-consumer","0.0.0.1","MIT"
 "evt-consumer","0.10.0.0","MIT"
 "evt-consumer","0.11.0.0","MIT"

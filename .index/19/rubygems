@@ -2864,6 +2864,7 @@
 "test-unit","3.3.5","Ruby-|-PSFL"
 "test-unit","3.3.6","Ruby-|-PSFL"
 "test-unit","3.3.7","Ruby-|-BSDL-|-PSFL"
+"test-unit","3.3.8","Ruby-|-BSDL-|-PSFL"
 "testrail","0.0.1","MIT"
 "testrail","0.0.3","MIT"
 "the_cart","0.0.1","MIT"

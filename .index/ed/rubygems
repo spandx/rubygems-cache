@@ -2003,6 +2003,7 @@
 "openstruct-from_hash.rb","0.3.4","MIT"
 "opentelemetry-instrumentation-mongo","0.10.0","Apache-2.0"
 "opentelemetry-instrumentation-mongo","0.11.0","Apache-2.0"
+"opentelemetry-instrumentation-mongo","0.12.0","Apache-2.0"
 "opentelemetry-instrumentation-mongo","0.9.0","Apache-2.0"
 "opscode-mixlib-config","1.0.10",""
 "opscode-mixlib-config","1.0.11",""

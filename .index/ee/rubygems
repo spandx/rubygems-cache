@@ -2006,6 +2006,7 @@
 "opener-property-tagger","3.3.6","Apache-2.0"
 "opentelemetry-exporter-jaeger","0.10.0","Apache-2.0"
 "opentelemetry-exporter-jaeger","0.11.0","Apache-2.0"
+"opentelemetry-exporter-jaeger","0.12.0","Apache-2.0"
 "opentelemetry-exporter-jaeger","0.6.0","Apache-2.0"
 "opentelemetry-exporter-jaeger","0.7.0","Apache-2.0"
 "opentelemetry-exporter-jaeger","0.8.0","Apache-2.0"
