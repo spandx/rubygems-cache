@@ -2516,6 +2516,7 @@
 "racc-java","1.4.9",""
 "racc-java","1.5.0","MIT"
 "racc-java","1.5.1","Ruby-|-BSD-2-Clause"
+"racc-java","1.5.2","Ruby-|-BSD-2-Clause"
 "rack-cors","0.2.6",""
 "rack-cors","0.2.7",""
 "rack-cors","0.2.8","MIT"
