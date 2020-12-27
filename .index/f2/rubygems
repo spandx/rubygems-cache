@@ -319,6 +319,7 @@
 "brotli","0.2.1","MIT"
 "brotli","0.2.2","MIT"
 "brotli","0.2.3","MIT"
+"brotli","0.4.0","MIT"
 "buffered_job","0.4.0",""
 "buffered_job","0.4.1",""
 "buffered_job","0.5.0","MIT"
