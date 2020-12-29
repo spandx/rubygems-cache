@@ -2153,6 +2153,8 @@
 "numerousapp","1.2.7","MIT"
 "octohatrack","0.0.1","MIT"
 "omniauth-timely","0.1.0",""
+"omniauth-wix","0.1.0",""
+"omniauth-wix","0.1.1",""
 "onesignal-ruby","0.2.0","MIT"
 "onesignal-ruby","0.3.0","MIT"
 "onlyoffice_mysql_helper","0.1.0","AGPL-3.0"

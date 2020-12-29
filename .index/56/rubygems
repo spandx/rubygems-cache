@@ -34,6 +34,7 @@
 "InternalW3cValidation","1.0.8","MIT"
 "Sima_Library","0.0.1","MIT"
 "ablab-core","0.2.1","MIT"
+"action_mailbox_debug","0.1.0",""
 "action_sprout-method_object","0.1.0","MIT"
 "actionmailer","2.3.11",""
 "actionmailer","2.3.14",""
