@@ -1264,6 +1264,7 @@
 "log_packer","0.0.2","MIT"
 "log_packer","0.0.3","MIT"
 "log_sanity","0.2.5","MIT"
+"log_sanity","1.0.0","MIT"
 "logstash-filter-request_parser","0.2.11","Apache-2.0"
 "logstash-filter-request_parser","0.2.12","Apache-2.0"
 "logstash-filter-request_parser","0.2.13","Apache-2.0"

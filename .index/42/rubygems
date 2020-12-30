@@ -2262,6 +2262,7 @@
 "services_base","0.3.0","MIT"
 "services_base","0.4.0","MIT"
 "services_base","1.0.0","MIT"
+"services_base","1.0.1","MIT"
 "sessionm-cassandra","1.0.0",""
 "sessionm-cassandra","1.0.1",""
 "sessionm-cassandra","1.0.2",""
