@@ -2126,6 +2126,7 @@
 "sentry-rails","4.0.0","Apache-2.0"
 "sentry-rails","4.1.0","Apache-2.0"
 "sentry-rails","4.1.1","Apache-2.0"
+"sentry-rails","4.1.2","Apache-2.0"
 "serverkit-aws","0.0.3","MIT"
 "serverkit-aws","0.0.4","MIT"
 "sha_wna","0.0.1","MIT"
