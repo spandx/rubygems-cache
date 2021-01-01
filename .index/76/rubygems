@@ -2235,6 +2235,7 @@
 "state_machines-activemodel","0.6.0","MIT"
 "state_machines-activemodel","0.7.0","MIT"
 "state_machines-activemodel","0.7.1","MIT"
+"state_machines-activemodel","0.8.0","MIT"
 "static_auth","0.0.4",""
 "static_type","0.0.1","MIT"
 "statsd.scala","0.0.2",""

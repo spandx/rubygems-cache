@@ -2396,6 +2396,7 @@
 "state_machines-activerecord","0.5.1","MIT"
 "state_machines-activerecord","0.5.2","MIT"
 "state_machines-activerecord","0.6.0","MIT"
+"state_machines-activerecord","0.8.0","MIT"
 "stativus","0.0.1",""
 "strawpoll","0.0.1","MIT"
 "string_in_path","0.0.0","MIT"
