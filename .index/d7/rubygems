@@ -1737,6 +1737,8 @@
 "logstash-output-thetapoint","0.3.0","Apache-2.0"
 "logstash-output-thetapoint","2.0","Apache-2.0"
 "loxxy","0.0.3","MIT"
+"loxxy","0.0.4","MIT"
+"loxxy","0.0.5","MIT"
 "mac_shortcuts","0.1","MIT"
 "macaco","0.0.1",""
 "macaco","0.0.2","MIT"

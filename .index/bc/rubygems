@@ -3210,6 +3210,8 @@
 "rake_dependencies","2.1.0","MIT"
 "rake_dependencies","2.3.0","MIT"
 "rake_dependencies","2.5.0","MIT"
+"rake_dependencies","2.7.0","MIT"
+"rake_dependencies","2.9.0","MIT"
 "randrizer","0.0.1","MIT"
 "randrizer","0.0.2","MIT"
 "ratel","0.0.1",""

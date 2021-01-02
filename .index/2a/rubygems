@@ -1361,6 +1361,7 @@
 "google-webfonts","0.3.0",""
 "google-webfonts","0.3.1",""
 "google-webfonts","0.3.2",""
+"google_image_scraper","0.1.0","MIT"
 "google_maps","0.3.1","MIT"
 "google_spreadsheet_bulk_fetcher","1.0.0",""
 "google_spreadsheet_bulk_fetcher","1.0.1",""
