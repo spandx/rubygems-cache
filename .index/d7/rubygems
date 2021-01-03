@@ -2454,6 +2454,7 @@
 "rails_trade","0.0.2","LGPL-3.0"
 "railsqs","1.0.0","MIT"
 "railsqs","1.0.1","MIT"
+"rake_process_manager","0.3.0","MIT"
 "rake_shared_context","0.0.1",""
 "rake_shared_context","0.0.2",""
 "rake_shared_context","0.1.0",""
