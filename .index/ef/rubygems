@@ -1089,6 +1089,8 @@
 "gitlabci-bundle-update-mr","0.3.0","MIT"
 "gitlabci-bundle-update-mr","1.0.0","MIT"
 "gitlabci-bundle-update-mr","1.1.0","MIT"
+"gitlabci-bundle-update-mr","1.1.1","MIT"
+"gitlabci-bundle-update-mr","1.1.2","MIT"
 "global_alerts","0.0.1","Apache-2.0"
 "global_alerts","0.0.2","Apache-2.0"
 "global_alerts","0.0.3","Apache-2.0"

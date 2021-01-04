@@ -894,6 +894,7 @@
 "fastlane-plugin-slack_bot","0.1.0","MIT"
 "fastlane-plugin-slack_bot","0.1.1","MIT"
 "fastlane-plugin-slack_bot","0.1.2","MIT"
+"fastlane-plugin-slack_bot","0.2.0","MIT"
 "fay-rails","0.0.1","MIT"
 "fay-rails","0.0.2","MIT"
 "feature_flagger","0.1.0",""

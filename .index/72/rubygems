@@ -3555,6 +3555,7 @@
 "web-puppet","0.1.1",""
 "web-puppet","0.2.0",""
 "wechatpay-api","0.0.2","MIT"
+"wechatpay-api","0.2.1","MIT"
 "wilbur","0.0.1",""
 "wilbur","0.0.2",""
 "winston_mongodb_rails","0.0.1",""
