@@ -2412,6 +2412,7 @@
 "sensitive_data_filter","0.4.0","MIT"
 "sensitive_data_filter","0.4.1","MIT"
 "sensitive_data_filter","0.5.0","MIT"
+"sensitive_data_filter","0.6.0","MIT"
 "sensu-extensions-influxdb2","0.0.2",""
 "sensu-extensions-influxdb2","0.1.0",""
 "sensu-extensions-influxdb2","0.1.1",""

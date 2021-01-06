@@ -221,6 +221,7 @@
 "bitwise","0.6.0",""
 "blacklight-locale_picker","0.1.0","Apache-2.0"
 "blacklight-locale_picker","0.2.0","Apache-2.0"
+"blacklight-locale_picker","0.3.0","Apache-2.0"
 "blazy-rails","0.1","MIT"
 "blog_api","1.0.0","MIT"
 "blog_api","2.0.0","MIT"

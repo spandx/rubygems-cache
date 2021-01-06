@@ -2286,6 +2286,8 @@
 "killbill-currency-plugin-test","4.0.1","Apache-2.0"
 "kis_http","0.1.0","MIT"
 "kis_http","0.1.1","MIT"
+"kis_http","0.1.2","MIT"
+"kis_http","0.2.0","MIT"
 "kortype","0.1.0","MIT"
 "kortype","0.1.1","MIT"
 "kortype","0.1.2","MIT"

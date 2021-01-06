@@ -739,6 +739,7 @@
 "chef-universal-mingw32","16.7.61","Apache-2.0"
 "chef-universal-mingw32","16.8.14","Apache-2.0"
 "chef-universal-mingw32","16.8.9","Apache-2.0"
+"chef-universal-mingw32","16.9.16","Apache-2.0"
 "chosen_rails","0.1.0",""
 "cinch-pskreporter","0.1.0","MIT"
 "cinch-pskreporter","0.1.1","MIT"

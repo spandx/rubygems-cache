@@ -1420,6 +1420,7 @@
 "mock_redis","0.24.0","MIT"
 "mock_redis","0.25.0","MIT"
 "mock_redis","0.26.0","MIT"
+"mock_redis","0.27.0","MIT"
 "mock_redis","0.5.1",""
 "mock_redis","0.5.5",""
 "mock_redis","0.6.0",""
