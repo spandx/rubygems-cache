@@ -246,6 +246,7 @@
 "authentifyd","0.2.0","MIT"
 "authentifyd","0.3.0","MIT"
 "awesome_o","0.0.1",""
+"aws-sdk-dynamodbstreams-event-parser","1.0.0",""
 "azebiki","0.0.5",""
 "azure_mgmt_mariadb","0.17.0","MIT"
 "azure_mgmt_mariadb","0.17.1","MIT"

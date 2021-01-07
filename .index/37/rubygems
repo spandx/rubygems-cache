@@ -654,6 +654,7 @@
 "embulk-filter-mysql","0.1.1","MIT"
 "embulk-filter-mysql","0.1.2","MIT"
 "embulk-input-swift","0.1.0","MIT"
+"embulk-output-s3v2","0.1.0","MIT"
 "embulk-parser-ltsv","0.1.0","MIT"
 "embulk-parser-ltsv","0.1.1","MIT"
 "emma-ruby","0.0.1",""

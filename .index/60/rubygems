@@ -1394,6 +1394,7 @@
 "fluent-plugin-cloudstack","0.1.2",""
 "fluent-plugin-cloudstack","0.1.3",""
 "fluent-plugin-gcloud-pubsub-custom-compress-batches","1.3.3","MIT"
+"fluent-plugin-gcloud-pubsub-custom-compress-batches","1.3.4","MIT"
 "fluent-plugin-loggly-syslog","0.0.1","Apache-2.0"
 "fluent-plugin-loggly-syslog","0.0.2","Apache-2.0"
 "fluent-plugin-loggly-syslog","0.0.3","Apache-2.0"
