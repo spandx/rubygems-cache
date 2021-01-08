@@ -1003,6 +1003,7 @@
 "google-apis","0.1.6","MIT"
 "google-apis","0.1.7","MIT"
 "google-apis","0.2.0","MIT"
+"google-apis-cloudtasks_v2beta2","0.1.0","Apache-2.0"
 "google_data_layer-rails","0.0.1","MIT"
 "google_data_layer-rails","0.0.2","MIT"
 "google_data_layer-rails","0.0.3","MIT"

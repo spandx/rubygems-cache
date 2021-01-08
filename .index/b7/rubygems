@@ -1336,6 +1336,8 @@
 "globby","0.1.1",""
 "globby","0.1.2",""
 "godville_kit","0.1.0",""
+"google-apis-adsense_v1_4","0.1.0","Apache-2.0"
+"google-apis-run_v1beta1","0.1.0","Apache-2.0"
 "google-cloud-bigquery-reservation-v1","0.1.0","Apache-2.0"
 "google-cloud-bigquery-reservation-v1","0.1.1","Apache-2.0"
 "google-cloud-bigquery-reservation-v1","0.1.2","Apache-2.0"

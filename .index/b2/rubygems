@@ -1082,6 +1082,8 @@
 "glimpse-mongo","1.0.0",""
 "glimpse-mongo","1.0.1",""
 "glimpse-mongo","1.1.0",""
+"google-apis-deploymentmanager_v2","0.1.0","Apache-2.0"
+"google-apis-jobs_v3p1beta1","0.1.0","Apache-2.0"
 "google_translate_diff","1.0.1",""
 "google_translate_diff","1.0.10",""
 "google_translate_diff","1.0.11",""

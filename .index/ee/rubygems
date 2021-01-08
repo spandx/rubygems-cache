@@ -1281,6 +1281,8 @@
 "glimpse","0.0.4","MIT"
 "glimpse","0.0.5","MIT"
 "godfat-ludy","0.1.13",""
+"google-apis-cloudscheduler_v1beta1","0.1.0","Apache-2.0"
+"google-apis-toolresults_v1beta3","0.1.0","Apache-2.0"
 "google-civic","0.0.1",""
 "google-civic","0.0.2","MIT"
 "google-cloud-bigtable","0.1.0","Apache-2.0"

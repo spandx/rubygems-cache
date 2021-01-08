@@ -3139,6 +3139,7 @@
 "systemd-bindings","0.0.1.1","MIT"
 "tartarus-rb","0.1.0","MIT"
 "tartarus-rb","0.2.0","MIT"
+"tartarus-rb","0.3.0","MIT"
 "task-list","0.1",""
 "task-list","0.3",""
 "task-list","0.3.1",""

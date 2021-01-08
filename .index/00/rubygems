@@ -2686,6 +2686,7 @@
 "rundock-plugin-hook-slack","0.2.2","MIT"
 "rusty_json_schema","0.1.0","MIT"
 "rusty_json_schema","0.2.0","MIT"
+"rusty_json_schema","0.3.1","MIT"
 "safit","0.0.1","GPL"
 "safit","0.0.2","GPL"
 "safit","0.0.3","GPL"
