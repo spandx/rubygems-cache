@@ -1884,6 +1884,7 @@
 "flow_machine","0.2.1","MIT"
 "flow_machine","0.2.2","MIT"
 "flow_machine","0.2.3","MIT"
+"fluent-plugin-rpz","0.1.0","Apache-2.0"
 "fluent-plugin-sqlinput-statefileins3","0.1.0","Apache-2.0"
 "follow_http_redirects","0.0.2",""
 "fourchanify","0.0.2","MIT"

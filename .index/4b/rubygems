@@ -602,6 +602,7 @@
 "chef-bin","16.8.14","Apache-2.0"
 "chef-bin","16.8.9","Apache-2.0"
 "chef-bin","16.9.16","Apache-2.0"
+"chef-bin","16.9.17","Apache-2.0"
 "chef-jabber-paste-snitch","1.0.1","MIT"
 "chitin","1.0.1",""
 "chitin","1.0.2",""

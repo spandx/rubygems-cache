@@ -2386,6 +2386,8 @@
 "sinistra","1.0.1","MIT"
 "sinistra","1.0.2","MIT"
 "sketchfably","0.0.1","MIT"
+"slack-ruby3","0.1.1","Apache-2.0"
+"slack-ruby3","0.1.2","Apache-2.0"
 "sms-client","0.0.1",""
 "sms_api","0.0.1","MIT"
 "sms_api","0.0.11","MIT"
