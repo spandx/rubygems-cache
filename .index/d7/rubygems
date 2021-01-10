@@ -1743,6 +1743,7 @@
 "logstash-output-thetapoint","2.0","Apache-2.0"
 "loxxy","0.0.10","MIT"
 "loxxy","0.0.11","MIT"
+"loxxy","0.0.12","MIT"
 "loxxy","0.0.3","MIT"
 "loxxy","0.0.4","MIT"
 "loxxy","0.0.5","MIT"
