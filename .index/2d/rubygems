@@ -836,6 +836,7 @@
 "email_typo","0.2.3","MIT"
 "embed_xmp","0.1.0","BSD-3-Clause"
 "embed_xmp","0.1.1","BSD-3-Clause"
+"embed_xmp","0.1.2","BSD-3-Clause"
 "enum_translatable","0.1.3","MIT"
 "ether_ping","0.1.0",""
 "eureka-bot-tg","2.0.11","MIT"

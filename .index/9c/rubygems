@@ -433,6 +433,7 @@
 "dassets-erb","0.1.0",""
 "dassets-erb","0.2.0","MIT"
 "dassets-erb","0.3.0","MIT"
+"dassets-erb","0.3.1","MIT"
 "database_cleaner-active_record","1.8.0","MIT"
 "date_iterator","1.0.0",""
 "db_backup_rails","1.0.3","MIT"
