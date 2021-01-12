@@ -2128,6 +2128,7 @@
 "logstash-mixin-rabbitmq_connection-java","5.0.2","Apache-2.0"
 "logstash-mixin-rabbitmq_connection-java","5.1.0","Apache-2.0"
 "logstash-mixin-rabbitmq_connection-java","6.0.0","Apache-2.0"
+"logstash-mixin-rabbitmq_connection-java","6.2.0","Apache-2.0"
 "logstash-output-redmine","0.1.0","Apache-2.0"
 "logstash-output-redmine","0.1.1","Apache-2.0"
 "logstash-output-redmine","0.1.2","Apache-2.0"

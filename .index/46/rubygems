@@ -3070,6 +3070,7 @@
 "vagrant-ovirt4","1.2.1","MIT"
 "vagrant-ovirt4","1.2.2","MIT"
 "vagrant-ovirt4","1.2.3","MIT"
+"vagrant-ovirt4","2.0.0","MIT"
 "vagrant-windows-sysprep","0.0.1","LGPL-3.0-only"
 "vagrant-windows-sysprep","0.0.2","LGPL-3.0-only"
 "vagrant-windows-sysprep","0.0.3","LGPL-3.0-only"

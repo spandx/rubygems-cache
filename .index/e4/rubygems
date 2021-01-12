@@ -2189,6 +2189,7 @@
 "shoulda-matchers","4.3.0","MIT"
 "shoulda-matchers","4.4.0","MIT"
 "shoulda-matchers","4.4.1","MIT"
+"shoulda-matchers","4.5.0","MIT"
 "sidekiq_runner","0.0.1","MIT"
 "sidekiq_runner","0.0.2","MIT"
 "siefca-bufferaffects","0.0.4",""
@@ -2648,4 +2649,5 @@
 "zombie_record","1.4.0","MIT"
 "zombie_record","1.4.1","MIT"
 "zombie_record","1.4.2","MIT"
+"zombie_record","1.4.3","MIT"
 "zzot-zzot-semi-static","0.0.1",""

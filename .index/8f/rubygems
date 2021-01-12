@@ -2295,6 +2295,7 @@
 "puppet-module-posix-default-r2.4","0.5.2","Apache-2.0"
 "puppet-module-posix-default-r2.4","0.5.3","Apache-2.0"
 "puppet-module-posix-default-r2.4","1.0.0","Apache-2.0"
+"puppet-module-posix-default-r2.4","1.0.1","Apache-2.0"
 "puppetfile-resolver","0.1.0","Apache-2.0"
 "puppetfile-resolver","0.2.0","Apache-2.0"
 "puppetfile-resolver","0.3.0","Apache-2.0"
