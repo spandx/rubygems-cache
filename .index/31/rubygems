@@ -879,6 +879,7 @@
 "fastlane-plugin-sentry","1.5.0","MIT"
 "fastlane-plugin-sentry","1.6.0","MIT"
 "fastlane-plugin-sentry","1.7.0","MIT"
+"fastlane-plugin-sentry","1.8.0","MIT"
 "fastlane-plugin-trello","0.1.0","MIT"
 "fastlane-plugin-trello","1.1","MIT"
 "fastlane-plugin-trello","1.1.2","MIT"

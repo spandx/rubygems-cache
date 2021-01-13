@@ -1541,6 +1541,7 @@
 "fluent-plugin-add","0.0.5","MIT"
 "fluent-plugin-add","0.0.6","MIT"
 "fluent-plugin-add","0.0.7","MIT"
+"fluent-plugin-conditional-tag-rewrite","0.1.0","MIT"
 "fluent-plugin-formatter_simple_tsv","0.0.1","MIT"
 "fluent-plugin-formatter_simple_tsv","0.0.2","MIT"
 "fluent-plugin-formatter_simple_tsv","0.0.3","MIT"

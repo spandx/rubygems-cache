@@ -2617,6 +2617,7 @@
 "test-unit-rails","5.2.1","LGPLv2 or later"
 "test-unit-rails","5.2.2","LGPLv2 or later"
 "test-unit-rails","6.0.0","LGPLv2 or later"
+"test-unit-rails","6.1.0","LGPLv2 or later"
 "test_launcher","0.0.3","MIT"
 "test_launcher","0.1.0","MIT"
 "test_launcher","1.0.0","MIT"
