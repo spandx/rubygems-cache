@@ -1726,6 +1726,7 @@
 "lgtm","0.5.1",""
 "libpng-ruby","0.5.2",""
 "libpng-ruby","0.5.4","MIT"
+"libpng-ruby","0.6.0","MIT"
 "librex","0.0.12",""
 "librex","0.0.20",""
 "librex","0.0.26",""

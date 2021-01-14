@@ -943,6 +943,7 @@
 "fluent-plugin-stdin","0.1.2","MIT"
 "fluent-plugin-tkgi-metadata-parser","1.0.0","MIT"
 "fluent-plugin-tkgi-metadata-parser","1.0.1","MIT"
+"fluent-plugin-tkgi-metadata-parser","1.2.0","MIT"
 "fluent-plugin-zabbix","0.0.1",""
 "fluent-plugin-zabbix","0.0.2",""
 "fluent-plugin-zabbix","0.0.3",""
