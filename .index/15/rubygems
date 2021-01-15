@@ -729,6 +729,7 @@
 "do_mysql-x86-mingw32","0.10.17",""
 "do_not_download","0.1.2",""
 "docker-tags","0.1.0",""
+"documentation-test","0.1.0","BSD-3-Clause"
 "dojan","0.0.1",""
 "dragonfly-lossless_rotate","0.1.0","MIT"
 "dragonfly-lossless_rotate","0.1.1","MIT"

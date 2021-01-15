@@ -2390,6 +2390,8 @@
 "search_object","1.2.2","MIT"
 "search_object","1.2.3","MIT"
 "search_object","1.2.4","MIT"
+"sem_ver_components","0.0.1","BSD-3-Clause"
+"sem_ver_components","0.0.2","BSD-3-Clause"
 "send","0.0.1","MIT"
 "send","0.0.2","MIT"
 "sentientmonkey-autotest-notifyosd","0.0.1",""
