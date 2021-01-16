@@ -1994,6 +1994,7 @@
 "leveldb","0.1.8","MIT"
 "leveldb","0.1.9","MIT"
 "lex-log","0.1.2","MIT"
+"lex-log","0.1.3","MIT"
 "libis-format-java","0.9.5","MIT"
 "license_finder-java","0.8.0","MIT"
 "license_finder-java","0.8.1","MIT"

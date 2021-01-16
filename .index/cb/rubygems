@@ -544,6 +544,7 @@
 "cloudflare_client_rb","4.2.6","Apache-2.0"
 "cloudflare_client_rb","4.2.7","Apache-2.0"
 "cloudflare_client_rb","4.2.8","Apache-2.0"
+"cloudflare_client_rb","4.2.9","Apache-2.0"
 "cluster-discovery","0.1.0","MIT"
 "cluster-discovery","0.2.0","MIT"
 "clutter-gdk-x86-mingw32","3.1.0","LGPLv2.1+"
