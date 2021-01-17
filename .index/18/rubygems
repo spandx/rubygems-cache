@@ -365,6 +365,8 @@
 "banacle","0.2.2",""
 "banacle","0.2.3",""
 "banacle","0.2.4",""
+"base58-alphabets","0.0.1","Public Domain"
+"base58-alphabets","0.1.0","Public Domain"
 "bayonet","0.2.0","MIT"
 "bayonet","0.2.1","MIT"
 "benchable","0.1.0","MIT"
