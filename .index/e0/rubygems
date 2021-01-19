@@ -2565,6 +2565,7 @@
 "spree_analytics_trackers","1.0.1","BSD-3-Clause"
 "spree_analytics_trackers","1.1.0","BSD-3-Clause"
 "spree_analytics_trackers","2.0.0","BSD-3-Clause"
+"spree_analytics_trackers","2.1.0","BSD-3-Clause"
 "spree_events_tracker","3.2.1","BSD-3"
 "sprockets-es6-coffee","1.0.0",""
 "sprockets-exporters_pack","0.1.1","MIT"

@@ -2704,6 +2704,7 @@
 "puppetlabs_spec_helper","2.14.0","Apache-2.0"
 "puppetlabs_spec_helper","2.14.1","Apache-2.0"
 "puppetlabs_spec_helper","2.15.0","Apache-2.0"
+"puppetlabs_spec_helper","2.16.0","Apache-2.0"
 "puppetlabs_spec_helper","2.2.0",""
 "puppetlabs_spec_helper","2.3.0",""
 "puppetlabs_spec_helper","2.3.1",""

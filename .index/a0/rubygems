@@ -93,6 +93,7 @@
 "activerecord-forbid_implicit_connection_checkout","0.3.0","MIT"
 "activerecord-forbid_implicit_connection_checkout","0.4.0","MIT"
 "activerecord-forbid_implicit_connection_checkout","1.0.0","MIT"
+"activerecord-forbid_implicit_connection_checkout","1.1.0","MIT"
 "activerecord-migration_notes","0.1.0","MIT"
 "acts_as_assets","0.0.1",""
 "acts_as_assets","0.0.2",""
