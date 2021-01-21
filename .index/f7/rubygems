@@ -676,6 +676,7 @@
 "csv_lazy","0.0.9","MIT"
 "csv_migration","0.0.1","MIT"
 "csv_migration","0.0.2","MIT"
+"csv_migration","0.0.3","MIT"
 "csv_record","1.0.1",""
 "csv_record","1.0.2",""
 "csv_record","1.4.0",""
