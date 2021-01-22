@@ -1700,6 +1700,7 @@
 "mechanize-store","0.0.2","MIT"
 "megam_htmlentities","4.3.4","MIT"
 "message_media_conversations","1.0.1","Apache-2.0"
+"message_media_conversations","1.0.2","Apache-2.0"
 "metarake","0.1.1",""
 "metasploit_data_models-java","0.11.2",""
 "metasploit_data_models-java","0.12.0",""
