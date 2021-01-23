@@ -3188,6 +3188,7 @@
 "vagrant-dns","2.0.0",""
 "vagrant-dns","2.1.0",""
 "vagrant-dns","2.2.0","MIT"
+"vagrant-dns","2.2.1","MIT"
 "vagrant-docker-nsenter","0.0.2","MIT"
 "valve","0.0.1","MIT"
 "vaulty","0.0.1","MIT"
