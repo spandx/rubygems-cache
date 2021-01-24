@@ -325,6 +325,7 @@
 "auto_screenshot","0.0.2",""
 "auto_screenshot","0.0.3","MIT"
 "awesome_fluent_logger","0.1.0","MIT"
+"awesome_fluent_logger","1.0.0","MIT"
 "aws_sns_manager","0.0.1","MIT"
 "ba_upload","0.1.0","MIT"
 "backup2everbox","0.1.1",""

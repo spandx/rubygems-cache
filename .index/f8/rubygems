@@ -564,6 +564,7 @@
 "bcardarella-decoder","0.6.1",""
 "bcardarella-decoder","0.6.3",""
 "bcardarella-decoder","0.6.4",""
+"bcdice","3.0.0","BSD-3-Clause"
 "bin_tools","0.0.3","MIT"
 "binding_of_caller-universal-rubinius","0.6.3",""
 "bio-executables","0.0.0",""
