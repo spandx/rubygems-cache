@@ -176,6 +176,7 @@
 "args_parser","0.2.0","MIT"
 "aritcaptcha-keeguon","2.0.6",""
 "asciidoctor-multipage","0.0.1","MIT"
+"asciidoctor-multipage","0.0.2","MIT"
 "ast_search","0.1.0",""
 "ast_search","0.2.0",""
 "auto_strip_attributes","1.0.0",""
