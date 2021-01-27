@@ -1201,6 +1201,8 @@
 "gayify","0.1.0","MIT"
 "gembuild","1.0.0","GPL-3.0+"
 "gen_sid","0.0.2","MIT"
+"gh-archive","0.1","GPL-3.0-only"
+"gh-archive","0.2","GPL-3.0-only"
 "gherkin3_reformat","0.0.1","MIT"
 "gigo","1.0.0",""
 "gigo","1.1.0",""

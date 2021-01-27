@@ -1882,6 +1882,8 @@
 "punchlist","1.1.1","MIT"
 "punchlist","1.2.0","MIT"
 "punchlist","1.3.0","MIT"
+"puppet-crypt","0.2.0",""
+"puppet-crypt","0.3.0",""
 "pwkeep","0.0.1","MIT"
 "pwkeep","0.0.2","MIT"
 "pwkeep","0.0.3","MIT"

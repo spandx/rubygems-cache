@@ -827,6 +827,7 @@
 "git_flow","0.1.4","MIT"
 "git_flow","0.1.5","MIT"
 "git_flow","0.1.6","MIT"
+"gitlab-exporter","10.0.0","MIT"
 "gitlab-exporter","5.0.0","MIT"
 "gitlab-exporter","5.0.1","MIT"
 "gitlab-exporter","5.1.0","MIT"
