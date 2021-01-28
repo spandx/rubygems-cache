@@ -1201,6 +1201,7 @@
 "gir_ffi-pretty_printer","0.0.6","LGPL-2.1+"
 "gir_ffi-pretty_printer","0.0.7","LGPL-2.1+"
 "gistcafe","0.1.0","BSD 2-Clause"
+"gistcafe","0.1.1","BSD 2-Clause"
 "glare","0.1.0","MIT"
 "glare","0.1.1","MIT"
 "glare","0.1.2","MIT"

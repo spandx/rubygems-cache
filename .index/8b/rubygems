@@ -2192,6 +2192,8 @@
 "once-only","0.0.1","MIT"
 "once-only","0.2.1","MIT"
 "once-only","0.2.2","MIT"
+"openhab-scripting","2.9.1",""
+"openhab-scripting","2.9.2",""
 "opscode-ohai","0.1.2",""
 "options_model","0.0.1","MIT"
 "options_model","0.0.10","MIT"

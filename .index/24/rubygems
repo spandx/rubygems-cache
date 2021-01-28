@@ -242,6 +242,7 @@
 "autoforme","1.9.1","MIT"
 "aws-sdk-customerprofiles","1.0.0","Apache-2.0"
 "aws-sdk-customerprofiles","1.1.0","Apache-2.0"
+"aws-sdk-customerprofiles","1.2.0","Apache-2.0"
 "aws-sdk-lexruntimev2","1.0.0","Apache-2.0"
 "awsbix","0.0.1","GPL-3.0-only"
 "awsbix","0.0.2","GPL-3.0-only"

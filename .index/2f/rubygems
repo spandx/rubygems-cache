@@ -333,6 +333,7 @@
 "capistrano-sqlite-reuse","1.0.0","MIT"
 "capistrano-sqlite-reuse","1.1.0","MIT"
 "capistrano-syslog","0.1.0","MIT"
+"capistrano-syslog","0.2.0","MIT"
 "captain_hoog","1.0","MIT"
 "captain_hoog","1.0.1","MIT"
 "captain_hoog","1.0.2","MIT"
