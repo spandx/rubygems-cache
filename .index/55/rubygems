@@ -2424,6 +2424,7 @@
 "patriot-sqlite3-client","0.6.0","Apache-2.0"
 "patriot-sqlite3-client","0.7.0","Apache License, Version 2.0"
 "patriot-sqlite3-client","0.7.0","Apache-2.0"
+"peatio-ripple-jruby","2.5.3","MIT"
 "peek-faraday","1.0.0",""
 "peek-faraday","2.0.0",""
 "peerstreet-client-pandawhisperer","0.1.0",""
