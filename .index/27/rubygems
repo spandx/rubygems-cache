@@ -1923,6 +1923,7 @@
 "opentelemetry-common","0.10.0","Apache-2.0"
 "opentelemetry-common","0.11.0","Apache-2.0"
 "opentelemetry-common","0.12.0","Apache-2.0"
+"opentelemetry-common","0.13.0","Apache-2.0"
 "opentelemetry-common","0.9.0","Apache-2.0"
 "opentelemetry-instrumentation-dalli","0.10.0","Apache-2.0"
 "opentelemetry-instrumentation-dalli","0.11.0","Apache-2.0"
