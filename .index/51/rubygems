@@ -761,6 +761,8 @@
 "dimkiriyenko-kaminari","0.12.6",""
 "direct_upload-gcs","0.1.0","MIT"
 "direct_upload-gcs","0.1.1","MIT"
+"distributed-press-api-client","0.1.0","AGPL-3.0"
+"distributed-press-api-client","0.1.1","AGPL-3.0"
 "dito_utils","0.1.0","MIT"
 "dito_utils","0.1.1","MIT"
 "dj_split","1.0.0","MIT"

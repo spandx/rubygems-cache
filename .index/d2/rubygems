@@ -1062,6 +1062,7 @@
 "ey-core","3.4.4","MIT"
 "ey-core","3.5.0","MIT"
 "ey-core","3.6.1","MIT"
+"fastlane-plugin-opendir","0.1.0","MIT"
 "favourite-language","0.1.0",""
 "favourite-language","0.1.1",""
 "ffi-java","1.0.6",""

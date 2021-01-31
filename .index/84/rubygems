@@ -1750,6 +1750,7 @@
 "opentelemetry-instrumentation-sinatra","0.10.0","Apache-2.0"
 "opentelemetry-instrumentation-sinatra","0.11.0","Apache-2.0"
 "opentelemetry-instrumentation-sinatra","0.12.0","Apache-2.0"
+"opentelemetry-instrumentation-sinatra","0.13.0","Apache-2.0"
 "opentelemetry-instrumentation-sinatra","0.5.0","Apache-2.0"
 "opentelemetry-instrumentation-sinatra","0.6.0","Apache-2.0"
 "opentelemetry-instrumentation-sinatra","0.7.0","Apache-2.0"
