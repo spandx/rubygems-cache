@@ -2558,6 +2558,7 @@
 "rubrowser","2.7.1","MIT"
 "rubrowser","2.8.0","MIT"
 "rubrowser","2.9.0","MIT"
+"rubrowser","2.9.1","MIT"
 "ruby-growl","4.0",""
 "ruby-growl","4.1","BSD 3-clause"
 "ruby-virtualenv","0.5.1",""

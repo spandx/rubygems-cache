@@ -832,6 +832,8 @@
 "dashboard-rails","1.0.0","MIT"
 "database_cleaner-mongoid","1.8.0","MIT"
 "database_cleaner-mongoid","1.8.1","MIT"
+"database_cleaner-mongoid","1.99.0","MIT"
+"database_cleaner-mongoid","2.0.1","MIT"
 "dcd","0.0.1","MIT"
 "dd-vault","0.12.0","MPL-2.0"
 "debug_print_ext","0.0.1","MIT"

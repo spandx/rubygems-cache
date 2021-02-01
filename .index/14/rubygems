@@ -662,6 +662,7 @@
 "data_portal_api","0.0.4",""
 "date_as_string","0.0.6",""
 "date_as_string","0.1.0","MIT"
+"date_queries","0.1.0","MIT"
 "ddsl","0.0.1","MIT"
 "ddsl","0.0.2","MIT"
 "ddsl","0.0.3","MIT"

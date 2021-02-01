@@ -1953,6 +1953,7 @@
 "que-scheduler","4.0.1","MIT"
 "que-scheduler","4.0.2","MIT"
 "que-scheduler","4.0.3","MIT"
+"que-scheduler","4.1.0","MIT"
 "rabbit-slide-tommy-mysqluc","1.0.0",""
 "rabbit-slide-unasuke-omotesandorb-51","1.0.0",""
 "rack-amqp-client","0.0.2","MIT"

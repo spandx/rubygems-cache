@@ -1809,6 +1809,7 @@
 "mobility-ransack","0.2.2","MIT"
 "mobility-ransack","1.0.0","MIT"
 "model_concerns","0.0.9","MIT"
+"model_transporter","0.1.0","MIT"
 "modui-rails","0.0.1",""
 "modui-rails","0.0.2",""
 "modui-rails","0.1.0",""

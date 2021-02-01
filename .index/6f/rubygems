@@ -993,6 +993,8 @@
 "data-table","2.0.2","Nonstandard"
 "data-table","2.0.3","MIT"
 "database_cleaner-redis","1.8.0","MIT"
+"database_cleaner-redis","1.99.0","MIT"
+"database_cleaner-redis","2.0.0","MIT"
 "date_time_picker","0.5.3",""
 "date_time_picker","0.5.4",""
 "date_time_picker","0.5.6",""

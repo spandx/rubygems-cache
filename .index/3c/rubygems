@@ -1599,6 +1599,8 @@
 "license-generator","0.4.1",""
 "license-generator","1.0.0",""
 "lit-cli","0.0.1","MPL-2.0"
+"lit-cli","0.0.2","MPL-2.0"
+"lit-cli","0.0.3","MPL-2.0"
 "lita-jira-issues-redux","0.0.1","MIT"
 "lita-onewheel-aqi","0.0.0","MIT"
 "lita-onewheel-aqi","0.0.1","MIT"
