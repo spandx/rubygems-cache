@@ -1328,6 +1328,7 @@
 "grape-nested_resources","0.3.0",""
 "grape-resources","0.0.2","MIT"
 "grpc-google-iam-v1","0.6.10","Apache-2.0"
+"grpc-google-iam-v1","0.6.11","Apache-2.0"
 "grpc-google-iam-v1","0.6.8","Apache-2.0"
 "grpc-google-iam-v1","0.6.9","BSD-3-Clause"
 "guignol","0.3.10",""

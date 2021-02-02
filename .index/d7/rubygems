@@ -268,6 +268,7 @@
 "azure_mgmt_cosmosdb","0.21.1","MIT"
 "azure_mgmt_cosmosdb","0.21.2","MIT"
 "azure_mgmt_cosmosdb","0.22.0","MIT"
+"azure_mgmt_cosmosdb","0.23.0","MIT"
 "azure_mgmt_service_fabric","0.14.0","MIT"
 "azure_mgmt_service_fabric","0.15.0","MIT"
 "azure_mgmt_service_fabric","0.15.1","MIT"
