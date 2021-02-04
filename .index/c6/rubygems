@@ -2668,6 +2668,7 @@
 "pkg-config","1.4.2","LGPLv2+"
 "pkg-config","1.4.3","LGPLv2+"
 "pkg-config","1.4.4","LGPLv2+"
+"pkg-config","1.4.5","LGPLv2+"
 "plyom_user","0.0.1","MIT"
 "plyom_user","0.0.2","MIT"
 "plyom_user","0.0.3","MIT"

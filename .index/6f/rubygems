@@ -2224,6 +2224,7 @@
 "logstash-input-sls","0.0.2","MIT"
 "logstash-input-sls","0.0.4","MIT"
 "logstash-input-sls","0.0.5","MIT"
+"logstash-input-sls","0.0.6","MIT"
 "logstash-output-jms","2.0.1","Apache-2.0"
 "logstash-output-jms","2.0.2","Apache-2.0"
 "logstash-output-jms","2.0.4","Apache-2.0"
