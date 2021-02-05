@@ -1820,6 +1820,7 @@
 "json-generator","0.1.0","MIT"
 "jsonapi-resources-coercion","0.1.0","MIT"
 "jsonapi-resources-coercion","0.1.1","MIT"
+"jsonapi-resources-coercion","0.2.0","MIT"
 "jsonapionify","0.10.0","MIT"
 "jsonapionify","0.10.1","MIT"
 "jsonapionify","0.10.2","MIT"

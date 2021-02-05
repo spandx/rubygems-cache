@@ -753,6 +753,7 @@
 "crunch-api","0.0.2","MIT"
 "crypto_cold_store_client","0.1.0","MIT"
 "crypto_cold_store_client","1.0.0","MIT"
+"crypto_cold_store_client","1.1.0","MIT"
 "cryptocoin_payable","1.0.0","MIT"
 "cryptocoin_payable","1.0.1","MIT"
 "cryptocoin_payable","1.1.0","MIT"

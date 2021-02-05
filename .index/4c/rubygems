@@ -2558,6 +2558,7 @@
 "redis-namespace","1.6.0","MIT"
 "redis-namespace","1.7.0","MIT"
 "redis-namespace","1.8.0","MIT"
+"redis-namespace","1.8.1","MIT"
 "redis_analytics","0.1.0",""
 "redis_analytics","0.6.0",""
 "redis_analytics","0.7.1","MIT"
