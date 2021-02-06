@@ -1034,6 +1034,7 @@
 "explainer-rmb-rails","0.1.6",""
 "expressir-x86_64-darwin","0.2.7","MIT"
 "expressir-x86_64-darwin","0.2.8","MIT"
+"expressir-x86_64-darwin","0.2.9","MIT"
 "ext_ipaddr","0.1.0",""
 "ext_ipaddr","0.1.1","MIT"
 "extraloop-redis-storage","0.0.2",""
