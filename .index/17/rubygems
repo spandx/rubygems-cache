@@ -1287,6 +1287,7 @@
 "fluent-plugin-inline-classifier","0.1.0","Apache-2.0"
 "fluent-plugin-parser-avro","0.1.0","Apache-2.0"
 "fluent-plugin-parser-avro","0.2.0","Apache-2.0"
+"fluent-plugin-parser-avro","0.3.0","Apache-2.0"
 "fog-hadoop","0.1.1","MIT"
 "footballdb-leagues","0.0.1","Public Domain"
 "footballdb-leagues","0.1.0","Public Domain"
