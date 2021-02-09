@@ -60,6 +60,8 @@
 "active_record_host_pool","0.9.5","MIT"
 "active_record_host_pool","1.0.0","MIT"
 "active_record_host_pool","1.0.1","MIT"
+"active_record_host_pool","1.0.2","MIT"
+"active_record_host_pool","1.0.3","MIT"
 "activejob-google-cloud-pubsub","0.7.2","MIT"
 "activejob-google-cloud-pubsub","0.7.3","MIT"
 "activerecord-jdbc-adapter","1.2.0",""

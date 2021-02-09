@@ -1161,6 +1161,7 @@
 "gnuplot","2.6.2",""
 "google-apis-admin_reports_v1","0.1.0","Apache-2.0"
 "google-apis-area120tables_v1alpha1","0.1.0","Apache-2.0"
+"google-apis-area120tables_v1alpha1","0.2.0","Apache-2.0"
 "google-apis-groupsmigration_v1","0.1.0","Apache-2.0"
 "google-apis-policytroubleshooter_v1","0.1.0","Apache-2.0"
 "gosu_android","0.0.1","MIT"

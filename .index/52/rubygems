@@ -1072,6 +1072,7 @@
 "gobject-introspection","3.4.2","LGPL-2.1+"
 "gobject-introspection","3.4.3","LGPL-2.1+"
 "google-apis-bigquerydatatransfer_v1","0.1.0","Apache-2.0"
+"google-apis-bigquerydatatransfer_v1","0.2.0","Apache-2.0"
 "google-apis-domainsrdap_v1","0.1.0","Apache-2.0"
 "googleplay_dev_scraper","1.0.0",""
 "googleplay_dev_scraper","1.0.1","Public Domain"

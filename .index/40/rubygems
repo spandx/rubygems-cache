@@ -836,6 +836,7 @@
 "goodguide-pinglish","1.2.0",""
 "goodguide-pinglish","1.2.1",""
 "google-apis-sts_v1beta","0.1.0","Apache-2.0"
+"google-apis-sts_v1beta","0.2.0","Apache-2.0"
 "google-cloud-service_control","0.1.0","Apache-2.0"
 "google-cloud-service_control","0.1.1","Apache-2.0"
 "google-cloud-service_control","0.1.2","Apache-2.0"

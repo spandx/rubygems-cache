@@ -2153,6 +2153,7 @@
 "glimmer-cs-calculator","1.1.3","MIT"
 "globalize_overlap_checker","0.1.0",""
 "google-apis-compute_beta","0.1.0","Apache-2.0"
+"google-apis-compute_beta","0.2.0","Apache-2.0"
 "google-apis-firebaserules_v1","0.1.0","Apache-2.0"
 "google-apis-poly_v1","0.1.0","Apache-2.0"
 "google-cloud-artifact_registry","0.1.0","Apache-2.0"
