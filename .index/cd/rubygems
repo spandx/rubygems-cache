@@ -203,6 +203,7 @@
 "activesupport","6.0.3.4","MIT"
 "activesupport","6.1.0","MIT"
 "activesupport","6.1.1","MIT"
+"activesupport","6.1.2","MIT"
 "activity_stream_client","0.0.10",""
 "activity_stream_client","0.0.11",""
 "activity_stream_client","0.0.12",""

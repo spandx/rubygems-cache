@@ -104,6 +104,7 @@
 "active_record-acts_as","4.0.3","MIT"
 "active_record-acts_as","5.0.0","MIT"
 "active_record-acts_as","5.0.1","MIT"
+"active_record-acts_as","5.0.2","MIT"
 "active_record_rollout","0.0.1","MIT"
 "activerecord-insert_many","0.1.0",""
 "activerecord-insert_many","0.1.1",""

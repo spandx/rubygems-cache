@@ -1494,6 +1494,7 @@
 "gem_updater","4.1.0","MIT"
 "gem_updater","4.3.0","MIT"
 "gem_updater","4.4.0","MIT"
+"gem_updater","4.4.1","MIT"
 "generate_rc_file","0.0.17","GPL-2.0"
 "gennaro","0.1","WTFPL"
 "gennaro","0.1.1","WTFPL"
