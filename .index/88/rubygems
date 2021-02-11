@@ -2359,6 +2359,7 @@
 "s3stream","0.0.7",""
 "s3stream","0.0.9",""
 "safe_credentials","0.0.1","MIT"
+"sageid-ruby","3000.0.0","MIT"
 "salt-lint","0.1.1","MIT"
 "salt-lint","0.1.2","MIT"
 "salt-lint","0.1.4.1","MIT"

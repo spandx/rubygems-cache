@@ -416,6 +416,8 @@
 "command_processor","0.1.6","MIT"
 "command_processor","0.1.7","MIT"
 "comment_strip-ruby","0.0.13","BSD-3-Clause"
+"comment_strip-ruby","0.1.0","BSD-3-Clause"
+"comment_strip-ruby","0.1.1","BSD-3-Clause"
 "confgit","0.0.3",""
 "confgit","0.0.4",""
 "confgit","0.0.5",""

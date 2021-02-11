@@ -2450,6 +2450,7 @@
 "puppet-module-win-default-r2.5","1.0.0","Apache-2.0"
 "puppet-module-win-default-r2.5","1.0.1","Apache-2.0"
 "puppet-module-win-default-r2.5","1.0.2","Apache-2.0"
+"puppet-module-win-default-r2.5","1.1.0","Apache-2.0"
 "puppet_readme_generator","0.1.0","Apache"
 "puppet_readme_generator","0.1.1","Apache"
 "puppet_readme_generator","0.2.0","Apache"

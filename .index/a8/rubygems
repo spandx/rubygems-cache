@@ -1818,6 +1818,7 @@
 "mongo_mapper","0.15.0","MIT"
 "mongo_mapper","0.15.1","MIT"
 "mongo_mapper","0.15.2","MIT"
+"mongo_mapper","0.15.3","MIT"
 "mongo_mapper","0.9.0",""
 "motion-steward","1.0.0","MIT"
 "motion-steward","1.0.1","MIT"

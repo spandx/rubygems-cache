@@ -36,6 +36,7 @@
 "activerecord-opentracing","0.2.0","MIT"
 "activerecord-opentracing","0.2.1","MIT"
 "activerecord-opentracing","0.3.0","MIT"
+"activerecord-opentracing","0.3.1","MIT"
 "activerecord-stream","0.0.1","MIT"
 "activesearch","0.0.1",""
 "activesearch","0.0.10",""
