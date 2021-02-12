@@ -430,6 +430,7 @@
 "civility","3","MIT"
 "civility","4","MIT"
 "civility","5","MIT"
+"clio_setup","0.0.0",""
 "closeio-rails","0.1.0","MIT"
 "closeio-rails","0.2.0","MIT"
 "cloudwatchlogger","0.1.0","http://opensource.org/licenses/MIT"

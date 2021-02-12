@@ -180,6 +180,7 @@
 "async_io","0.0.4","MIT"
 "async_io","0.0.5","MIT"
 "aurelian-ruby-stemmer","0.5.4",""
+"auto_db","0.0.0",""
 "autobuild","1.10.0","BSD"
 "autobuild","1.10.1","BSD"
 "autobuild","1.11.0","BSD"
