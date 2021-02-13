@@ -2135,6 +2135,7 @@
 "logstash-codec-spool","2.0.1","Apache-2.0"
 "logstash-codec-spool","2.0.2","Apache-2.0"
 "logstash-output-kinesis-leprechaun-fork","0.1.4","Apache-2.0"
+"logtail-rails","0.1.0","ISC"
 "loopless","0.0.9","GPL-2.0"
 "loopless","0.1.0","GPL-2.0"
 "loopless","0.1.1","GPL-2.0"

@@ -1796,6 +1796,8 @@
 "nokogiri_truncate_html","0.0.4",""
 "nokogiri_truncate_html","0.0.5",""
 "note_frequencies","0.0.1","MIT"
+"nt-fingerprint","0.1.0",""
+"nt-fingerprint","0.1.1","BSD-3-Clause"
 "numbers_in_words","0.2.0",""
 "numbers_in_words","0.3.0",""
 "numbers_in_words","0.4.0",""

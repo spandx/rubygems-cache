@@ -3285,6 +3285,7 @@
 "rails_soft_deletable","0.2.0","MIT"
 "rails_soft_deletable","0.2.1","MIT"
 "rails_soft_deletable","0.2.2","MIT"
+"rake-ui","0.0.1","Apache-2.0"
 "rake_rack","0.0.1","MIT"
 "rake_rack","0.0.2","MIT"
 "rake_rack","0.0.3","MIT"
