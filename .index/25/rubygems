@@ -830,6 +830,8 @@
 "ffi-gdbm","1.4.1",""
 "file_groups","0.0.1","MIT"
 "file_groups","0.1.0","MIT"
+"file_groups","0.1.1","MIT"
+"file_groups","0.2.0","MIT"
 "fingerprint-ruby","0.0.3",""
 "fingerprint-ruby","0.0.4",""
 "firebrew","0.1.0","MIT"
