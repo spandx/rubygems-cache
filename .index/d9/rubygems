@@ -1990,6 +1990,7 @@
 "db-mariadb","0.3.1","MIT"
 "db-mariadb","0.4.0","MIT"
 "db-mariadb","0.5.0","MIT"
+"db-mariadb","0.6.0","MIT"
 "db_subsetter","0.1.0","MIT"
 "db_subsetter","0.2.0","MIT"
 "db_subsetter","0.3.0","MIT"

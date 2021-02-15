@@ -1765,6 +1765,7 @@
 "logstash-output-riak","3.0.4","Apache-2.0"
 "logstash-output-riak","3.0.5","Apache-2.0"
 "logtail-ruby","0.1.0","ISC"
+"logtail-ruby","0.1.1","ISC"
 "loica-build","0.1.0",""
 "lunanode","0.1.5","MIT"
 "lunanode","0.1.6","MIT"

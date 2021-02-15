@@ -1362,6 +1362,7 @@
 "go_figure","0.0.6",""
 "go_figure","0.0.8",""
 "google-apis-container_v1beta1","0.1.0","Apache-2.0"
+"google-apis-container_v1beta1","0.2.0","Apache-2.0"
 "google-apis-firebaseml_v1","0.1.0","Apache-2.0"
 "google-apis-pubsub_v1beta1a","0.1.0","Apache-2.0"
 "google_forms","0.0.1","MIT"

@@ -1961,6 +1961,7 @@
 "google-apis-compute_alpha","0.2.0","Apache-2.0"
 "google-apis-dialogflow_v3","0.1.0","Apache-2.0"
 "google-apis-dialogflow_v3","0.2.0","Apache-2.0"
+"google-apis-dialogflow_v3","0.3.0","Apache-2.0"
 "google-cloud-spanner-admin-database-v1","0.1.0","Apache-2.0"
 "google-cloud-spanner-admin-database-v1","0.1.1","Apache-2.0"
 "google-cloud-spanner-admin-database-v1","0.1.2","Apache-2.0"

@@ -916,6 +916,7 @@
 "google-apis-lifesciences_v2beta","0.1.0","Apache-2.0"
 "google-apis-lifesciences_v2beta","0.2.0","Apache-2.0"
 "google-apis-reseller_v1","0.1.0","Apache-2.0"
+"google-apis-reseller_v1","0.2.0","Apache-2.0"
 "gorm","0.0.2",""
 "gorm","0.0.3",""
 "gorm","0.0.4",""

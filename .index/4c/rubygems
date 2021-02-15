@@ -2380,6 +2380,7 @@
 "omniauth-salesloft","1.0.0","MIT"
 "opn","1.0.53","GPL-2.0"
 "optparse-plus","3.0.0",""
+"optparse-plus","3.0.1",""
 "org2slides","0.2.0",""
 "organized_routes","1.0.0",""
 "page_fragments","0.0.1","MIT"
