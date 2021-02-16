@@ -1099,6 +1099,7 @@
 "flow_core","0.0.5","MIT"
 "flow_core","0.0.6","MIT"
 "fluent-plugin-dynatrace","0.1.0","Apache-2.0"
+"fluent-plugin-dynatrace","0.1.1","Apache-2.0"
 "fluent-plugin-grpc","0.0.2","MIT"
 "fluent-plugin-netflow","0.0.1","Apache-2.0"
 "fluent-plugin-netflow","0.0.2","Apache-2.0"
