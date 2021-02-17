@@ -1761,6 +1761,7 @@
 "nedforce-sidekiq-client-cli","0.1.7","MIT"
 "nedski-flood","0.1.0",""
 "neighbor","0.1.0","MIT"
+"neighbor","0.1.1","MIT"
 "newrelic-curb","0.0.1","MIT"
 "newrelic-curb","0.0.2","MIT"
 "nfse_issnet","0.1.1","MIT"

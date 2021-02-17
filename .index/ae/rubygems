@@ -1582,6 +1582,7 @@
 "mimi-messaging-sqs_sns","0.5.0","MIT"
 "mimi-messaging-sqs_sns","0.6.1","MIT"
 "mimi-messaging-sqs_sns","0.7.0","MIT"
+"mimi-messaging-sqs_sns","0.8.0","MIT"
 "minitar","0.5.4",""
 "minitar","0.6","Ruby-|-BSD-2-Clause"
 "minitar","0.6.1","Ruby-|-BSD-2-Clause"

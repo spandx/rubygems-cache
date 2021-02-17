@@ -686,6 +686,7 @@
 "fast-rsa-engine","0.4.0","MIT"
 "fast-rsa-engine","0.4.2","MIT"
 "fastlane-plugin-emerge","0.1.0","MIT"
+"fastlane-plugin-emerge","0.1.2","MIT"
 "fastlane-plugin-review_time","0.1.0","MIT"
 "favorite_things","0.1.4","WTFPL"
 "favorite_things","0.1.5","WTFPL"
