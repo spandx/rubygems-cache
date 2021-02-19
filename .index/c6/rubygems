@@ -192,6 +192,7 @@
 "active_record-pgcrypto","0.2.3","MIT"
 "active_record-pgcrypto","0.2.4","MIT"
 "active_record-pgcrypto","0.2.5","MIT"
+"active_record-pgcrypto","0.2.6","MIT"
 "activeadmin-globalize3","0.0.2",""
 "activeadmin-index_as_calendar","0.0.10","MIT"
 "activeadmin-index_as_calendar","0.0.11","MIT"

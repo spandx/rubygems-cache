@@ -1534,6 +1534,7 @@
 "opentelemetry-propagator-b3","0.12.0","Apache-2.0"
 "opentelemetry-propagator-b3","0.13.0","Apache-2.0"
 "opentelemetry-propagator-b3","0.14.0","Apache-2.0"
+"opentelemetry-propagator-b3","0.15.0","Apache-2.0"
 "opentelemetry-propagator-b3","0.8.0","Apache-2.0"
 "opentelemetry-propagator-b3","0.9.0","Apache-2.0"
 "ops_preflight","0.9.0",""

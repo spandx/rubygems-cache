@@ -141,6 +141,8 @@
 "asciidoctor-texnical","0.0.1","MIT"
 "asciidoctor-texnical","0.0.2","MIT"
 "asciimath2unitsml","0.0.2","BSD-2-Clause"
+"asciimath2unitsml","0.1.0","BSD-2-Clause"
+"asciimath2unitsml","0.1.1","BSD-2-Clause"
 "asset_manager","0.1.0",""
 "assets-library-for-hanami","3.0.0","MIT"
 "async-pool","0.1.0",""
