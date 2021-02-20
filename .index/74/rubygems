@@ -788,6 +788,7 @@
 "fluent-plugin-modsecurity","0.1.6","MIT"
 "fluent-plugin-parser-cri","0.1.0","Apache-2.0"
 "fluent-plugin-postgresql-csvlog","0.0.1",""
+"fluent-plugin-postgresql-csvlog","0.0.2",""
 "fluent-plugin-redis_list_poller","0.1.0","apache2"
 "fluent-plugin-redis_list_poller","1.0.0","apache2"
 "fluent-plugin-redis_list_poller","1.0.1","apache2"

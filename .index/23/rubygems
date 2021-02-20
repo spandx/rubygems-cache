@@ -2187,6 +2187,7 @@
 "prologix-gpib-ethernet","0.1.2","MIT"
 "prologix-gpib-ethernet","0.1.2.1","MIT"
 "proto_pharm","0.6.0","MIT"
+"proto_pharm","0.7.0","MIT"
 "pry-better_rails","0.0.1",""
 "pry-better_rails","0.1.0",""
 "pry-better_rails","0.2.0",""
