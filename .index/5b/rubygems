@@ -86,6 +86,7 @@
 "activerecord_enum","0.4.1",""
 "activerecord_i18n","0.1.1","MIT"
 "activerecord_i18n","0.1.2","MIT"
+"activerecord_i18n","0.1.4","MIT"
 "acts_as_soft_delete_by_field","1.0.3",""
 "ajsharp-sinatra-respond_to","0.8.0",""
 "ale","0.0.1",""
