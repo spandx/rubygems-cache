@@ -420,6 +420,7 @@
 "cid","0.3.2","MIT"
 "circular","0.0.1","MIT"
 "circular","0.0.2","MIT"
+"class-cattr","0.1.0","MIT"
 "climax","0.0.1",""
 "climax","0.0.10",""
 "climax","0.0.11",""

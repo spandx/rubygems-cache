@@ -2083,6 +2083,7 @@
 "rails_agnostic_models","0.0.6","MIT"
 "rails_agnostic_models","0.0.7","MIT"
 "rails_agnostic_models","0.0.8","MIT"
+"rails_api_logger","0.1.1","MIT"
 "rails_on_heroku","0.0.2","LICENSE"
 "rails_sync","0.1.0","LGPL-3.0"
 "rake-assets","1.0.0",""
