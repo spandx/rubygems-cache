@@ -67,6 +67,7 @@
 "active_delegate","1.0.8","MIT"
 "active_model_serializers-jsonapi_embedded_records_deserializer","0.1.0","MIT"
 "active_model_serializers-jsonapi_embedded_records_deserializer","0.1.1","MIT"
+"active_record_extended_telescope","2.0.1","MIT"
 "active_record_tweaks","0.1","MIT"
 "active_record_tweaks","0.2.0","MIT"
 "active_record_tweaks","0.2.1","MIT"
