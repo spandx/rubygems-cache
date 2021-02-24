@@ -2423,6 +2423,7 @@
 "this_feature-adapters-split_io","0.5.1","MIT"
 "this_feature-adapters-split_io","0.5.2","MIT"
 "this_feature-adapters-split_io","0.5.3","MIT"
+"this_feature-adapters-split_io","0.6.0","MIT"
 "thjalfi","0.0.1","MIT"
 "tida_template","0.0.1",""
 "tida_template","0.0.3",""
@@ -2794,4 +2795,5 @@
 "zutils","1.0.1","MIT"
 "zutils","1.0.2","MIT"
 "zutils","1.1.0","MIT"
+"zutils","1.1.1","MIT"
 "zxygemm","0.0.1","MIT"

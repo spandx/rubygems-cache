@@ -2676,6 +2676,7 @@
 "rsolr-cloud","1.0.0","MIT"
 "rsolr-cloud","1.1.0","MIT"
 "rsolr-cloud","1.1.1","MIT"
+"rsolr-cloud","1.1.2","MIT"
 "rspec-matchers-adhere_to_schema","0.1.0","MIT"
 "rspec-matchers-adhere_to_schema","0.1.1","MIT"
 "rspecify","0.1.4",""

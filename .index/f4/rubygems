@@ -1219,6 +1219,7 @@
 "gmaps-autocomplete-rails","0.3.1","MIT"
 "google-apis-artifactregistry_v1","0.1.0","Apache-2.0"
 "google-apis-run_v1","0.1.0","Apache-2.0"
+"google-cloud-domains","0.1.0","Apache-2.0"
 "google-cloud-media_translation","0.1.0","Apache-2.0"
 "google-cloud-media_translation","0.1.1","Apache-2.0"
 "google-cloud-media_translation","0.1.2","Apache-2.0"

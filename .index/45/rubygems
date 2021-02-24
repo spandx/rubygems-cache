@@ -235,6 +235,7 @@
 "axi_tdl","0.0.5","LGPL-2.1"
 "axi_tdl","0.0.6","LGPL-2.1"
 "axi_tdl","0.0.7","LGPL-2.1"
+"axi_tdl","0.0.8","LGPL-2.1"
 "backport","0.1.0","MIT"
 "backport","0.2.0","MIT"
 "backport","0.3.0","MIT"

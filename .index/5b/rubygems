@@ -1945,6 +1945,7 @@
 "rack-test-rest","0.7.1","MIT"
 "rack-test-rest","0.8.0","MIT"
 "rack-test-rest","0.8.1","MIT"
+"rack_content_type_default","1.1.0",""
 "radiant-twitter-extension","2.0.0",""
 "radiant-twitter-extension","2.0.1",""
 "radiant-twitter-extension","2.0.4",""

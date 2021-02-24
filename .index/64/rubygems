@@ -3833,6 +3833,7 @@
 "magnetize","2.3.0","MIT"
 "mailmerge","0.1.0","MIT"
 "mailmerge","0.1.1","MIT"
+"manageiq-providers-ibm_cloud","0.0.1","Apache-2.0"
 "manifest-dl","0.1.0","LGPLv3+"
 "manifest-dl","0.1.1","LGPLv3+"
 "manifest-dl","0.1.2","LGPLv3+"
