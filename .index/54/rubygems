@@ -2697,6 +2697,7 @@
 "rt_rubocop_defaults","2.1.0","MIT"
 "rt_rubocop_defaults","2.2.0","MIT"
 "rt_rubocop_defaults","2.3.0","MIT"
+"rt_rubocop_defaults","2.3.1","MIT"
 "rubocop-sorbet","0.0.2","MIT"
 "rubocop-sorbet","0.1.0","MIT"
 "rubocop-sorbet","0.2.0","MIT"

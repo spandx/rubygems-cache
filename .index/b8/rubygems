@@ -2438,6 +2438,7 @@
 "shrinker","0.1.2",""
 "sidekiq-dry","1.0.0","MIT"
 "sidekiq-dry","1.1.0","MIT"
+"sidekiq-dry","1.1.1","MIT"
 "sigep_web","0.1.0","MIT"
 "sigep_web","0.2.0","MIT"
 "sigep_web","0.2.1","MIT"

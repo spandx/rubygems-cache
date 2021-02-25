@@ -634,6 +634,7 @@
 "deepstream","1.0.5","Apache-2.0"
 "deepstream","1.0.6","Apache-2.0"
 "deepstream","1.0.7","Apache-2.0"
+"deepstream","1.0.8","Apache-2.0"
 "delayed_job_status","0.0.1","MIT"
 "delayed_job_status","0.0.2","MIT"
 "delayed_job_status","0.0.3","MIT"
