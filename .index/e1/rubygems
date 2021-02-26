@@ -233,6 +233,7 @@
 "azure_mgmt_container_instance","0.17.4","MIT"
 "azure_mgmt_container_instance","0.17.5","MIT"
 "azure_mgmt_container_instance","0.17.6","MIT"
+"azure_mgmt_container_instance","0.18.0","MIT"
 "badgerkit","0.0.1","MIT"
 "badgerkit","0.0.10","MIT"
 "badgerkit","0.0.11","MIT"

@@ -318,6 +318,7 @@
 "aws-sdk-gluedatabrew","1.2.0","Apache-2.0"
 "aws-sdk-gluedatabrew","1.3.0","Apache-2.0"
 "aws-sdk-gluedatabrew","1.4.0","Apache-2.0"
+"aws-sdk-gluedatabrew","1.5.0","Apache-2.0"
 "aws_xregion_sync","0.1","MIT"
 "b2b_center_api","0.0.1","MIT"
 "b2b_center_api","0.0.10","MIT"

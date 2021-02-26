@@ -246,6 +246,7 @@
 "azure_mgmt_iot_central","0.19.1","MIT"
 "azure_mgmt_iot_central","0.19.2","MIT"
 "azure_mgmt_iot_central","0.19.3","MIT"
+"azure_mgmt_iot_central","0.19.4","MIT"
 "babar","0.0.1",""
 "babar","0.0.2",""
 "bad_link_finder","0.0.1","MIT"
