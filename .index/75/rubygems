@@ -527,6 +527,7 @@
 "captcha_img","0.0.0",""
 "capybara-rails","0.0.1","MIT"
 "capybara-rails","0.0.2","MIT"
+"card-mod-style","0.11.0","GPL-3.0"
 "cardcounter","0.1.11","MIT"
 "cardcounter","0.1.12","MIT"
 "certmeister","0.0.1","MIT"
