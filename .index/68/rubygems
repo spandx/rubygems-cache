@@ -2486,6 +2486,7 @@
 "ruby-epeg","0.1.1","MIT"
 "ruby-epeg","0.1.2","MIT"
 "ruby-opengl2","0.60.6",""
+"ruby-pota-csv-to-adif","0.0.1","MIT"
 "ryc","0.0.0","nil"
 "ryc","0.0.1","nil"
 "saal","0.2.21",""
