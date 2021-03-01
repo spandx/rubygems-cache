@@ -1265,6 +1265,7 @@
 "glimpse-svn","1.0.1",""
 "google-apis-dns_v1","0.1.0","Apache-2.0"
 "google-apis-dns_v1","0.2.0","Apache-2.0"
+"google-apis-dns_v1","0.3.0","Apache-2.0"
 "google-cloud-os_login-v1","0.1.0","Apache-2.0"
 "google-cloud-os_login-v1","0.2.0","Apache-2.0"
 "google-cloud-os_login-v1","0.2.1","Apache-2.0"

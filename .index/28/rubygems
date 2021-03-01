@@ -939,6 +939,7 @@
 "fastlane-plugin-sftp","1.0.0","MIT"
 "fastlane-plugin-sftp","1.1.0","MIT"
 "fastlane-plugin-sftp","1.2.0","MIT"
+"fastlane-plugin-yalantis_ci","0.1.0","MIT"
 "fc2_get","1.0.1","MIT"
 "fc2_get","1.0.2","MIT"
 "fc2_get","1.0.3","MIT"

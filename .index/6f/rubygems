@@ -912,6 +912,8 @@
 "cocoadex","1.2",""
 "cocoadex","1.5.1",""
 "cocoadex","1.5.2",""
+"cocoapods-catalyst-support","0.1.0","MIT"
+"cocoapods-catalyst-support","0.1.1","MIT"
 "cocoapods-dependency-html","0.0.1","MIT"
 "cocoapods-dependency-html","0.0.2","MIT"
 "cocoapods-repo-update","0.0.1","GPL-2.0"

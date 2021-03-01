@@ -1280,6 +1280,7 @@
 "jsonapi-serializer-formats","0.0.3","MIT"
 "jsonapi-serializer-formats","0.0.4","MIT"
 "jsonapi-serializer-formats","0.0.5","MIT"
+"jsonapi-serializer-formats","0.0.6","MIT"
 "jsonrpc2","0.0.5",""
 "jsonrpc2","0.1.0",""
 "jsonrpc2","0.1.1",""
