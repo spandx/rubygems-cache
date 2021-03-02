@@ -2522,6 +2522,8 @@
 "punching_bag","0.6.0","MIT"
 "punching_bag","0.6.1","MIT"
 "punching_bag","0.7.0","MIT"
+"pupilfirst_xapi","0.1.0","GPL-3.0-or-later"
+"pupilfirst_xapi","0.2.0","GPL-3.0-or-later"
 "puppet-lint-empty_string-check","0.2.1","Apache-2.0"
 "puppet-lint-empty_string-check","0.2.2","Apache-2.0"
 "puppetdb-terminus","1.0",""
