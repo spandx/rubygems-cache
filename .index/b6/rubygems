@@ -541,6 +541,7 @@
 "dir_sync","0.1.2",""
 "discourse_mail_receiver","1.0.0","MIT"
 "discourse_mail_receiver","4.0.6","MIT"
+"discourse_mail_receiver","4.0.7","MIT"
 "dl","0.0.3",""
 "dl","1.2.3",""
 "dm-grape-hypertext_application_language","0.0.0","MIT"

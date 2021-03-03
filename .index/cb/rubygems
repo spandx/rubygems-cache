@@ -2243,6 +2243,7 @@
 "sbdevcore","0.2.5",""
 "sbdevcore","0.3.10",""
 "sbdevcore","0.3.2",""
+"scout_apm-sampling","1.0.0","MIT"
 "script","0.0.1","MIT"
 "script","0.0.2","MIT"
 "script","0.0.3","MIT"

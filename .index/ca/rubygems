@@ -4133,6 +4133,7 @@
 "rubocop-graphql","0.5.0","MIT"
 "rubocop-graphql","0.6.0","MIT"
 "rubocop-graphql","0.6.1","MIT"
+"rubocop-graphql","0.6.2","MIT"
 "ruby-hue","0.0.1",""
 "ruby-invoice","0.0.1","Beerware"
 "ruby-lichess","0.1.0","MIT"

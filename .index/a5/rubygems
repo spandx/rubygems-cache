@@ -1059,6 +1059,7 @@
 "db_backup","1.0.1",""
 "dbml","0.1.0","MIT"
 "dbml","0.2.0","MIT"
+"dbml","0.3.0","MIT"
 "dead_simple_authorization","0.1.0","MIT"
 "dead_simple_authorization","0.2.0","MIT"
 "dead_simple_authorization","0.2.1","MIT"

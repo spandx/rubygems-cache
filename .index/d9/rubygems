@@ -2429,6 +2429,7 @@
 "fog-aws","3.6.7","MIT"
 "fog-aws","3.7.0","MIT"
 "fog-aws","3.8.0","MIT"
+"fog-aws","3.9.0","MIT"
 "foo-deploy","0.0.1",""
 "foo-deploy","0.0.5",""
 "foo-deploy","0.0.6",""
