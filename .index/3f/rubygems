@@ -3156,6 +3156,8 @@
 "terraform-enterprise-client","0.0.6","MPL-2.0"
 "terraform-enterprise-client","0.0.7","MPL-2.0"
 "terraform-enterprise-client","0.0.8","MPL-2.0"
+"text_alignment","0.10.1","MIT"
+"text_alignment","0.11.0","MIT"
 "text_alignment","0.2.0","MIT"
 "text_alignment","0.2.1","MIT"
 "text_alignment","0.2.2","MIT"
