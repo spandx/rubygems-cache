@@ -1009,6 +1009,7 @@
 "evt-message_store-postgres","2.4.0.4","MIT"
 "evt-message_store-postgres","2.4.0.5","MIT"
 "evt-message_store-postgres","2.4.1.0","MIT"
+"evt-message_store-postgres","2.4.2.0","MIT"
 "exegesis","0.0.3",""
 "exegesis","0.0.4",""
 "exegesis","0.0.5",""

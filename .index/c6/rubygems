@@ -2132,6 +2132,7 @@
 "logput","0.0.4","MIT"
 "logput","0.0.5","MIT"
 "logstash-codec-java_json","0.1.0","WTFPL"
+"logstash-filter-cusum","0.1.0","Apache-2.0"
 "logstash-filter-referer","0.1","Apache-2.0"
 "logstash-filter-referer","0.2","Apache-2.0"
 "logstash-mixin-rabbitmq_connection-java","1.0.0","Apache-2.0"

@@ -1690,6 +1690,7 @@
 "knife-sync","1.0.1","Apache-2.0"
 "kontena-plugin-local","0.1.0","Apache-2.0"
 "kontena-plugin-local","0.1.1","Apache-2.0"
+"kt-delayed_paperclip","3.1.0",""
 "laranja","0.0.2","MIT"
 "laranja","1.0.0","MIT"
 "laranja","2.0.0","MIT"

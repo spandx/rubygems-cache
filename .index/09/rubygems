@@ -690,6 +690,7 @@
 "cartomodel","0.1.3","MIT"
 "case_insensitive_arel","0.1.0",""
 "case_insensitive_arel","0.1.2",""
+"cchardet-ruby","0.0.0","MIT"
 "cequel-devise","1.0.0","MIT"
 "ceylon","0.0.0","MIT"
 "chargehound","1.0.0","MIT"

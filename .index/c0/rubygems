@@ -2053,6 +2053,7 @@
 "pure-css-rails","0.6.0","MIT"
 "purl_fetcher-client","0.2.0",""
 "purl_fetcher-client","0.3.0",""
+"purl_fetcher-client","0.4.0",""
 "push_notifier","0.0.1","MIT"
 "push_notifier","0.0.2","MIT"
 "puttext","0.1.0","MIT"
