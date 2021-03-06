@@ -1736,6 +1736,7 @@
 "radius-rails","0.0.6","MIT"
 "rails-angular-motion","0.3.4","MIT"
 "rails-angular-motion","0.4.2","MIT"
+"rails-engine-coupler","0.0.0","MIT"
 "rails-ui","0.0.1","MIT"
 "rails_filemanager_ajax","0.0.1","MIT"
 "rails_filemanager_ajax","0.0.2","MIT"

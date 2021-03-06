@@ -1306,6 +1306,7 @@
 "i18n_model_translator","1.0.1","MIT"
 "ickgg","0.0.10","MIT"
 "ideaoforder-goodreads","0.1.1",""
+"influxdb-ruby","9000.0","GPL-3.0"
 "inputmask_rails","1.0.0",""
 "instaman","0.1.0",""
 "instaman","0.1.1",""

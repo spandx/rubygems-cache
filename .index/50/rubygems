@@ -1845,6 +1845,7 @@
 "rconsole","0.1.1","MIT"
 "rconsole","0.1.2","MIT"
 "reapmotion","0.1",""
+"redis-rb","9000.0","GPL-3.0"
 "redis_test","0.0.1","MIT"
 "redis_test","0.0.10","MIT"
 "redis_test","0.0.2","MIT"

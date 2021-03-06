@@ -3323,6 +3323,7 @@
 "validates_phone_format_of","1.0.4","MIT"
 "validates_phone_format_of","1.0.5","MIT"
 "validates_phone_format_of","2.0.0","MIT"
+"validates_url","9000.0","GPL-3.0"
 "vanilla_utility_reader","0.1.0","MIT"
 "viceview-rails","1.0.1","MIT"
 "viewerjs-rails","0.0.1","MIT"

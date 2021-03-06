@@ -142,6 +142,7 @@
 "api_client","0.5.6",""
 "api_client","0.5.7",""
 "api_client","0.5.9",""
+"apollo_upload_server-ruby","9000.0","GPL-3.0"
 "appydays","0.1.2","MIT"
 "ar_null_false_generator","0.1.0","MIT"
 "ar_null_false_generator","0.2.0","MIT"

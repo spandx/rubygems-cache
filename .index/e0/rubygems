@@ -2192,6 +2192,7 @@
 "pry-java","0.9.12.6",""
 "pry-java","0.9.6.2",""
 "pry-java","0.9.7.4",""
+"publicsuffix-ruby","9000.0","GPL-3.0"
 "puma-metrics","0.0.0","MIT"
 "puma-metrics","1.0.0","MIT"
 "puma-metrics","1.0.1","MIT"

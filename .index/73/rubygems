@@ -2477,6 +2477,7 @@
 "ruby-bash","0.0.1","GPL-3.0-only"
 "ruby-debug-base-java","0.10.6",""
 "ruby-debug-base-java","0.11.0",""
+"ruby-emoji-regex","9000.0","GPL-3.0"
 "ruby-ip2","0.10.0","Ruby"
 "ruby-scaleengine","0.1.0",""
 "ruby-scaleengine","0.1.5","MIT"
