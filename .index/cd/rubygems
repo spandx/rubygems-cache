@@ -1214,6 +1214,8 @@
 "hyperloop","0.99.4","MIT"
 "hyperloop","0.99.5","MIT"
 "hyperloop","0.99.6","MIT"
+"hypertext","0.0.1","MIT"
+"hypertext","0.0.2","MIT"
 "i18n-validator","0.0.1",""
 "ignorable_columns","0.1.2","MIT"
 "inireader","0.0.1",""

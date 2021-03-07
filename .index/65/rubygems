@@ -1116,6 +1116,7 @@
 "ffi-x64-mingw32","1.14.0","BSD-3-Clause"
 "ffi-x64-mingw32","1.14.1","BSD-3-Clause"
 "ffi-x64-mingw32","1.14.2","BSD-3-Clause"
+"ffi-x64-mingw32","1.15.0","BSD-3-Clause"
 "ffi-x64-mingw32","1.9.10","BSD"
 "ffi-x64-mingw32","1.9.11","BSD"
 "ffi-x64-mingw32","1.9.12","BSD"

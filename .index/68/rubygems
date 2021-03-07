@@ -1671,6 +1671,7 @@
 "lazy_ant","0.7.0","MIT"
 "ldap-group-manager","1.3.1","MIT"
 "ldap-group-manager","1.3.2","MIT"
+"ldap_query","0.0.1","MIT"
 "learn-config","0.0.1","MIT"
 "learn-config","0.0.2","MIT"
 "learn-config","0.0.3","MIT"
