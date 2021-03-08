@@ -997,6 +997,7 @@
 "gooddata_s3","0.1.7","MIT"
 "google-apis-redis_v1","0.1.0","Apache-2.0"
 "google-apis-redis_v1","0.2.0","Apache-2.0"
+"google-apis-redis_v1","0.3.0","Apache-2.0"
 "google-cloud-bigtable-admin-v2","0.1.0","Apache-2.0"
 "google-cloud-bigtable-admin-v2","0.1.1","Apache-2.0"
 "google-cloud-bigtable-admin-v2","0.1.2","Apache-2.0"

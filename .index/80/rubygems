@@ -1450,6 +1450,7 @@
 "gladepay","0.1.5","MIT"
 "google-apis-cloudtasks_v2beta3","0.1.0","Apache-2.0"
 "google-apis-cloudtasks_v2beta3","0.2.0","Apache-2.0"
+"google-apis-cloudtasks_v2beta3","0.3.0","Apache-2.0"
 "google_drive","0.3.0",""
 "google_drive","0.3.10","New BSD"
 "google_drive","0.3.11","New BSD"
