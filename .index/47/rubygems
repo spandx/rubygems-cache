@@ -2661,6 +2661,8 @@
 "rsched","0.3.1",""
 "rspec-graphql_response","0.1.0","MIT"
 "rspec-graphql_response","0.2.0","MIT"
+"rspec-graphql_response","0.2.1","MIT"
+"rspec-graphql_response","0.3.0","MIT"
 "rspec-intercept","0.0.1","MIT"
 "rspec-intercept","0.0.2","MIT"
 "rspec-routes_coverage","0.1.0",""

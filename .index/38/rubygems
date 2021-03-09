@@ -2847,6 +2847,7 @@
 "serverspec-extra-types","0.4.4","MIT"
 "serverspec-extra-types","0.4.5","MIT"
 "serverspec-extra-types","0.4.6","MIT"
+"serverspec-extra-types","0.4.7","MIT"
 "shared_count_api","0.0.1","MIT"
 "shared_count_api","0.2.0","MIT"
 "shellutils","0.0.11",""

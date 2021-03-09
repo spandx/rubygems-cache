@@ -2310,6 +2310,7 @@
 "sendgrid_actionmailer_adapter","0.2.2","MIT"
 "sendgrid_actionmailer_adapter","0.3.0","MIT"
 "sendgrid_actionmailer_adapter","0.3.1","MIT"
+"sendgrid_actionmailer_adapter","0.3.2","MIT"
 "sensu-x86-mswin32","0.6.5",""
 "sensu-x86-mswin32","0.6.8",""
 "sensu-x86-mswin32","0.7.2",""
