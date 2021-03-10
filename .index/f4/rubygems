@@ -493,6 +493,7 @@
 "chef-binstubs","0.0.1","Apache-2.0"
 "chef-email-reporter","0.0.1","Apache-2.0"
 "chef-email-reporter","0.0.2","Apache-2.0"
+"chime-pgp","0.0.1","MIT"
 "chime-pgp","3001.0.0","MIT"
 "cirrus-aws","0.0.1","MIT"
 "clever_api","0.0.0",""

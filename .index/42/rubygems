@@ -2485,6 +2485,8 @@
 "simple_args_dispatch","0.4.4","MIT"
 "simple_operations_arithmetic","0.0.0","MIT"
 "simple_thread_pool","1.0.0","MIT"
+"simplecov-bitbucket-server","0.1.0","MIT"
+"simplecov-bitbucket-server","1.0.0","MIT"
 "simplefraction","1.0.0","MIT"
 "simplefraction","1.0.1","MIT"
 "sixarm_ruby_metric_names","1.1.2","Apache-2.0-|-Artistic-2.0-|-BSD-3-Clause-|-GPL-3.0-|-MIT-|-MPL-2.0"

@@ -2085,6 +2085,7 @@
 "mysql_framework","2.0.1","MIT"
 "mysql_framework","2.1.0","MIT"
 "mysql_framework","2.1.1","MIT"
+"mysql_framework","2.1.2","MIT"
 "name_space","0.0.1",""
 "name_space","0.1.0","MIT"
 "nats-streaming","0.1.0","MIT"

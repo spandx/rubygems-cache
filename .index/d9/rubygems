@@ -1700,6 +1700,7 @@
 "chef-infra-api","0.10.5","Apache-2.0"
 "chef-infra-api","0.10.7","Apache-2.0"
 "chef-infra-api","0.9.1","Apache-2.0"
+"chime_app_version_tracking","0.0.1","MIT"
 "chime_app_version_tracking","3001.0.0","MIT"
 "chupa-text-decomposer-libreoffice-office-open-xml-document","1.0.0","LGPL-2.1+"
 "cielo-api30","1.0.0","MIT"

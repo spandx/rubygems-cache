@@ -3411,6 +3411,7 @@
 "sorbet-static-universal-darwin-17","0.5.6322","Apache-2.0"
 "sorbet-static-universal-darwin-17","0.5.6324","Apache-2.0"
 "sorbet-static-universal-darwin-17","0.5.6330","Apache-2.0"
+"sorbet-static-universal-darwin-17","0.5.6332","Apache-2.0"
 "spanx-client","0.0.1","MIT"
 "spine-permissions","0.1.0","BSD-3-Clause"
 "spine-rails","0.0.2",""
@@ -3818,3 +3819,4 @@
 "zstd-ruby","1.4.2.0","MIT"
 "zstd-ruby","1.4.4.0","MIT"
 "zstd-ruby","1.4.5.0","MIT"
+"zstd-ruby","1.4.9.0","MIT"

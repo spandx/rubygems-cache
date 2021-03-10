@@ -3993,6 +3993,7 @@
 "record_select","0.0.2",""
 "record_select","0.0.3",""
 "record_select","0.0.4",""
+"redis-failsafe-adapter","0.0.1","MIT"
 "redis-failsafe-adapter","3001.0.0","MIT"
 "redistimeseries","0.1.0",""
 "redistimeseries","0.1.1",""
