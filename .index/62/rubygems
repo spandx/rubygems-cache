@@ -2475,6 +2475,7 @@
 "redash_backup","0.1.1","MIT"
 "redash_backup","0.1.2","MIT"
 "redash_backup","0.2.0","MIT"
+"redash_backup","0.3.0","MIT"
 "redmine_tasks_scheduler","0.3.0",""
 "redmine_tasks_scheduler","0.3.1",""
 "remi-rspec-custom-matchers","0.1.1",""

@@ -1597,6 +1597,7 @@
 "jsc3d-js-rails","1.6.5","MIT"
 "jsonapi-serializer","2.0.0","Apache-2.0"
 "jsonapi-serializer","2.1.0","Apache-2.0"
+"jsonapi-serializer","2.2.0","Apache-2.0"
 "jsonapi_errors_handler","0.0.0","MIT"
 "jsonapi_errors_handler","0.0.1","MIT"
 "jsonapi_errors_handler","0.0.2","MIT"

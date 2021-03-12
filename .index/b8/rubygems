@@ -2030,6 +2030,7 @@
 "openhash","0.0.6","MIT"
 "openid_active_record_store","1.0.1",""
 "openlibrary-covers","0.1.0","MIT"
+"openlibrary-covers","0.1.1","MIT"
 "opentelemetry-instrumentation-graphql","0.12.0","Apache-2.0"
 "opentelemetry-instrumentation-graphql","0.13.0","Apache-2.0"
 "opentelemetry-instrumentation-graphql","0.14.0","Apache-2.0"
