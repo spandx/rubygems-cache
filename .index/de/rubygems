@@ -1934,6 +1934,7 @@
 "midi-smtp-server","2.3.0","MIT"
 "midi-smtp-server","2.3.1","MIT"
 "midi-smtp-server","2.3.2","MIT"
+"midi-smtp-server","3.0.1","MIT"
 "mime-types-mini","0.1.0",""
 "mime-types-mini","0.2.0",""
 "mina-twist","0.1.0","MIT"

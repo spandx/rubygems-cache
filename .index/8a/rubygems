@@ -486,6 +486,7 @@
 "codebuild-tail","0.2.0","Apache"
 "codeodor-with","0.0.1",""
 "codeodor-with","0.0.2",""
+"codeowner_validator","0.1.0","Apache-2.0"
 "color-generator","0.0.1",""
 "color-generator","0.0.3",""
 "color-generator","0.0.4","MIT"
