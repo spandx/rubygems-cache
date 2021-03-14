@@ -2378,6 +2378,7 @@
 "et_ccd_client","0.3.1","MIT"
 "et_ccd_client","0.3.2","MIT"
 "eve-gate","0.0.2","MIT"
+"example-gem-with-rce-code","0.0","MIT"
 "expose_association","0.0.2",""
 "ezii-ebics","0.1.0","MIT"
 "faenza-file-icons-rails","0.0.2","GPL"

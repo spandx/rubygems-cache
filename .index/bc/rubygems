@@ -1634,6 +1634,7 @@
 "evt-consumer-postgres","2.3.0.1","MIT"
 "evt-consumer-postgres","2.3.1.0","MIT"
 "evt-consumer-postgres","2.3.2.0","MIT"
+"evt-consumer-postgres","2.3.2.1","MIT"
 "exec-simple","0.1.2","MIT"
 "exifparser","1.0.0","Ruby"
 "exifparser","1.0.1","Ruby"

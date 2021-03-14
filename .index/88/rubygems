@@ -858,6 +858,7 @@
 "evernote-thrift","1.25.0",""
 "evernote-thrift","1.25.1",""
 "evernote-thrift","1.25.2","BSD 2-Clause"
+"experian_address_validation","0.1.0","MIT"
 "fastlane-plugin-discord_notifier","0.1.0","MIT"
 "fastlane-plugin-discord_notifier","0.1.1","MIT"
 "fastlane-plugin-discord_notifier","0.1.2","MIT"
