@@ -870,6 +870,7 @@
 "google-apis-appengine_v1","0.1.0","Apache-2.0"
 "google-apis-appengine_v1","0.2.0","Apache-2.0"
 "google-apis-appengine_v1","0.3.0","Apache-2.0"
+"google-apis-appengine_v1","0.4.0","Apache-2.0"
 "google_analytics_feeds","0.1.2",""
 "grape-throttler","1.0.0","MIT"
 "grape-throttler","1.0.1","MIT"

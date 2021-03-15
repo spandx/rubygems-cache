@@ -1070,6 +1070,7 @@
 "goliath-proxy","0.0.1","MIT"
 "google-apis-driveactivity_v2","0.1.0","Apache-2.0"
 "google-apis-driveactivity_v2","0.2.0","Apache-2.0"
+"google-apis-driveactivity_v2","0.3.0","Apache-2.0"
 "google-apis-remotebuildexecution_v1","0.1.0","Apache-2.0"
 "google-apis-remotebuildexecution_v1","0.2.0","Apache-2.0"
 "google-apis-remotebuildexecution_v1","0.3.0","Apache-2.0"

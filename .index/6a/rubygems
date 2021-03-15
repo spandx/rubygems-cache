@@ -567,6 +567,7 @@
 "drone-ruby","0.1.0","MIT"
 "easy_poller","0.1.0","MIT"
 "easy_poller","0.1.1","MIT"
+"elasticsearch_pretty_profile","0.1.0",""
 "em-popen3","0.0.4",""
 "email_check","0.1.0","MIT"
 "email_check","0.1.1","MIT"
