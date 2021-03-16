@@ -2266,6 +2266,7 @@
 "qu-mfeindex","1.1.4","MIT"
 "r2corba-x64-mingw32","1.4.1","R2CORBA-|-ACE-|-GPL"
 "r2corba-x64-mingw32","1.5.1","R2CORBA-|-ACE-|-GPL"
+"r2corba-x64-mingw32","1.5.5","Nonstandard-|-DOC-|-GPL-2.0"
 "rabbiter","2.0.1","GPLv2+"
 "rabbiter","2.0.2","GPLv2+"
 "rabbiter","2.0.3","GPLv2+"

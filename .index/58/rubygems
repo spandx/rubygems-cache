@@ -2639,6 +2639,7 @@
 "rasti-app","7.1.1","MIT"
 "rasti-app","8.0.0","MIT"
 "rasti-model","1.0.0","MIT"
+"rasti-model","1.0.1","MIT"
 "rb-libsvm","1.0.10",""
 "rb-libsvm","1.0.11",""
 "rb-libsvm","1.0.5",""
