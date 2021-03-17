@@ -2598,6 +2598,7 @@
 "timed_lru","0.3.1",""
 "timed_lru","0.3.2",""
 "timed_lru","0.4.0",""
+"timed_lru","0.5.0","Apache-2.0"
 "tinfoil","0.0.1","MIT"
 "tingyun_rpm","1.0.6","Tingyun-|-MIT-|-Ruby"
 "tingyun_rpm","1.0.7","Tingyun-|-MIT-|-Ruby"

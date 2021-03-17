@@ -750,6 +750,7 @@
 "fixture_generator","0.0.1",""
 "fluent-plugin-aliyun-oss","0.0.1","Apache-2.0"
 "fluent-plugin-belated-record-filter","0.1.1","MIT"
+"fluent-plugin-elasticsearch-dext","5.0.2","Apache-2.0"
 "fluent-plugin-presto_query","0.0.1","MIT"
 "fluent-plugin-presto_query","0.0.2","MIT"
 "fluent-plugin-presto_query","0.0.3","MIT"
