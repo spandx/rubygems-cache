@@ -486,6 +486,8 @@
 "core-async","0.1.0","MPL-2.0"
 "core-async","0.2.0","MPL-2.0"
 "core-async","0.2.1","MPL-2.0"
+"core-async","0.3.0","MPL-2.0"
+"core-async","0.4.0","MPL-2.0"
 "core_data_motion","0.0.1","MIT"
 "couchbase_lite_local-java","0.0.1","APACHE"
 "cra","0.0.1",""
