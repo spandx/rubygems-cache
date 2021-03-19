@@ -888,6 +888,7 @@
 "dronejob","3.0.0","BSD-3-Clause"
 "dronejob","3.0.1","BSD-3-Clause"
 "dry-importer","0.0.1","MIT"
+"dsl_test","0.0.0",""
 "durran-carrierwave","0.3.2.3",""
 "dynamojs_rails","0.0.1","MIT"
 "dynamojs_rails","1.0.0","MIT"

@@ -1213,6 +1213,7 @@
 "keycloak_oauth","0.1.7","MIT"
 "keycloak_oauth","0.1.8","MIT"
 "keycloak_oauth","0.1.9","MIT"
+"killbill-deposit","0.0.3","MIT"
 "kitchen-docker_adv","0.0.1","Apache-2.0"
 "kitchen-docker_adv","0.0.2","Apache-2.0"
 "knife-hp","0.3.0",""

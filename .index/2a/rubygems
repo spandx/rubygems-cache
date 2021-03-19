@@ -435,6 +435,7 @@
 "buildkit","1.4.1","MIT"
 "buildkit","1.4.2","MIT"
 "buildkit","1.4.3","MIT"
+"buildkit","1.4.4","MIT"
 "bulk_execution","0.0.1","MIT"
 "bundler_timer","1.1.1",""
 "bundler_timer","1.2.0",""

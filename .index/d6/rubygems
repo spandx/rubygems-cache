@@ -292,6 +292,7 @@
 "bit_core","1.4.6","MIT"
 "bit_core","1.4.7","MIT"
 "bkerley-from-here","0.1.0",""
+"blake2b_rs","0.1.1","MIT"
 "blekko-search","0.0.1",""
 "blekko-search","0.0.2",""
 "blekko-search","0.0.4",""

@@ -315,6 +315,7 @@
 "brdb","0.0.2","MIT"
 "brpoplpush-redis_script","0.1.0","MIT"
 "brpoplpush-redis_script","0.1.1","MIT"
+"brpoplpush-redis_script","0.1.2","MIT"
 "bruce-clingwrap","0.0.2",""
 "bug_no_shirase_rails","0.0.1","MIT"
 "bug_no_shirase_rails","0.1.0",""

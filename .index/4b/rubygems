@@ -2166,6 +2166,7 @@
 "opener-daemons","2.7.0","Apache-2.0"
 "opener-daemons","2.7.1","Apache-2.0"
 "opener-daemons","2.7.2","Apache-2.0"
+"opener-daemons","2.7.3","Apache-2.0"
 "openhood-rspec_sequel_matchers","0.1.1",""
 "openhood-rspec_sequel_matchers","0.1.2",""
 "openssl-win-root","0.9.0","MIT"
