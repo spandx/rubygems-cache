@@ -840,6 +840,7 @@
 "eac_ruby_gem_support","0.1.0",""
 "eac_ruby_gem_support","0.1.1",""
 "eac_ruby_gem_support","0.1.2",""
+"eachtility","0.1.2","MIT"
 "easy_api_operations","0.1.1","MIT"
 "easy_api_operations","0.2","MIT"
 "easy_api_operations","0.4.6","MIT"
@@ -3165,3 +3166,4 @@
 "zeiger","0.0.3","MIT"
 "zeiger","0.0.4","MIT"
 "zeiger","0.0.5","MIT"
+"zeiger","0.0.6","MIT"

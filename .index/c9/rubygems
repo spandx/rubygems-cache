@@ -750,6 +750,7 @@
 "datatxt","0.1.0","MIT"
 "dbpedia","0.0.1","CC BY-SA 3.0"
 "dbpedia","0.0.2","CC BY-SA 3.0"
+"dec","0.0.1","MIT"
 "delayed-plugins-airbrake","1.0.0",""
 "delayed-plugins-airbrake","1.1.0",""
 "delayed_after_commit","0.1.0",""
