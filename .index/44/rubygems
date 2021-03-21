@@ -1559,6 +1559,7 @@
 "omniauth-identity","3.0.3","MIT"
 "omniauth-identity","3.0.4","MIT"
 "omniauth-identity","3.0.5","MIT"
+"omniauth-identity","3.0.6","MIT"
 "omniauth-live_connect","0.0.1","MIT"
 "omniauth-paypal-permissions","1.0.0","MIT"
 "oneline_log_formatter","0.0.1",""
