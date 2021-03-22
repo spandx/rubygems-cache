@@ -1589,6 +1589,7 @@
 "google-apis-doubleclickbidmanager_v1","0.2.0","Apache-2.0"
 "google-apis-redis_v1beta1","0.1.0","Apache-2.0"
 "google-apis-redis_v1beta1","0.2.0","Apache-2.0"
+"google-apis-redis_v1beta1","0.3.0","Apache-2.0"
 "google-cloud-workflows","0.1.0","Apache-2.0"
 "google-cloud-workflows","0.2.0","Apache-2.0"
 "google-cloud-workflows","1.0.0","Apache-2.0"

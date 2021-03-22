@@ -3915,6 +3915,7 @@
 "vagrant-libvirt","0.1.2","MIT"
 "vagrant-libvirt","0.2.1","MIT"
 "vagrant-libvirt","0.3.0","MIT"
+"vagrant-libvirt","0.4.0","MIT"
 "vagrant-secret","0.0.1","MIT"
 "vagrant_filoo","0.0.2",""
 "vagrant_filoo","0.0.3",""

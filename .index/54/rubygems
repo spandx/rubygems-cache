@@ -1383,6 +1383,7 @@
 "google-apis-composer_v1","0.3.0","Apache-2.0"
 "google-apis-osconfig_v1","0.1.0","Apache-2.0"
 "google-apis-osconfig_v1","0.2.0","Apache-2.0"
+"google-apis-osconfig_v1","0.3.0","Apache-2.0"
 "google-apis-oslogin_v1","0.1.0","Apache-2.0"
 "google-apis-oslogin_v1","0.2.0","Apache-2.0"
 "google-cloud-dialogflow-v2","0.1.0","Apache-2.0"

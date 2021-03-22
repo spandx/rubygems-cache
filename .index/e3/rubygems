@@ -845,6 +845,7 @@
 "fastlane-plugin-google_drive","0.4.0","MIT"
 "fastlane-plugin-google_drive","0.4.1","MIT"
 "fastlane-plugin-google_drive","0.5.0","MIT"
+"fastlane-plugin-google_drive","0.6.0","MIT"
 "fastlane-plugin-properties","0.1.0","MIT"
 "fastlane-plugin-properties","1.0.0","MIT"
 "fastlane-plugin-properties","1.0.1","MIT"
