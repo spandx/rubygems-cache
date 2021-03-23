@@ -1384,6 +1384,8 @@
 "lockr","0.5.0",""
 "lockr","0.5.1",""
 "lockr","0.5.2",""
+"log_tools","0.1","MIT"
+"log_tools","0.1.1","MIT"
 "logpusher","0.1.0","MIT"
 "logstash-codec-prometheus","0.1.0","Apache-2.0"
 "logstash-codec-prometheus","0.2.0","Apache-2.0"

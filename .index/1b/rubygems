@@ -1053,6 +1053,7 @@
 "facebook-bot","0.1.1","MIT"
 "facebook-bot","0.1.2","MIT"
 "facebook-bot","0.1.3","MIT"
+"fake-kafka","0.0.2",""
 "fakeldap","0.1",""
 "fakeldap","0.1.1",""
 "family_battle","1.0.0","MIT"

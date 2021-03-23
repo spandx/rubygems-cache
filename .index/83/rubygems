@@ -442,6 +442,7 @@
 "cfndsl","1.3.1","MIT"
 "chai-backbone-rails","0.3.1",""
 "chai-backbone-rails","0.4.0",""
+"check_bad","0.2.6",""
 "chef-vault-retry","0.1.0","Apache License, v2.0"
 "chef-vault-retry","0.2.0","Apache License, v2.0"
 "chopper","0.0.1",""

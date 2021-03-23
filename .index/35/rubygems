@@ -1718,6 +1718,7 @@
 "opentelemetry-instrumentation-sidekiq","0.13.0","Apache-2.0"
 "opentelemetry-instrumentation-sidekiq","0.14.0","Apache-2.0"
 "opentelemetry-instrumentation-sidekiq","0.15.0","Apache-2.0"
+"opentelemetry-instrumentation-sidekiq","0.16.0","Apache-2.0"
 "opentelemetry-instrumentation-sidekiq","0.5.0","Apache-2.0"
 "opentelemetry-instrumentation-sidekiq","0.6.0","Apache-2.0"
 "opentelemetry-instrumentation-sidekiq","0.7.0","Apache-2.0"

@@ -3449,6 +3449,8 @@
 "symbolic","0.3.8",""
 "symsym","0.8.1",""
 "synapse_ldap_user","0.1.0","MIT"
+"t12n","0.1.0","MIT"
+"t12n","0.2.1","MIT"
 "tabulator","0.1.0",""
 "tabulator","0.2.0",""
 "tabulator","0.3.0",""

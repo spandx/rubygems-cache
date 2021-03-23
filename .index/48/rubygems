@@ -119,6 +119,7 @@
 "adlint-benchmark","1.1.0","GPLv3+: GNU General Public License version 3 or later"
 "ae_active_job_state","0.1.0","MIT"
 "ae_active_job_state","0.2.0","MIT"
+"ae_active_job_state","0.2.1","MIT"
 "ahandler_palindrome","0.1.0","MIT"
 "ahandler_palindrome","0.2.0","MIT"
 "alexa_ruby","0.1.0","MIT"

@@ -2044,6 +2044,7 @@
 "opentelemetry-instrumentation-mongo","0.13.0","Apache-2.0"
 "opentelemetry-instrumentation-mongo","0.14.0","Apache-2.0"
 "opentelemetry-instrumentation-mongo","0.15.0","Apache-2.0"
+"opentelemetry-instrumentation-mongo","0.16.0","Apache-2.0"
 "opentelemetry-instrumentation-mongo","0.9.0","Apache-2.0"
 "opscode-mixlib-config","1.0.10",""
 "opscode-mixlib-config","1.0.11",""
