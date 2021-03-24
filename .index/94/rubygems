@@ -370,6 +370,8 @@
 "cloudformation_rspec","0.0.9",""
 "cloudformation_rspec","0.1.0",""
 "cloudformation_rspec","0.2.0",""
+"cns_openapi_ruby_client","1.0.0","Unlicense"
+"cns_openapi_ruby_client","1.0.1","Unlicense"
 "cocoapods-archive","0.0.1","MIT"
 "cocoapods-archive","0.0.2","MIT"
 "cocoapods-x","0.0.1","MIT"

@@ -2073,6 +2073,7 @@
 "puppet-lint-resource_reference_syntax","1.0.9","APL2"
 "puppet-lint-resource_reference_syntax","1.1.0","APL2"
 "pure360","0.0.1","MIT"
+"rabbit-slide-znz-fukuokarb-200-lt","2021.3.24.0",""
 "rabbitmq-service-util","0.3",""
 "rack_healthcheck","0.0.2","MIT"
 "rack_slashless","0.0.1",""

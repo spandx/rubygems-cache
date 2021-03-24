@@ -1689,6 +1689,7 @@
 "logstash-input-tcp-java","6.0.5","Apache-2.0"
 "logstash-input-tcp-java","6.0.6","Apache-2.0"
 "logstash-input-tcp-java","6.0.7","Apache-2.0"
+"logstash-input-tcp-java","6.0.8","Apache-2.0"
 "logstash-output-sentry","0.1.0","Apache-2.0"
 "logstash-output-sentry","0.2.0","Apache-2.0"
 "logstash-output-sentry","0.3.0","Apache-2.0"
