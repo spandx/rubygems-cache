@@ -1546,6 +1546,7 @@
 "loga","2.5.1","BSD-3-Clause"
 "loga","2.5.2","BSD-3-Clause"
 "loga","2.5.3","BSD-3-Clause"
+"loga","2.5.4","BSD-3-Clause"
 "login","0.1.0",""
 "login","0.1.1",""
 "logstash-filter-geoip","0.1.0","Apache-2.0"
