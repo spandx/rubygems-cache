@@ -1113,6 +1113,8 @@
 "ecs_cmd","0.1.7","MIT"
 "ecs_cmd","0.2.0","MIT"
 "ecs_deploy_cli","0.1.0","MIT"
+"ecs_deploy_cli","0.2.0","MIT"
+"ecs_deploy_cli","0.2.1","MIT"
 "ee_jammit","0.6.6",""
 "egi","0.0.2",""
 "egi","0.0.3",""

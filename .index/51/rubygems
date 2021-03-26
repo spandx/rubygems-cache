@@ -2999,6 +2999,8 @@
 "scrypt-util","0.1.4.1","MIT"
 "scv","0.0.2",""
 "sdbus","0.1.0","MIT"
+"secure_jwt","0.1.0","MIT"
+"secure_jwt","0.1.0.1","MIT"
 "sekka","0.8.3",""
 "sekka","0.8.5",""
 "sekka","0.9.0",""

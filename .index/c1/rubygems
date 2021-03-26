@@ -127,6 +127,7 @@
 "api_client_base","1.7.0","MIT"
 "api_client_base","1.8.0","MIT"
 "api_client_base","1.9.0","MIT"
+"api_diff","0.2.0","MIT"
 "api_response","1.0.0",""
 "appbooster_rubocop_config","0.1.4",""
 "appbooster_rubocop_config","0.2.0",""
