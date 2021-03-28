@@ -60,6 +60,7 @@
 "active_record_doctor","1.6.0","MIT"
 "active_record_doctor","1.7.0","MIT"
 "active_record_doctor","1.7.1","MIT"
+"active_record_doctor","1.7.2","MIT"
 "activejob-resque-disconnect","0.1.0","MIT"
 "activerecord-jdbc-adapter-java","50.1","BSD-2-Clause"
 "activerecord-jdbc-adapter-java","50.2","BSD-2-Clause"
