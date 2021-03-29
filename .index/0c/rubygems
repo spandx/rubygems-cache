@@ -2339,6 +2339,8 @@
 "relevance-test-spec","0.4.1.1",""
 "relevance-test-spec","0.4.1.2",""
 "repldb","0.0.1","MIT"
+"repldb","0.0.2","MIT"
+"repldb","0.0.3","MIT"
 "resort","0.3.1",""
 "resort","0.4.0",""
 "resort","0.5.0",""

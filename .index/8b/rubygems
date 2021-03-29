@@ -1193,6 +1193,7 @@
 "google-apis-pubsublite_v1","0.3.0","Apache-2.0"
 "google-apis-pubsublite_v1","0.4.0","Apache-2.0"
 "google-apis-pubsublite_v1","0.5.0","Apache-2.0"
+"google-apis-pubsublite_v1","0.6.0","Apache-2.0"
 "gotero","0.1.0","AGPL-3.0+"
 "gotta-run-ruby","0.1.0","Apache-2.0"
 "grape-doc","0.1.0",""

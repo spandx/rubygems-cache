@@ -1003,6 +1003,7 @@
 "gold_mine","1.0.0","Beerware"
 "google-apis-networkconnectivity_v1alpha1","0.1.0","Apache-2.0"
 "google-apis-networkconnectivity_v1alpha1","0.2.0","Apache-2.0"
+"google-apis-networkconnectivity_v1alpha1","0.3.0","Apache-2.0"
 "google-apis-translate_v2","0.1.0","Apache-2.0"
 "google-apis-translate_v2","0.2.0","Apache-2.0"
 "google-cloud-data_catalog","0.1.0","Apache-2.0"

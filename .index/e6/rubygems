@@ -1424,6 +1424,7 @@
 "google-api-ruby-client","9000.0","GPL-3.0"
 "google-apis-artifactregistry_v1beta1","0.1.0","Apache-2.0"
 "google-apis-artifactregistry_v1beta1","0.2.0","Apache-2.0"
+"google-apis-artifactregistry_v1beta1","0.3.0","Apache-2.0"
 "google-apis-games_configuration_v1configuration","0.1.0","Apache-2.0"
 "google-apis-games_configuration_v1configuration","0.2.0","Apache-2.0"
 "google-apis-youtube_partner_v1","0.1.0","Apache-2.0"

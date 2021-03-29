@@ -1278,6 +1278,7 @@
 "gohanlon-will_paginate","2.3.3",""
 "google-apis-genomics_v1alpha2","0.1.0","Apache-2.0"
 "google-apis-genomics_v1alpha2","0.2.0","Apache-2.0"
+"google-apis-genomics_v1alpha2","0.3.0","Apache-2.0"
 "google-map-static-image-generator","0.0.1","NONE"
 "gorilla-patch","0.0.1","MIT"
 "gorilla-patch","0.0.10","MIT"
