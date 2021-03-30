@@ -1164,6 +1164,7 @@
 "journo","0.2.0",""
 "jquery_mobile_rails_latest","1.1.0",""
 "jquery_nice_file_input_rails","1.1.3.1","MIT"
+"jruby-hystrix-java","1.0.6","MIT"
 "jruby-pageant-java","1.0.2",""
 "jruby_sqlite3","0.1.0",""
 "jsonfinder","0.0.2","MIT"
