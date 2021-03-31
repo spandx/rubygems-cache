@@ -1546,6 +1546,7 @@
 "leveldb-native","0.4","MIT"
 "leveldb-native","0.5","MIT"
 "leveldb-native","0.6","MIT"
+"lexicon-cli","0.1.0","AGPL-3.0-only"
 "lf","0.0.1","MIT"
 "lf","0.0.2","MIT"
 "libhoney","1.0.0","Apache-2.0"

@@ -2485,6 +2485,7 @@
 "relevance-rcov-java","0.9.3",""
 "resizing-rails","0.2.0","MIT"
 "resizing-rails","0.3.0","MIT"
+"resizing-rails","0.4.0","MIT"
 "resolv-consul","0.1.0",""
 "resque-data-warehouse","0.1.0",""
 "resque-fifo-queue","0.1.1","MIT"

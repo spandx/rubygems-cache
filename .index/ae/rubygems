@@ -1462,6 +1462,7 @@
 "logstash-input-beats-java","6.0.8","Apache-2.0"
 "logstash-input-beats-java","6.0.9","Apache-2.0"
 "logstash-input-beats-java","6.1.0","Apache-2.0"
+"logstash-input-beats-java","6.1.1","Apache-2.0"
 "logstash-output-juggernaut","0.1.0","Apache-2.0"
 "logstash-output-juggernaut","0.1.1","Apache-2.0"
 "logstash-output-juggernaut","0.1.2","Apache-2.0"
