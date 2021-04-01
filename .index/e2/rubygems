@@ -652,6 +652,7 @@
 "db-postgres","0.2.3","MIT"
 "db-postgres","0.2.4","MIT"
 "db-postgres","0.3.0","MIT"
+"db-postgres","0.4.0","MIT"
 "ddr-extraction","0.1.0","BSD-3-Clause"
 "ddr-extraction","0.2.0","BSD-3-Clause"
 "ddr-extraction","0.2.1","BSD-3-Clause"

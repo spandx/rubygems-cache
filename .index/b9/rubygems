@@ -114,6 +114,7 @@
 "authorizenet","1.9.6","https://github.com/AuthorizeNet/sdk-ruby/blob/master/LICENSE.txt"
 "authorizenet","1.9.7","https://github.com/AuthorizeNet/sdk-ruby/blob/master/LICENSE.txt"
 "authorizenet","2.0.0","https://github.com/AuthorizeNet/sdk-ruby/blob/master/LICENSE.txt"
+"authorizenet","2.0.1","https://github.com/AuthorizeNet/sdk-ruby/blob/master/LICENSE.txt"
 "auto_annotate","0.0.1",""
 "auto_annotate","0.2.0",""
 "aws-cleaner","0.1.1","MIT"

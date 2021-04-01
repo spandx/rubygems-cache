@@ -141,6 +141,7 @@
 "attr_array","1.0.0.0","UNLICENSED"
 "attr_array","1.0.1","MIT"
 "attractor-ruby","0.1.0","MIT"
+"attractor-ruby","0.2.0","MIT"
 "aws-codedeploy-agent","0.0.1","Apache-2.0"
 "aws-codedeploy-agent","0.0.2","Apache-2.0"
 "aws-codedeploy-agent","0.0.3","Apache-2.0"

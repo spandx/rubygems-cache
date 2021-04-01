@@ -2671,6 +2671,7 @@
 "ransack_query","0.2.0","MIT"
 "ransack_query","0.3.0","MIT"
 "ransack_query","0.4.0","MIT"
+"rate_limiter_engine","0.1.0",""
 "rbdb","0.2.0",""
 "rbdb","0.7.0",""
 "rdstation-sf","0.2.0","MIT"
