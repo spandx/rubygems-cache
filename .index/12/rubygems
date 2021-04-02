@@ -799,6 +799,7 @@
 "fenton_shell","0.1.0","Apache License, Version 2.0"
 "fenton_shell","0.1.0","Apache-2.0"
 "ffi-libarchive-binary-x86-mingw32","0.2.1","BSD-3-Clause"
+"ffi-libarchive-binary-x86-mingw32","0.2.2","BSD-3-Clause"
 "firstGemProject","0.1.0","MIT"
 "first_gem_hello_world","0.0.0","MIT"
 "first_gem_hello_world","0.0.1","MIT"

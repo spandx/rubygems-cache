@@ -1917,6 +1917,7 @@
 "rack-delegate","0.4.0","MIT"
 "rack-delegate","0.5.0","MIT"
 "rack-mixpanel","0.1.0",""
+"rack-override-path","0.0.1","MIT"
 "rack-parse-posted-json","0.0.1","MIT"
 "rack-rest_book","1.0.2",""
 "rack-rest_book","1.0.4",""

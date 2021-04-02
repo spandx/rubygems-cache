@@ -1054,6 +1054,7 @@
 "ferris_bueller","0.0.2","MIT"
 "ferris_bueller","0.0.3","MIT"
 "ffi-libarchive-binary-x64-mingw32","0.2.1","BSD-3-Clause"
+"ffi-libarchive-binary-x64-mingw32","0.2.2","BSD-3-Clause"
 "ffilewatch","0.6.0",""
 "ffilewatch","0.6.1",""
 "ffilewatch","0.6.2",""

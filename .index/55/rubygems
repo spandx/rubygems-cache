@@ -2469,6 +2469,7 @@
 "passenger","6.0.5",""
 "passenger","6.0.6",""
 "passenger","6.0.7",""
+"passenger","6.0.8",""
 "patriot-sqlite3-client","0.6.0","Apache License, Version 2.0"
 "patriot-sqlite3-client","0.6.0","Apache-2.0"
 "patriot-sqlite3-client","0.7.0","Apache License, Version 2.0"
