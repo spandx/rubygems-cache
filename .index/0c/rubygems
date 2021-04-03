@@ -865,6 +865,7 @@
 "fern-api","0.0.8","MIT"
 "ffi-libarchive-binary-arm64-darwin","0.2.1","BSD-3-Clause"
 "ffi-libarchive-binary-arm64-darwin","0.2.2","BSD-3-Clause"
+"ffi-libarchive-binary-arm64-darwin","0.2.3","BSD-3-Clause"
 "file_blobs_rails","0.1.0","MIT"
 "file_blobs_rails","0.2.0","MIT"
 "file_blobs_rails","0.2.1","MIT"
