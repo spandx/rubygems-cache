@@ -1365,6 +1365,7 @@
 "google-apis-dlp_v2","0.4.0","Apache-2.0"
 "google-apis-mybusinessaccountmanagement_v1","0.1.0","Apache-2.0"
 "google-apis-mybusinessaccountmanagement_v1","0.2.0","Apache-2.0"
+"google-apis-mybusinessaccountmanagement_v1","0.3.0","Apache-2.0"
 "google-cloud-api_gateway","0.1.0","Apache-2.0"
 "google_product_type_taxonomy","0.1.5","MIT"
 "goz","0.1.1",""

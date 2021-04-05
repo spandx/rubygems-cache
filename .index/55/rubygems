@@ -1694,6 +1694,7 @@
 "google-apis-classroom_v1","0.3.0","Apache-2.0"
 "google-apis-oslogin_v1beta","0.1.0","Apache-2.0"
 "google-apis-oslogin_v1beta","0.2.0","Apache-2.0"
+"google-apis-oslogin_v1beta","0.3.0","Apache-2.0"
 "google-cloud-redis-v1beta1","0.1.0","Apache-2.0"
 "google-cloud-redis-v1beta1","0.1.1","Apache-2.0"
 "google-cloud-redis-v1beta1","0.2.0","Apache-2.0"

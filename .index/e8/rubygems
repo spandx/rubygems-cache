@@ -1241,6 +1241,7 @@
 "google-api-middle_man","0.2.1","MIT"
 "google-apis-cloudtrace_v1","0.1.0","Apache-2.0"
 "google-apis-cloudtrace_v1","0.2.0","Apache-2.0"
+"google-apis-cloudtrace_v1","0.3.0","Apache-2.0"
 "google-cloud-secret_manager-v1","0.1.0","Apache-2.0"
 "google-cloud-secret_manager-v1","0.2.0","Apache-2.0"
 "google-cloud-secret_manager-v1","0.2.1","Apache-2.0"
