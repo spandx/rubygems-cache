@@ -596,6 +596,7 @@
 "docker_rails_proxy","0.1.7","MIT"
 "docker_rails_proxy","0.1.8","MIT"
 "docker_rails_proxy","0.1.9","MIT"
+"docker_rails_proxy","0.2","MIT"
 "dockerfile_parser2","0.5.0","MIT"
 "doing_stream","0.0.3",""
 "dothtml","0.0.3","MIT"

@@ -837,6 +837,7 @@
 "excess_flow","1.0.3","Apache-2.0"
 "excess_flow","1.0.4","Apache-2.0"
 "fake_idp","1.0.0","MIT"
+"fake_idp","1.0.1","MIT"
 "fandango","0.1.4",""
 "fandango","0.1.9",""
 "fandango","2.0.0",""

@@ -3582,6 +3582,7 @@
 "voteable_jmo","0.0.0",""
 "voting_schemes-electionguard","0.15.1","AGPL-3.0"
 "voting_schemes-electionguard","0.15.2","AGPL-3.0"
+"voting_schemes-electionguard","0.16.0","AGPL-3.0"
 "web-console-rails3","0.2.0","MIT"
 "web-console-rails3","0.3.0","MIT"
 "web-console-rails3","0.4.1","MIT"
