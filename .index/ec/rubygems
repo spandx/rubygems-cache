@@ -2698,6 +2698,7 @@
 "sensu-check-esc","1.0.6","NONSTANDARD"
 "sensu-check-esc","1.0.7","NONSTANDARD"
 "sequel-instrumentation","0.1.0","Apache-2.0"
+"sequel-tstzrange-fields","0.1.1","MIT"
 "sesh","0.0.1","GNU GPLv3"
 "sesh","0.0.3","GNU GPLv3"
 "sesh","0.0.4","GNU GPLv3"

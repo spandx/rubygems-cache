@@ -2410,6 +2410,7 @@
 "sensu-plugins-edgelab","1.9.0",""
 "sensu-plugins-kubernetes-reactiveops","0.1.0","MIT"
 "sensu-plugins-kubernetes-reactiveops","0.2.0","MIT"
+"sequel-soft-deletes","0.1.2","MIT"
 "sequins","0.1.0","MIT"
 "sequins","0.1.1","MIT"
 "sequins","0.1.2","MIT"

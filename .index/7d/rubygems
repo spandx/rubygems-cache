@@ -1125,6 +1125,7 @@
 "ffi-yajl-universal-java","2.3.1","MIT"
 "ffi-yajl-universal-java","2.3.3","MIT"
 "ffi-yajl-universal-java","2.3.4","MIT"
+"ffi-yajl-universal-java","2.4.0","MIT"
 "file_storage","0.0.1",""
 "fileutils2","0.2.0","BSD-2-Clause-|-Ruby"
 "filterable_sortable","0.0.1","MIT"
