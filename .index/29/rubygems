@@ -2530,6 +2530,7 @@
 "logstash-input-redis","3.5.0","Apache-2.0"
 "logstash-input-redis","3.5.1","Apache-2.0"
 "logstash-input-redis","3.6.0","Apache-2.0"
+"logstash-input-redis","3.6.1","Apache-2.0"
 "logstash-input-sdee","0.6.9","Apache-2.0"
 "logstash-input-sdee","0.7.0","Apache-2.0"
 "logstash-input-sdee","0.7.1","Apache-2.0"

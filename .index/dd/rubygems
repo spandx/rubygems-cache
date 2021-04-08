@@ -729,6 +729,8 @@
 "fancy_command","0.0.2","MIT"
 "fancy_command","0.0.4","MIT"
 "faraday-hypermedia","0.1.0","MIT"
+"fastlane-plugin-swift_doc","0.1.0","MIT"
+"fastlane-plugin-swift_doc","0.1.1","MIT"
 "fastlane-plugin-u3d","0.1.0","MIT"
 "fastlane-plugin-u3d","0.1.1","MIT"
 "fastlane-plugin-u3d","0.1.2","MIT"
