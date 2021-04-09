@@ -1654,6 +1654,7 @@
 "metasploit_payloads-mettle","1.0.6","3-clause (or ""modified"") BSD"
 "metasploit_payloads-mettle","1.0.7","3-clause (or ""modified"") BSD"
 "metasploit_payloads-mettle","1.0.8","3-clause (or ""modified"") BSD"
+"metasploit_payloads-mettle","1.0.9","3-clause (or ""modified"") BSD"
 "microdata_schema","0.0.1","MIT"
 "microdata_schema","0.0.2","MIT"
 "microservice_precompiler","0.1.1",""

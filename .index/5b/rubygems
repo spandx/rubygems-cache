@@ -700,6 +700,7 @@
 "fastlane-plugin-upload_symbols_to_shake","0.1.2","MIT"
 "fastlane-plugin-upload_symbols_to_shake","0.1.3","MIT"
 "fastlane-plugin-upload_symbols_to_shake","0.1.5","MIT"
+"fastlane-plugin-upload_symbols_to_shake","1.0.0","MIT"
 "fat","0.0.1","MIT"
 "fat","0.0.2","MIT"
 "fat","0.0.3","MIT"

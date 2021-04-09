@@ -1125,6 +1125,7 @@
 "fluent-plugin-dynatrace","0.1.2","Apache-2.0"
 "fluent-plugin-dynatrace","0.1.3","Apache-2.0"
 "fluent-plugin-filter_redfishmetric","0.0.1","Apache-2.0"
+"fluent-plugin-filter_redfishmetric","0.0.2","Apache-2.0"
 "fluent-plugin-grpc","0.0.2","MIT"
 "fluent-plugin-netflow","0.0.1","Apache-2.0"
 "fluent-plugin-netflow","0.0.2","Apache-2.0"

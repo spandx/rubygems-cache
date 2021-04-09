@@ -1841,6 +1841,8 @@
 "lita-slack-karma-sync","0.2.1","MIT"
 "live_address","0.0.2","MIT"
 "livejournal2","0.4.0","MIT"
+"livejournal2","0.4.1","MIT"
+"livejournal2","0.4.2","MIT"
 "logstash-input-varnishncsa","2.0.2","Apache-2.0"
 "logstash-input-varnishncsa","2.0.3","Apache-2.0"
 "logstash-input-varnishncsa","2.0.4","Apache-2.0"
