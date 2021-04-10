@@ -2708,6 +2708,7 @@
 "sidekiq_publisher","1.7.0","MIT"
 "sidekiq_publisher","1.7.1","MIT"
 "sidekiq_publisher","1.8.0","MIT"
+"sidekiq_publisher","2.0.0","MIT"
 "simple-make","0.0.1","MIT"
 "simple-make","0.0.2","MIT"
 "simplify_redirector","1.0.1",""
