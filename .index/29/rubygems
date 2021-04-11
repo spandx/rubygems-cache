@@ -476,6 +476,7 @@
 "aws-sdk-mq","1.7.0","Apache-2.0"
 "aws-sdk-mq","1.8.0","Apache-2.0"
 "aws-sdk-mq","1.9.0","Apache-2.0"
+"aws-ses-v4","0.8.1","MIT"
 "aws_ip_utilities","0.1.20180711",""
 "aws_ip_utilities","0.2.20180711",""
 "aws_ip_utilities","0.3.1533583353",""

@@ -98,6 +98,7 @@
 "active_directory_login","0.1.7","MIT"
 "active_directory_login","0.1.8","MIT"
 "active_endpoint","0.2.0","MIT"
+"active_period","5.0.0","MIT"
 "active_record-sql_analyzer","0.0.5","Apache-2.0"
 "active_record-sql_analyzer","0.0.6","Apache-2.0"
 "active_record-sql_analyzer","0.0.7","Apache-2.0"

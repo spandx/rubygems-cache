@@ -1592,6 +1592,7 @@
 "libreservice","0.0.2","MIT"
 "libspotify-arm-linux","12.1.51.3","MIT"
 "libspotify-arm-linux","12.1.51.4","MIT"
+"libv8-node","15.14.0.0","MIT"
 "lifeboat","0.2.4",""
 "lifeboat","0.2.5",""
 "lifeboat","0.4.0",""

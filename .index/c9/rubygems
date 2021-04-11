@@ -819,6 +819,7 @@
 "ec2-snapshot-replicator","0.1.5","MIT"
 "ec2-snapshot-replicator","0.1.6","MIT"
 "ec2-snapshot-replicator","0.1.7","MIT"
+"ed25519-hd-rb","0.0.1","MIT"
 "edanrb","0.1.0","https://github.com/Smithsonian/edanrb/blob/master/license.md"
 "edanrb","0.1.1","https://github.com/Smithsonian/edanrb/blob/master/license.md"
 "emarsys-api","0.2.0","MIT"

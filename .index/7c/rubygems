@@ -1482,6 +1482,7 @@
 "googletheme","1.4.1","MIT"
 "grape-active_action","3.0.1","MIT"
 "grape-active_action","3.0.7","MIT"
+"grape-active_action","3.0.8","MIT"
 "guard-jruby-rspec","0.1.0",""
 "guard-jruby-rspec","0.1.5",""
 "guard-jruby-rspec","0.1.7",""
