@@ -2926,6 +2926,7 @@
 "sequence_on","0.0.8","MIT"
 "sequence_on","0.0.9","MIT"
 "sequence_on","0.1.0","MIT"
+"sequence_on","0.2.0","MIT"
 "serpico","0.0.0",""
 "sidekiq-cron-tasks","0.2.0","MIT"
 "sidekiq-cron-tasks","0.3.0","MIT"

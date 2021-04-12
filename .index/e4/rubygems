@@ -560,6 +560,7 @@
 "connection_pool","2.2.1","MIT"
 "connection_pool","2.2.2","MIT"
 "connection_pool","2.2.3","MIT"
+"connection_pool","2.2.4","MIT"
 "conscan","0.1.0","MIT"
 "contentful-scheduler-custom-build-john","1.0","MIT"
 "contentful-scheduler-custom-build-john","1.1","MIT"
