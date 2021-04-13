@@ -1056,6 +1056,7 @@
 "failbot_rails","0.3.4",""
 "failbot_rails","0.4.0","MIT"
 "failbot_rails","0.5.0","MIT"
+"failbot_rails","0.7.0","MIT"
 "fake_stripe","0.0.10",""
 "fake_stripe","0.0.10.1",""
 "fake_stripe","0.0.10.2",""
