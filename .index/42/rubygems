@@ -2481,6 +2481,7 @@
 "sidekiq-unique-jobs","7.0.5","MIT"
 "sidekiq-unique-jobs","7.0.6","MIT"
 "sidekiq-unique-jobs","7.0.7","MIT"
+"sidekiq-unique-jobs","7.0.8","MIT"
 "sidekiq_middlewares","0.1.0",""
 "sidekiq_middlewares","0.2.0",""
 "sidekiq_middlewares","0.3.0",""

@@ -436,6 +436,7 @@
 "carrierwave-serializable","0.0.4",""
 "carrierwave-serializable","0.0.5","MIT"
 "carrierwave-serializable","0.0.6","MIT"
+"carrierwave-serializable","0.1.0","MIT"
 "ceph-ruby","1.0","MIT"
 "ceph-ruby","1.1","MIT"
 "challah-facebook","0.1.0",""
