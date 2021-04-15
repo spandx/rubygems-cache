@@ -3029,6 +3029,7 @@
 "sidekiq-sequence","0.1.6","MIT"
 "sidekiq-sequence","0.1.7","MIT"
 "sidekiq-sequence","0.1.8","MIT"
+"sidekiq-sequence","0.1.9","MIT"
 "sidekiq_async_task","1.0.0","MIT"
 "simple-rack-logger","0.0.1",""
 "simple-rack-logger","0.0.4",""

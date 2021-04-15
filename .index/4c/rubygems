@@ -2774,6 +2774,7 @@
 "ruby-opencv","0.0.9","The BSD License"
 "ruby-timecamp","0.0.0","MIT"
 "ruby-timecamp","0.0.2","MIT"
+"ruby_controler","0.0.1",""
 "ruby_fm","0.0.1","MIT"
 "ruby_fm","0.0.2","MIT"
 "ruby_friendly_error","0.0.1","MIT"
