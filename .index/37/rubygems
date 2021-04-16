@@ -243,6 +243,7 @@
 "cassandra_mocks","0.0.9","Apache-2.0"
 "cassandra_mocks","1.0.8","Apache-2.0"
 "ccup","0.0.1",""
+"cedar-component","0.1.2","MIT"
 "cfcloner","0.1.0","MIT"
 "chameleon","0.2.1",""
 "chameleon","0.2.4",""

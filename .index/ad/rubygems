@@ -735,6 +735,7 @@
 "fluent-plugin-papertrail","0.2.6","Apache-2.0"
 "fluent-plugin-papertrail","0.2.7","Apache-2.0"
 "fluent-plugin-papertrail","0.2.8","Apache-2.0"
+"fluent-plugin-redfish-metricreport","0.1.0","Apache-2.0"
 "fluent-plugin-resque-ex","0.1.0",""
 "fluent-plugin-slack-stakater","0.6.8","Apache-2.0"
 "fm","0.0.1","MIT"
