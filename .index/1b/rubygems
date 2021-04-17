@@ -1723,6 +1723,7 @@
 "logstash-input-sfdc_elf_schneider","1.0.9","MIT"
 "lonely_coder","0.1.5.1",""
 "lucio","0.0.7",""
+"mad","1.0.0","MIT"
 "magento_client","0.1.0","MIT"
 "mail_rotator","0.1.0","MIT"
 "mailgun-mailbox","0.1","MIT"
