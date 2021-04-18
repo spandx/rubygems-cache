@@ -418,6 +418,7 @@
 "can_has_validations","1.0.2",""
 "can_has_validations","1.1.0",""
 "can_has_validations","1.2.0","MIT"
+"can_has_validations","1.2.1","MIT"
 "capistrano-send","0.0.2","MIT"
 "captive","1.0.0","MIT"
 "captive","1.0.1","MIT"

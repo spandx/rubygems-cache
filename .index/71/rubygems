@@ -2913,6 +2913,8 @@
 "shells","0.2.0","MIT"
 "shells","0.2.1","MIT"
 "shells","0.2.2","MIT"
+"shorten_string_by_sinan","0.1.0","MIT"
+"shorten_string_by_sinan","0.1.1","MIT"
 "sidekiq-redis-logger","0.1.0",""
 "sidekiq-redis-logger","0.1.1",""
 "sidekiq-redis-logger","0.1.2",""
