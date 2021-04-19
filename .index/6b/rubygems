@@ -2572,6 +2572,7 @@
 "remote_rails_rake_runner","0.9.2","MIT"
 "remote_rails_rake_runner","0.9.3","MIT"
 "remote_rails_rake_runner","0.9.4","MIT"
+"remote_rails_rake_runner","1.0.0","MIT"
 "replica_connect","0.0.1",""
 "require_infector","0.0.1","MIT"
 "require_infector","0.0.2","MIT"

@@ -1958,6 +1958,8 @@
 "omniauth-github-team-member","2.0.0",""
 "omniauth-github-team-member","2.0.1",""
 "omniauth-github-team-member","2.1.0",""
+"omniauth-pocket-oauth2","0.1.0",""
+"omniauth-pocket-oauth2","0.1.1",""
 "omniauth-rdio-oauth2","0.1.2","MIT"
 "omniauth-surveymonkey2","0.0.1","MIT"
 "omniauth-surveymonkey2","0.0.10",""

@@ -2206,6 +2206,7 @@
 "pg_objects","0.5.4","MIT"
 "pg_objects","0.5.5","MIT"
 "pg_objects","0.5.6","MIT"
+"pg_objects","0.5.7","MIT"
 "photos_manager","0.0.3",""
 "photos_manager","0.0.5",""
 "picojson_ruby","0.0.1","MIT"
