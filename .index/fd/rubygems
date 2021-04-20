@@ -2189,6 +2189,7 @@
 "logstash-output-sqs","6.0.0","Apache-2.0"
 "logtail-rack","0.1.0","ISC"
 "logtail-rack","0.1.1","ISC"
+"logtail-rack","0.1.2","ISC"
 "mago","0.0.1","MIT"
 "mago","0.0.2","MIT"
 "mago","0.0.3","MIT"

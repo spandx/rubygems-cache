@@ -541,6 +541,7 @@
 "comment_box","0.0.4","MIT"
 "concurrent_rails","0.1.1","MIT"
 "concurrent_rails","0.1.2","MIT"
+"concurrent_rails","0.1.3","MIT"
 "connpass","0.0.1","MIT"
 "contentstack_utils","1.0.0","MIT"
 "crane_rails","0.0.1",""
