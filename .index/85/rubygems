@@ -914,6 +914,7 @@
 "ffi-libarchive-binary","0.2.1","BSD-3-Clause"
 "ffi-libarchive-binary","0.2.2","BSD-3-Clause"
 "ffi-libarchive-binary","0.2.3","BSD-3-Clause"
+"ffi-libarchive-binary","0.2.4","BSD-3-Clause"
 "fighter","0.0.0","MIT"
 "filekv","0.0.1","MIT"
 "fileutils","0.7.1","BSD-2-Clause"

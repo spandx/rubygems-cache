@@ -34,6 +34,7 @@
 "active_path-path_hints","0.1.2",""
 "active_record_upsert","0.1.0",""
 "active_record_upsert","0.10.0","MIT"
+"active_record_upsert","0.10.1","MIT"
 "active_record_upsert","0.2.0",""
 "active_record_upsert","0.3.0",""
 "active_record_upsert","0.4.0",""
