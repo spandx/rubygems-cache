@@ -551,6 +551,7 @@
 "consent","0.5.0",""
 "consent","0.5.2",""
 "consent","0.6.0","MIT"
+"consent","1.0.0","MIT"
 "consul-migrate","0.1.1","Apache-2.0"
 "consul-migrate","0.1.2","Apache-2.0"
 "copy_tuner_client","0.0.1",""

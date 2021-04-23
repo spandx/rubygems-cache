@@ -280,6 +280,7 @@
 "agent_client","1.3262.0","Apache-2.0"
 "agent_client","1.3262.24.0","Apache-2.0"
 "agent_client","1.3262.4.0","Apache-2.0"
+"aha-libv8-node-linux","16.0.0.0","MIT"
 "ant-configs","0.1.0","MIT"
 "ant-configs","0.2.0","MIT"
 "aortega7-rubycalc","0.0.2","ARTISTIC"
