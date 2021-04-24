@@ -2396,6 +2396,7 @@
 "nuget_versions","0.9.1","LGPL-3.0+"
 "nuget_versions","1.0.0","LGPL-3.0+"
 "nuget_versions","1.0.1","LGPL-3.0+"
+"nuget_versions","1.0.2","LGPL-3.0+"
 "object-stream","0.1","BSD"
 "object-stream","0.2","BSD"
 "object-stream","0.3","BSD"

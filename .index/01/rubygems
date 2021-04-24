@@ -2448,6 +2448,7 @@
 "onix_metagem","0.0.2","MIT"
 "onix_metagem","0.0.3","MIT"
 "opal-connect-rspec","0.5.0",""
+"opentelemetry-instrumentation-pg","0.17.1","Apache-2.0"
 "openvas-cli","0.1.1",""
 "openvas-cli","0.2.5",""
 "openvas-cli","0.2.7",""

@@ -4238,6 +4238,7 @@
 "newrelic_rpm","6.7.0.359","New Relic"
 "newrelic_rpm","6.8.0.360","New Relic"
 "newrelic_rpm","6.9.0.363","New Relic"
+"newrelic_rpm","7.0.0","Apache-2.0"
 "node_heartbeat","0.1.0",""
 "node_heartbeat","0.1.1",""
 "notify-graphite","0.0.1","MIT"

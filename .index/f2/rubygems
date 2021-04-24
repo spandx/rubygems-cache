@@ -2108,6 +2108,7 @@
 "openpushed","0.0.1","MIT"
 "openstudio-calibration-measures","0.2.0",""
 "openstudio-calibration-measures","0.3.0",""
+"opentelemetry-propagator-xray","0.17.0","Apache-2.0"
 "optioneer","0.0.0","MIT"
 "oreilly-snippets","0.0.1","MIT"
 "oreilly-snippets","0.0.10","MIT"
