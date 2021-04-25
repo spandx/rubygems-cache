@@ -340,6 +340,7 @@
 "base-project","0.1.0",""
 "batch_jaro_winkler","0.0.1","MIT"
 "batch_jaro_winkler","0.1.0","MIT"
+"batch_jaro_winkler","0.1.1","MIT"
 "batchy","0.0.2",""
 "batchy","0.0.3",""
 "batchy","0.0.4",""

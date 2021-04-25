@@ -1823,6 +1823,7 @@
 "postgresql-backup","0.0.3","MIT"
 "postgresql-backup","0.0.4","MIT"
 "postgresql-backup","0.0.5","MIT"
+"postgresql-backup","0.0.6","MIT"
 "prawn_charts","0.0.1",""
 "prawn_charts","0.0.2",""
 "prawn_charts","0.0.3",""
