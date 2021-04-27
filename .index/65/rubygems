@@ -1779,6 +1779,7 @@
 "librex","0.0.71","BSD"
 "librex","0.0.999","BSD"
 "libv8-node-x86_64-darwin-19","15.14.0.0","MIT"
+"libv8-node-x86_64-darwin-19","15.14.0.1","MIT"
 "lightningdb-happymapper","0.3.0",""
 "lightningdb-happymapper","0.3.1",""
 "lightningdb-happymapper","0.3.2",""

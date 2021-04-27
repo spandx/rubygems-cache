@@ -1731,6 +1731,7 @@
 "logstash-mixin-aws","4.3.0","Apache-2.0"
 "logstash-mixin-aws","4.4.0","Apache-2.0"
 "logstash-mixin-aws","4.4.1","Apache-2.0"
+"logstash-mixin-aws","5.0.0","Apache-2.0"
 "logstash-output-elasticsearch_java_shield","2.0.1","SHIELD SOFTWARE LICENSE AGREEMENT"
 "logstash-output-elasticsearch_java_shield","2.1.2","SHIELD SOFTWARE LICENSE AGREEMENT"
 "logstash-output-jdbc-java","0.3.0","Apache-2.0"

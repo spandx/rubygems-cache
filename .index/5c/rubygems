@@ -1614,6 +1614,7 @@
 "librr","0.0.1","MIT"
 "librr","0.0.2","MIT"
 "libv8-node-arm64-darwin-20","15.14.0.0","MIT"
+"libv8-node-arm64-darwin-20","15.14.0.1","MIT"
 "libvirt-ruby","0.0.1",""
 "libvirt-ruby","0.0.3",""
 "libvirt-ruby","0.0.5",""

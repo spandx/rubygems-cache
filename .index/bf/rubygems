@@ -237,6 +237,7 @@
 "aws-sdk-iotwireless","1.5.0","Apache-2.0"
 "aws-sdk-iotwireless","1.6.0","Apache-2.0"
 "aws-sdk-iotwireless","1.7.0","Apache-2.0"
+"aws-sdk-iotwireless","1.8.0","Apache-2.0"
 "azure_mgmt_devtestlabs","0.10.0","MIT"
 "azure_mgmt_devtestlabs","0.11.0","MIT"
 "azure_mgmt_devtestlabs","0.12.0","MIT"

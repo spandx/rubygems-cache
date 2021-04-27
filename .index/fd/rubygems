@@ -2980,6 +2980,7 @@
 "rspec-xml","0.1.1",""
 "rswift-osx","0.0.8","MIT"
 "rswift-osx","0.1.0","MIT"
+"rubocop-schema-gen","0.1.0","MIT"
 "rubolite","0.0.1",""
 "rubolite","0.0.2",""
 "rubolite","0.0.3",""

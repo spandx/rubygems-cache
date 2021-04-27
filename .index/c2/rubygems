@@ -1646,6 +1646,7 @@
 "liars_dice","0.0.6",""
 "liblzma-x86-mingw32","0.3","2-clause BSD License"
 "libofx-ffi","0.1.3",""
+"libv8-node-aarch64-linux-musl","15.14.0.1","MIT"
 "libxml-ruby","2.0.2",""
 "libxml-ruby","2.0.3",""
 "libxml-ruby","2.0.4",""
