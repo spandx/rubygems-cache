@@ -1756,6 +1756,7 @@
 "qat-cucumber","6.0.3","GPL-3.0"
 "qat-cucumber","7.0.0","GPL-3.0"
 "qat-cucumber","7.0.3","GPL-3.0"
+"qat-cucumber","7.0.4","GPL-3.0"
 "rack-exclusive-verbs","1.0.0","MIT"
 "rack-gist","1.1.8",""
 "rack-gist","1.1.9",""

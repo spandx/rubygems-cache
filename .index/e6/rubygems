@@ -2245,6 +2245,7 @@
 "odata-model","0.6.7","MIT"
 "office","0.1.0",""
 "omniauth-eachscape-oauth2","1.0.1","MIT"
+"omniauth-ibmid","1.0.0","MIT"
 "omniauth-lightspeed","1.0.0",""
 "omniauth-nextengine","0.1.0","MIT"
 "omniauth-nextengine","0.1.1","MIT"

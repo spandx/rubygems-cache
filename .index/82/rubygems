@@ -63,6 +63,7 @@
 "activerecord-cockroachdb-adapter","5.2.0","Apache-2.0"
 "activerecord-cockroachdb-adapter","5.2.1","Apache-2.0"
 "activerecord-cockroachdb-adapter","5.2.2","Apache-2.0"
+"activerecord-cockroachdb-adapter","6.0.0","Apache-2.0"
 "activerecord-cockroachdb-adapter","6.1.0","Apache-2.0"
 "acts_as_approvable","0.1.0",""
 "acts_as_approvable","0.7.0",""
