@@ -784,6 +784,8 @@
 "em_aws","0.3.2","MIT"
 "em_aws","1.0.0","MIT"
 "em_aws","1.0.1","MIT"
+"email_validator_mmanaswinee","1.0.1","MIT"
+"email_validator_mmanaswinee","1.0.2","MIT"
 "embulk-filter-unnest-java","0.1.0","Apache-2.0"
 "embulk-filter-unnest-java","0.1.2","MIT"
 "emerson","0.0.10",""

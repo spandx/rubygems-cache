@@ -839,6 +839,7 @@
 "gistyle","1.0.2",""
 "git-merge-structure-sql","1.0.0",""
 "git-merge-structure-sql","1.1.0","BSD-2-Clause"
+"git-merge-structure-sql","1.1.1","BSD-2-Clause"
 "git-trim-whitespace","0.1",""
 "git_flow","0.1.0","MIT"
 "git_flow","0.1.1","MIT"

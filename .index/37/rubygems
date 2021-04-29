@@ -1107,6 +1107,7 @@
 "install_gem_local","1.0.1","MIT"
 "integer-base","0.1.0","MIT"
 "integer-base","0.1.1","MIT"
+"integer-base","0.1.2","MIT"
 "interage-service","0.1.0","MIT"
 "ios-cert-enrollment","0.0.4",""
 "irxrb","0.0.7",""

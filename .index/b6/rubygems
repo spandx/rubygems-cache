@@ -1182,6 +1182,7 @@
 "jwt-authorizer","2.0.0","MIT"
 "jwt-authorizer","2.0.1","MIT"
 "jwt-authorizer","2.1.0","MIT"
+"kafka-client-ruby-addons","9001.0","MIT"
 "kafo_module_lint","1.0.0","GPLv3+"
 "kafo_module_lint","1.0.1","GPLv3+"
 "kafo_module_lint","1.0.2","GPLv3+"
