@@ -3236,6 +3236,8 @@
 "shopify_unlimited","0.0.9","MIT"
 "shopify_unlimited","0.1.0","MIT"
 "shrine-ftp","0.1.1","MIT"
+"sidekiq_graceful_shutdown","0.1.1","MIT"
+"sidekiq_graceful_shutdown","0.1.2","MIT"
 "signalsciences","0.8.6","MIT"
 "signed","0.1.0","MIT"
 "signed","0.2.0","MIT"

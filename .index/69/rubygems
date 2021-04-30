@@ -2162,6 +2162,8 @@
 "ruby-internal","0.8.3",""
 "ruby-internal","0.8.5",""
 "ruby-jade","0.0.1",""
+"ruby-miradore","0.1.0","MIT"
+"ruby-miradore","0.1.1","MIT"
 "ruby_stan","0.1.0",""
 "ruby_stan","0.1.1",""
 "rubysl-logger","1.0.0","BSD"

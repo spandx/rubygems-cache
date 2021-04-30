@@ -1380,6 +1380,7 @@
 "image_optim_pack","0.6.0.20201024","MIT"
 "image_optim_pack","0.7.0","MIT"
 "image_optim_pack","0.7.0.20210206","MIT"
+"image_optim_pack","0.7.0.20210430","MIT"
 "image_scraper","0.1.1",""
 "image_scraper","0.1.4",""
 "image_scraper","0.1.7",""
@@ -3670,3 +3671,4 @@
 "zuora_api","1.9.0",""
 "zuora_api","1.9.01",""
 "zuora_api","1.9.02",""
+"zuora_api","1.9.03",""

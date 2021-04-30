@@ -1429,6 +1429,7 @@
 "influxdb-client-apis","1.12.0","MIT"
 "influxdb-client-apis","1.12.1","MIT"
 "influxdb-client-apis","1.13.0","MIT"
+"influxdb-client-apis","1.14.0","MIT"
 "informal","0.1.0",""
 "ingram_micro_engine","0.0.1",""
 "ingram_micro_engine","0.0.2",""
