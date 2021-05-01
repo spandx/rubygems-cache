@@ -1026,6 +1026,7 @@
 "diff_matcher","2.7.1","BSD-|-MIT"
 "diff_matcher","2.8.0","BSD-|-MIT"
 "diff_matcher","2.8.1","BSD-|-MIT"
+"diff_matcher","2.9.0","BSD-|-MIT"
 "digest-kangarootwelve","0.0.1","MIT"
 "digest-kangarootwelve","0.0.2","MIT"
 "digest-kangarootwelve","0.1.0","MIT"
