@@ -1332,6 +1332,7 @@
 "jekyll-generator-section_from_site_tags","0.2","MIT"
 "jekyll-liquify","0.0.1","MIT"
 "jekyll-liquify","0.0.2","MIT"
+"jekyll-reduce-title-redundancy","0.1.0","GPL-3.0-or-later"
 "jekyll-zopfli","1.0.0","MIT"
 "jekyll-zopfli","1.1.0","MIT"
 "jekyll-zopfli","2.0.0","MIT"
