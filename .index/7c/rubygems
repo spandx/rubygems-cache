@@ -2896,6 +2896,7 @@
 "temporary_directory","0.1.0","ISC"
 "teratail-sdk-ruby","0.1.0","MIT"
 "teratail-sdk-ruby","0.1.1","MIT"
+"test-unit-pdf_matcher","1.0.0","MIT"
 "test-unit-runner-junitxml","0.1.0","MIT"
 "test-unit-runner-junitxml","0.1.1","MIT"
 "test_gem_kenchiki","0.1.0",""
