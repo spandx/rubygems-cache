@@ -3135,6 +3135,8 @@
 "validates_as_hostname_label","1.1.2",""
 "vantage-client","0.0.5","MIT"
 "vantage-client","0.0.6","MIT"
+"vantage-client","0.0.7","MIT"
+"vantage-client","0.0.8","MIT"
 "vela","0.1.1","MIT"
 "version_bomb","0.0.1","MIT"
 "vertform","0.0.1","Attribution-NonCommercial-NoDerivatives 4.0 International"

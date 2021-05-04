@@ -1419,6 +1419,8 @@
 "fast_jsonparser","0.3.0","MIT"
 "fast_jsonparser","0.4.0","MIT"
 "fast_jsonparser","0.5.0","MIT"
+"fastlane-plugin-copy_screenshots","1.0.0","MIT"
+"fastlane-plugin-copy_screenshots","1.0.1","MIT"
 "fastlane-plugin-retry_tests","1.0.1","MIT"
 "fastlane-plugin-retry_tests","1.0.2","MIT"
 "fastlane-plugin-retry_tests","1.0.3","MIT"
