@@ -3025,6 +3025,7 @@
 "remote_syslog_logger_custom","1.0.3",""
 "remote_syslog_logger_custom","1.0.4",""
 "replitdb","0.1.0","MIT"
+"replitdb","0.1.1","MIT"
 "res_os_ruby","0.1.2","MIT"
 "rescuable","0.1.0","MIT"
 "responsive_service","0.0.1","MIT"
