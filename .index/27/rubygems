@@ -2328,6 +2328,7 @@
 "rqrcode","1.1.1","MIT"
 "rqrcode","1.1.2","MIT"
 "rqrcode","1.2.0","MIT"
+"rqrcode","2.0.0","MIT"
 "rs232","0.1.1",""
 "rs232","0.1.4",""
 "rsasync-rails","13.2.11.1",""

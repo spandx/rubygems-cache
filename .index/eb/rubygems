@@ -2553,6 +2553,7 @@
 "sensu-plugins-chef","5.0.1","MIT"
 "sensu-plugins-chef","6.0.0","MIT"
 "sensu-plugins-chef","7.0.0","MIT"
+"sensu-plugins-chef","7.1.0","MIT"
 "sensu-plugins-influxdb-metrics-checker","0.1.0","MIT"
 "sensu-plugins-influxdb-metrics-checker","0.2.0","MIT"
 "sensu-plugins-influxdb-metrics-checker","0.2.1","MIT"

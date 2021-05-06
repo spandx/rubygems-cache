@@ -1265,6 +1265,7 @@
 "heroku_s3_backups","0.1.4","MIT"
 "hiccdown","0.1.1","MIT"
 "hiccdown","0.1.2","MIT"
+"hiccdown","0.1.3","MIT"
 "hiera_loader","0.0.3","Apache-2.0"
 "highlight-within-textarea-rails","0.1.0",""
 "hiogawa_playground","0.0.0","MIT"
