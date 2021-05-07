@@ -490,6 +490,8 @@
 "capistrano-django","3.6.0",""
 "capistrano-django","3.6.1",""
 "capistrano-django","4.0.0",""
+"capistrano-django","4.0.1",""
+"capistrano-django","4.0.2",""
 "capistrano-ember_cli","1.0.0","MIT"
 "capistrano-figaro-yml","1.0.0","MIT"
 "capistrano-figaro-yml","1.0.1","MIT"

@@ -2170,6 +2170,7 @@
 "puppet-magnum","4.1.1","Apache-2.0"
 "puppet-sec-lint","0.1.1","MIT"
 "puppet-sec-lint","0.1.2","MIT"
+"puppet-sec-lint","0.5.0","MIT"
 "puppet-syntax","0.0.1","MIT"
 "puppet-syntax","0.0.2","MIT"
 "puppet-syntax","0.0.3","MIT"

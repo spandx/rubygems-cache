@@ -2832,6 +2832,7 @@
 "sequel-json_columns","1.0.2","MIT"
 "sequel-json_columns","1.1.2","MIT"
 "sequel_auth","0.0.6","MIT"
+"sequel_auth","0.0.7","MIT"
 "sequel_db_config","0.0.1","MIT"
 "sequel_db_config","0.0.2","MIT"
 "serialport","1.1.0",""
