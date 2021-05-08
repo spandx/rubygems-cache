@@ -2832,6 +2832,8 @@
 "ruby-terraform","0.7.0","MIT"
 "ruby-terraform","0.8.0","MIT"
 "ruby-terraform","0.9.0","MIT"
+"ruby-terraform","1.0.0","MIT"
+"ruby-terraform","1.1.0","MIT"
 "ruby_hid","0.0.0","MIT"
 "ruby_hid","0.0.1","MIT"
 "ruby_hid","0.0.2","MIT"

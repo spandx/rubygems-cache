@@ -1355,6 +1355,7 @@
 "hella-redis","0.3.0",""
 "hella-redis","0.3.1","MIT"
 "hella-redis","0.4.0","MIT"
+"hella-redis","0.5.0","MIT"
 "hellogrpc","0.0.1471160068","MIT"
 "hellogrpc","0.0.1471160165","MIT"
 "hellogrpc","0.0.1471160244","MIT"
