@@ -449,6 +449,7 @@
 "database_cleaner-active_record","1.8.0","MIT"
 "database_cleaner-active_record","1.99.0","MIT"
 "database_cleaner-active_record","2.0.0","MIT"
+"database_cleaner-active_record","2.0.1","MIT"
 "date_iterator","1.0.0",""
 "db_backup_rails","1.0.3","MIT"
 "db_backup_rails","1.0.4","MIT"
