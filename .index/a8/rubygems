@@ -3293,6 +3293,7 @@
 "yml_reader","0.5",""
 "yml_reader","0.6",""
 "yml_reader","0.7",""
+"zen-query","1.0.0","MIT"
 "zenml-book","1.0.0","MIT"
 "zenml-book","1.0.1","MIT"
 "zenml-book","1.1.0","MIT"

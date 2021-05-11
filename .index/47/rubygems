@@ -282,6 +282,7 @@
 "async-redis","0.5.1","MIT"
 "async-redis","0.5.2","MIT"
 "async-redis","0.5.3","MIT"
+"async-redis","0.6.0","MIT"
 "atoma","0.0.1",""
 "atomic_potato_view_tool","0.1.0","MIT"
 "avaya","0.0.2","MIT"

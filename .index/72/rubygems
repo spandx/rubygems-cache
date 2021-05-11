@@ -1915,6 +1915,7 @@
 "logstash-filter-extractnumbers","2.0.1","Apache-2.0"
 "logstash-filter-extractnumbers","2.0.2","Apache-2.0"
 "logstash-filter-extractnumbers","2.0.4","Apache-2.0"
+"logstash-filter-panfinder","0.0.2","Apache-2.0"
 "logstash-input-log-courier","1.1","Apache"
 "logstash-input-log-courier","1.2","Apache"
 "logstash-input-log-courier","1.3","Apache"
