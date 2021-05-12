@@ -936,6 +936,8 @@
 "fakir","0.0.1","MIT"
 "farsi_processor","0.2.0","MIT"
 "farsi_processor","0.2.1","MIT"
+"fastlane-plugin-depman","0.1.0","MIT"
+"fastlane-plugin-depman","0.1.1","MIT"
 "fastlane-plugin-install_provisioning_profile","0.1.1","MIT"
 "fastlane-plugin-poeditor_export","0.1.0","MIT"
 "fastlane-plugin-poeditor_export","0.2.0","MIT"

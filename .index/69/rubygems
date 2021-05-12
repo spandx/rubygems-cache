@@ -1949,6 +1949,7 @@
 "rack-slash_merger","0.1.1","MIT"
 "rack-smack","1.0.0","MIT"
 "rack-smack","2.0.1","MIT"
+"rack-smack","2.0.2","MIT"
 "rack_curler","0.0.1","MIT"
 "rack_curler","0.0.2","MIT"
 "radiant-locked_page_parts-extension","0.1.1",""

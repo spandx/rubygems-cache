@@ -384,6 +384,7 @@
 "carrierwave-daltonize","0.0.3",""
 "carrierwave-daltonize","0.0.4",""
 "cartodb-rb-client","0.4.3",""
+"casbin-ruby","1.0.0","Apache-2.0"
 "catfactz","0.0.0",""
 "catfactz","0.0.1",""
 "catfactz","0.0.2",""

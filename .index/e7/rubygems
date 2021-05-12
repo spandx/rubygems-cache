@@ -1581,6 +1581,7 @@
 "fluent-plugin-in-websocket","0.1.2","MIT"
 "fluent-plugin-macos-log","0.0.1","MIT"
 "fluent-plugin-macos-log","0.0.2","MIT"
+"fluent-plugin-macos-log","0.0.3","MIT"
 "fluent-plugin-rds-pgsql-slow-query-log","0.1.1","MIT"
 "fluent-plugin-rds-pgsql-slow-query-log","0.1.2","MIT"
 "fluentd-v1-checker","0.0.1","MIT"

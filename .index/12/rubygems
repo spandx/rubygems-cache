@@ -903,6 +903,7 @@
 "fluent-plugin-prometheus","2.0.1","Apache-2.0"
 "fluent-plugin-setproctitle","0.0.1","MIT"
 "fluent-plugin-setproctitle","0.0.2","MIT"
+"fluent-plugin-setproctitle","0.0.3","MIT"
 "fluent-plugin-splunk-parser","0.1.0","BSD-2-Clause"
 "fluent-plugin-splunk-parser","0.1.1","BSD-2-Clause"
 "fnv-hash","0.1.0","Apache V2"
