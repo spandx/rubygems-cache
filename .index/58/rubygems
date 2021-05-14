@@ -2563,6 +2563,7 @@
 "pupilfirst_xapi","0.2.0","GPL-3.0-or-later"
 "pupilfirst_xapi","0.2.1","GPL-3.0-or-later"
 "pupilfirst_xapi","0.2.2","GPL-3.0-or-later"
+"pupilfirst_xapi","0.3.1","GPL-3.0-or-later"
 "puppet-lint-empty_string-check","0.2.1","Apache-2.0"
 "puppet-lint-empty_string-check","0.2.2","Apache-2.0"
 "puppetdb-terminus","1.0",""

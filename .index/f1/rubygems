@@ -1102,6 +1102,8 @@
 "excel2local","0.1.4","MIT"
 "excel2local","0.2.0","MIT"
 "excel2local","0.2.01","MIT"
+"exception-swallower","0.0.1","MIT"
+"exception-swallower","0.0.2","MIT"
 "ey-logger","0.0.4","MIT"
 "ey-logger","0.0.5","MIT"
 "ey_services_fake","0.1.0",""
