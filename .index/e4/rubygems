@@ -1646,6 +1646,7 @@
 "nokogiri-arm64-darwin","1.11.1","MIT"
 "nokogiri-arm64-darwin","1.11.2","MIT"
 "nokogiri-arm64-darwin","1.11.3","MIT"
+"nokogiri-arm64-darwin","1.11.4","MIT"
 "null_associations","0.1.0","MIT"
 "number_to","0.7.0","MIT"
 "number_to","0.7.1","MIT"
