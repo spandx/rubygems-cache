@@ -1483,6 +1483,7 @@
 "jobQueue","1.0.11","BSD"
 "jobQueue","1.0.8","BSD"
 "jobQueue","1.0.9","BSD"
+"jps","1.0.0","MIT"
 "jquery-migrate-rails","0.0.2",""
 "jquery-migrate-rails","1.0.0",""
 "jquery-migrate-rails","1.1.1",""

@@ -2214,6 +2214,8 @@
 "invoiced","1.2.0","MIT"
 "invoiced","1.3.0","MIT"
 "invoiced","2.0.0","MIT"
+"irb-power_assert","0.0.1","MIT"
+"irb-power_assert","0.0.2","MIT"
 "itamae-specinfra-command","0.0.1","Apache"
 "itamae-specinfra-command","0.0.2","Apache"
 "itamae-specinfra-command","0.1.0","Apache"

@@ -2380,6 +2380,8 @@
 "syc-backup","0.0.5",""
 "syc-backup","0.0.6",""
 "syc-backup","0.0.7",""
+"sync_enum","0.1.0","MIT"
+"sync_enum","0.1.1","MIT"
 "talentbox-newrelic-sequel","0.0.10",""
 "talentbox-newrelic-sequel","0.0.6",""
 "talentbox-newrelic-sequel","0.0.7",""
