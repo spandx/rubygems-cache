@@ -3512,4 +3512,5 @@
 "zstdlib-x64-mingw32","0.5.0","BSD-3-Clause"
 "zstdlib-x64-mingw32","0.6.0","BSD-3-Clause"
 "zstdlib-x64-mingw32","0.7.0","BSD-3-Clause"
+"zstdlib-x64-mingw32","0.8.0","BSD-3-Clause"
 "zweifische","1.0.1",""

@@ -2150,6 +2150,7 @@
 "puppet-strings","2.4.0","Apache-2.0"
 "puppet-strings","2.5.0","Apache-2.0"
 "puppet-strings","2.6.0","Apache-2.0"
+"puppet-strings","2.7.0","Apache-2.0"
 "pushup","0.1.2","MIT"
 "puts_color","0.1.0",""
 "puts_color","1.0.0",""

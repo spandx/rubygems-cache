@@ -180,6 +180,7 @@
 "automated-commands","0.0.4",""
 "automated-commands","0.1.0",""
 "averell23-bj","1.0.2",""
+"aws-sdk-applicationcostprofiler","1.0.0","Apache-2.0"
 "aws-sdk-personalizeevents","1.0.0","Apache-2.0"
 "aws-sdk-personalizeevents","1.1.0","Apache-2.0"
 "aws-sdk-personalizeevents","1.10.0","Apache-2.0"

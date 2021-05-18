@@ -1137,6 +1137,7 @@
 "fluent-plugin-jfrog-siem","0.1.6","Apache-2.0"
 "fluent-plugin-jfrog-siem","0.1.7","Apache-2.0"
 "fluent-plugin-jfrog-siem","0.1.8","Apache-2.0"
+"fluent-plugin-jfrog-siem","0.1.9","Apache-2.0"
 "fluent-plugin-kubernetes_remote_syslog","0.3.3","MIT"
 "fluent-plugin-kubernetes_remote_syslog","0.3.4","MIT"
 "fluent-plugin-kubernetes_remote_syslog","0.3.5","MIT"

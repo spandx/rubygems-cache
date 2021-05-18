@@ -450,6 +450,7 @@
 "cloudsmith-api","0.53.3","Apache-2.0"
 "cloudsmith-api","0.53.79","Apache-2.0"
 "cloudsmith-api","0.54.15","Apache-2.0"
+"cloudsmith-api","0.57.1","Apache-2.0"
 "cm-carrierwave_dav","0.1.2.1","MIT"
 "cmd_plot","0.0.1","GPL-2.0"
 "cocot","1.0.0",""
@@ -3314,3 +3315,4 @@
 "zstdlib","0.5.0","BSD-3-Clause"
 "zstdlib","0.6.0","BSD-3-Clause"
 "zstdlib","0.7.0","BSD-3-Clause"
+"zstdlib","0.8.0","BSD-3-Clause"

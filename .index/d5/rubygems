@@ -2830,6 +2830,7 @@
 "redis-kit","0.0.6",""
 "redis-kit","0.1.0",""
 "redis_autocomplete","0.1.4",""
+"relaton-cie","1.8.0","BSD-2-Clause"
 "render_as_js","0.1.0","MIT"
 "require3","0.0.1","MIT"
 "require_callbacks","0.0.1","MIT"

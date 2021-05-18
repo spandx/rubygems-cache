@@ -845,6 +845,7 @@
 "congruence_solver","0.5.2","Apache-2.0"
 "conversejs","3.3.4","MIT"
 "conversejs","3.3.5","MIT"
+"cooksmate","0.0.1","Apache-2.0"
 "couchbase-docstore","0.1.1",""
 "couchbase-docstore","0.1.2",""
 "couchbase-docstore","0.1.3",""

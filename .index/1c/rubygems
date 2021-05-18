@@ -576,6 +576,7 @@
 "design_by_contract","0.1.0","MIT"
 "design_by_contract","0.2.0","MIT"
 "devserver","0.0.6",""
+"digest-sha3-patched-ruby-3","1.1.1","MIT"
 "digits","0.0.1","MIT"
 "doctor_finder","0.1.0",""
 "doctor_finder","0.1.1","MIT"
