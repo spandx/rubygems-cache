@@ -1700,6 +1700,7 @@
 "locked-rb","0.0.6","MIT"
 "logstash-input-mixpanel","0.1.3","Apache-2.0"
 "logstash-integration-elastic_enterprise_search","2.0.0","Apache-2.0"
+"logstash-integration-elastic_enterprise_search","2.1.0","Apache-2.0"
 "logstash-output-syslog","0.1.0","Apache-2.0"
 "logstash-output-syslog","0.1.1","Apache-2.0"
 "logstash-output-syslog","0.1.2","Apache-2.0"

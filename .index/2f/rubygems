@@ -377,6 +377,7 @@
 "charwidth","0.1.3","MIT"
 "charwidth","0.1.4","MIT"
 "charwidth","0.1.5","MIT"
+"charwidth","0.2.0","MIT"
 "chime-aws","0.0.1","MIT"
 "chime-aws","3001.0.0","MIT"
 "church","0.0.1","WTFPL"
@@ -3472,3 +3473,4 @@
 "zuora_connect","2.0.9",""
 "zuora_connect","2.1.1",""
 "zuora_connect","3.0.0",""
+"zuora_connect","3.0.1",""
