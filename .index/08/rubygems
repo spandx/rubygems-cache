@@ -1690,6 +1690,7 @@
 "omniauth-gplus-signin","0.1","MIT"
 "omniauth-htc","0.2.2","MIT"
 "omniauth-htc","0.2.3","MIT"
+"omniauth-htc","0.2.4","MIT"
 "omniauth-qrtracc","0.0.3",""
 "omniauth-tanita","0.1.0","MIT"
 "omniauth-tanita","0.1.1","MIT"
