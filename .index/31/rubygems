@@ -773,6 +773,8 @@
 "eftcmdr","0.4.1","LGPLv3+"
 "ekeygen","0.0.6",""
 "elephfs","0.0.0","BSD-2"
+"em-http-request-samesite","0.1.1","MIT"
+"em-http-request-samesite","1.1.7","MIT"
 "em-pusher-client","0.1.1",""
 "em-pusher-client","0.1.2",""
 "em_aws","0.0.3",""
