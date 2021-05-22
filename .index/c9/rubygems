@@ -381,6 +381,7 @@
 "bbcode-rails","0.9.3","MIT"
 "bbcode-rails","0.9.4","MIT"
 "bcrypt_pbkdf-ruby","9000.0","GPL-3.0"
+"bcrypt_pbkdf-ruby","9001.0","MIT"
 "becario","1.0.0","MIT"
 "benches","0.1.0","MIT"
 "benches","0.2.0","MIT"

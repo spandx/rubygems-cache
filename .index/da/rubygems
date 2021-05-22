@@ -1938,6 +1938,7 @@
 "omniauth-granicus","1.1.1",""
 "omniauth-mention","0.1",""
 "opencensus-ruby","9000.0","GPL-3.0"
+"opencensus-ruby","9001.0","MIT"
 "orientdb_client","0.0.1","MIT"
 "orientdb_client","0.0.2","MIT"
 "orientdb_client","0.0.3","MIT"

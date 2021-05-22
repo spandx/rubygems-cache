@@ -2077,6 +2077,7 @@
 "opentelemetry-instrumentation-rails","0.15.0","Apache-2.0"
 "opentelemetry-instrumentation-rails","0.16.0","Apache-2.0"
 "opentelemetry-instrumentation-rails","0.17.0","Apache-2.0"
+"opentelemetry-instrumentation-rails","0.18.0","Apache-2.0"
 "opentelemetry-instrumentation-rails","0.9.0","Apache-2.0"
 "osxwarranty","0.0.2",""
 "osxwarranty","0.0.3",""

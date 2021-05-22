@@ -2550,6 +2550,8 @@
 "pkghub-api","0.0.1","MIT"
 "pkghub-api","0.0.2","MIT"
 "pkghub-api","0.0.3","MIT"
+"pluralkit-api","1.0.0","AGPL-3.0-or-later"
+"pluralkit-api","1.0.1","AGPL-3.0-or-later"
 "postal-app","0.0.5",""
 "postgres","0.8.0",""
 "pretty_formatter","0.0.1",""

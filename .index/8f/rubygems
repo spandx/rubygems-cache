@@ -1606,6 +1606,7 @@
 "jackruss-geokit-rails3","0.1.5.1",""
 "jacktang-hacker-slides","1.0.1",""
 "jaeger-client-ruby","9000.0","GPL-3.0"
+"jaeger-client-ruby","9001.0","MIT"
 "jamii","0.0.0","MIT"
 "jamii","0.0.1","MIT"
 "jamii","0.0.2","MIT"

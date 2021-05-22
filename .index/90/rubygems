@@ -1995,6 +1995,7 @@
 "rabbitmq_http_api_client","1.8.0","MIT-|-Mozilla Public License"
 "rabbitmq_http_api_client","1.9.0","MIT-|-Mozilla Public License"
 "rabbitmq_http_api_client","1.9.1","MIT-|-Mozilla Public License"
+"rabbitmq_http_api_client","2.0.0","MIT-|-MPL-2.0"
 "rack-diet","0.1.0","MIT"
 "rack_no_autocomplete","0.0.1",""
 "rack_no_autocomplete","0.0.2",""

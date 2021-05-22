@@ -404,6 +404,7 @@
 "bruce-bitmask-attribute","1.0.0",""
 "bucket-cli","0.0.1","MIT"
 "bucket-cli","0.0.2","MIT"
+"build-files-monitor","0.1.0","MIT"
 "bundler_audit_notifier","0.0.0",""
 "bundler_audit_notifier","0.0.1",""
 "bundler_audit_notifier","0.0.10",""
