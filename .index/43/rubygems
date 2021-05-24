@@ -2446,6 +2446,7 @@
 "roku-ecp","0.1.2","MIT"
 "rpush-plugin-bugsnag","0.0.1","MIT"
 "rspec-matchers-power_assert_matchers","0.0.1","MIT"
+"rspec-matchers-power_assert_matchers","0.0.2","MIT"
 "rspec-parameterized","0.0.6",""
 "rspec-parameterized","0.0.7",""
 "rspec-parameterized","0.0.8",""

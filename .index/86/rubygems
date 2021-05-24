@@ -1148,6 +1148,7 @@
 "google-apis-gkehub_v1alpha","0.1.0","Apache-2.0"
 "google-apis-gkehub_v1alpha","0.2.0","Apache-2.0"
 "google-apis-gkehub_v1alpha","0.3.0","Apache-2.0"
+"google-apis-gkehub_v1alpha","0.4.0","Apache-2.0"
 "google-drive-ruby","9000.0","GPL-3.0"
 "google-drive-ruby","9001.0","MIT"
 "gorp","0.27.0",""

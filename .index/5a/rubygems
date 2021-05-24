@@ -1209,6 +1209,7 @@
 "globalize-validations-for-nested-form","0.0.4","MIT"
 "google-apis-adexchangebuyer_v1_2","0.1.0","Apache-2.0"
 "google-apis-adexchangebuyer_v1_2","0.2.0","Apache-2.0"
+"google-apis-adexchangebuyer_v1_2","0.3.0","Apache-2.0"
 "google-cloud-binary_authorization","0.1.0","Apache-2.0"
 "google-cloud-binary_authorization","0.1.1","Apache-2.0"
 "google-cloud-binary_authorization","0.1.2","Apache-2.0"
