@@ -203,6 +203,7 @@
 "autoload","0.3.0","BSD-2-Clause"
 "avro_machine","0.0.1","MIT"
 "avst_multi_logger","0.0.2","Apache-2.0"
+"avst_multi_logger","0.0.3","Apache-2.0"
 "awesome-grpc-that-works","0.12.1","BSD-3-Clause"
 "awesome-grpc-that-works","0.12.2","BSD-3-Clause"
 "awoo","0.0.0","GPL-3.0-only"

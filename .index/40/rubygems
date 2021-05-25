@@ -2110,6 +2110,7 @@
 "reporter","0.0.2",""
 "request_repeater","0.1.0.1","MIT"
 "request_repeater","0.1.0.2","MIT"
+"request_repeater","0.2","MIT"
 "require_pattern","1.0","MIT"
 "require_pattern","1.1","MIT"
 "require_pattern","1.1.1","MIT"

@@ -192,6 +192,7 @@
 "aws-sessionstore-dynamodb","2.0.1","Apache-2.0"
 "axe-core-api","4.0.0",""
 "axe-core-api","4.1.0",""
+"axe-core-api","4.2.0",""
 "axe_core_rails","3.0.2.1","MIT"
 "axe_core_rails","3.1.1","MIT"
 "axe_core_rails","3.2.2","MIT"

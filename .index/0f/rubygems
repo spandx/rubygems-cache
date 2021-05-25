@@ -2045,6 +2045,7 @@
 "fluent-plugin-concat","2.2.3","MIT"
 "fluent-plugin-concat","2.3.0","MIT"
 "fluent-plugin-concat","2.4.0","MIT"
+"fluent-plugin-concat","2.5.0","MIT"
 "fluent-plugin-imkayac","0.0.1",""
 "fluent-plugin-json-in-json-sp","0.2.1","BSD"
 "fluent-plugin-jvmwatcher","0.1.2",""

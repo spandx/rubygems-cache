@@ -1888,6 +1888,7 @@
 "output_mode","1.5.0","BSD-2-Clause"
 "output_mode","1.5.1","BSD-2-Clause"
 "output_mode","1.5.2","BSD-2-Clause"
+"output_mode","1.6.0","BSD-2-Clause"
 "pact_broker","0.0.1","MIT"
 "pact_broker","0.0.10","MIT"
 "pact_broker","0.0.2","MIT"
