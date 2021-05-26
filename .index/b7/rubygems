@@ -1139,6 +1139,7 @@
 "fakie","0.2.0","MIT"
 "fastlane-plugin-android_channels","0.2.0","MIT"
 "fastlane-plugin-android_channels","0.3.1","MIT"
+"fastlane-plugin-aomi","0.1.0","MIT"
 "fastlane-plugin-dependency_manager_outdated","0.1.0","MIT"
 "fastlane-plugin-dependency_manager_outdated","0.2.0","MIT"
 "fastlane-plugin-dependency_manager_outdated","0.2.1","MIT"
