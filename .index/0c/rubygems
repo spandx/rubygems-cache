@@ -1948,6 +1948,7 @@
 "nearfive","0.0.0","MIT"
 "nearfive","0.0.1","MIT"
 "nearfive","0.0.2","MIT"
+"net-http-ntlm","0.1.0",""
 "net-smtp-proxy","1.0.0",""
 "net-smtp-proxy","2.0.0",""
 "net-snmp","0.1.4",""

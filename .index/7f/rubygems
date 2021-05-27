@@ -1753,6 +1753,7 @@
 "net-ftp-list","3.2.7",""
 "net-ftp-list","3.2.8",""
 "net-ftp-list","3.2.9",""
+"net-ftp-list","3.3.0","MIT"
 "net-ssh-gateway","1.1.0",""
 "net-ssh-gateway","1.2.0","MIT"
 "net-ssh-gateway","1.3.0","MIT"

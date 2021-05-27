@@ -1564,6 +1564,7 @@
 "logstash-integration-kafka-java","10.7.2","Apache-2.0"
 "logstash-integration-kafka-java","10.7.3","Apache-2.0"
 "logstash-integration-kafka-java","10.7.4","Apache-2.0"
+"logstash-integration-kafka-java","10.7.5","Apache-2.0"
 "logutils-admin","0.1.0","Public Domain"
 "lppP6lu0101027005","1.0.0","MIT"
 "ltsv","0.0.1",""

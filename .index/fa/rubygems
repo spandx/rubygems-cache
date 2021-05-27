@@ -2982,6 +2982,7 @@
 "rubysl-gdbm","2.0.0","BSD"
 "rubysl-sync","1.0.0","BSD"
 "rubysl-sync","2.0.0","BSD"
+"rusty_engine_ffi","0.0.1","MIT"
 "rut_chileno","0.1",""
 "rut_chileno","0.3",""
 "rut_chileno","0.4",""

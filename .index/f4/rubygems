@@ -719,6 +719,7 @@
 "dyn-ruby-win32daemon","0.0.3","MIT-|-GPL-2.0"
 "dyn-ruby-win32daemon","0.1.0","MIT-|-GPL-2.0"
 "dyn-ruby-win32daemon","0.1.1","MIT-|-GPL-2.0"
+"easy-password","0.1","MIT"
 "easy_auth-twitter","0.0.1",""
 "easy_auth-twitter","0.0.2",""
 "easy_auth-twitter","0.1.0",""

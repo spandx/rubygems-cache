@@ -2574,6 +2574,7 @@
 "red-parquet","2.0.0","Apache-2.0"
 "red-parquet","3.0.0","Apache-2.0"
 "red-parquet","4.0.0","Apache-2.0"
+"red-parquet","4.0.1","Apache-2.0"
 "redis-lock","0.1.1",""
 "redis-lock","0.1.2",""
 "redis-lock","0.2.0","MIT"

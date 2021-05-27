@@ -1962,6 +1962,7 @@
 "pg_query_pg_ddm","0.3","BSD-3-Clause"
 "pg_query_pg_ddm","0.4","BSD-3-Clause"
 "pg_query_pg_ddm","0.5","BSD-3-Clause"
+"pg_query_pg_ddm","0.6","BSD-3-Clause"
 "php_session-rails","0.0.1","MIT"
 "php_session-rails","0.0.2","MIT"
 "php_session-rails","0.1.0","MIT"
