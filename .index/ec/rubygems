@@ -1717,6 +1717,7 @@
 "memcached_store","2.1.5","MIT"
 "memcached_store","2.1.6","MIT"
 "memcached_store","2.2.0","MIT"
+"memcached_store","2.2.1","MIT"
 "mercator","1.0.0","MIT"
 "mercator","1.0.1","MIT"
 "messaging_gateway","0.0.1",""
