@@ -246,6 +246,7 @@
 "aws-sdk-lookoutmetrics","1.0.0","Apache-2.0"
 "aws-sdk-lookoutmetrics","1.1.0","Apache-2.0"
 "aws-sdk-lookoutmetrics","1.2.0","Apache-2.0"
+"aws-sdk-lookoutmetrics","1.3.0","Apache-2.0"
 "axlsx_report","0.1.1","MIT"
 "axlsx_report","0.1.2","MIT"
 "axlsx_report","0.1.3","MIT"

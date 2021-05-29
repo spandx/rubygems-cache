@@ -332,6 +332,7 @@
 "aws-sdk-locationservice","1.1.0","Apache-2.0"
 "aws-sdk-locationservice","1.2.0","Apache-2.0"
 "aws-sdk-locationservice","1.3.0","Apache-2.0"
+"aws-sdk-locationservice","1.4.0","Apache-2.0"
 "aws-sdk-swf","1.0.0","Apache-2.0"
 "aws-sdk-swf","1.0.1","Apache-2.0"
 "aws-sdk-swf","1.1.0","Apache-2.0"
