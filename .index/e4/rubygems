@@ -1413,6 +1413,7 @@
 "kubeclient","4.8.0","MIT"
 "kubeclient","4.9.0","MIT"
 "kubeclient","4.9.1","MIT"
+"kubeclient","4.9.2","MIT"
 "kuehne-nagel-despatch-interface","0.0.1",""
 "kuehne-nagel-despatch-interface","0.0.2",""
 "kuehne-nagel-despatch-interface","0.0.3",""
