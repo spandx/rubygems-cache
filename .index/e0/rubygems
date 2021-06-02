@@ -1829,6 +1829,7 @@
 "moesif_rack","1.4.6","Apache-2.0"
 "moesif_rack","1.4.7","Apache-2.0"
 "moesif_rack","1.4.8","Apache-2.0"
+"moesif_rack","1.4.9","Apache-2.0"
 "mongodb-mongo_ext","0.1.1",""
 "mongodb-mongo_ext","0.11",""
 "mongodb-mongo_ext","0.11.1",""

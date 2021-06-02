@@ -1764,6 +1764,7 @@
 "logstash-output-mongodb","3.1.4","Apache-2.0"
 "logstash-output-mongodb","3.1.5","Apache-2.0"
 "logstash-output-mongodb","3.1.6","Apache-2.0"
+"logstash-promtail-http-input-java","4.0.1","Apache-2.0"
 "looker","0.1.0","MIT"
 "looker","0.2.0","MIT"
 "looker","0.2.2","MIT"
