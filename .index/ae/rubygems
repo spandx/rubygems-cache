@@ -142,6 +142,7 @@
 "activerecord6-redshift-adapter","1.1.2","MIT"
 "activerecord6-redshift-adapter","1.1.3","MIT"
 "activerecord6-redshift-adapter","1.2.0","MIT"
+"activerecord6-redshift-adapter","1.2.1","MIT"
 "acts_as_activateable","0.0.1","MIT"
 "acts_as_activateable","0.0.2","MIT"
 "acts_as_money","0.2.5",""

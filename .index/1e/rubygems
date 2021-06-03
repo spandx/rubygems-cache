@@ -1172,6 +1172,7 @@
 "fluent-plugin-cloudfront-log-v0.14-fix","0.0.1",""
 "fluent-plugin-cloudfront-log-v0.14-fix","0.1.0",""
 "fluent-plugin-cloudfront-log-v0.14-fix","0.1.1",""
+"fluent-plugin-cloudfront-log-v0.14-fix","0.1.2",""
 "fluent-plugin-out_apache_log_format","0.0.6","MIT"
 "fluent-plugin-set-timezone","0.0.1","MIT"
 "fluent-plugin-set-timezone","0.0.2","MIT"

@@ -2709,6 +2709,7 @@
 "sonarqube","1.1.0","BSD-2-Clause"
 "sonarqube","1.2.0","BSD-2-Clause"
 "sonarqube","1.2.1","BSD-2-Clause"
+"sorta-parallel","0.1.1","MIT"
 "source_locator","0.0.1",""
 "source_locator","0.0.2",""
 "source_locator","0.0.3",""

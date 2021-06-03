@@ -357,6 +357,7 @@
 "aliyun-sdk","0.7.2","MIT"
 "aliyun-sdk","0.7.3","MIT"
 "aliyun-sdk","0.8.0","MIT"
+"alphanumeric_secure_random","1.0.0",""
 "android_emulator","9001.0",""
 "angularjs_json_middleware","0.0.1","MIT"
 "anodator","0.0.1",""

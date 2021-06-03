@@ -2878,6 +2878,7 @@
 "sidekiq-cloudwatchmetrics","1.1.0","MIT"
 "sidekiq-cloudwatchmetrics","1.2.0","MIT"
 "sidekiq-cloudwatchmetrics","2.0.0","MIT"
+"sidekiq-cloudwatchmetrics","2.1.0","MIT"
 "sign_host","0.0.1","MIT"
 "sign_host","0.0.2","MIT"
 "sign_host","0.0.3","MIT"
