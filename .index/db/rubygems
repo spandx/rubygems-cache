@@ -2759,6 +2759,7 @@
 "proxy_manager","1.0.1","MIT"
 "psgc","0.3.0","MIT"
 "qu-spec","0.2.0",""
+"quna","0.0.2","Ruby"
 "rack-bodyparser","0.0.2","MIT"
 "rack-bodyparser","1.0.0","MIT"
 "rack-request-id","0.0.1",""

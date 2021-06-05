@@ -924,6 +924,7 @@
 "concurrent-ruby-ext","1.1.6","MIT"
 "concurrent-ruby-ext","1.1.7","MIT"
 "concurrent-ruby-ext","1.1.8","MIT"
+"concurrent-ruby-ext","1.1.9","MIT"
 "config-parser","0.2.0",""
 "config-parser","0.3.0","MIT"
 "config-parser","0.4.0","MIT"

@@ -2766,6 +2766,7 @@
 "mina-sidekiq","1.0.2","MIT"
 "mina-sidekiq","1.0.3","MIT"
 "mina-sidekiq","1.1.0","MIT"
+"mini_pgm","0.0.1","MIT"
 "miniakka-java","0.0.1","Apache-2.0"
 "minitest-ok","0.1.0","MIT-License"
 "minitest-ok","0.2.0","MIT-License"
