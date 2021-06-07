@@ -1216,6 +1216,7 @@
 "gnumarcelo-campaigning","0.8.2",""
 "gnuside-mongoid_migration","0.0.9",""
 "google-apis-dataproc_v1","0.1.0","Apache-2.0"
+"google-apis-dataproc_v1","0.10.0","Apache-2.0"
 "google-apis-dataproc_v1","0.2.0","Apache-2.0"
 "google-apis-dataproc_v1","0.3.0","Apache-2.0"
 "google-apis-dataproc_v1","0.4.0","Apache-2.0"

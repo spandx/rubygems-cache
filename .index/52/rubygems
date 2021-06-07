@@ -571,6 +571,8 @@
 "clowder-common-ruby","0.2.1","Apache-2.0"
 "clowder-common-ruby","0.2.2","Apache-2.0"
 "cocoapods-develop","0.0.1","MIT"
+"cocoapods-tdf-bin","0.0.1.1","MIT"
+"cocoapods-tdf-bin","0.0.11","MIT"
 "codebrulee-aide","0.0.4",""
 "codedeploy_slack_notify","0.1.0","MIT"
 "codedeploy_slack_notify","0.1.1","MIT"

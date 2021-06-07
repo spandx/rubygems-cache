@@ -648,6 +648,7 @@
 "diskman","1.0.3","MIT"
 "diskman","1.0.4","MIT"
 "dm-is-searchable","1.2.0",""
+"docdiff","0.6.1","BSD-3-Clause"
 "docka","0.1.0",""
 "docx_tools","0.0.1","MIT"
 "docx_tools","0.0.2","MIT"

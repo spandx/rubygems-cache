@@ -852,6 +852,7 @@
 "edge_cast","0.0.1",""
 "edge_cast","0.0.2",""
 "edge_cast","1.0.0",""
+"elliptic-lite","0.1.0","Public Domain"
 "ember-auth-strategy-token-rails","1.0.0","MIT license"
 "embulk-output-td","0.1.0","Apache-2.0"
 "embulk-output-td","0.1.1","Apache-2.0"
