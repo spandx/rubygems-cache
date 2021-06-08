@@ -2295,6 +2295,7 @@
 "logstash-filter-csv","3.0.7","Apache-2.0"
 "logstash-filter-csv","3.0.8","Apache-2.0"
 "logstash-filter-csv","3.1.0","Apache-2.0"
+"logstash-filter-csv","3.1.1","Apache-2.0"
 "logstash-filter-phpunserialize","1.0.1","Apache-2.0"
 "logstash-input-azurewadtable","0.9.1","Apache-2.0"
 "logstash-input-azurewadtable","0.9.11","Apache-2.0"

@@ -362,6 +362,7 @@
 "aws-sdk-sagemaker","1.85.0","Apache-2.0"
 "aws-sdk-sagemaker","1.86.0","Apache-2.0"
 "aws-sdk-sagemaker","1.87.0","Apache-2.0"
+"aws-sdk-sagemaker","1.88.0","Apache-2.0"
 "aws-sdk-sagemaker","1.9.0","Apache-2.0"
 "aws_one_click_staging","0.0.0",""
 "aws_one_click_staging","0.0.1",""

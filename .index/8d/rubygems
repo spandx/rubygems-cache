@@ -89,6 +89,8 @@
 "activerecord-honeycomb","0.4.0","Apache-2.0"
 "activerecord-honeycomb","0.5.0","Apache-2.0"
 "activerecord-honeycomb","0.5.1","Apache-2.0"
+"activerecord-pg-extensions","0.1.1","MIT"
+"activerecord-pg-extensions","0.2.0","MIT"
 "activerecord-shipworks","0.1.1","MIT"
 "activerecord-shipworks","0.1.2","MIT"
 "activerecord-shipworks","0.1.4","MIT"

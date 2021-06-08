@@ -593,6 +593,7 @@
 "dynamic_fields_for_rails","0.7.0","MIT"
 "dynamic_fields_for_rails","1.0.0","MIT"
 "dynamic_fields_for_rails","1.0.1","MIT"
+"e2e_tests_connector","0.1.0","MIT"
 "eac_redmine_base0","0.2.0",""
 "eac_redmine_base0","0.3.0",""
 "eac_redmine_base0","0.3.1",""
