@@ -1531,6 +1531,7 @@
 "gettext","3.3.5","Ruby or LGPLv3+"
 "gettext","3.3.6","Ruby or LGPLv3+"
 "gettext","3.3.7","Ruby or LGPLv3+"
+"gettext","3.3.8","Ruby or LGPLv3+"
 "github_downloader","0.0.1","MIT"
 "github_downloader","0.0.2","MIT"
 "github_snapshot","0.1.0","MIT"

@@ -895,6 +895,7 @@
 "fast_cqrs","0.2.0","MIT"
 "fastlane-plugin-git_info_extract","0.1.0","MIT"
 "fastlane-plugin-gitlab_increate_swiftlint","0.1.0","MIT"
+"fdimage","0.1.0","MIT"
 "fdimage","0.2.0","MIT"
 "federal_register","0.0.1",""
 "federal_register","0.1.0",""

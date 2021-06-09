@@ -1515,6 +1515,7 @@
 "logstash-input-http-java","3.3.5","Apache-2.0"
 "logstash-input-http-java","3.3.6","Apache-2.0"
 "logstash-input-http-java","3.3.7","Apache-2.0"
+"logstash-input-http-java","3.4.0","Apache-2.0"
 "mailgun-ruby-plus","1.0.4","Apache"
 "marktml","0.0.1","MIT"
 "marnen-typhoeus","0.3.5",""
