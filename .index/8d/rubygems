@@ -2796,6 +2796,7 @@
 "vagrant-proxyconf","2.0.7","MIT"
 "vagrant-proxyconf","2.0.8","MIT"
 "vagrant-vmware-desktop","0.0.1",""
+"vagrant-vmware-desktop","3.0.0","MPL-2.0"
 "valence","0.0.1","MIT"
 "vcloud-net-spinner","0.1.2",""
 "vcloud-net-spinner","0.1.4","MIT"

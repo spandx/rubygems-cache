@@ -1563,6 +1563,7 @@
 "legion-transport","1.1.6",""
 "legion-transport","1.1.8",""
 "legion-transport","1.1.9",""
+"legion-transport","1.2.0","Apache-2.0"
 "lemonlime","0.0.1",""
 "leveldb-native","0.1","MIT"
 "leveldb-native","0.2","MIT"

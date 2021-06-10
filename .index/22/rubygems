@@ -335,6 +335,7 @@
 "aws-sdk-ses","1.9.0","Apache-2.0"
 "aws_sns_kit","0.0.1","MIT"
 "aws_sns_kit","0.0.2","MIT"
+"awshark","1.0.0","MIT"
 "azure_direct_upload","0.0.1","MIT"
 "azure_mgmt_data_factory","0.17.0","MIT"
 "azure_mgmt_data_factory","0.18.0","MIT"

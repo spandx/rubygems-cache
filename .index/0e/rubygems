@@ -946,6 +946,7 @@
 "entree","0.0.4","MIT"
 "entree","0.0.5","MIT"
 "ergo","0.3.0","BSD-2-Clause"
+"ergomentum_rubocop","0.3.0","Nonstandard"
 "euston-eventstore","1.0.2",""
 "euston-eventstore","1.2.0",""
 "euston-eventstore","1.2.7",""
