@@ -1789,6 +1789,7 @@
 "http_proxy_from_env","0.0.1","MIT"
 "http_proxy_from_env","0.0.2","MIT"
 "http_proxy_from_env","0.0.3","MIT"
+"icu_tournament","1.10.0","MIT"
 "icu_tournament","1.2.7",""
 "icu_tournament","1.2.8",""
 "icu_tournament","1.3.10",""

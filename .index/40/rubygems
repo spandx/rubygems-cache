@@ -173,6 +173,7 @@
 "aws-sdk-sagemakerfeaturestoreruntime","1.0.0","Apache-2.0"
 "aws-sdk-sagemakerfeaturestoreruntime","1.1.0","Apache-2.0"
 "aws-sdk-sagemakerfeaturestoreruntime","1.2.0","Apache-2.0"
+"aws-sdk-sagemakerfeaturestoreruntime","1.3.0","Apache-2.0"
 "aws_cf_signer","0.1.2",""
 "aws_cf_signer","0.1.3",""
 "baha","0.0.1","MIT"

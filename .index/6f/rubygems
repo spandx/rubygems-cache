@@ -473,6 +473,7 @@
 "aws-sdk-s3","1.95.0","Apache-2.0"
 "aws-sdk-s3","1.95.1","Apache-2.0"
 "aws-sdk-s3","1.96.0","Apache-2.0"
+"aws-sdk-s3","1.96.1","Apache-2.0"
 "azure_mgmt_logic","0.10.0","MIT"
 "azure_mgmt_logic","0.11.0","MIT"
 "azure_mgmt_logic","0.12.0","MIT"
