@@ -903,6 +903,7 @@
 "diffed","0.0.8",""
 "diffed","0.0.9",""
 "diffident","0.1.0","MIT"
+"digest_generator","0.1.1","MIT"
 "digicert-cli","0.1.0",""
 "digicert-cli","0.2.0",""
 "digicert-cli","0.3.0",""
