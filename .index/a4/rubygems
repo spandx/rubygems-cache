@@ -85,6 +85,7 @@
 "active_repository","0.5.1","GPL"
 "active_translate_self","0.1.0","MIT"
 "active_translate_self","0.2.0","MIT"
+"active_translate_self","0.3.0","MIT"
 "activerecord_csv_importer","0.1.0","MIT"
 "activerecord_csv_importer","0.1.1","MIT"
 "activerecord_csv_importer","0.1.2","MIT"

@@ -1878,6 +1878,8 @@
 "fluent-plugin-terminal_notifier","0.0.3","MIT"
 "fluent-plugin-terminal_notifier","0.1.0","MIT"
 "fluent-plugin-terminal_notifier","0.2.0","MIT"
+"fluent-plugin-twistlock-syslog","1.0.0","MIT"
+"fluent-plugin-twistlock-syslog","1.0.1","MIT"
 "flux_capacitor","0.1.0",""
 "flux_capacitor","0.1.1",""
 "flux_capacitor","0.1.2",""
