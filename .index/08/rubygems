@@ -2127,6 +2127,8 @@
 "runnable","0.1.2",""
 "runnable","0.2.2",""
 "runnable","0.2.3",""
+"rw_validator","0.1.0","MIT"
+"rw_validator","0.1.1","MIT"
 "s3_downloader","1.1.0","MIT"
 "s3_zipper","1.0.0","MIT"
 "s3_zipper","1.0.1","MIT"

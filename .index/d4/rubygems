@@ -2621,6 +2621,7 @@
 "puppet-lint-unquoted_string-check","0.3.0","Apache-2.0"
 "puppet-lint-unquoted_string-check","1.0.0","Apache-2.0"
 "puppet-lint-unquoted_string-check","2.0.0","Apache-2.0"
+"puppet-lint-unquoted_string-check","2.1.0","Apache-2.0"
 "puppetserver-ca","0.1.0","Apache-2.0"
 "puppetserver-ca","0.2.0","Apache-2.0"
 "puppetserver-ca","0.3.0","Apache-2.0"
