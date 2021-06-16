@@ -500,6 +500,7 @@
 "cocoapods-coverage","0.2.0","MIT"
 "codefi_sendgrid","0.0.0","MIT"
 "coinrpc","1.0.0","MIT"
+"coinrpc","1.0.1","MIT"
 "colszowka-jeweler-test","0.0.1",""
 "colszowka-jeweler-test","0.0.2",""
 "commit-comment-tools","0.0.1","GPLv3 or later"

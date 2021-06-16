@@ -802,6 +802,7 @@
 "fluent-plugin-syslog-d","0.0.2","Apache v2"
 "fluent-plugin-syslog-d","0.0.3","Apache v2"
 "fluent-plugin-syslog-d","0.0.4","Apache v2"
+"fluent-plugin-syslog-d","0.0.5","Apache v2"
 "fluent-plugin-udp","0.0.1",""
 "fonte","0.1.0",""
 "formily","0.0.5.5.7","MIT"

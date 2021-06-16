@@ -1093,6 +1093,7 @@
 "flights_gui_henry_tests","3.0.5",""
 "flights_gui_henry_tests","3.0.6",""
 "flights_gui_henry_tests","3.0.7",""
+"fluent-plugin-d","0.0.1","Apache v2"
 "fluent-plugin-field-flatten-json","0.1.1","MIT"
 "fluent-plugin-kinesis-firehose","0.0.1","MIT"
 "fluent-plugin-kinesis-firehose","0.1.0","MIT"

@@ -820,6 +820,8 @@
 "emu_power","1.2","MIT"
 "emu_power","1.3","MIT"
 "engine-rea-admin","0.1.0",""
+"eol-client","1.0.0","MIT"
+"eol-client","1.0.1","MIT"
 "epaudit","0.1.0","Apache-2.0"
 "epubbery","0.2.0",""
 "errbit_unfuddle_plugin","0.1.0","MIT"

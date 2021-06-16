@@ -1049,6 +1049,7 @@
 "dnsbl-client","1.0.3","MIT"
 "dnsbl-client","1.0.4","MIT"
 "dnsbl-client","1.0.5","MIT"
+"dnsbl-client","1.0.6","MIT"
 "doorkeeper-device_authorization_grant","0.1.0","MIT"
 "doorkeeper-device_authorization_grant","0.1.1","MIT"
 "doorkeeper-device_authorization_grant","0.2.0","MIT"

@@ -51,6 +51,7 @@
 "activerecord-tablefree","3.1.7","MIT"
 "activerecord-tablefree","3.1.8","MIT"
 "acts_as_table_csv","0.0.1","BSD-3-Clause"
+"acts_as_table_csv","0.0.2","BSD-3-Clause"
 "adkit","0.1.0","MIT"
 "administrate-field-select_essential","0.1.0","MIT"
 "after_the_deadline","0.1.1","MIT"

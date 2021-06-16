@@ -1856,6 +1856,7 @@
 "embulk-input-jdbc-java","0.11.1","Apache-2.0"
 "embulk-input-jdbc-java","0.12.0","Apache-2.0"
 "embulk-input-jdbc-java","0.12.1","Apache-2.0"
+"embulk-input-jdbc-java","0.12.2","Apache-2.0"
 "employer-activerecord","0.0.1","MIT"
 "employer-activerecord","0.1","MIT"
 "employer-activerecord","0.1.1","MIT"
