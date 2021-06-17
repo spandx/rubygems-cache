@@ -2671,6 +2671,7 @@
 "raygun-apm-x64-mingw32","1.050",""
 "raygun-apm-x64-mingw32","1.1.1","MIT"
 "raygun-apm-x64-mingw32","1.1.2","MIT"
+"raygun-apm-x64-mingw32","1.1.3","MIT"
 "rbzip2","0.3.0",""
 "redijson_models","0.7.0","Unlicense"
 "redijson_models","0.7.1","Unlicense"

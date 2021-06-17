@@ -1004,6 +1004,7 @@
 "fluent-plugin-buffered-metrics","0.0.2","Apache-2.0"
 "fluent-plugin-buffered-metrics","0.0.3","Apache-2.0"
 "fluent-plugin-buffered-metrics","0.0.4","Apache-2.0"
+"fluent-plugin-devo","1.0.0","Apache v2"
 "fluent-plugin-embedded-elasticsearch","0.0.1","Apache-2.0"
 "fluent-plugin-embedded-elasticsearch","0.0.2","Apache-2.0"
 "fmanager","0.0.0","GPL-3.0-only"

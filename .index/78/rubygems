@@ -245,6 +245,8 @@
 "assert-rails","0.0.1","MIT"
 "assert_difference","1.0.0","MIT"
 "async-http-faraday","0.1.0",""
+"async-http-faraday","0.10.0","MIT"
+"async-http-faraday","0.11.0","MIT"
 "async-http-faraday","0.2.0",""
 "async-http-faraday","0.3.0",""
 "async-http-faraday","0.4.0",""
