@@ -1710,6 +1710,7 @@
 "invokr","0.9.5","MIT"
 "invokr","0.9.6","MIT"
 "invokr","0.9.7","MIT"
+"iopromise-dalli","0.1.0","MIT"
 "ip_ranger","0.0.2","MIT"
 "iron_consumer","0.0.1",""
 "iron_consumer","0.0.3",""

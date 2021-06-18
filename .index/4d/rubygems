@@ -2505,6 +2505,7 @@
 "sensu-plugins-loadavg","0.0.1","MIT"
 "seo_rails_helpers","0.1.0","MIT"
 "seo_rails_helpers","0.2.0","MIT"
+"sequel-snowflake","2.0.0",""
 "serve-this","0.1.0",""
 "serverkit-rbenv","0.0.1","MIT"
 "serverkit-rbenv","0.0.2","MIT"

@@ -1368,6 +1368,8 @@
 "intello-shipit-cli","1.0.0","MIT"
 "intersection-observer-polyfill-rails","0.5.0","MIT"
 "intrinsic","1.0.3",""
+"iopromise-faraday","0.1.0","MIT"
+"iopromise-faraday","0.1.1","MIT"
 "iso4217-validator","0.0.1","MIT"
 "iso4217-validator","0.0.2","MIT"
 "itrigga-cap_deploy","0.0.4",""

@@ -561,6 +561,7 @@
 "capistrano-sync","0.1.0",""
 "carray-dataframe","1.0.0",""
 "carray-dataframe","1.1.1","MIT"
+"carray-dataframe","1.2.0","MIT"
 "carrousel","0.0.4","MIT"
 "carrousel","0.0.5","MIT"
 "carrousel","0.1.0","MIT"

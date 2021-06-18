@@ -1080,6 +1080,7 @@
 "gooddata-bricks","0.7.0","BSD"
 "gooddata-bricks","0.8.0","BSD"
 "google-cloud-metastore-v1","0.1.0","Apache-2.0"
+"google-cloud-metastore-v1","0.1.1","Apache-2.0"
 "google-cloud-notebooks","0.1.0","Apache-2.0"
 "google-cloud-notebooks","1.0.0","Apache-2.0"
 "google-cloud-notebooks","1.0.1","Apache-2.0"
