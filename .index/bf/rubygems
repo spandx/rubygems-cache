@@ -922,6 +922,7 @@
 "fastlane-plugin-get_version_code","0.1.2","MIT"
 "fastlane-plugin-get_version_code","0.2.0","MIT"
 "fastlane-plugin-google_chat_v2","0.1.0","MIT"
+"fastlane-plugin-google_chat_v2","0.1.1","MIT"
 "fastlane-plugin-perfecto","0.1.1","MIT"
 "fastlane-plugin-youtrack","0.1.0","MIT"
 "fcl_rails_daemon","1.0.1","MIT"

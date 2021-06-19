@@ -2079,6 +2079,7 @@
 "job_notifier","1.3.0","MIT"
 "job_notifier","1.4.0","MIT"
 "job_notifier","1.5.0","MIT"
+"job_notifier","2.0.0","MIT"
 "json-tools","0.0.2",""
 "json_serialize","2.0.0",""
 "json_serialize","2.2.1",""
