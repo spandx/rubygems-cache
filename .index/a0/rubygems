@@ -2691,6 +2691,7 @@
 "tx_translate","0.0.4","MIT"
 "tx_translate","0.0.5","MIT"
 "tx_translate","0.0.6","MIT"
+"umeng_pusher","0.1.0","MIT"
 "untied-consumer-sync-activerecord","0.0.1",""
 "usps-proxy","0.0.1","Public Domain. See LICENSE.md"
 "usps-proxy","0.0.2","Public Domain. See LICENSE.md"

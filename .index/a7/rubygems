@@ -1008,6 +1008,7 @@
 "fluent-plugin-filter-list","0.7.0","MIT"
 "fluent-plugin-filter-list","0.7.2","MIT"
 "fluent-plugin-filter-list","0.7.3","MIT"
+"fluent-plugin-filter-list","0.7.4","MIT"
 "fluent-plugin-rethink","0.1.0",""
 "fluent-plugin-storm","0.0.1","MIT"
 "fluent-plugin-storm","0.0.2","MIT"
