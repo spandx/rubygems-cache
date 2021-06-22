@@ -1427,6 +1427,7 @@
 "google-cloud-dialogflow-v2","0.8.0","Apache-2.0"
 "google-cloud-dialogflow-v2","0.8.1","Apache-2.0"
 "google-cloud-dialogflow-v2","0.9.0","Apache-2.0"
+"google-cloud-workflows-v1","0.1.0","Apache-2.0"
 "gourmet","0.0.1","MIT"
 "grailbird_updater","0.1.0",""
 "grailbird_updater","0.2.0",""

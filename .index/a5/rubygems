@@ -3000,6 +3000,7 @@
 "sort_n_params","1.1.0","MIT"
 "stratify-github","0.1.2",""
 "string-utf8mb4strip","0.0.1","MIT"
+"string_char_format","0.1.0","MIT"
 "stylus_rails","0.0.2",""
 "stylus_rails","0.1.2",""
 "succession","0.1.0",""

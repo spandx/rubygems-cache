@@ -511,6 +511,7 @@
 "data_objects","0.10.9",""
 "datastore_decide","0.0.1",""
 "date_breakup","2.0.0","MIT"
+"date_breakup","3.0.1","MIT"
 "davidrichards-data_frame","0.0.10",""
 "davidrichards-data_frame","0.0.11",""
 "davidrichards-data_frame","0.0.12",""
