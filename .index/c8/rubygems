@@ -1135,6 +1135,8 @@
 "flexy","1.0",""
 "flexy","1.1",""
 "flexy","1.2",""
+"fluent-plugin-mssql22","0.1.1","MIT"
+"fluent-plugin-mssql22","0.1.2","MIT"
 "fluent-plugin-redshift-anton","1.0.1",""
 "fluent-plugin-redshift-anton","1.0.2",""
 "fluent-plugin-zmq","0.0.2",""

@@ -1064,6 +1064,7 @@
 "fastenv","0.0.1","MIT"
 "fastenv","0.0.2","MIT"
 "fastenv","0.0.3","MIT"
+"fastlane-plugin-android_unpack","0.1.0","MIT"
 "fastlane-plugin-circle_ci","0.1.0","MIT"
 "fastlane-plugin-circle_ci","0.2.0","MIT"
 "fedex-web-services","1.1.42",""

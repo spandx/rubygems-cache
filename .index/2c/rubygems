@@ -2405,6 +2405,7 @@
 "oura","0.1.6","MIT"
 "oura","0.1.7","MIT"
 "oura","0.1.8","MIT"
+"p-mongo-git","1.8.1","MIT"
 "padrino-assets","0.1.0",""
 "padrino-assets","0.2.0",""
 "padrino-assets","0.2.1",""

@@ -1598,6 +1598,7 @@
 "jekyll_icon_list","0.4.0","MIT"
 "jekyll_icon_list","0.5.0","MIT"
 "jekyll_icon_list","0.6.0","MIT"
+"jekyll_remote_plantuml_plugin","0.1.0","MIT"
 "joint","0.6.1",""
 "joint","0.6.2",""
 "jquery-ui-middleman","4.1.0","MIT"
