@@ -1295,6 +1295,7 @@
 "fhir_dstu2_models","1.0.7",""
 "fhir_dstu2_models","1.0.8",""
 "fhir_dstu2_models","1.0.9",""
+"fhir_dstu2_models","1.1.0","Apache-2.0"
 "fitgem_oauth2","0.0.1","MIT"
 "fitgem_oauth2","0.0.2","MIT"
 "fitgem_oauth2","0.0.3","MIT"

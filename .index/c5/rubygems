@@ -2287,6 +2287,7 @@
 "openrgss","0.1.3",""
 "openrgss","0.1.4",""
 "opentelemetry-instrumentation-bunny","0.18.0","Apache-2.0"
+"opentelemetry-instrumentation-bunny","0.18.1","Apache-2.0"
 "openvz","1.5.5",""
 "opium","1.0.0","MIT"
 "opium","1.0.1","MIT"

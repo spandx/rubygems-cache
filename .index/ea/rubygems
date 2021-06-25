@@ -1874,6 +1874,7 @@
 "logstash-filter-device_detection-java","1.0.4","Apache-2.0"
 "logstash-filter-device_detection-java","1.0.7","Apache-2.0"
 "logstash-filter-dynamo_enrich","0.1.0","Apache-2.0"
+"logstash-input-imapraw","1.0.5","Apache-2.0"
 "logstash-output-hangoutchat","0.0.1","Apache-2.0"
 "logstash-output-s3","0.1.0","Apache-2.0"
 "logstash-output-s3","0.1.1","Apache-2.0"

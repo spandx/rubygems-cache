@@ -2086,6 +2086,7 @@
 "opentelemetry-instrumentation-graphql","0.16.0","Apache-2.0"
 "opentelemetry-instrumentation-graphql","0.17.0","Apache-2.0"
 "opentelemetry-instrumentation-graphql","0.18.0","Apache-2.0"
+"opentelemetry-instrumentation-graphql","0.18.1","Apache-2.0"
 "operationcode-airtable","0.2.1","MIT"
 "operationcode-airtable","0.3.0","MIT"
 "opml_janitor","0.0.1","MIT"
