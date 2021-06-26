@@ -2608,6 +2608,8 @@
 "ruby-readability","0.6.1",""
 "ruby-readability","0.6.2",""
 "ruby-readability","0.7.0",""
+"ruby-spacy","0.1.0","MIT"
+"ruby-spacy","0.1.1","MIT"
 "rubyXL-addressing","0.1.0","MIT"
 "rubyXL-addressing","0.2.0","MIT"
 "rubyXL-addressing","0.3.0","MIT"

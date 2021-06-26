@@ -1133,6 +1133,7 @@
 "googleapis-common-protos-types","1.0.6","Apache-2.0"
 "grande","0.0.1","MIT"
 "grande","0.0.2","MIT"
+"grande","0.0.4","MIT"
 "guard-ctags-bundler","0.0.4",""
 "guard-ctags-bundler","0.1.5",""
 "guard-ctags-bundler","0.2.0",""

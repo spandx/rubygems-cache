@@ -1575,6 +1575,7 @@
 "mongery","1.0.5","MIT"
 "mongoid-categorized_counter_cache","0.1.0","MIT"
 "mopti","0.1.0","BSD-3-Clause"
+"mopti","0.2.0","BSD-3-Clause"
 "motion-my_env","0.1",""
 "motion-my_env","0.2",""
 "mrml","0.1.0","MIT"

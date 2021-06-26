@@ -2644,6 +2644,7 @@
 "send_grid_mailer","1.1.0","MIT"
 "send_grid_mailer","1.2.0","MIT"
 "send_grid_mailer","1.2.1","MIT"
+"send_grid_mailer","2.0.0","MIT"
 "sendinblue_delivery","0.1.0","MIT"
 "sendinblue_delivery","0.1.2","MIT"
 "sensei_eod_closing_trades_ruby","0.0.1","MIT"
