@@ -2585,6 +2585,7 @@
 "simple_enum","2.3.2","MIT"
 "sinatra-param2","1.0.0","MIT"
 "sinatra-wanted","0.8","MIT"
+"sinatra-wanted","0.8.1","MIT"
 "sinatra_spotlight","1.0.6","MIT"
 "sir","0.2.3","MIT"
 "skink","0.3.1",""

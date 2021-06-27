@@ -1863,6 +1863,8 @@
 "omikronn-ripple","0.2",""
 "omniauth-ekuaishou","0.1.0","MIT"
 "omniauth-ekuaishou","0.2.0","MIT"
+"omniauth-ekuaishou","0.3.0","MIT"
+"omniauth-ekuaishou","0.4.0","MIT"
 "omniauth-mit-oauth2","0.1.0","MIT"
 "omniauth-mit-oauth2","0.1.1","MIT"
 "omniauth-mvc","1.0.0","MIT"

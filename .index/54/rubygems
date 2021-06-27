@@ -2913,6 +2913,7 @@
 "search_magic","0.0.4",""
 "search_magic","0.0.6",""
 "search_magic","0.3.0",""
+"semantic_logger_ecs_addon","0.1.0","MIT"
 "sensu-plugins-cpu-usage","0.0.1","MIT"
 "sensu-plugins-cpu-usage","0.0.2","MIT"
 "sensu-plugins-cpu-usage","0.0.3","MIT"

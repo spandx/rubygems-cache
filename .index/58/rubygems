@@ -2223,6 +2223,8 @@
 "oauth2_hmac_rails","0.1.0","MIT"
 "olauzon-tempatra","0.0.1",""
 "olauzon-tempatra","0.0.2",""
+"omniauth-etencent","0.1.0","MIT"
+"omniauth-etencent","0.2.0","MIT"
 "omniauth-globus","0.8.3","MIT"
 "omniauth-globus","0.8.7","MIT"
 "omniauth-globus","0.9.1","MIT"
