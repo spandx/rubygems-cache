@@ -3085,6 +3085,7 @@
 "sidekiq-datadog","0.5.1",""
 "sidekiq-datadog","0.5.2",""
 "sidekiq-datadog","0.5.3",""
+"sidekiq-datadog","0.6.0",""
 "sidekiq_remove_scheduled","0.0.1","MIT"
 "sidekiq_remove_scheduled","0.0.2","MIT"
 "sidekiq_remove_scheduled","0.0.3","MIT"

@@ -1292,6 +1292,7 @@
 "fakecrm","0.9.9.2","LGPL-3.0-only"
 "fakecrm","0.9.9.3","LGPL-3.0-only"
 "fakecrm","0.9.9.4","LGPL-3.0-only"
+"faker_spanish_documents","0.1.0","MIT"
 "fast_haml","0.1.0","MIT"
 "fast_haml","0.1.1","MIT"
 "fast_haml","0.1.10","MIT"

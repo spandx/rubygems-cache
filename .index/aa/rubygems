@@ -2239,6 +2239,8 @@
 "split-counters","0.3.1","MIT"
 "spree_comfy_auth_devise","0.0.1","MIT"
 "spree_comfy_auth_devise","3.0.0","MIT"
+"spree_frenet","0.0.2","BSD-3-Clause"
+"spree_frenet","0.1.0","BSD-3-Clause"
 "spreeference","0.1.0","MIT"
 "spreeference","0.1.1","MIT"
 "sprockets-image_compressor","0.2.1","MIT"

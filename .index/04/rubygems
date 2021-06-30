@@ -668,6 +668,8 @@
 "embulk-plugin-twitterstream","0.0.1","MIT"
 "embulk-plugin-twitterstream","0.0.2","MIT"
 "encrypted-databag","0.0.1","MIT"
+"error_highlight","0.1.0","MIT"
+"error_highlight","0.2.0","MIT"
 "espeak-ruby","1.0.0",""
 "espeak-ruby","1.0.1",""
 "espeak-ruby","1.0.2","MIT"

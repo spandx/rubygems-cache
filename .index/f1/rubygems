@@ -2145,6 +2145,7 @@
 "mislav-rspactor","0.3.3",""
 "mitch-fz3b","0.1.0","Apache-2.0"
 "mock_mailer","0.0.1",""
+"moneda","0.0.0","MIT"
 "mongo_collection","0.0.4","MIT"
 "mongo_collection","0.0.6","MIT"
 "mongoid","2.1.3",""
