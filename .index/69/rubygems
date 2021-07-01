@@ -1042,6 +1042,7 @@
 "google-cloud-data_catalog","1.0.2","Apache-2.0"
 "google-cloud-data_catalog","1.1.0","Apache-2.0"
 "google-cloud-data_catalog","1.2.0","Apache-2.0"
+"google-cloud-data_catalog","1.2.1","Apache-2.0"
 "google_map","0.0.1",""
 "google_map","0.0.3",""
 "google_map","0.0.4",""
