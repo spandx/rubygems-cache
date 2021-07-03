@@ -1709,6 +1709,7 @@
 "money_s3","2.4.0","MIT"
 "mongoid-dynamic_matchers","0.0.1","MIT"
 "mongoid-dynamic_matchers","0.0.2","MIT"
+"mongoid-enum-dazzl","1.0.0","MIT"
 "mongoid-normalize-strings","0.0.1","MIT"
 "mongoid-normalize-strings","0.1.0","MIT"
 "mongoid-normalize-strings","0.1.1","MIT"

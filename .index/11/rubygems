@@ -55,6 +55,7 @@
 "active_path","0.1.0",""
 "active_path","0.1.1",""
 "active_path","0.1.2",""
+"active_webhook","1.0.0","MIT"
 "activerecord-jdbcmysql-adapter-java","50.1","BSD"
 "activerecord-jdbcmysql-adapter-java","50.2","BSD"
 "activerecord-jdbcmysql-adapter-java","50.3","BSD"

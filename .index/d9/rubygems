@@ -3353,6 +3353,7 @@
 "kitchen-ec2","3.0.0","Apache-2.0"
 "kitchen-ec2","3.0.1","Apache-2.0"
 "kitchen-ec2","3.1.0","Apache-2.0"
+"kitchen-ec2","3.10.0","Apache-2.0"
 "kitchen-ec2","3.2.0","Apache-2.0"
 "kitchen-ec2","3.3.0","Apache-2.0"
 "kitchen-ec2","3.4.0","Apache-2.0"
