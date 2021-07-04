@@ -2822,6 +2822,8 @@
 "sixarm_ruby_week","1.1.7","BSD-|-GPL-|-MIT-|-PAL-|-Various"
 "sixarm_ruby_week","1.1.8","BSD-|-GPL-|-MIT-|-PAL-|-Various"
 "sixarm_ruby_week","1.2.2","Apache-2.0-|-Artistic-2.0-|-BSD-3-Clause-|-GPL-3.0-|-MIT-|-MPL-2.0"
+"slim_string","1.0.1","MIT"
+"slim_string","1.0.2","MIT"
 "slowlane","0.0.4","MIT"
 "slowlane","0.0.5","MIT"
 "slowlane","0.0.6","MIT"
