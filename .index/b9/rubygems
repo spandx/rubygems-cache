@@ -2425,6 +2425,7 @@
 "ruby_rabbitmq_janus","2.7.2","MIT"
 "ruby_rabbitmq_janus","3.0.0","MIT"
 "ruby_rabbitmq_janus","3.0.1","MIT"
+"ruby_rabbitmq_janus","4.0.0","MIT"
 "rubyc","0.0.10",""
 "rubyc","0.0.13",""
 "rubyc","0.1.2",""
