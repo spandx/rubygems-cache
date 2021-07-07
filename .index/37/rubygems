@@ -1097,6 +1097,8 @@
 "hybrid_platforms_conductor","33.2.4","BSD-3-Clause"
 "hybrid_platforms_conductor","33.3.0","BSD-3-Clause"
 "hybrid_platforms_conductor","33.4.0","BSD-3-Clause"
+"hybrid_platforms_conductor","33.5.0","BSD-3-Clause"
+"hybrid_platforms_conductor","33.5.1","BSD-3-Clause"
 "i18n-json","0.0.1","MIT"
 "i18n-json","0.0.2","MIT"
 "i18n-json","0.0.3","MIT"
