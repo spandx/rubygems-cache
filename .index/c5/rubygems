@@ -377,6 +377,7 @@
 "capistrano-mercurial-ext","0.0.4",""
 "capistrano-mercurial-ext","0.0.5",""
 "capistrano-sidekiq-systemd","0.1.0","MIT"
+"capistrano-sidekiq-systemd","0.2.0","MIT"
 "capistrano-templating","1.0.1","MIT"
 "capistrano3-aws","0.1.0","MIT"
 "capistrano3-aws","0.2.0","MIT"

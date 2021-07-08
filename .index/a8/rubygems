@@ -2594,6 +2594,7 @@
 "sentry-delayed_job","4.5.1","Apache-2.0"
 "sentry-delayed_job","4.5.2","Apache-2.0"
 "sentry-delayed_job","4.6.0","Apache-2.0"
+"sentry-delayed_job","4.6.1","Apache-2.0"
 "sfn-bucketpurge","0.0.1","Apache-2.0"
 "shatty","0.0.1",""
 "shatty","0.0.3",""

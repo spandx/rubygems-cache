@@ -1357,6 +1357,7 @@
 "kitchen-terraform","5.7.1","Apache-2.0"
 "kitchen-terraform","5.7.2","Apache-2.0"
 "kitchen-terraform","5.8.0","Apache-2.0"
+"kitchen-terraform","6.0.0","Apache-2.0"
 "knaveofdiamonds-knave-extras","0.0.1",""
 "kueda-flickraw","0.5.1",""
 "kueda-flickraw","0.5.2",""
