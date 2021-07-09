@@ -295,6 +295,7 @@
 "aws-sigv4","1.2.1","Apache-2.0"
 "aws-sigv4","1.2.2","Apache-2.0"
 "aws-sigv4","1.2.3","Apache-2.0"
+"aws-sigv4","1.2.4","Apache-2.0"
 "azure_mgmt_import_export","0.17.0","MIT"
 "azure_mgmt_import_export","0.17.1","MIT"
 "azure_mgmt_time_series_insights","0.17.0","MIT"

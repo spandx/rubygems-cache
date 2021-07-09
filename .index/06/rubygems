@@ -1004,6 +1004,7 @@
 "cloudstack-cli","1.6.4","MIT"
 "cloudstack-cli","1.6.5","MIT"
 "cloudstack-cli","1.6.6","MIT"
+"cloudstack-cli","1.6.7","MIT"
 "cloudwatch","0.0.1",""
 "cocoapods-deintegrate","0.1.1","MIT"
 "cocoapods-deintegrate","0.2.0","MIT"
