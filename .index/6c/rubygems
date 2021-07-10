@@ -848,6 +848,8 @@
 "deno92","0.1.7","MIT"
 "deno92","0.1.8","MIT"
 "deno92","0.1.9","MIT"
+"depend_gem","1.0.0","MIT"
+"depend_gem","2.0.0","MIT"
 "deprec","2.1.17",""
 "deprec","2.2.1",""
 "devbox","0.0.1","MIT"

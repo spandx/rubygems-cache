@@ -405,6 +405,7 @@
 "capistrano-git-submodule-strategy","0.1.8","MIT"
 "capistrano-git-submodule-strategy","0.1.9","MIT"
 "capistrano-rabbitmq","0.0.2","MIT"
+"caravaggio","0.0.4","MIT"
 "carbolic","0.1.4",""
 "carbolic","0.1.5","MIT"
 "care_bert","0.0.2","MIT"

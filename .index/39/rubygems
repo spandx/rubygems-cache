@@ -17,6 +17,8 @@
 "active_versioning_workflow","1.1.1","BSD"
 "active_wrapper-ar2","0.4.9",""
 "activeadmin_addons_rails6","1.7.2","MIT"
+"activerecord-materialize-adapter","0.1.0","MIT"
+"activerecord-materialize-adapter","0.1.1","MIT"
 "activerecord_unitwise","0.1.91","MIT"
 "acts_as_human","3.0.2","MIT"
 "acts_as_scrubbable","0.0.1","MIT"

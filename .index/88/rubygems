@@ -2987,6 +2987,7 @@
 "wpdoc","0.2.22",""
 "xbmc-sql","0.0.2","MIT"
 "xcconfig","0.1.0","MIT"
+"xjson","0.0.2","Ruby"
 "xjson","0.1","Ruby"
 "xml_contacts_extractor","0.0.1","MIT"
 "xml_contacts_extractor","0.0.2","MIT"

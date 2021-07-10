@@ -1685,6 +1685,7 @@
 "kubectl","1.6.4.1","Apache-2.0"
 "kubectl","1.6.4.2","Apache-2.0"
 "kubectl-rb-arm-linux","0.1.0","Apache-2.0"
+"kubectl-rb-arm-linux","0.2.0","Apache-2.0"
 "lambda_gem","0.0.1",""
 "language-translator","0.1.3",""
 "language-translator","0.1.4",""
