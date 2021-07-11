@@ -2909,6 +2909,7 @@
 "puppet-lint-param-docs","1.7.1","MIT"
 "puppet-lint-param-docs","1.7.3","MIT"
 "puppet-lint-param-docs","1.7.4","MIT"
+"puppet-lint-param-docs","1.7.5","MIT"
 "pwood-wowr","0.5.1",""
 "r509-ocsp-responder","0.3.2",""
 "r509-ocsp-responder","0.3.3",""
