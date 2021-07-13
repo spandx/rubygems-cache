@@ -960,6 +960,7 @@
 "gom-couchdb-adapter","0.4.0",""
 "google-analytics-admin","0.1.0","Apache-2.0"
 "google-analytics-admin","0.1.1","Apache-2.0"
+"google-analytics-admin","0.1.2","Apache-2.0"
 "google-apis-servicecontrol_v2","0.1.0","Apache-2.0"
 "google-apis-servicecontrol_v2","0.10.0","Apache-2.0"
 "google-apis-servicecontrol_v2","0.11.0","Apache-2.0"
