@@ -2219,6 +2219,7 @@
 "puppet-sec-lint","0.5.7","MIT"
 "puppet-sec-lint","0.5.8","MIT"
 "puppet-sec-lint","0.5.9","MIT"
+"puppet-sec-lint","1.0.0","MIT"
 "puppet-syntax","0.0.1","MIT"
 "puppet-syntax","0.0.2","MIT"
 "puppet-syntax","0.0.3","MIT"

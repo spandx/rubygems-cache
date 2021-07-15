@@ -2265,6 +2265,7 @@
 "graphite_sender","1.0.1","MIT"
 "graphql-formatter","0.1.0","MIT"
 "graphql-formatter","0.1.1","MIT"
+"groonga-synonym","1.0.0","GPL-3.0+"
 "groupon","1.0.0",""
 "groupon","1.0.1",""
 "groute","0.1.3",""
