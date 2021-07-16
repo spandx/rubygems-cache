@@ -1337,6 +1337,8 @@
 "hammer_cli_foreman_admin","0.0.7","GPL-3"
 "hammer_cli_foreman_admin","0.0.8","GPL-3"
 "hammer_cli_foreman_admin","0.0.9","GPL-3"
+"hammer_cli_foreman_admin","1.0.0","GPL-3"
+"hammer_cli_foreman_admin","1.1.0","GPL-3"
 "haproxy_join","0.3",""
 "hardcoded_enumeration","0.1.0","MIT"
 "hardcoded_enumeration","0.1.1","MIT"

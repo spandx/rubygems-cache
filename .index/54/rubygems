@@ -1909,6 +1909,7 @@
 "logstash-codec-line","3.0.7","Apache-2.0"
 "logstash-codec-line","3.0.8","Apache-2.0"
 "logstash-codec-line","3.1.0","Apache-2.0"
+"logstash-codec-line","3.1.1","Apache-2.0"
 "logstash-filter-zabbix","0.1.1","Apache-2.0"
 "logstash-filter-zabbix","0.1.2","Apache-2.0"
 "logstash-input-elasticsearch","0.1.0","Apache-2.0"

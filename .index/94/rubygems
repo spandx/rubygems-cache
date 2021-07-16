@@ -1451,6 +1451,7 @@
 "mobicom_candy","0.1.2","MIT"
 "modbus","1.0.0","MIT"
 "modbus","1.0.1","MIT"
+"modular_routes","0.1.1",""
 "moro-logger_exception_format","0.0.2",""
 "motion-kit","0.0.1","BSD"
 "motion-kit","0.10.0","BSD"

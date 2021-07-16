@@ -1271,6 +1271,7 @@
 "fluent-plugin-filter-wms-auth","1.0.4","MIT"
 "fluent-plugin-filter-wms-auth","1.0.5","MIT"
 "fluent-plugin-go-audit-parser","0.1.0","Apache-2.0"
+"fluent-plugin-go-audit-parser","0.1.1","Apache-2.0"
 "fluent-plugin-pushover","0.0.3",""
 "fluent-plugin-pushover","0.0.4",""
 "fluent-plugin-pushover","1.0.0",""

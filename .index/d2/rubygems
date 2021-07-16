@@ -3244,6 +3244,7 @@
 "subprocess","1.3.2","MIT"
 "subprocess","1.5.3","MIT"
 "subprocess","1.5.4","MIT"
+"subprocess","1.5.5","MIT"
 "supernova-ts","0.1.0",""
 "sutty-jekyll-theme","0.1.0","Nonstandard"
 "sutty-jekyll-theme","0.1.1","Nonstandard"
