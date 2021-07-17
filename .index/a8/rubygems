@@ -1053,6 +1053,7 @@
 "gdk3","3.4.3","LGPL-2.1+"
 "gdk3","3.4.4","LGPL-2.1+"
 "gdk3","3.4.5","LGPL-2.1+"
+"gdk3","3.4.6","LGPL-2.1+"
 "gem-dependent","0.1.6",""
 "gem-dependent","0.1.7",""
 "gem-dependent","0.2.0",""

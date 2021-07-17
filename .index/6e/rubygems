@@ -2483,6 +2483,8 @@
 "rawline","0.3.2","MIT"
 "rc4_cipher","1.0.0","MIT"
 "rcnb","0.1.0","MIT"
+"rcnb","0.2.0","MIT"
+"rcnb","0.2.1","MIT"
 "rdf-agraph","0.3.0",""
 "rdf-agraph","0.4","Public Domain"
 "re-rem","0.0.1","MIT"
