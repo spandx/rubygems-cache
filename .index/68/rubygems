@@ -114,6 +114,7 @@
 "acts_as_nps_rateable","0.0.5",""
 "acts_as_starable","0.1.0","MIT"
 "acts_as_starable","0.1.1","MIT"
+"administrate-field-address_lat_lng","1.0.0","MIT"
 "administrate-field-carrierwave","0.0.1","MIT"
 "administrate-field-carrierwave","0.0.2","MIT"
 "administrate-field-carrierwave","0.0.3","MIT"
