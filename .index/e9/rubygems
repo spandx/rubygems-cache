@@ -3857,6 +3857,7 @@
 "wrap_in_module","0.0.2",""
 "wsdirector","0.1.0","MIT"
 "wsdirector","0.1.1","MIT"
+"xcframework_converter","0.1.0","MIT"
 "xcpretty-custom-print-formatter","1.0.0","MIT"
 "xrails","0.2.0",""
 "xrails","0.3.0",""

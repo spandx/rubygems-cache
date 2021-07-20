@@ -1066,6 +1066,7 @@
 "fastlane-plugin-bugsnag_sourcemaps_upload","0.2.0","MIT"
 "fastlane-plugin-menigit","1.0.0","MIT"
 "fastlane-plugin-menigit","1.0.1","MIT"
+"fastlane-plugin-unp","0.1.0","MIT"
 "fauxparse-credentials","1.0.0",""
 "fauxparse-credentials","1.0.1",""
 "feint","0.0.1","MIT"
