@@ -2738,6 +2738,8 @@
 "socket.io-emitter","1.0.0","MIT"
 "sockjs","0.2.1",""
 "sockjs","0.3.4.0",""
+"solidus_admin_bar","3.0.1","BSD-3-Clause"
+"solidus_admin_bar","3.0.2","BSD-3-Clause"
 "source2pdf","0.2.0","MIT"
 "source2pdf","0.2.1","MIT"
 "source2pdf","0.2.2","MIT"
