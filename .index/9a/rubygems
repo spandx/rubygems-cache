@@ -3757,6 +3757,8 @@
 "pulp_ansible_client","0.7.2","GPL-2.0+"
 "pulp_ansible_client","0.7.3","GPL-2.0+"
 "pulp_ansible_client","0.8.0","GPL-2.0+"
+"pulp_ansible_client","0.8.1","GPL-2.0+"
+"pulp_ansible_client","0.9.0","GPL-2.0+"
 "puppet-lint-space_after_comma-check","1.0.1","MIT"
 "puppet-lint-space_after_comma-check","1.0.2","MIT"
 "pushpop","0.1.0",""

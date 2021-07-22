@@ -3027,6 +3027,7 @@
 "patch_ruby","1.5.2","MIT"
 "patch_ruby","1.6.0","MIT"
 "patch_ruby","1.7.0","MIT"
+"patch_ruby","1.8.0","MIT"
 "paypal-sdk-adaptiveaccounts","1.102.0",""
 "paypal-sdk-adaptiveaccounts","1.102.1",""
 "paypal-sdk-adaptiveaccounts","1.96.0",""
