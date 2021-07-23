@@ -1184,6 +1184,7 @@
 "email_data","1626655059.0.0","MIT"
 "email_data","1626827937.0.0","MIT"
 "email_data","1626914268.0.0","MIT"
+"email_data","1627000704.0.0","MIT"
 "embulk-parser-variable_length_bytes","0.1.0","MIT"
 "embulk-parser-variable_length_bytes","0.1.1","MIT"
 "endeavor","0.0.0",""

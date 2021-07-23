@@ -1081,6 +1081,7 @@
 "hammer_cli_foreman_remote_execution","0.1.2","GPL-3.0-or-later"
 "hammer_cli_foreman_remote_execution","0.2.0","GPL-3.0-or-later"
 "hammer_cli_foreman_remote_execution","0.2.1","GPL-3.0-or-later"
+"hammer_cli_foreman_remote_execution","0.2.2","GPL-3.0-or-later"
 "has_many_through_mongodb","0.1.2","MIT"
 "has_many_through_mongodb","0.1.3","MIT"
 "has_many_through_mongodb","0.1.4","MIT"

@@ -3598,6 +3598,7 @@
 "wordnet","1.0.1","BSD-3-Clause"
 "wordnet","1.1.0","BSD-3-Clause"
 "wordnet","1.1.1","BSD-3-Clause"
+"wordpress-formatting","0.1.0","GPL-2.0"
 "workflow_on_mongoid","0.8.0.3",""
 "workflow_on_mongoid","0.8.0.7",""
 "workflow_on_mongoid","1.0.0.0",""

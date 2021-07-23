@@ -3306,6 +3306,7 @@
 "torch","0.0.1",""
 "tracking-column","0.0.2","MIT"
 "tracking-column","0.0.3","MIT"
+"transaction-service-client","0.0.1","MIT"
 "trellatin","0.0.2","MIT"
 "trellatin","0.0.3","MIT"
 "trie-storage","0.0.2","MIT"
