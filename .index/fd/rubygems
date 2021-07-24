@@ -1188,6 +1188,7 @@
 "embulk-input-athena","0.1.4","MIT"
 "embulk-input-athena","0.1.5","MIT"
 "embulk-input-athena","0.1.6","MIT"
+"embulk-input-athena","0.1.7","MIT"
 "embulk-input-bigquery_extract_files","0.0.10","MIT"
 "embulk-input-bigquery_extract_files","0.0.11","MIT"
 "embulk-input-bigquery_extract_files","0.0.12","MIT"

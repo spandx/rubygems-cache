@@ -1276,6 +1276,7 @@
 "hifsm","0.4.5","MIT"
 "hifsm","0.6.0","MIT"
 "hifsm","0.6.1","MIT"
+"hnswlib","0.1.0","Apache-2.0"
 "hobby-test","0.0.0",""
 "hobby-test","0.0.1",""
 "hobby-test","0.0.10",""
