@@ -2385,6 +2385,7 @@
 "puppet-lint-strict_indent-check","2.0.5","Mozilla 2.0"
 "puppet-lint-strict_indent-check","2.0.6","Mozilla 2.0"
 "puppet-lint-strict_indent-check","2.0.7","Mozilla 2.0"
+"puppet-lint-strict_indent-check","2.0.8","Mozilla 2.0"
 "quickfix_ruby","1.14.3","Apache Style"
 "quickfix_ruby","1.14.3.1","Apache Style"
 "quickfix_ruby","1.15.1","Apache Style"
