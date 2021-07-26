@@ -1537,6 +1537,7 @@
 "google_drive","3.0.7","BSD-3-Clause"
 "grpc_conventions","0.1",""
 "grpc_conventions","0.2",""
+"grpc_serializer","1.0","MIT"
 "guess_paging","0.1.0","MIT"
 "haplocheirus-client","0.6.5",""
 "harris_view_tool","0.1.0","MIT"
