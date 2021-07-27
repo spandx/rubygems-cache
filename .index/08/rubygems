@@ -2310,6 +2310,8 @@
 "sidekiq_alive","2.0.5","MIT"
 "sidekiq_alive","2.0.6","MIT"
 "sidekiq_alive","2.1.0","MIT"
+"sidekiq_alive","2.1.1","MIT"
+"sidekiq_alive","2.1.2","MIT"
 "simple_jsonapi_client","0.1.0","MIT"
 "simple_jsonapi_client","0.1.1","MIT"
 "simple_jsonapi_client","0.2.1","MIT"
