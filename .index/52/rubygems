@@ -1030,6 +1030,7 @@
 "geoip2_c","0.3.1","Apache-2.0"
 "geoip2_c","0.3.2","Apache-2.0"
 "geoip2_c","0.3.3","Apache-2.0"
+"github-renaming","0.1.0","MIT"
 "gitlab-default_value_for","3.1.1","MIT"
 "globalize3-validations","0.1.0","MIT"
 "gns","0.0.2",""

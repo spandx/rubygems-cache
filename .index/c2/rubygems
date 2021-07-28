@@ -941,6 +941,8 @@
 "em-bitcoin","0.01",""
 "embulk-input-google_adwords","0.1.0","MIT"
 "embulk-input-google_adwords","0.2.0","MIT"
+"embulk-input-google_adwords","0.3.0","MIT"
+"embulk-input-google_adwords","0.3.1","MIT"
 "emeralds","0.1.0",""
 "endow","0.1.0","MIT"
 "endow","0.2.0","MIT"

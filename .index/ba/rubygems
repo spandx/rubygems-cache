@@ -306,6 +306,7 @@
 "aws-sdk-redshiftdataapiservice","1.5.0","Apache-2.0"
 "aws-sdk-redshiftdataapiservice","1.6.0","Apache-2.0"
 "aws-sdk-redshiftdataapiservice","1.7.0","Apache-2.0"
+"aws-sdk-redshiftdataapiservice","1.8.0","Apache-2.0"
 "aws_csshx","0.1.5",""
 "aws_sam_yarn_builder","0.1.2",""
 "aws_sam_yarn_builder","0.1.3",""

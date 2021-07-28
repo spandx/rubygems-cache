@@ -825,6 +825,8 @@
 "embulk-output-postgresql-java","0.10.1","Apache-2.0"
 "embulk-output-postgresql-java","0.9.0","Apache-2.0"
 "enabled","0.1",""
+"epb_view_models","1.0.0","MIT"
+"epb_view_models","1.0.1","MIT"
 "erchef-expander","11.4.0",""
 "erkki-production_log_analyzer","2009022401",""
 "erkki-production_log_analyzer","2009022402",""

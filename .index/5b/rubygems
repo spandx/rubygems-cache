@@ -1660,6 +1660,7 @@
 "my_first_markov","0.0.3",""
 "naas","0.0.1","MIT"
 "naas","0.0.2","MIT"
+"narray-fromfile","0.1.2","MIT"
 "nats-rpc","0.0.1","MIT"
 "nats-rpc","0.0.2","MIT"
 "nats-rpc","0.0.3","MIT"
