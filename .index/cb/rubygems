@@ -261,6 +261,7 @@
 "aws-sdk-ssmcontacts","1.0.0","Apache-2.0"
 "aws-sdk-ssmcontacts","1.1.0","Apache-2.0"
 "aws-sdk-ssmcontacts","1.2.0","Apache-2.0"
+"aws-sdk-ssmcontacts","1.3.0","Apache-2.0"
 "axe-core-capybara","4.0.0",""
 "axe-core-capybara","4.1.0",""
 "axe-core-capybara","4.2.0",""
