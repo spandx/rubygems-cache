@@ -824,6 +824,7 @@
 "cocoapods-ocean_modulemap","0.0.2","MIT"
 "color_difference","0.0.1","MIT"
 "colored_scripts","0.0.2","MIT"
+"colored_scripts","0.0.3","MIT"
 "common_engine","0.1.0","MIT"
 "compass-themes","0.0.1",""
 "compass-themes","0.0.3",""
