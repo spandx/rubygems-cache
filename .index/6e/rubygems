@@ -344,6 +344,7 @@
 "aws-sdk-sagemakerruntime","1.30.0","Apache-2.0"
 "aws-sdk-sagemakerruntime","1.31.0","Apache-2.0"
 "aws-sdk-sagemakerruntime","1.32.0","Apache-2.0"
+"aws-sdk-sagemakerruntime","1.33.0","Apache-2.0"
 "aws-sdk-sagemakerruntime","1.4.0","Apache-2.0"
 "aws-sdk-sagemakerruntime","1.5.0","Apache-2.0"
 "aws-sdk-sagemakerruntime","1.6.0","Apache-2.0"

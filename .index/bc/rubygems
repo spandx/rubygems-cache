@@ -118,6 +118,7 @@
 "aws-sdk-ssoadmin","1.6.0","Apache-2.0"
 "aws-sdk-ssoadmin","1.7.0","Apache-2.0"
 "aws-sdk-ssoadmin","1.8.0","Apache-2.0"
+"aws-sdk-ssoadmin","1.9.0","Apache-2.0"
 "azure_mgmt_edgegateway","0.17.0","MIT"
 "azure_mgmt_edgegateway","0.17.1","MIT"
 "azure_mgmt_edgegateway","0.18.0","MIT"
