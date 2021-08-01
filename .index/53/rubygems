@@ -413,6 +413,7 @@
 "card-mod-permissions","0.11.4","GPL-3.0"
 "card-mod-permissions","0.11.5","GPL-3.0"
 "card-mod-permissions","0.11.6","GPL-3.0"
+"card-mod-permissions","0.11.7","GPL-3.0"
 "card-mod-permissions","0.12.0","GPL-3.0"
 "cchardet","0.2.0","public domain"
 "cchardet","0.2.1","MIT"
@@ -4009,3 +4010,4 @@
 "zstd-ruby","1.4.5.0","MIT"
 "zstd-ruby","1.4.9.0","MIT"
 "zstd-ruby","1.5.0.0","MIT"
+"zzheynow","0.1.0","MIT"

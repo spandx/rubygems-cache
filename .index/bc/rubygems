@@ -1719,6 +1719,8 @@
 "eventmachine-eventmachine_httpserver","0.1.1",""
 "eventmachine-eventmachine_httpserver","0.1.2",""
 "eventmachine-eventmachine_httpserver","0.2.0",""
+"evernote-analyzer","0.0.10","MIT"
+"evernote-analyzer","0.0.9","MIT"
 "evt-consumer-postgres","0.1.0.0","MIT"
 "evt-consumer-postgres","0.2.0.0","MIT"
 "evt-consumer-postgres","0.2.0.3","MIT"
