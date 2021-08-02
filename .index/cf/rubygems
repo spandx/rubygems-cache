@@ -3032,6 +3032,7 @@
 "sterilizer","0.0.2",""
 "sterilizer","0.0.4","MIT"
 "stomach","0.0.1","GPL-3.0"
+"strict-read-only","1.0.0","GNU AGPLv3"
 "structure_sql_to_migration","0.0.1","MIT"
 "structure_sql_to_migration","0.0.2","MIT"
 "sunomono","0.3.0","MIT"

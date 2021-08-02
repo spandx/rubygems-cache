@@ -1413,6 +1413,7 @@
 "google-apis-cloudidentity_v1","0.9.0","Apache-2.0"
 "google-apis-file_v1beta1","0.1.0","Apache-2.0"
 "google-apis-file_v1beta1","0.10.0","Apache-2.0"
+"google-apis-file_v1beta1","0.11.0","Apache-2.0"
 "google-apis-file_v1beta1","0.2.0","Apache-2.0"
 "google-apis-file_v1beta1","0.3.0","Apache-2.0"
 "google-apis-file_v1beta1","0.4.0","Apache-2.0"

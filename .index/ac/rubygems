@@ -290,6 +290,7 @@
 "bech32","1.0.5","MIT"
 "bech32","1.1.0","MIT"
 "bech32","1.2.0","MIT"
+"bech32","1.2.1","MIT"
 "billing","0.0.0","MIT"
 "billing","0.0.3","MIT"
 "billing","0.0.4","MIT"
