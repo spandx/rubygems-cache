@@ -2582,6 +2582,7 @@
 "reasonable-value","0.2.5","MIT"
 "reasonable-value","0.2.6","MIT"
 "reasonable-value","0.2.7","MIT"
+"redis-adequate_rate_limiter","1.0.0","MIT"
 "redmine_wiki_exporter","0.0.0",""
 "redmine_wiki_exporter","0.0.2",""
 "redpanda","0.1.0","MIT"

@@ -1583,6 +1583,7 @@
 "json_controller_generator","0.0.1",""
 "json_errors","0.1.0","MIT"
 "json_errors","0.1.1","MIT"
+"json_errors","0.2.0","MIT"
 "justinf-hydra","0.23.8",""
 "kamui","0.1.0","MIT"
 "key-value-parser","0.0.1","MIT"
