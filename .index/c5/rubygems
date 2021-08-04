@@ -1002,6 +1002,7 @@
 "fluent-plugin-webhdfs","1.3.1","Apache-2.0"
 "fluent-plugin-webhdfs","1.3.2","Apache-2.0"
 "fluent-plugin-webhdfs","1.4.0","Apache-2.0"
+"fluent-plugin-webhdfs","1.5.0","Apache-2.0"
 "fluent-plugin-zulip","0.1.0","Apache-2.0"
 "fluent-plugin-zulip","0.2.0","Apache-2.0"
 "fluent-plugin-zulip","0.3.0","Apache-2.0"

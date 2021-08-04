@@ -2243,6 +2243,7 @@
 "sensu-plugins-statuspage","1.2.0","MIT"
 "sensu-plugins-trello","0.2.1","MIT"
 "sensu-plugins-trello","0.2.2","MIT"
+"sensu-plugins-trello","0.2.3","MIT"
 "sequel_paranoia","0.0.1","MIT"
 "sequel_paranoia","0.0.2","MIT"
 "sequel_paranoia","0.0.3","MIT"

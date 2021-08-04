@@ -1250,6 +1250,7 @@
 "guard_against_physical_delete","1.0.0",""
 "guard_against_physical_delete","1.0.1",""
 "guard_against_physical_delete","1.0.2",""
+"guard_against_physical_delete","2.0.0",""
 "guzel_theme","1.0.0","MIT"
 "haiku_name","0.0.1",""
 "hako-env","0.0.1","MIT"

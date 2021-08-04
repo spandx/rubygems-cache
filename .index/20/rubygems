@@ -2138,6 +2138,7 @@
 "rawscsi","1.4.3","MIT"
 "rawscsi","1.4.4","MIT"
 "rbi","0.0.1","MIT"
+"rbi","0.0.2","MIT"
 "rcqrs","0.1.0",""
 "rcqrs","0.3.0",""
 "rd-salesforce","0.0.1","MIT"
