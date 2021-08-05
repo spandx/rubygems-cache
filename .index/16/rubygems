@@ -172,6 +172,7 @@
 "active_record_samplooper","0.0.7","MIT"
 "activerecord-normalizations","1.0.0","MIT"
 "activerecord-normalizations","1.0.1","MIT"
+"activerecord-normalizations","1.0.2","MIT"
 "activerecord_cache","0.0.10","MIT"
 "activerecord_cache","0.0.11","MIT"
 "activerecord_cache","0.0.6","MIT"

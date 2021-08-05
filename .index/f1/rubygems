@@ -2018,6 +2018,7 @@
 "logstash-codec-edn_lines","3.0.3","Apache-2.0"
 "logstash-codec-edn_lines","3.0.5","Apache-2.0"
 "logstash-codec-edn_lines","3.0.6","Apache-2.0"
+"logstash-codec-edn_lines","3.1.0","Apache-2.0"
 "logstash-filter-collate","0.1.0","Apache-2.0"
 "logstash-filter-collate","0.1.1","Apache-2.0"
 "logstash-filter-collate","0.1.2","Apache-2.0"

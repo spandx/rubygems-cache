@@ -1411,6 +1411,7 @@
 "logstash-codec-edn","3.0.3","Apache-2.0"
 "logstash-codec-edn","3.0.5","Apache-2.0"
 "logstash-codec-edn","3.0.6","Apache-2.0"
+"logstash-codec-edn","3.1.0","Apache-2.0"
 "logstash-filter-memoize","1.0.0","Apache-2.0"
 "logstash-filter-simple_kv","1.0.1","Apache-2.0"
 "logstash-input-beats-java","3.1.0","Apache-2.0"

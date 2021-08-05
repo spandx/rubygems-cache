@@ -1242,6 +1242,7 @@
 "elskwid-munger","0.1.4.6",""
 "em_promise.rb","0.0.1","GPL-3.0"
 "em_promise.rb","0.0.2","GPL-3.0"
+"em_promise.rb","0.0.3","GPL-3.0"
 "ember-auth-session-cookie-rails","1.0.0","MIT license"
 "ember-auth-strategy-dummy-rails","1.0.0","MIT license"
 "ember-debug-rails","0.3.1","MIT"

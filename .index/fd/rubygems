@@ -2046,6 +2046,8 @@
 "kubernetes_helper","0.2.1","MIT"
 "kubernetes_helper","0.3.0","MIT"
 "kubernetes_helper","0.3.1","MIT"
+"kubernetes_helper","0.3.2","MIT"
+"kubernetes_helper","0.3.3","MIT"
 "kuby-eks","0.1.0",""
 "kuby-eks","0.2.0",""
 "kuby-eks","0.3.0",""
