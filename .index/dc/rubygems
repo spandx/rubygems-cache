@@ -201,6 +201,7 @@
 "beaker-docker","0.8.2","Apache2"
 "beaker-docker","0.8.3","Apache-2.0"
 "beaker-docker","0.8.4","Apache-2.0"
+"beaker-docker","1.0.0","Apache-2.0"
 "beautiful-log","0.1.2","MIT"
 "beautiful-log","0.1.4","MIT"
 "beautiful-log","0.1.5","MIT"

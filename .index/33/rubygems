@@ -2515,6 +2515,7 @@
 "validation_matcher","4.0.0","MIT"
 "versionize","1.0.0",""
 "versionize","1.0.1","DPL"
+"versionize","1.0.2","COIL-|-DPL"
 "vet-ci","0.0.3",""
 "vet-ci","0.0.5",""
 "vkhater-redcarpet","2.2.3",""
