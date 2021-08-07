@@ -2659,6 +2659,8 @@
 "resque-retry","1.7.2","MIT"
 "resque-retry","1.7.3","MIT"
 "resque-retry","1.7.4","MIT"
+"resque-retry","1.7.5","MIT"
+"resque-retry","1.7.6","MIT"
 "resque-rollbar","0.0.1",""
 "resque-rollbar","0.0.2",""
 "resque-rollbar","0.0.3",""

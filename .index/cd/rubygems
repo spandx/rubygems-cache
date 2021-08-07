@@ -989,6 +989,7 @@
 "faraday_connection_pool","0.0.1","MIT"
 "fastlane-plugin-app_previews","0.1.1","MIT"
 "fastlane-plugin-sns_http_subscribe","0.1.0","MIT"
+"fastlane-plugin-sns_http_subscribe","0.1.1","MIT"
 "fat_fingers","0.1.0",""
 "fat_fingers","0.1.1",""
 "fat_fingers","0.1.10",""

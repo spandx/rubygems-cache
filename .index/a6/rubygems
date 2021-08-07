@@ -1155,6 +1155,7 @@
 "fastlane-plugin-gmail","0.1.2","MIT"
 "fastlane-plugin-gmail","0.2.0","MIT"
 "fastlane-plugin-gmail","0.2.1","MIT"
+"fastlane-plugin-google_cloud_storage_update","0.2.0","MIT"
 "fastlane-plugin-xambuild","0.1.0","MIT"
 "fastlane-plugin-xambuild","0.2.1","MIT"
 "fastlane-plugin-xambuild","0.3.0","MIT"
