@@ -1816,6 +1816,7 @@
 "logstash-codec-msgpack-java","3.0.5","Apache-2.0"
 "logstash-codec-msgpack-java","3.0.6","Apache-2.0"
 "logstash-codec-msgpack-java","3.0.7","Apache-2.0"
+"logstash-codec-msgpack-java","3.1.0","Apache-2.0"
 "logstash-filter-bytes2human","0.1.0","Apache-2.0"
 "logstash-output-datadog_logs","0.1.0","Apache-2.0"
 "logstash-output-datadog_logs","0.2.0","Apache-2.0"
