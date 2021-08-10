@@ -2294,6 +2294,7 @@
 "ruby-plsql","0.6.0",""
 "ruby-plsql","0.7.0","MIT"
 "ruby-plsql","0.7.1","MIT"
+"ruby-plsql","0.8.0","MIT"
 "ruby-qrng","0.1.0",""
 "ruby-tapas-downloader","1.0.1","wtfpl"
 "ruby-tapas-downloader","1.0.2","wtfpl"

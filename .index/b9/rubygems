@@ -1663,6 +1663,7 @@
 "logaling-command","0.2.3",""
 "logaling-command","0.2.4","GPLv3+"
 "logaling-command","0.2.5","GPLv3+"
+"logstash-output-google_pubsub-final2-java","1.0.0","Apache-2.0"
 "lpckkcc","0.0.0","MIT"
 "lpckkcc","0.0.1","MIT"
 "lti_outbound","1.0.0","MIT"

@@ -1765,6 +1765,7 @@
 "logstash-output-azuresearch","0.1.0","Apache-2.0"
 "logstash-output-azuresearch","0.1.1","Apache-2.0"
 "logstash-output-azuresearch","0.1.2","Apache-2.0"
+"logstash-output-google_pubsub-orderingkey-final8-java","1.0.0","Apache-2.0"
 "logstash-output-wavefront","1.0.0","Apache-2.0"
 "lolp","0.1.0",""
 "lolp","0.2.0",""

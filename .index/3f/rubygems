@@ -1677,6 +1677,7 @@
 "logstash-input-rabbitmq-java","1.0.0","Apache-2.0"
 "logstash-input-rabbitmq-java","1.1.0","Apache-2.0"
 "logstash-input-rabbitmq-java","1.1.1","Apache-2.0"
+"logstash-output-google_pubsub-orderingkey-final-java","1.0.0","Apache-2.0"
 "lynns_test","0.0.0","MIT"
 "m3ugen","0.0.3",""
 "madx-ruacce","1.0.0",""

@@ -1350,6 +1350,7 @@
 "gtk4","3.4.6","LGPL-2.1+"
 "gtk4","3.4.7","LGPL-2.1+"
 "gtk4","3.4.8","LGPL-2.1+"
+"gtk4","3.4.9","LGPL-2.1+"
 "guard-codeception","1.0.0","MIT"
 "guard-codeception","1.1.0","MIT"
 "guard-codeception","1.2.0","MIT"
