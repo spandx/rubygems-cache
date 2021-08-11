@@ -865,6 +865,7 @@
 "elasticsearch-persistence","7.0.0","Apache-2.0"
 "elasticsearch-persistence","7.1.0","Apache-2.0"
 "elasticsearch-persistence","7.1.1","Apache-2.0"
+"elasticsearch-persistence","7.2.0","Apache-2.0"
 "em-hiredis-sentinel","0.1.1","MIT"
 "em-hiredis-sentinel","0.1.2","MIT"
 "em-hiredis-sentinel","0.1.3","MIT"

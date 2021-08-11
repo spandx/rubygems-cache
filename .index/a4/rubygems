@@ -1150,6 +1150,8 @@
 "image_optim_rails","0.4.1","MIT"
 "image_optim_rails","0.4.2","MIT"
 "image_optim_rails","0.4.3","MIT"
+"importmap-rails","0.1.0","MIT"
+"importmap-rails","0.1.1","MIT"
 "includable-activerecord","0.0.1","MIT"
 "inews_client","0.1.2",""
 "inews_client","0.1.3",""

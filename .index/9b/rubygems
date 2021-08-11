@@ -2187,6 +2187,7 @@
 "remotr","1.1.5",""
 "remotr","2.0.1",""
 "render_sync","0.5.0","MIT"
+"requestjs-rails","0.0.5","MIT"
 "resque-logstash","0.0.2","MIT"
 "resque-logstash","0.0.3","MIT"
 "resugan-rspec","0.1.0","MIT"

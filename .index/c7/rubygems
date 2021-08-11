@@ -1034,6 +1034,7 @@
 "fastlane-plugin-changelog","0.9.0","MIT"
 "fastlane-plugin-xcodegen","0.1.0","MIT"
 "fastlane-plugin-xcodegen","1.0.0","MIT"
+"fastlane-plugin-xcodegen","1.1.0","MIT"
 "fbaa_api","0.1.0",""
 "fbaa_api","0.2.0",""
 "fbaa_api","0.4.0",""

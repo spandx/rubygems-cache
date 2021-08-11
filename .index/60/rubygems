@@ -2198,6 +2198,7 @@
 "logstash-filter-date_formatter","1.0.1","Apache-2.0"
 "logstash-filter-date_formatter","2.0.0","Apache-2.0"
 "logstash-input-http_bold-java","3.4.1","Apache-2.0"
+"logstash-input-http_bold-java","3.5.0","Apache-2.0"
 "logstash-output-stdout","0.1.0","Apache-2.0"
 "logstash-output-stdout","0.1.1","Apache-2.0"
 "logstash-output-stdout","0.1.2","Apache-2.0"
