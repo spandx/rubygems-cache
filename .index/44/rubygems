@@ -1,3 +1,4 @@
+"GemsExplorer","0.0.1","MIT"
 "MX-SAT","0.0.1","MIT"
 "ReinH-gitviz","0.1.0",""
 "ReinH-gitviz","0.1.1",""
@@ -982,6 +983,7 @@
 "google-cloud-text_to_speech-v1beta1","0.6.0","Apache-2.0"
 "google-cloud-text_to_speech-v1beta1","0.6.1","Apache-2.0"
 "google-cloud-text_to_speech-v1beta1","0.6.2","Apache-2.0"
+"google-cloud-text_to_speech-v1beta1","0.6.3","Apache-2.0"
 "google-maps","1.0.0",""
 "google-maps","2.0.0",""
 "google-maps","2.1.0",""

@@ -34,6 +34,7 @@
 "active_admin_paranoia","1.0.6","MIT"
 "active_admin_paranoia","1.0.7","MIT"
 "active_admin_paranoia","1.0.9","MIT"
+"active_cursor","0.1.0",""
 "active_record-tracer","0.1.0","MIT"
 "active_record-tracer","0.1.1","MIT"
 "active_triples-solrizer","0.3.0","APACHE2"
