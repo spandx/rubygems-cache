@@ -2777,6 +2777,7 @@
 "rbsecp256k1","3.0.1","MIT"
 "rbsecp256k1","4.0.0","MIT"
 "rbsecp256k1","5.0.0","MIT"
+"rbsecp256k1","5.0.1","MIT"
 "rbx-linecache-universal-rubinius-2.0","1.4","MIT"
 "readme-score","0.0.2","MIT"
 "redis-rpc","1.0.0","GPL-3.0-only"

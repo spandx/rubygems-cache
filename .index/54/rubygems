@@ -1968,6 +1968,7 @@
 "logstash-input-elasticsearch","4.8.1","Apache-2.0"
 "logstash-input-elasticsearch","4.9.0","Apache-2.0"
 "logstash-input-elasticsearch","4.9.1","Apache-2.0"
+"logstash-input-elasticsearch","4.9.2","Apache-2.0"
 "logstash-output-opentsdb","0.1.0","Apache-2.0"
 "logstash-output-opentsdb","0.1.1","Apache-2.0"
 "logstash-output-opentsdb","0.1.2","Apache-2.0"

@@ -1855,6 +1855,7 @@
 "logstash-codec-graphite","3.0.3","Apache-2.0"
 "logstash-codec-graphite","3.0.4","Apache-2.0"
 "logstash-codec-graphite","3.0.5","Apache-2.0"
+"logstash-codec-graphite","3.0.6","Apache-2.0"
 "logstash-filter-myplugin001","3.0.2","Apache-2.0"
 "logstash-filter-stag","0.0.1","Apache-2.0"
 "logstash-filter-stag","0.0.2","Apache-2.0"

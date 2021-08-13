@@ -970,6 +970,8 @@
 "fhir_client","4.0.4",""
 "fhir_client","4.0.5","Apache-2.0"
 "fhir_client","4.0.6","Apache-2.0"
+"fhir_client","5.0.0","Apache-2.0"
+"fhir_client","5.0.1","Apache-2.0"
 "fig_tree","0.0.1","Apache-2.0"
 "fig_tree","0.0.2","Apache-2.0"
 "file-rack","1.0.0","MIT"
