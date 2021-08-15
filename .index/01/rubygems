@@ -307,6 +307,8 @@
 "aws-rsync","0.1.0","MIT"
 "aws-sesocio-secrets","0.1.13",""
 "aws-sesocio-secrets","0.1.17",""
+"aws-sesocio-secrets","0.1.18",""
+"aws-sesocio-secrets","0.1.19",""
 "aws_agcod","0.0.2","MIT"
 "aws_agcod","0.0.3","MIT"
 "aws_agcod","0.0.4","MIT"
