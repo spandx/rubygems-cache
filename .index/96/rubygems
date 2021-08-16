@@ -123,6 +123,7 @@
 "atomic-sidekiq","1.3.0","MIT"
 "awesome_explain","0.3.0","MIT"
 "awesome_explain","1.0.0","MIT"
+"awesome_explain","1.0.1","MIT"
 "aws-flow","1.0.0",""
 "aws-flow","1.0.1",""
 "aws-flow","1.0.2",""

@@ -1576,6 +1576,7 @@
 "logistics_core","20.8.1","MIT"
 "logistics_core","20.9.1","MIT"
 "logistics_core","21.03.1","MIT"
+"logistics_core","21.08.1","MIT"
 "logstash-filter-LDAPresolve","0.1.1","Apache-2.0"
 "logstash-filter-LDAPresolve","0.1.2","Apache-2.0"
 "logstash-filter-geoip2-java","3.0.0","Apache-2.0"

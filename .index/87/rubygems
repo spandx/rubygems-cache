@@ -1384,6 +1384,8 @@
 "fluent-plugin-logio","1.0.0","MIT"
 "fluent-plugin-logio","1.1.0","MIT"
 "fog-hwcloud","0.0.1","MIT"
+"fop_lang","0.1.0","MIT"
+"fop_lang","0.2.0","MIT"
 "forem-redcarpet","1.0.1",""
 "forem-redcarpet","1.0.2",""
 "format_logs","0.1.0",""
