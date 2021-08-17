@@ -3390,6 +3390,7 @@
 "swt","4.4","See https://github.com/danlucraft/swt/blob/master/LICENSE"
 "swt","4.6.1","See https://github.com/danlucraft/swt/blob/master/LICENSE"
 "swt","4.6.1.1","See https://github.com/danlucraft/swt/blob/master/LICENSE"
+"sys-memory","0.1.0","Apache-2.0"
 "sysaid","0.2.0","MIT"
 "sysaid","0.2.1","MIT"
 "sysaid","0.2.2","MIT"
