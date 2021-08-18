@@ -2677,6 +2677,7 @@
 "rack-rewrite-dynamic","0.0.8",""
 "rack-rewrite-dynamic","0.0.9",""
 "rack-runtime","1.0.0","MIT"
+"rack_authorised_proxy","1.0.0","MIT"
 "radial","0.1.1","GNU 3.0"
 "rails-automaticlogout","0.1.0",""
 "rails-automaticlogout","0.1.1",""

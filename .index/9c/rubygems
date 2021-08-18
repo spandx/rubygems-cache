@@ -1468,6 +1468,7 @@
 "libv8-node-x86_64-darwin-20","15.14.0.0","MIT"
 "libv8-node-x86_64-darwin-20","15.14.0.1","MIT"
 "liltest","0.0.1",""
+"lineprofiler","0.0.0","MIT"
 "link_preview_generator","1.0.0","MIT"
 "lipisha-sdk","1.0","MIT"
 "liquid-san","0.1.0",""

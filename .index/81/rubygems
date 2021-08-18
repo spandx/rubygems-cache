@@ -124,6 +124,7 @@
 "animenewsnetwork","0.0.4","MIT"
 "ansible_make_role","0.7.0",""
 "ansible_make_role","0.7.1",""
+"ansible_make_role","0.7.10",""
 "ansible_make_role","0.7.4",""
 "ansible_make_role","0.7.6",""
 "ansible_make_role","0.7.7",""
