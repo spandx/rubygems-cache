@@ -1338,6 +1338,7 @@
 "has_setting","1.0.2",""
 "has_setting","1.0.3",""
 "has_strong_policy","0.0.1",""
+"hash_nestizy","0.0.2","MIT"
 "hass-client","0.1.0","MIT"
 "hass-client","0.2.0","MIT"
 "headdesk","0.1.0","MIT"
