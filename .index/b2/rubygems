@@ -1540,6 +1540,7 @@
 "killian-aasm","2.0.8",""
 "killian-aasm","2.0.9",""
 "kindee","0.1.1","MIT"
+"kubernetes_leader_election","0.1.0","MIT"
 "lab419_tmux","0.1.0","MIT"
 "landlady","0.0.1","MIT"
 "landlady","0.0.2","MIT"

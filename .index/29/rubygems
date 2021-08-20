@@ -2936,6 +2936,7 @@
 "opentelemetry-exporter-otlp","0.20.0","Apache-2.0"
 "opentelemetry-exporter-otlp","0.20.1","Apache-2.0"
 "opentelemetry-exporter-otlp","0.20.2","Apache-2.0"
+"opentelemetry-exporter-otlp","0.20.3","Apache-2.0"
 "opentelemetry-exporter-otlp","0.6.0","Apache-2.0"
 "opentelemetry-exporter-otlp","0.7.0","Apache-2.0"
 "opentelemetry-exporter-otlp","0.8.0","Apache-2.0"
