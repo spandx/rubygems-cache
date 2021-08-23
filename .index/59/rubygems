@@ -3733,6 +3733,7 @@
 "vagrant-nfs_guest","1.0.0","MIT"
 "vagrant-nfs_guest","1.0.2","MIT"
 "vagrant-nfs_guest","1.0.3","MIT"
+"vagrant-nfs_guest","1.0.5","MIT"
 "vagrant-software-bridge","1.0.0","MIT"
 "vagrant-software-bridge","1.0.1","MIT"
 "vento","0.1.0","MIT"
