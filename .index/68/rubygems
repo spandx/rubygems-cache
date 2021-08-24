@@ -2792,6 +2792,7 @@
 "spree_dash","2.0.1","BSD-3"
 "spree_dash","2.0.2","BSD-3"
 "spree_gladly","1.0.0","BSD-3-Clause"
+"spree_gladly","1.1.0","BSD-3-Clause"
 "spree_zoned","0.5.14",""
 "spree_zoned","0.5.27",""
 "spree_zoned","0.5.28",""
