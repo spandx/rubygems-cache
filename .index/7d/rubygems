@@ -2402,6 +2402,7 @@
 "rom-dynamo","0.14.0","MIT"
 "rrlist","0.0.1",""
 "rrobots","0.0.1",""
+"rspec-buildkite-analytics","0.2.0","MIT"
 "rspec-xml_helpers","1.0.0","MIT"
 "rspec-xml_helpers","1.0.1","MIT"
 "rspec-xml_helpers","1.0.2","MIT"
