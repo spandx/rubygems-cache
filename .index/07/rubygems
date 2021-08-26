@@ -3049,6 +3049,7 @@
 "relaton-iec","1.7.7","MIT"
 "relaton-iec","1.7.8","MIT"
 "relaton-iec","1.8.0","MIT"
+"relaton-iec","1.9.0","MIT"
 "rescue-with","1.0.0","MIT"
 "rescue-with","1.0.1","Unlicense"
 "resque-uuid","0.1.2",""

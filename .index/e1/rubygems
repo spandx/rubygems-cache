@@ -1765,6 +1765,7 @@
 "language_server-protocol","3.15.0.2","MIT"
 "language_server-protocol","3.16.0.0","MIT"
 "language_server-protocol","3.16.0.1","MIT"
+"language_server-protocol","3.16.0.2","MIT"
 "language_server-protocol","3.7.0.0","MIT"
 "larrystack","0.0.2","MIT"
 "larrystack","0.0.3","MIT"

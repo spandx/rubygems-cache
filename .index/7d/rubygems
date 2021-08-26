@@ -2403,6 +2403,7 @@
 "rrlist","0.0.1",""
 "rrobots","0.0.1",""
 "rspec-buildkite-analytics","0.2.0","MIT"
+"rspec-buildkite-analytics","0.3.0","MIT"
 "rspec-xml_helpers","1.0.0","MIT"
 "rspec-xml_helpers","1.0.1","MIT"
 "rspec-xml_helpers","1.0.2","MIT"
