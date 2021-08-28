@@ -1616,6 +1616,7 @@
 "kitchen-azurerm","1.5.3","Apache-2.0"
 "kitchen-azurerm","1.6.0","Apache-2.0"
 "kitchen-azurerm","1.7.0","Apache-2.0"
+"kitchen-azurerm","1.8.0","Apache-2.0"
 "kitchen-transport-speedy","0.1.0",""
 "kitchen-transport-speedy","0.1.1",""
 "kitchen-transport-speedy","0.1.2",""
