@@ -2544,6 +2544,7 @@
 "shydra","0.1.1","MIT"
 "shydra","0.1.2","MIT"
 "shydra","0.4.2","MIT"
+"sidekiq-deferred_jobs","1.0.0","MIT"
 "sidekiq-skylight","0.0.1","MIT"
 "sidekiq-skylight","0.0.3","MIT"
 "sidekiq-skylight","0.0.4","MIT"
