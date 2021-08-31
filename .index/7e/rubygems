@@ -3585,6 +3585,7 @@
 "vagrant-fog-box-storage","0.0.3",""
 "vagrant-fog-box-storage","0.0.4",""
 "vagrant-zones","0.0.3","AGPL-3.0"
+"vagrant-zones","0.0.5","AGPL-3.0"
 "vasily","0.0.0","MIT"
 "vasily","0.1.0",""
 "vasily","0.3.0",""
