@@ -2728,6 +2728,7 @@
 "sentry-ruby","4.6.3","Apache-2.0"
 "sentry-ruby","4.6.4","Apache-2.0"
 "sentry-ruby","4.6.5","Apache-2.0"
+"sentry-ruby","4.7.0","MIT"
 "serialize_partials_attributes","0.0.1","MIT"
 "serialize_partials_attributes","0.0.2","MIT"
 "serialize_partials_attributes","1.0.0","MIT"
