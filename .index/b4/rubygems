@@ -201,6 +201,7 @@
 "aws-sdk-identitystore","1.6.0","Apache-2.0"
 "aws-sdk-identitystore","1.7.0","Apache-2.0"
 "aws-sdk-identitystore","1.8.0","Apache-2.0"
+"aws-sdk-identitystore","1.9.0","Apache-2.0"
 "azure_cognitiveservices_localsearch","0.17.0","MIT"
 "azure_cognitiveservices_localsearch","0.17.1","MIT"
 "azure_cognitiveservices_localsearch","0.17.2","MIT"

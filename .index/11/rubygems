@@ -175,6 +175,7 @@
 "aws-eventstream","1.0.3","Apache-2.0"
 "aws-eventstream","1.1.0","Apache-2.0"
 "aws-eventstream","1.1.1","Apache-2.0"
+"aws-eventstream","1.2.0","Apache-2.0"
 "aws-s3-instructure","0.6.2.1352914936",""
 "azure_mgmt_appconfiguration","0.17.0","MIT"
 "azure_mgmt_appconfiguration","0.17.1","MIT"
