@@ -1696,6 +1696,7 @@
 "meowdb","1.0.1","MIT"
 "merge_db_schema","0.1.0",""
 "merge_db_schema","0.1.1","Apache-2.0"
+"merge_db_schema","0.2.0","Apache-2.0"
 "methodic","0.2",""
 "methodic","1.1",""
 "methodic","1.2",""

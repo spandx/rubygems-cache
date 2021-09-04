@@ -178,6 +178,7 @@
 "authorized_persona","0.9.0","MIT"
 "aws-sdk-chimesdkmessaging","1.0.0","Apache-2.0"
 "aws-sdk-chimesdkmessaging","1.1.0","Apache-2.0"
+"aws-sdk-chimesdkmessaging","1.2.0","Apache-2.0"
 "aws-sdk-sagemakerfeaturestoreruntime","1.0.0","Apache-2.0"
 "aws-sdk-sagemakerfeaturestoreruntime","1.1.0","Apache-2.0"
 "aws-sdk-sagemakerfeaturestoreruntime","1.2.0","Apache-2.0"
