@@ -156,6 +156,7 @@
 "activerecord-sqlserver-adapter","6.0.2","MIT"
 "activerecord-sqlserver-adapter","6.1.0.0","MIT"
 "activerecord-sqlserver-adapter","6.1.1.0","MIT"
+"activerecord-sqlserver-adapter","6.1.2.0","MIT"
 "acts_as_followable","0.1.7",""
 "acts_as_followable","0.1.8",""
 "acts_as_importable","0.4.5",""
