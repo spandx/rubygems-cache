@@ -1288,6 +1288,7 @@
 "domain_prefix","0.4.20191218",""
 "domain_prefix","0.4.20200303",""
 "domain_prefix","0.4.20210201",""
+"domain_prefix","0.4.20210906",""
 "double_or_nothing","1.0.0","MIT"
 "doxyparser","1.2","MIT"
 "doxyparser","1.3","MIT"

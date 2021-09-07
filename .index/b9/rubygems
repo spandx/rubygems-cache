@@ -906,6 +906,7 @@
 "embulk-output-elasticsearch","0.4.7","Apache-2.0"
 "emf2svg","0.1.0",""
 "emf2svg","0.1.1",""
+"emf2svg","1.0.0","BSD-2-Clause"
 "emk-safe_erb","0.1.0",""
 "emk-safe_erb","0.1.1",""
 "emk-safe_erb","0.1.2",""
