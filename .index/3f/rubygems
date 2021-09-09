@@ -2967,6 +2967,7 @@
 "sequence_on","0.2.0","MIT"
 "serpico","0.0.0",""
 "shark-permissions-core","0.1.0","MIT"
+"shark-permissions-core","0.2.0","MIT"
 "shopify-cookies","9001.0","MIT"
 "sidekiq-cron-tasks","0.2.0","MIT"
 "sidekiq-cron-tasks","0.3.0","MIT"
