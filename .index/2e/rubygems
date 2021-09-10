@@ -2326,6 +2326,7 @@
 "rubu","0.0.7","Ruby"
 "rubu","0.0.8","Ruby"
 "ruby-masscan","0.1.0","MIT"
+"ruby-masscan","0.1.1","MIT"
 "ruby-opencv-x86-mswin32","0.0.10","The BSD License"
 "ruby-opencv-x86-mswin32","0.0.9","The BSD License"
 "ruby-protocol-buffers","1.0.1",""

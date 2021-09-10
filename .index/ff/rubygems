@@ -976,6 +976,7 @@
 "embulk-input-redshift-java","0.12.1","Apache-2.0"
 "embulk-input-redshift-java","0.12.2","Apache-2.0"
 "embulk-input-redshift-java","0.12.3","Apache-2.0"
+"embulk-output-snowflake-java","0.3.1","MIT"
 "enjoy_cms_catalog","0.2.0","MIT"
 "enjoy_cms_catalog","0.2.0.1","MIT"
 "enjoy_cms_catalog","0.3.0","MIT"

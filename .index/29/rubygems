@@ -260,6 +260,7 @@
 "aggregate_root","2.0.1","MIT"
 "aggregate_root","2.1.0","MIT"
 "aggregate_root","2.2.0","MIT"
+"aggregate_root","2.3.0","MIT"
 "alpr_ruby","0.2.0","MIT"
 "alpr_ruby","0.3.0","MIT"
 "anecdotally-api","0.2",""

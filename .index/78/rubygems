@@ -2950,6 +2950,7 @@
 "sentry-ruby-core","4.6.5","Apache-2.0"
 "sentry-ruby-core","4.7.0","MIT"
 "sentry-ruby-core","4.7.1","MIT"
+"sentry-ruby-core","4.7.2","MIT"
 "sequel-redshift","0.0.1","MIT"
 "service_pack","0.0.1","MIT"
 "servicify","0.1.0","MIT"

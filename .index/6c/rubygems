@@ -2504,6 +2504,7 @@
 "ruby_event_store-browser","2.0.1","MIT"
 "ruby_event_store-browser","2.1.0","MIT"
 "ruby_event_store-browser","2.2.0","MIT"
+"ruby_event_store-browser","2.3.0","MIT"
 "ruby_maxima","0.1.0",""
 "ruby_ptv_api","0.1.0","MIT"
 "ruby_ptv_api","0.1.1","MIT"
