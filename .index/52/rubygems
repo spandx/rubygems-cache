@@ -2460,6 +2460,7 @@
 "simple_deploy_ssh","0.0.2","MIT"
 "simple_map_reduce","0.1.0","MIT"
 "simple_map_reduce","0.2.0","MIT"
+"simple_map_reduce","0.2.1","MIT"
 "simple_stats","1.0.0",""
 "simple_stats","1.1.0",""
 "sinatra-backstage","0.0.1","MIT"

@@ -317,6 +317,7 @@
 "cannie","0.2.2","MIT"
 "cannie","0.3.0","MIT"
 "capistrano3-asg-deploy","1.0.1","MIT"
+"capistrano3-asg-deploy","1.0.2","MIT"
 "capybara-remote-viewer","0.0.1","MIT"
 "capybara-remote-viewer","0.0.2","MIT"
 "carrierwave-scp","0.0.0",""
