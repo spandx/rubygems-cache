@@ -417,6 +417,7 @@
 "capistrano3-puma","5.0.4","MIT"
 "capistrano3-puma","5.1.0","MIT"
 "capistrano3-puma","5.1.1","MIT"
+"capistrano3-puma","5.2.0","MIT"
 "capriza-aws-helper","0.0.27",""
 "capriza-aws-helper","0.1.0",""
 "capriza-aws-helper","0.1.1",""
