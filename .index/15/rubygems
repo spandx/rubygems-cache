@@ -2127,6 +2127,7 @@
 "prefixed_delegation","0.1.1","MIT"
 "prefixed_delegation","0.1.2","MIT"
 "prime-numbers","0.0.1",""
+"proc-composer","0.0.0","MPL-2.0"
 "process_chain","0.1.0","MIT"
 "process_chain","0.2.0","MIT"
 "process_tail","0.0.1","MIT"

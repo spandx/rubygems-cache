@@ -1525,6 +1525,7 @@
 "google-apis-cloudtasks_v2beta3","0.6.0","Apache-2.0"
 "google-apis-cloudtasks_v2beta3","0.7.0","Apache-2.0"
 "google-apis-cloudtasks_v2beta3","0.8.0","Apache-2.0"
+"google-apis-cloudtasks_v2beta3","0.9.0","Apache-2.0"
 "google_drive","0.3.0",""
 "google_drive","0.3.10","New BSD"
 "google_drive","0.3.11","New BSD"
