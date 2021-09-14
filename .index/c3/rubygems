@@ -2028,6 +2028,7 @@
 "pgsql","1.7","BSD-2-Clause"
 "pgsql","1.8","BSD-2-Clause"
 "pgsql","1.9","BSD-2-Clause"
+"pgsql","1.9.1","BSD-2-Clause"
 "phony_attribute","0.0.1","MIT"
 "pinboard_rb","0.0.3",""
 "pkgman","0.1.0","MIT"

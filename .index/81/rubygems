@@ -2594,6 +2594,7 @@
 "rails_voter","0.2.0","MIT"
 "rails_voter","0.2.1","MIT"
 "rails_wechat","0.1.0","LGPL-3.0"
+"rails_wechat","0.1.1","MIT"
 "rake-remote-file","0.1.0",""
 "rake-remote-file","0.1.1",""
 "rake-tomdoc","0.0.1","MIT"

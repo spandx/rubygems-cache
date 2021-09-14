@@ -2418,6 +2418,7 @@
 "spree_auth_devise","4.3.2","BSD-3-Clause"
 "spree_auth_devise","4.3.3","BSD-3-Clause"
 "spree_auth_devise","4.3.4","BSD-3-Clause"
+"spree_auth_devise","4.4.0","BSD-3-Clause"
 "spree_bootstrap_frontend","1.0.1",""
 "spree_commentable","1.0.0",""
 "spree_order_groove","3.0.0",""
