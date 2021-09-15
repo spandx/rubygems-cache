@@ -2816,6 +2816,7 @@
 "logstash-output-scalyr","0.1.7","Apache-2.0"
 "logstash-output-scalyr","0.1.8","Apache-2.0"
 "logstash-output-scalyr","0.1.9","Apache-2.0"
+"logstash-output-scalyr","0.2.0","Apache-2.0"
 "logstash-output-sensors_analytics","0.1.0","Apache-2.0"
 "logstash-output-sensors_analytics","0.1.2","Apache-2.0"
 "looksy","0.0.1",""

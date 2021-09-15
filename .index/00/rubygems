@@ -62,6 +62,7 @@
 "amqp-client","1.0.1","MIT"
 "amqp-client","1.0.2","MIT"
 "amqp-client","1.1.0","MIT"
+"amqp-client","1.1.1","MIT"
 "ancient_mock","0.0.1","MIT"
 "anotherTopSeventy","0.0.0",""
 "api-fairy","0.2.0",""
