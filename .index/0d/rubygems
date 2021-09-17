@@ -2841,6 +2841,7 @@
 "puppet-lint-version_comparison-check","0.1.1","Apache-2.0"
 "puppet-lint-version_comparison-check","0.1.2","Apache-2.0"
 "puppet-lint-version_comparison-check","0.2.1","Apache-2.0"
+"puppet-lint-version_comparison-check","1.0.0","Apache-2.0"
 "pushlet","0.2.0",""
 "pushlet","0.2.3",""
 "pushlet","0.2.5",""

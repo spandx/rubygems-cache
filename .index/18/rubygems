@@ -2361,6 +2361,7 @@
 "puppet-lint-file_ensure-check","0.2.1","Apache-2.0"
 "puppet-lint-file_ensure-check","0.3.0","Apache-2.0"
 "puppet-lint-file_ensure-check","0.3.1","Apache-2.0"
+"puppet-lint-file_ensure-check","1.0.0","Apache-2.0"
 "puppet_pal","0.0.2","MIT"
 "puppet_pal","0.0.3","MIT"
 "puppet_pal","0.0.4","MIT"
