@@ -1841,6 +1841,8 @@
 "logical_model","0.6.4","MIT"
 "logical_model","0.6.5","MIT"
 "logical_model","0.6.6","MIT"
+"logical_model","0.7.0","MIT"
+"logical_model","0.7.1","MIT"
 "logstash-codec-compress_spooler-java","0.1.1","Apache-2.0"
 "logstash-codec-compress_spooler-java","0.1.2","Apache-2.0"
 "logstash-codec-compress_spooler-java","0.1.3","Apache-2.0"

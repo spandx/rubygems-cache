@@ -1003,6 +1003,7 @@
 "eme_services_client","0.0.11","NONE"
 "emr_ohsp_interface","0.1.0","MIT"
 "emr_ohsp_interface","0.2.0","MIT"
+"emr_ohsp_interface","0.3.0","MIT"
 "ericam-compass-susy-plugin","0.1.4",""
 "ericam-compass-susy-plugin","0.1.5",""
 "ericam-compass-susy-plugin","0.1.6",""

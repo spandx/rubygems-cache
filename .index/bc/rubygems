@@ -2348,6 +2348,7 @@
 "killbill-payment-test-ui","2.0.1","MIT"
 "kilo-test-gem","0.1.0","MIT"
 "kitty_events","0.1.0","MIT"
+"kitty_events","0.1.1","MIT"
 "komachi_validation","0.1.0",""
 "komachi_validation","0.1.1",""
 "konstructor","0.1.0","MIT"
