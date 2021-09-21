@@ -1359,6 +1359,7 @@
 "gitlab-fog-azure-rm","1.0.0","MIT"
 "gitlab-fog-azure-rm","1.0.1","MIT"
 "gitlab-fog-azure-rm","1.1.1","MIT"
+"gitlab-fog-azure-rm","1.2.0","MIT"
 "gitlab_ruby","0.1.1","MIT"
 "gitlab_ruby","0.2.1","MIT"
 "global_uid","1.2.0",""

@@ -1005,6 +1005,7 @@
 "ffi-libarchive-binary-x86_64-darwin","0.2.2","BSD-3-Clause"
 "ffi-libarchive-binary-x86_64-darwin","0.2.3","BSD-3-Clause"
 "ffi-libarchive-binary-x86_64-darwin","0.2.4","BSD-3-Clause"
+"ffi-libarchive-binary-x86_64-darwin","0.2.5","BSD-3-Clause"
 "fig","0.1.26",""
 "fig","0.1.28",""
 "fig","0.1.30",""

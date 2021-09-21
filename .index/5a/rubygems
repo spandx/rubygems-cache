@@ -633,6 +633,7 @@
 "devise-jwt","0.7.0","MIT"
 "devise-jwt","0.8.0","MIT"
 "devise-jwt","0.8.1","MIT"
+"devise-jwt","0.9.0","MIT"
 "directory_listing","0.0.1",""
 "directory_listing","0.0.2",""
 "directory_listing","0.0.3",""

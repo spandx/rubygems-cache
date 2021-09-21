@@ -730,6 +730,7 @@
 "ffi-libarchive-binary-x86_64-linux","0.2.2","BSD-3-Clause"
 "ffi-libarchive-binary-x86_64-linux","0.2.3","BSD-3-Clause"
 "ffi-libarchive-binary-x86_64-linux","0.2.4","BSD-3-Clause"
+"ffi-libarchive-binary-x86_64-linux","0.2.5","BSD-3-Clause"
 "fige","0.0.1","MIT"
 "fige","0.0.2","MIT"
 "fige","0.0.3","MIT"

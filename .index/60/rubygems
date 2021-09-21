@@ -1714,6 +1714,7 @@
 "google-cloud-errors","1.0.0","Apache-2.0"
 "google-cloud-errors","1.0.1","Apache-2.0"
 "google-cloud-errors","1.1.0","Apache-2.0"
+"google-cloud-errors","1.2.0","Apache-2.0"
 "google_suggest","0.0.3",""
 "google_suggest","0.0.4",""
 "google_suggest","0.0.6","MIT"
