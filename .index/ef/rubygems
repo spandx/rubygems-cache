@@ -991,6 +991,7 @@
 "fluent-plugin-grassland","0.2.1","MIT"
 "fluent-plugin-sqlquery-ssh","0.1.10","Apache-2.0"
 "fluent-plugin-sqlquery-ssh","0.1.11","Apache-2.0"
+"focus.rb","1.0.1","GPL-3.0"
 "foreign_exchange_david","1.0",""
 "foreman_datacenter","0.0.1",""
 "foreman_datacenter","0.1.0",""

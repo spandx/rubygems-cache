@@ -2286,6 +2286,7 @@
 "parallel_tests-fine_grain_test","0.2.0",""
 "parsecs","0.10.3","MIT"
 "parsecs","0.11.0","MIT"
+"parsecs","0.11.1","MIT"
 "parsecs","0.2.14","mit"
 "parsecs","0.2.15","MIT"
 "parsecs","0.2.16","MIT"
