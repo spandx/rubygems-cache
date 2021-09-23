@@ -932,6 +932,7 @@
 "elasticsearch-transport","7.13.3","Apache-2.0"
 "elasticsearch-transport","7.14.0","Apache-2.0"
 "elasticsearch-transport","7.14.1","Apache-2.0"
+"elasticsearch-transport","7.15.0","Apache-2.0"
 "elasticsearch-transport","7.2.0","Apache-2.0"
 "elasticsearch-transport","7.2.1","Apache-2.0"
 "elasticsearch-transport","7.3.0","Apache-2.0"

@@ -986,6 +986,7 @@
 "ffi-libc","0.0.4",""
 "ffi-libc","0.0.5",""
 "ffi-libc","0.1.0","MIT"
+"ffi-libc","0.1.1","MIT"
 "ffi-rc4","0.1.0",""
 "file_checking","1.0.0","MIT"
 "file_checking","1.0.1","MIT"

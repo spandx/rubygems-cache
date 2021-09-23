@@ -654,6 +654,7 @@
 "check_appointments","0.0.5","MIT"
 "check_appointments","0.0.6","MIT"
 "ci-go-nfo","0.0.3",""
+"ci_logger","0.1.0","MIT"
 "cider_ci-open_session","1.0.0","AGPL"
 "cider_ci-open_session","2.0.1","AGPL"
 "ciri-common","0.1.0","MIT"
