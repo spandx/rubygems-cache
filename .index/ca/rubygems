@@ -2333,6 +2333,7 @@
 "enju_event","0.3.3",""
 "enju_event","0.3.4",""
 "epay","0.0.6",""
+"erb_escape","0.1.1","MIT"
 "eshell","0.0.1",""
 "eshell","0.0.2",""
 "etcd-rb","1.0.0","Apache-2.0"

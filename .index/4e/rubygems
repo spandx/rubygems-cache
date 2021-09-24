@@ -1816,6 +1816,7 @@
 "mongo_logs_on_roids","1.1.0","MIT"
 "mongoid-rspec-callbacks-dazzl","1.0.0","GPL-3.0"
 "mongoid-rspec-callbacks-dazzl","1.0.1","GPL-3.0"
+"mongoid-rspec-callbacks-dazzl","1.0.2","GPL-3.0"
 "mongoid-slug","4.0.0","MIT"
 "mongoid-slug","5.0.0","MIT"
 "mongoid-slug","5.1.0","MIT"

@@ -130,6 +130,7 @@
 "ansible","0.2.2",""
 "ant-pool-api","0.0.1","MIT"
 "ant-pool-api","0.0.2","MIT"
+"anycable-rails-jwt","0.1.0","MIT"
 "api_consumer_json","0.0.1","MIT"
 "api_consumer_json","0.0.7","MIT"
 "api_consumer_json","0.0.8","MIT"
