@@ -494,6 +494,7 @@
 "core-local","0.1.1","MPL-2.0"
 "corefoundation","0.1.4",""
 "corefoundation","0.2.0","MIT"
+"corefoundation","0.3.4","MIT"
 "correios","0.3.0",""
 "correios","0.7.0",""
 "correios","0.8.0",""
