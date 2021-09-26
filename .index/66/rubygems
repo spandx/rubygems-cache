@@ -2685,6 +2685,7 @@
 "rubocop-checkstyle_formatter","0.3.0","MIT"
 "rubocop-checkstyle_formatter","0.4.0","MIT"
 "rubocop-checkstyle_formatter","0.5.0","MIT"
+"ruby-ephemeris","1.1.0","Unlicense"
 "ruby-xxHash","0.0.2","MIT"
 "ruby-xxHash","0.1.1","MIT"
 "ruby-xxHash","0.3.0","MIT"

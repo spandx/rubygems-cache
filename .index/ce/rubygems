@@ -1625,6 +1625,7 @@
 "libarchive-static-i386-mingw32","1.0.0",""
 "libarchive-static-i386-mingw32","1.0.4",""
 "libarchive-static-i386-mingw32","1.0.5",""
+"libui","0.0.10","MIT"
 "libui","0.0.6","MIT"
 "libui","0.0.7","MIT"
 "libui","0.0.8","MIT"
