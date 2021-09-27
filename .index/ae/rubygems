@@ -2319,6 +2319,7 @@
 "rspec-yenta","0.0.2","APACHE2"
 "rtomayko-rack-contrib","0.4.0",""
 "rubocop-emotionsar","1.0.0","MIT"
+"rubocop-serializer","0.0.2","MIT"
 "ruby-debug-passenger","0.1.0",""
 "ruby-debug-passenger","0.2.0","MIT"
 "ruby_channel","0.0.1",""
