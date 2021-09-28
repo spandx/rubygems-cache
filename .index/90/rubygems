@@ -1292,6 +1292,7 @@
 "google-cloud-automl-v1beta1","0.5.2","Apache-2.0"
 "google-cloud-automl-v1beta1","0.5.3","Apache-2.0"
 "google-cloud-filestore","0.1.0","Apache-2.0"
+"google-cloud-filestore","1.0.0","Apache-2.0"
 "greek_stemmer","1.0.0","MIT"
 "greek_stemmer","1.0.1","MIT"
 "greek_stemmer","1.0.2","MIT"

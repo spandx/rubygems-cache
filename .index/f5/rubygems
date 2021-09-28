@@ -4119,6 +4119,7 @@
 "synchronised_migration","2.1.1",""
 "synchronised_migration","2.1.2",""
 "synchronised_migration","2.2.0",""
+"synchronised_migration","3.0.0",""
 "syspass-client","0.1.0","MIT"
 "table_salt","1.0.0",""
 "tamashii-common","0.1.2",""
