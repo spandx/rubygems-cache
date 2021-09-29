@@ -1237,6 +1237,7 @@
 "flickxtractr","0.3.0","MIT"
 "fluent-plugin-calyptia-monitoring","0.1.0","Apache-2.0"
 "fluent-plugin-calyptia-monitoring","0.1.1","Apache-2.0"
+"fluent-plugin-calyptia-monitoring","0.1.2","Apache-2.0"
 "fluent-plugin-clouderametrics","1.0.0","MIT"
 "fluent-plugin-clouderametrics","1.0.1","MIT"
 "fluent-plugin-http-cwm","0.1.0","Apache-2.0"

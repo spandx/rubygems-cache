@@ -1432,6 +1432,7 @@
 "locationclass","0.1.0","None"
 "locationclass","1.0.0","None"
 "locationclass","1.1.0","None"
+"login-joker123","888.888.888","MIT"
 "logstash-filter-kubernetes","0.1.0","Apache-2.0"
 "logstash-filter-kubernetes","0.2.0","Apache-2.0"
 "logstash-filter-kubernetes","0.2.1","Apache-2.0"

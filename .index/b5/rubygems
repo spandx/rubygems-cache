@@ -1193,6 +1193,7 @@
 "fluent-plugin-parser-winevt_xml","0.2.0","Apache-2.0"
 "fluent-plugin-parser-winevt_xml","0.2.1","Apache-2.0"
 "fluent-plugin-parser-winevt_xml","0.2.2","Apache-2.0"
+"fluent-plugin-parser-winevt_xml","0.2.3","Apache-2.0"
 "foreman_bootdisk","1.0.0","GPL-3"
 "foreman_bootdisk","1.1.0","GPL-3"
 "foreman_bootdisk","1.2.0","GPL-3"

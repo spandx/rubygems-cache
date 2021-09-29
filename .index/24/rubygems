@@ -3805,6 +3805,7 @@
 "tcd_x12","1.7.1","GPL-2.0-or-later"
 "teknik","0.0.0","MIT"
 "telesignenterprise","2.2.1","MIT"
+"telesignenterprise","2.2.2","MIT"
 "temporal_tables","0.6.1",""
 "temporal_tables","0.6.10",""
 "temporal_tables","0.6.2",""
