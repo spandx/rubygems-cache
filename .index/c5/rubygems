@@ -1574,6 +1574,7 @@
 "loader","3.0.0",""
 "loader","3.0.1",""
 "loader","3.1.0",""
+"local-sprockets-dotjs","1.0.3",""
 "localresolv","1.0.0",""
 "locations_near_you","2.4.2",""
 "logonxc","0.2.0",""

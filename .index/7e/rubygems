@@ -2724,6 +2724,7 @@
 "rails_view_helpers","0.0.2",""
 "rails_view_helpers","0.0.3",""
 "rails_view_helpers","0.0.4",""
+"rails_wait","0.0.1","MIT"
 "railslider","0.0.1","MIT"
 "railslider","0.1.0","MIT"
 "rake-repl","0.3.1",""

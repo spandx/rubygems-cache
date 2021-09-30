@@ -827,6 +827,7 @@
 "embulk-filter-mask","0.2.1","MIT"
 "embulk-output-postgresql-java","0.10.0","Apache-2.0"
 "embulk-output-postgresql-java","0.10.1","Apache-2.0"
+"embulk-output-postgresql-java","0.10.2","Apache-2.0"
 "embulk-output-postgresql-java","0.9.0","Apache-2.0"
 "enabled","0.1",""
 "epb_view_models","1.0.0","MIT"
