@@ -1518,6 +1518,7 @@
 "jaro_winkler-x86_64-darwin-17","1.5.1","MIT"
 "jashmenn-activerecord-jdbc-adapter","1.2.0",""
 "jat","0.0.1","MIT"
+"jat","0.0.3","MIT"
 "jekll-spectral-theme","0.1.0","MIT"
 "jekll-spectral-theme","0.1.1","MIT"
 "jekyll-author-pages","1.0.0","MIT"

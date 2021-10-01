@@ -2203,6 +2203,7 @@
 "openra","4.0.2","MIT"
 "opentelemetry-instrumentation-resque","0.1.0","Apache-2.0"
 "opentelemetry-instrumentation-resque","0.1.1","Apache-2.0"
+"opentelemetry-instrumentation-resque","0.1.2","Apache-2.0"
 "opsb-ziggy","0.1.0",""
 "opsb-ziggy","0.1.1",""
 "opsb-ziggy","0.1.3",""

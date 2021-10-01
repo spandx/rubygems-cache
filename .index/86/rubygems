@@ -2175,6 +2175,7 @@
 "pact_broker-client","1.51.2","MIT"
 "pact_broker-client","1.52.0","MIT"
 "pact_broker-client","1.53.0","MIT"
+"pact_broker-client","1.54.0","MIT"
 "pact_broker-client","1.6.0","MIT"
 "pact_broker-client","1.7.0","MIT"
 "pact_broker-client","1.8.0","MIT"
