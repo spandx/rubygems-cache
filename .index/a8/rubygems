@@ -1598,6 +1598,8 @@
 "logjoy","0.3.0","MIT"
 "logjoy","0.3.1","MIT"
 "logjoy","0.3.2","MIT"
+"logjoy","0.3.3","MIT"
+"logjoy","0.3.4","MIT"
 "logstash-filter-LDAPresolve","0.1.1","Apache-2.0"
 "logstash-filter-LDAPresolve","0.1.2","Apache-2.0"
 "logstash-filter-geoip2-java","3.0.0","Apache-2.0"

@@ -306,6 +306,7 @@
 "capistrano-git-archive","0.0.1","MIT"
 "capistrano-git-archive","0.0.2","MIT"
 "capistrano-strategy-copy-partial","0.0.1",""
+"capistrano-wpcli-multisite","0.1.7","MIT"
 "capybara_wysihtml5","0.0.1","MIT"
 "cargowise","0.10.0","mit"
 "cargowise","0.10.1","mit"

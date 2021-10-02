@@ -2332,6 +2332,7 @@
 "rails_base","0.56.0","MIT"
 "rails_base","0.57.0","MIT"
 "rails_base","0.58.0","MIT"
+"rails_base","0.60.0","MIT"
 "rails_decorate_factory","0.2.0",""
 "rake-benchmark","1.0.0","MIT"
 "rangescan","0.1.0","MIT"
