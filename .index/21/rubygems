@@ -93,6 +93,7 @@
 "activerecord-spanner-adapter","0.3.0",""
 "activerecord-spanner-adapter","0.5.0","MIT"
 "activerecord-spanner-adapter","0.6.0","MIT"
+"activerecord-spanner-adapter","0.7.0","MIT"
 "activerecord_lite","0.1.0",""
 "activerecord_lite","0.2.0",""
 "acts_as_archivable","0.1.0","MIT"
