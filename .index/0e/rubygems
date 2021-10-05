@@ -1116,6 +1116,7 @@
 "fluent-plugin-azurefunctions","0.2.1","Apache-2.0"
 "fluent-plugin-bin","0.1","Apache-2.0"
 "fluent-plugin-bin","0.2","Apache-2.0"
+"fluent-plugin-bin","0.3","Apache-2.0"
 "fluent-plugin-chatwork","1.0.0","MIT"
 "fluent-plugin-chatwork","1.0.1","MIT"
 "fluent-plugin-chatwork","2.0.0","MIT"
