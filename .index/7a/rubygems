@@ -1460,6 +1460,7 @@
 "fluentd-tcp-capturer","0.2.0",""
 "flux-rails","0.0.1","MIT"
 "flux-rails","2.0.2","MIT"
+"fog-libvirt-csem","0.9.0","MIT"
 "forall","1.0.0","MIT"
 "form_stalker","1.0.0","MIT"
 "form_stalker","1.0.1","MIT"

@@ -1513,6 +1513,7 @@
 "hammerhead","0.1.1","MIT"
 "harbor1_client","0.1.0","Unlicense"
 "harbor1_client","0.1.1","Unlicense"
+"harbor1_client","1.10.8.0","MIT"
 "hash_subtraction","1.0.0",""
 "hazelcast","0.1.0","MIT"
 "healtcheck_proxy_client","0.1.0","MIT"

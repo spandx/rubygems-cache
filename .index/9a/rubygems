@@ -3786,6 +3786,7 @@
 "pronto-android_lint","0.1.2","MIT"
 "pul_uv_rails","2.0.1","Apache2"
 "pulp_ansible_client","0.10.0","GPL-2.0+"
+"pulp_ansible_client","0.10.1","GPL-2.0+"
 "pulp_ansible_client","0.2.0","GPL-2.0+"
 "pulp_ansible_client","0.3.0","GPL-2.0+"
 "pulp_ansible_client","0.4.0","GPL-2.0+"

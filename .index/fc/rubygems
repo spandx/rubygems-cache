@@ -453,6 +453,7 @@
 "coinkite","0.9","MIT"
 "coinkite","0.9.1","MIT"
 "coinkite","0.9.2","MIT"
+"coinmarketcap-ruby-client","1.0.0","MIT"
 "combot","0.0.2","MIT"
 "compass-lucid-grid","0.3.0",""
 "compass-rails","1.0.2",""

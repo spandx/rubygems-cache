@@ -538,6 +538,7 @@
 "djsun-rest-sinatra","0.3.0",""
 "dm-bugzilla-adapter","0.1.2",""
 "docdown","0.0.1","MIT"
+"docopt-compgen","1.0.0","MIT"
 "doctl","0.4.2","Apachev2"
 "doctl","0.4.3","Apachev2"
 "docusign_click","1.0.0","MIT"
