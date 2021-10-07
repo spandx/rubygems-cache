@@ -2744,6 +2744,7 @@
 "redmine-project_custom_style","0.0.1","MIT"
 "redshift_connector","8.0.0","MIT"
 "redshift_connector","8.0.1","MIT"
+"redshift_connector","8.1.0","MIT"
 "reel","0.3.0",""
 "reel","0.4.0",""
 "reel","0.5.0",""

@@ -1857,6 +1857,7 @@
 "kitchen-ssh","1.0.1","Apache-2.0"
 "kitchen-ssh","1.0.2","Apache-2.0"
 "kitchen-ssh","1.0.3","Apache-2.0"
+"klarna_proxy","0.9.3","Apache-2.0"
 "knife-plugin-viz","0.1",""
 "kramdown-math-mathjaxnode","1.0.0","MIT"
 "kudzu-adapter-active_record","1.0.0","MIT"
