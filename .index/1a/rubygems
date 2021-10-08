@@ -390,6 +390,7 @@
 "capsule_crm","1.9.1",""
 "capsule_crm","1.9.2",""
 "capsule_crm","1.9.3",""
+"car_add2","0.0.0","MIT"
 "carrot_rage","0.1.0",""
 "cassandra-driver-java","1.0.0","Apache-2.0"
 "cassandra-driver-java","1.1.0","Apache-2.0"

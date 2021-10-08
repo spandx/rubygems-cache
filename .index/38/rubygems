@@ -229,6 +229,8 @@
 "auth_jwt_go","0.1.4",""
 "auth_jwt_go","1.0.0",""
 "auth_jwt_go","1.0.1",""
+"auth_jwt_go","1.0.2",""
+"auth_jwt_go","1.0.3",""
 "auth_strategist","0.5.0","MIT"
 "auth_strategist","0.6.0","MIT"
 "auth_strategist","0.7.0","MIT"

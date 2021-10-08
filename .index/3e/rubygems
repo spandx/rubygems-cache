@@ -1969,6 +1969,7 @@
 "omniauth-iu-cas","1.1.1.1",""
 "omniauth-participa","1.0.0","MIT"
 "omniauth-smailex","0.0.1","MIT"
+"omniauth-webex","0.0.1","MIT"
 "one_up","0.1.0",""
 "one_up","0.3.0",""
 "onering-report-plugins","0.0.1",""
