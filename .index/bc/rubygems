@@ -3433,6 +3433,7 @@
 "rails6-footnotes","5.0.1",""
 "rails6-footnotes","5.0.2",""
 "rails_form_backing_objects","0.0.1",""
+"rails_javascript_web_tokens","0.1.0","MIT"
 "rails_json_logger","1.0.0","MIT"
 "rails_lograge_middleware","1.0.0","MIT"
 "rails_lograge_middleware","1.0.0.1","MIT"

@@ -2240,6 +2240,7 @@
 "rails-cache_control","0.0.1","MIT"
 "rails-cache_control","0.0.2","MIT"
 "rails-cache_control","0.0.3","MIT"
+"rails-credentials-git","0.1.0","MIT"
 "rails_admin_vnc","0.0.1","MIT"
 "rails_admin_vnc","0.0.2","MIT"
 "rails_karma_sprockets","0.0.1","MIT"

@@ -2846,6 +2846,7 @@
 "umts-microservices-engine","0.1.1","MIT"
 "umts-microservices-engine","0.1.2","MIT"
 "unitpay_api","1.0.0","MIT"
+"unity-dynamodbstreams-event-processor","1.0.1",""
 "unoffical-omniauth-strava","0.1.0","MIT"
 "unoffical-omniauth-strava","0.1.1","MIT"
 "uploadify_rails","0.0.12",""

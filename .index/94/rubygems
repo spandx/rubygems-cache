@@ -3203,6 +3203,8 @@
 "yaji","0.3.4","ASL-2"
 "yaji","0.3.5","ASL-2"
 "yaji","0.3.6","ASL-2"
+"yapplabs-em-hiredis","0.4.0",""
+"yapplabs-em-hiredis","0.4.1",""
 "ym","0.1.0","MIT"
 "yml_validator","0.1.0","MIT"
 "zip_to_timezone","0.1.0",""

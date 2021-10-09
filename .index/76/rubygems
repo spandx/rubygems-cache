@@ -985,6 +985,7 @@
 "hubcap","1.2.2","MIT"
 "i18n_accessors","0.1.1","MIT"
 "i18n_accessors","0.1.2","MIT"
+"i18n_accessors","1.0.0","MIT"
 "i18n_rails_helpers","0.12.0",""
 "i18n_rails_helpers","0.13.0",""
 "i18n_rails_helpers","0.17.0",""
