@@ -1381,6 +1381,7 @@
 "git_helper","3.4.1","BSD-3-Clause"
 "git_helper","3.5.0","BSD-3-Clause"
 "git_helper","3.5.1","BSD-3-Clause"
+"git_helper","3.6.0","BSD-3-Clause"
 "gitfetch","0.0.6","MIT"
 "gitfetch","0.0.7","MIT"
 "gitfetch","0.0.8","MIT"
