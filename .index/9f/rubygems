@@ -3152,6 +3152,7 @@
 "simple_jsonapi_rails","1.1.1","MIT"
 "simple_jsonapi_rails","1.2.0","MIT"
 "simple_jsonapi_rails","1.3.0","MIT"
+"simple_representer","1.0.0","MIT"
 "simpler_state_machine","0.0.1",""
 "simpler_state_machine","0.0.2",""
 "simpler_state_machine","0.0.3",""

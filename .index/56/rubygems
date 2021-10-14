@@ -3194,6 +3194,7 @@
 "timeout","0.0.1","MIT"
 "timeout","0.1.0","BSD-2-Clause"
 "timeout","0.1.1","Ruby-|-BSD-2-Clause"
+"timeout","0.2.0","Ruby-|-BSD-2-Clause"
 "tmtm-ruby-mysql","0.0.0",""
 "tmtm-ruby-mysql","3.0.0",""
 "tmtm-ruby-mysql","3.0.1",""

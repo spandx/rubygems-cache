@@ -2562,6 +2562,7 @@
 "sensu-plugins-azurerm","4.0.0","MIT"
 "sensu-plugins-azurerm","4.0.1","MIT"
 "sequel-bigquery","0.1.0","MIT"
+"sequel-bigquery","0.1.1","MIT"
 "settings_on_rails","0.1.30","MIT"
 "settings_on_rails","0.2.0","MIT"
 "settings_on_rails","0.2.1","MIT"

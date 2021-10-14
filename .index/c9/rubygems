@@ -3541,6 +3541,7 @@
 "yakg","0.1.9","Apache-2.0"
 "yaml","0.1.0","BSD-2-Clause"
 "yaml","0.1.1","Ruby-|-BSD-2-Clause"
+"yaml","0.2.0","Ruby-|-BSD-2-Clause"
 "yellow-api-wrapper","0.0.1","MIT"
 "yellow-api-wrapper","0.0.2","MIT"
 "zenweb-haml","0.0.1",""

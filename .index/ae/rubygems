@@ -670,6 +670,8 @@
 "dpl-connect","1.8.43","MIT"
 "dpl-connect","1.8.44","MIT"
 "drb","2.0.4","Ruby-|-BSD-2-Clause"
+"drb","2.0.5","Ruby-|-BSD-2-Clause"
+"drb","2.1.0","Ruby-|-BSD-2-Clause"
 "duration-human","0.0.1","MIT"
 "duration-human","0.0.2","MIT"
 "dx-lookup","0.1.0","MIT"
