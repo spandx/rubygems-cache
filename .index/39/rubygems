@@ -1504,6 +1504,7 @@
 "keycloak-admin","0.7.8","MIT"
 "keycloak-admin","0.7.9","MIT"
 "keycloak-admin","1.0.0","MIT"
+"keycloak-admin","1.0.1","MIT"
 "knife-solo_data_bag","0.2.2",""
 "knife-solo_data_bag","0.3.0",""
 "knife-solo_data_bag","0.3.1",""

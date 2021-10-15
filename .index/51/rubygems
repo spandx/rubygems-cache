@@ -3202,6 +3202,7 @@
 "simple-api-auth","0.1.1","MIT"
 "simple-api-auth","0.1.2","MIT"
 "simple-api-auth","0.1.3","MIT"
+"simple_base64","0.0.1","MIT"
 "simple_form_legend","0.0.1",""
 "simple_money","0.3.0",""
 "simple_queues","1.0.0",""

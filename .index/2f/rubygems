@@ -800,6 +800,8 @@
 "em-hyperdex-client","0.3.1",""
 "em-hyperdex-client","0.3.2",""
 "embeddable_content","0.1.19",""
+"embeddable_content","0.2.0",""
+"embeddable_content","0.3.1",""
 "ember-auth-request-dummy-rails","1.0.0","MIT license"
 "embulk-filter-calc-java","0.2.0","MIT"
 "embulk-input-azure_blob_storage-java","0.3.1","Apache-2.0"

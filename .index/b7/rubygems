@@ -651,6 +651,8 @@
 "charmkit","1.0.2","MIT"
 "chef-powershell","17.7.0","Apache-2.0"
 "chef-powershell","17.7.4","Apache-2.0"
+"chef-powershell","17.7.5","Apache-2.0"
+"chef-powershell","17.7.6","Apache-2.0"
 "chef-ruby-lvm","0.2.2","MIT"
 "chef-ruby-lvm","0.3.0","MIT"
 "chef-ruby-lvm","0.4.0","MIT"

@@ -3229,6 +3229,7 @@
 "va","0.4.0","MIT"
 "va","0.5.0","MIT"
 "vagrant-free-memory","0.0.1","MIT"
+"vagrant-ssh-config","0.0.1","MIT"
 "validate-rb","1.0.0","MIT"
 "validate-rb","1.1.0","MIT"
 "version_serializers","0.1.0","MIT"
