@@ -2931,6 +2931,7 @@
 "rspec-snapshot","0.1.1",""
 "rspec-snapshot","0.1.2",""
 "rspec-snapshot","2.0.0","MIT"
+"rspec-snapshot","2.0.1","MIT"
 "rspec-will_be_expected","0.0.1",""
 "rspec_rake","0.1.0","MIT"
 "rspec_rake","0.2.0","MIT"

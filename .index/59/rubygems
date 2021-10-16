@@ -3079,6 +3079,7 @@
 "rack-unreloader","1.5.0","MIT"
 "rack-unreloader","1.6.0","MIT"
 "rack-unreloader","1.7.0","MIT"
+"rack-unreloader","1.8.0","MIT"
 "radiant-rss_reader-extension","1.0.0",""
 "radiant-rss_reader-extension","1.0.1",""
 "rails-i18n","0.1.3",""
