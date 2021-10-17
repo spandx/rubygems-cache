@@ -2730,6 +2730,7 @@
 "literati","0.0.4",""
 "litmus_mailer","0.3.0",""
 "livelist","0.2.1","MIT"
+"livelist","0.2.2","MIT"
 "log_js","0.5","MIT"
 "logstash-filter-exceptioncategory","0.1.0","Apache-2.0"
 "logstash-filter-exceptioncategory","0.1.1","Apache-2.0"

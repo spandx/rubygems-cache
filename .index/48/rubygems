@@ -486,6 +486,7 @@
 "capybara-jasmine","0.1.4","MIT"
 "capybara_api_helpers","0.0.2","MIT"
 "carquery-client","0.1.0","MIT"
+"carquery-client","0.1.1","MIT"
 "carrierwave-ffmpeg-audio","0.1.1","MIT"
 "carrierwave-ffmpeg-audio","0.1.2","MIT"
 "cartoongrass","1.0.0","MIT"
