@@ -1676,6 +1676,7 @@
 "libspotify-arm-linux","12.1.51.4","MIT"
 "libv8-node","15.14.0.0","MIT"
 "libv8-node","15.14.0.1","MIT"
+"libv8-node","16.10.0.0","MIT"
 "lifeboat","0.2.4",""
 "lifeboat","0.2.5",""
 "lifeboat","0.4.0",""

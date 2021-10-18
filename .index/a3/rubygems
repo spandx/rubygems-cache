@@ -1589,6 +1589,7 @@
 "lodash-rails","4.6.1","MIT"
 "logstash-codec-fluent","3.0.0","Apache-2.0"
 "logstash-codec-influxdb","0.1.0","Apache-2.0"
+"logstash-filter-virustotalthree","0.1.1","Apache-2.0"
 "logstash-input-websocket","0.1.0","Apache-2.0"
 "logstash-input-websocket","0.1.1","Apache-2.0"
 "logstash-input-websocket","0.1.2","Apache-2.0"

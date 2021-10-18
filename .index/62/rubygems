@@ -1105,6 +1105,7 @@
 "fastlane-plugin-app_info","0.5.2","MIT"
 "fastlane-plugin-app_info","0.6.0","MIT"
 "fastlane-plugin-app_info","0.6.1","MIT"
+"fastlane-plugin-app_info","0.7.0","MIT"
 "fastlane-plugin-automated_test_emulator_run_xing","1.0.0","MIT"
 "fastlane-plugin-automated_test_emulator_run_xing","1.0.1","MIT"
 "fastlane-plugin-automated_test_emulator_run_xing","1.0.10","MIT"
