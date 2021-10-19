@@ -311,6 +311,7 @@
 "aws-sdk-prometheusservice","1.6.0","Apache-2.0"
 "aws-sdk-prometheusservice","1.7.0","Apache-2.0"
 "aws-sdk-prometheusservice","1.8.0","Apache-2.0"
+"aws-sdk-prometheusservice","1.9.0","Apache-2.0"
 "awsnap","0.0.2",""
 "backlog-cli","0.0.1","MIT"
 "baddr","0.0.1",""
