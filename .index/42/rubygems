@@ -1,3 +1,4 @@
+"2048-ruby","0.1","MIT"
 "BoletoIntermedium","0.1.0","MIT"
 "BoletoIntermedium","0.1.1","MIT"
 "BoletoIntermedium","0.1.2","MIT"
@@ -436,6 +437,7 @@
 "can_has_state","0.5.2",""
 "can_has_state","0.6.0","MIT"
 "can_has_state","0.6.1","MIT"
+"can_has_state","0.6.2","MIT"
 "capistrano-deploy_locker","0.3.0","MIT"
 "capistrano-relevance","0.0.1",""
 "capistrano-the-best-compression","0.0.11","MIT"

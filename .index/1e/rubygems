@@ -3869,6 +3869,7 @@
 "rubocop","1.8.1","MIT"
 "rubocop","1.9.0","MIT"
 "rubocop","1.9.1","MIT"
+"rubocop-katalyst","0.1.0","MIT"
 "ruby-jquery","0.0.1","MIT"
 "ruby-miyako-mswin32","2.1.22",""
 "ruby-sox","0.0.1","MIT"
