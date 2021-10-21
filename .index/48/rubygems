@@ -2133,6 +2133,7 @@
 "open311","0.3.1",""
 "openstax_healthcheck","0.0.3","MIT"
 "openstax_healthcheck","1.0.0","MIT"
+"openstax_healthcheck","1.0.1","MIT"
 "openstruct-from_hash","0.1.0",""
 "operate_do","0.1.0","MIT"
 "opstack","0.0.1","MIT-|-GPL-2.0"
