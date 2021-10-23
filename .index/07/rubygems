@@ -1640,6 +1640,8 @@
 "git-gitlab","0.3.5","MIT"
 "git-gitlab","0.3.6","MIT"
 "git-gitlab","0.3.7","MIT"
+"git_cli_prompt","0.1.0",""
+"git_cli_prompt","0.2.0",""
 "gitstuff-preview","0.0.2",""
 "gitstuff-preview","0.0.3",""
 "global_counters","0.0.1","MIT"
