@@ -1359,6 +1359,7 @@
 "logstash-output-https","0.0.7","Apache-2.0"
 "logstash-output-https","0.0.8","Apache-2.0"
 "lokalise_manager","1.0.0","MIT"
+"lokalise_manager","1.1.0","MIT"
 "lolxin","0.12.1","MIT"
 "lolxin","0.13.0","MIT"
 "loofah","1.1.0",""

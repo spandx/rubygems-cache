@@ -1868,6 +1868,7 @@
 "motion-http","1.0.1","MIT"
 "motion-http","1.0.2","MIT"
 "motion-http","1.0.3","MIT"
+"motion-http","1.1.0","MIT"
 "motion-json-decoder","0.0.1",""
 "motion-json-decoder","0.0.2",""
 "motion-krooshal","0.5",""
