@@ -654,6 +654,7 @@
 "capistrano3-foreman","0.2.0","MIT"
 "capistrano3-foreman","0.2.3","MIT"
 "capistrano3-foreman","0.2.5","MIT"
+"card-mod-pdfjs","0.1","GPL-3.0"
 "carrierwave-hex-prefix-for-file-storage","0.0.1",""
 "carthage_support","0.1.0","MIT"
 "cassandra-mavericks","0.21.1","Apache-2.0"

@@ -146,6 +146,8 @@
 "adminable","0.0.5","MIT"
 "adminable","0.0.6","MIT"
 "adminable","0.0.7","MIT"
+"adp-fluent-plugin-kinesis","0.0.1","Apache-2.0"
+"adp-fluent-plugin-kinesis","0.0.2","Apache-2.0"
 "adsk_oauth_service","1.0.50","MIT"
 "adsk_oauth_service","1.0.51","MIT"
 "adsk_oauth_service","1.0.52","MIT"
