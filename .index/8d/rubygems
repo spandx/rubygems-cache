@@ -2041,6 +2041,7 @@
 "pod_lib_create","0.5.0","MIT"
 "polars","0.1.14","Apache-2.0"
 "polars","0.1.15","Apache-2.0"
+"polars","0.1.16","Apache-2.0"
 "polterheist","0.0.1","MIT"
 "polterheist","0.0.2","MIT"
 "polterheist","0.0.3","MIT"

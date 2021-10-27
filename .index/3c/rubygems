@@ -2855,6 +2855,7 @@
 "sidekiq-heroku-scaler","0.1.5","MIT"
 "sidekiq-priority_queue","1.0.2","MIT"
 "sidekiq-priority_queue","1.0.3","MIT"
+"sidekiq-priority_queue","1.0.4","MIT"
 "sidekiq_send_to_worker","0.0.1","MIT"
 "silkscreen","0.0.1",""
 "silkscreen","0.0.3",""

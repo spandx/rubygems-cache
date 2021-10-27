@@ -2915,6 +2915,7 @@
 "sinatra","2.1.0","MIT"
 "sinatra-rdf","3.1.0","Unlicense"
 "sinatra-rdf","3.1.1","Unlicense"
+"sinatra-rdf","3.1.2","Unlicense"
 "sinatra_auth_github","0.0.15",""
 "sinatra_auth_github","0.1.2",""
 "sinatra_auth_github","0.12.0",""
