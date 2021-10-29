@@ -1878,6 +1878,7 @@
 "google-cloud-cloud_dms","0.1.3","Apache-2.0"
 "google-cloud-cloud_dms","1.0.0","Apache-2.0"
 "google-protobuf-x86_64-darwin","3.19.0","BSD-3-Clause"
+"google-protobuf-x86_64-darwin","3.19.1","BSD-3-Clause"
 "gophr","1.0.0","MIT"
 "gotasku","0.0.0","MIT"
 "grandy_booch","0.0.0","MIT"

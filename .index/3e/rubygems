@@ -1796,6 +1796,7 @@
 "neo4j-advanced-java","1.9.5",""
 "neverball-scorer-ruby","0.1.1","MIT"
 "neverball-scorer-ruby","0.2.0","MIT"
+"neverball-scorer-ruby","0.3.0","MIT"
 "nginx-puma","0.1.0",""
 "nginx-puma","0.1.1",""
 "nginx-puma","0.1.2",""

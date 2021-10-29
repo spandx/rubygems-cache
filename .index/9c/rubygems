@@ -763,6 +763,7 @@
 "fluent-plugin-splunkhec","1.7","MIT"
 "fluent-plugin-splunkhec","2.0","MIT"
 "fluent-plugin-splunkhec","2.1","MIT"
+"fluent-plugin-splunkhec","2.2","MIT"
 "foreman_name_generator","0.0.1","GPL-3.0-only-|-Public domain"
 "foreman_name_generator","0.0.2","GPL-3.0-only-|-Public domain"
 "fropy","0.0.1",""
