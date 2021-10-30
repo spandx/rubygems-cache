@@ -2984,6 +2984,7 @@
 "tedium","0.0.5","MIT"
 "telemetry-snmp","0.1.0","Apache-2.0"
 "telemetry-snmp","0.2.0","Apache-2.0"
+"telemetry-snmp","0.3.0","Apache-2.0"
 "terminal-notes","0.0.1","MIT"
 "test-unit-runner-tap","1.1.1",""
 "test-unit-runner-tap","1.1.2","GPL-2.0-|-GPL-2.0"

@@ -907,6 +907,7 @@
 "embulk-input-redshift","0.9.1","Apache-2.0"
 "embulk-input-redshift","0.9.2","Apache-2.0"
 "embulk-input-redshift","0.9.3","Apache-2.0"
+"embulk-input-spanner-java","0.0.1","MIT"
 "embulk-parser-csv_with_default_value","0.1.0","MIT"
 "enforce_schema_rules","0.0.17",""
 "enforce_schema_rules","0.0.20",""
