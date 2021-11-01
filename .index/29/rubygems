@@ -2238,6 +2238,7 @@
 "grpc_newrelic_interceptor","0.0.1","MIT"
 "grpc_newrelic_interceptor","0.0.2","MIT"
 "grpc_newrelic_interceptor","0.0.3","MIT"
+"grpc_newrelic_interceptor","0.0.4","MIT"
 "guard-sclang","0.0.1","MIT"
 "guard-sclang","0.1.0","MIT"
 "guard-sclang","0.3.0","MIT"
