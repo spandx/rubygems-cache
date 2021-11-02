@@ -4328,6 +4328,7 @@
 "string_helper","0.0.2","MIT"
 "structured_reader","1.0.0","MIT"
 "structured_reader","1.0.1","MIT"
+"structured_reader","1.1.0","MIT"
 "stubhub","0.0.1",""
 "stubhub","0.0.2",""
 "subclass_lldb","0.0.1","MIT"
