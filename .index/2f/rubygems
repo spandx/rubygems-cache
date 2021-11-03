@@ -1322,6 +1322,8 @@
 "ios_parser","0.6.0","GPL-3.0"
 "ios_parser","0.7.0","GPL-3.0"
 "ipfs_formatter","0.3.1","MIT"
+"isomorfeus-hamster","0.6.0","MIT"
+"isomorfeus-hamster","0.6.1","MIT"
 "itamae-node_env","0.0.1","MIT"
 "itamae-node_env","0.0.2","MIT"
 "itamae-node_env","0.0.3","MIT"

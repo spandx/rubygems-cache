@@ -2512,6 +2512,7 @@
 "postburner","0.6.0","MIT"
 "postburner","0.6.1","MIT"
 "postburner","0.6.2","MIT"
+"postburner","0.6.3","MIT"
 "postgres-copy","0.3.6",""
 "postgres-copy","0.5.0",""
 "postgres-copy","0.5.2",""

@@ -774,6 +774,7 @@
 "configvars_rails","0.6.1","MIT"
 "convert_currency","0.1.0","MIT"
 "convert_currency","0.1.1","MIT"
+"core-handler","0.0.0","MPL-2.0"
 "credential_traverser","0.0.1","MIT"
 "credit_card_inspector","0.0.1","MIT"
 "credit_card_inspector","0.0.2","MIT"

@@ -3223,6 +3223,7 @@
 "user_agent_parser","2.5.3","MIT"
 "user_agent_parser","2.6.0","MIT"
 "user_agent_parser","2.7.0","MIT"
+"user_agent_parser","2.8.0","MIT"
 "vagrant-newdisk","0.0.1","MIT"
 "vagrant-newdisk","0.0.2","MIT"
 "vagrant-newdisk","0.0.3","MIT"

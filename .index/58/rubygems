@@ -2693,6 +2693,7 @@
 "pupilfirst_xapi","0.3.8","GPL-3.0-or-later"
 "puppet-lint-empty_string-check","0.2.1","Apache-2.0"
 "puppet-lint-empty_string-check","0.2.2","Apache-2.0"
+"puppet-lint-empty_string-check","1.0.0","Apache-2.0"
 "puppetdb-terminus","1.0",""
 "purobu","0.0.2",""
 "purobu","0.0.3",""

@@ -1355,6 +1355,7 @@
 "fastlane-plugin-certificate_expirydate","0.1.4","MIT"
 "fastlane-plugin-google_cloud_storage","0.1.0","MIT"
 "fastlane-plugin-google_cloud_storage","0.1.1","MIT"
+"fastlane-plugin-xiaomi_devupload","0.1.0","MIT"
 "fat_zebra_multi","3.1.0.1",""
 "fat_zebra_multi","3.1.0.2",""
 "fat_zebra_multi","3.2.0.1",""
