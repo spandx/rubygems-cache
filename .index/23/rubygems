@@ -2785,6 +2785,7 @@
 "tableware","0.2.1","MIT"
 "tableware","0.3.2","MIT"
 "tableware","1.0.0","MIT"
+"tag_options","0.9.0","MIT"
 "talentbox-delayed_job_sequel","0.1.1",""
 "talentbox-delayed_job_sequel","0.1.2",""
 "talentbox-delayed_job_sequel","4.0.0",""
