@@ -2004,6 +2004,7 @@
 "carlo-retryable","1.2",""
 "case_transform2","0.2","MIT"
 "case_transform2","1.0.0","MIT"
+"case_transform2","1.1.1","MIT"
 "cask","0.2.0","MIT"
 "cask","0.2.1","MIT"
 "cask","0.3.1","MIT"

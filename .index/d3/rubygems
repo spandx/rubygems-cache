@@ -3383,6 +3383,7 @@
 "optgen","0.4","GPL-3.0-only"
 "optgen","0.5","GPL-3.0-only"
 "oss-client","0.0.3","MIT"
+"outputhandler","0.2.0.1","BSD-4-Clause"
 "pact-csv","0.0.1","MIT"
 "pageflow","0.0.1",""
 "pageflow","0.0.2",""
