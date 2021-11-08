@@ -462,6 +462,7 @@
 "ci-queue","0.9.2","MIT"
 "cleanconscience-currency","0.7.0.11",""
 "cleanconscience-currency","0.7.0.13",""
+"cloud_context","0.0.1","MIT"
 "cloudfoundry-env","0.0.2",""
 "codedeploy_retry_if_needed","0.1.0","MIT"
 "codedeploy_retry_if_needed","0.1.1","MIT"

@@ -3033,6 +3033,7 @@
 "test-unit","3.4.8","Ruby-|-BSDL-|-PSFL"
 "test-unit","3.4.9","Ruby-|-BSDL-|-PSFL"
 "test-unit","3.5.0","Ruby-|-BSDL-|-PSFL"
+"test-unit","3.5.1","Ruby-|-BSDL-|-PSFL"
 "test_openid_connect","0.1.0","MIT"
 "test_openid_connect","0.1.1","MIT"
 "test_openid_connect","0.1.10","MIT"
