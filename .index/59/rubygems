@@ -3167,6 +3167,7 @@
 "rawf","1.0",""
 "rcee_precompiled-x86_64-darwin","0.1.0","MIT"
 "rcee_precompiled-x86_64-darwin","0.2.0","MIT"
+"rcee_precompiled-x86_64-darwin","0.3.0","MIT"
 "react-flux-rails","2.6.4","MIT"
 "reactrb-rails-generator","0.2.0","MIT"
 "red-chainer","0.1.0","MIT"

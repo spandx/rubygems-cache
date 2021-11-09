@@ -1332,6 +1332,7 @@
 "google-ads-savon","1.0.3","MIT"
 "google-ads-savon","1.0.4","MIT"
 "google-cloud-billing-budgets-v1","0.1.0","Apache-2.0"
+"google-cloud-billing-budgets-v1","0.1.1","Apache-2.0"
 "google_anymote","0.0.1",""
 "google_anymote","0.0.2",""
 "google_anymote","0.0.3",""

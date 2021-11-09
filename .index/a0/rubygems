@@ -1230,6 +1230,7 @@
 "google-apis-tasks_v1","0.8.0","Apache-2.0"
 "google-cloud-filestore-v1","0.1.0","Apache-2.0"
 "google-cloud-filestore-v1","0.1.1","Apache-2.0"
+"google-cloud-filestore-v1","0.1.2","Apache-2.0"
 "google-cloud-private_catalog","0.1.0","Apache-2.0"
 "google-cloud-private_catalog","0.1.1","Apache-2.0"
 "google-cloud-private_catalog","0.1.2","Apache-2.0"

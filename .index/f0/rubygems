@@ -1688,6 +1688,7 @@
 "gongora","0.0.1",""
 "google-cloud-artifact_registry-v1","0.1.0","Apache-2.0"
 "google-cloud-artifact_registry-v1","0.2.0","Apache-2.0"
+"google-cloud-artifact_registry-v1","0.2.1","Apache-2.0"
 "grnds-sso","0.0.3","MIT"
 "grnds-sso","0.0.4","MIT"
 "gtfs-orm","0.0.1","MIT"

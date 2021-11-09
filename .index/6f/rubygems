@@ -2788,6 +2788,7 @@
 "outoftime-sunspot","0.9.8",""
 "overpunch","1.0.0","MIT"
 "overpunch","1.0.1","MIT"
+"ows-queries","0.1.5","MIT"
 "padrino-json","0.0.2",""
 "padrino-json","0.0.3",""
 "padrino-json","0.0.4",""
