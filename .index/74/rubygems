@@ -43,6 +43,7 @@
 "activefedora-aggregation","0.8.0","APACHE2"
 "activefedora-aggregation","0.8.1","APACHE2"
 "activefedora-aggregation","0.9.0","APACHE2"
+"activerecord-tenant-level-security","0.0.1","MIT"
 "acts-as-contactable","0.1.10","MIT"
 "acts-as-contactable","0.2.0","MIT"
 "acts-as-contactable","0.2.1","MIT"

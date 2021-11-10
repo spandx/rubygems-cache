@@ -533,6 +533,7 @@
 "cocoa-hookup","0.0.1","MIT"
 "cocoa-hookup","0.0.2","MIT"
 "cocoa-hookup","0.0.3","MIT"
+"codesigntool","0.0.1",""
 "collectd-interface","0.1.0",""
 "compass","0.11.7",""
 "compass","0.12.2",""

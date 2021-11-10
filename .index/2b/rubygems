@@ -2455,6 +2455,7 @@
 "netflowd","0.1.0","BSD"
 "newrelic_presto","0.1.0","MIT"
 "newrelic_presto","0.1.2","MIT"
+"nft","0.0.0",""
 "no_www","0.0.2","MIT"
 "no_www","0.0.3","MIT"
 "norikra-listener-mock-java","0.0.1","GPLv2"

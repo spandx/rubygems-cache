@@ -1134,6 +1134,7 @@
 "epp-client-base","0.15.1",""
 "epp-client-base","0.15.2",""
 "error_stalker","0.0.12",""
+"eseal","0.0.0",""
 "evdev","0.1.0","MIT"
 "evdev","1.0.0","MIT"
 "evergreen","1.0.0",""
