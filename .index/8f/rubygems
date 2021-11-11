@@ -3113,6 +3113,7 @@
 "tencent_cos_sdk","0.2.0","MIT"
 "tencent_cos_sdk","0.2.1","MIT"
 "tencent_cos_sdk","0.2.2","MIT"
+"tencentcloud-sdk-apcas","1.0.200","Apache-2.0"
 "test_oversight_runner","9001.0",""
 "test_ruby","1.0.0","MIT"
 "test_ruby","1.0.1","MIT"

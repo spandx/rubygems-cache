@@ -3308,6 +3308,7 @@
 "telcosms","0.0.3","MIT"
 "telcosms","0.0.4","MIT"
 "tempconverter","0.1.1","MIT"
+"tencentcloud-sdk-bmlb","1.0.200","Apache-2.0"
 "terra","0.0.0",""
 "terraform","0.0.4",""
 "terraform","0.0.8",""

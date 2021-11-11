@@ -2827,6 +2827,8 @@
 "tcce","0.1.0","MIT"
 "tcce","0.1.1","MIT"
 "tcce","0.1.2","MIT"
+"tencentcloud-sdk-ecc","1.0.200","Apache-2.0"
+"tencentcloud-sdk-monitor","1.0.200","Apache-2.0"
 "terror","0.2.0","MIT"
 "terror","0.4.0","MIT"
 "test2","0.0.1","MIT"

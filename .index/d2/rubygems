@@ -3493,6 +3493,8 @@
 "templus_models","3.0.7","MIT"
 "templus_models","3.0.8","MIT"
 "templus_models","3.0.9","MIT"
+"tencentcloud-sdk-ams","1.0.200","Apache-2.0"
+"tencentcloud-sdk-partners","1.0.200","Apache-2.0"
 "tencentpay","0.0.1",""
 "testmetrics_rspec","0.1.0",""
 "testmetrics_rspec","0.2.0",""

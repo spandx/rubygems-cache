@@ -2992,6 +2992,8 @@
 "telegram_bot","0.0.6","MIT"
 "telegram_bot","0.0.7","MIT"
 "telegram_bot","0.0.8","MIT"
+"tencentcloud-sdk-faceid","1.0.200","Apache-2.0"
+"tencentcloud-sdk-zj","1.0.200","Apache-2.0"
 "texst","1.0.0","GPL"
 "texst","1.0.1","GPL"
 "the_oxford_comma","0.0.1","MIT"

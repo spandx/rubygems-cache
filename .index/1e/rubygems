@@ -4187,6 +4187,7 @@
 "tbk","1.0.3",""
 "telegram_web_proxy","0.1.0","MIT"
 "telegram_web_proxy","0.2.0","MIT"
+"tencentcloud-sdk-apigateway","1.0.200","Apache-2.0"
 "terraform_dsl","0.0.4","MIT"
 "terraspace_provider_azure","0.0.0","Apache2.0"
 "testPackageResponse","1.2.3","MIT"

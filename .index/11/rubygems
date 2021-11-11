@@ -3210,6 +3210,8 @@
 "telltale","0.2.0","MIT"
 "template_configurator","1.0.1",""
 "tenantify-sidekiq","0.0.1","MIT"
+"tencentcloud-sdk-bri","1.0.200","Apache-2.0"
+"tencentcloud-sdk-iotvideo","1.0.200","Apache-2.0"
 "tepoch","0.1.0","MIT"
 "tepoch","0.2.0","MIT"
 "tepoch","0.2.1","MIT"
