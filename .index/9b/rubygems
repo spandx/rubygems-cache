@@ -950,6 +950,7 @@
 "fluent-plugin-light-core","0.1.9","Apache-2.0"
 "fluent-plugin-light-core","0.2.0","Apache-2.0"
 "fluent-plugin-light-core","0.2.1","Apache-2.0"
+"fluent-plugin-light-core","0.2.2","Apache-2.0"
 "fluent-plugin-riak","0.0.1",""
 "fluent-plugin-riak","0.0.2",""
 "fluent-plugin-riak","0.0.3",""

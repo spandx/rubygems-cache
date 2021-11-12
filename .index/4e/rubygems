@@ -2431,6 +2431,7 @@
 "read_activity","0.0.3.1","MIT"
 "read_activity","0.0.4","MIT"
 "read_activity","0.1.0","MIT"
+"redis_data_viewer","0.1.10","MIT"
 "redis_data_viewer","0.1.2","MIT"
 "redis_data_viewer","0.1.5","MIT"
 "redis_pipeliner","0.0.1",""
