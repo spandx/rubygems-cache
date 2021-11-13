@@ -3331,6 +3331,7 @@
 "simplificator-rwebthumb","0.2.7",""
 "simplificator-rwebthumb","0.2.8",""
 "simplificator-rwebthumb","0.3.3",""
+"sinatra-resilient-route","0.1.0","MIT"
 "sinsiliux-blueprints","0.1.1",""
 "sitejabber","0.1.0","MIT"
 "slugdb-sqlite3","0.1.0","MIT"

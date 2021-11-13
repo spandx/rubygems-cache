@@ -167,6 +167,7 @@
 "arangodb-odm","0.2.0",""
 "arangodb-odm","0.3.0","MIT"
 "arangodb-odm","0.3.1","MIT"
+"arcaptcha","1.0.0",""
 "ardm-aggregates","1.2.0","MIT"
 "asciidoctor-rsd","0.2.2","MIT"
 "asciidoctor-rsd","0.2.4","MIT"
