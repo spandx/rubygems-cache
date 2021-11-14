@@ -621,6 +621,8 @@
 "csvjson","1.0.1","Public Domain"
 "csvtomd","1.0.0","MIT"
 "csvtomd","1.0.1","MIT"
+"cuda-nmf","0.1.0","MIT"
+"cuda-nmf","0.2.0","MIT"
 "curse_client","0.1.0","MIT"
 "curse_client","0.1.1","MIT"
 "curse_client","0.1.2","MIT"
