@@ -1711,6 +1711,7 @@
 "micro-optparse","0.8.1",""
 "micro-optparse","1.2.0","MIT"
 "micro-optparse","1.2.1","MIT"
+"midi-events","0.5.0","LGPL-3.0"
 "midpay_alipay","0.0.1","MIT"
 "minesweeper-cl","0.0.0","MIT"
 "minesweeper-cl","0.0.1","MIT"

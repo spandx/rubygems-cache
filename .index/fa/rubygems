@@ -2043,6 +2043,7 @@
 "pg-aws_rds_iam","0.2.0","MIT"
 "pg-aws_rds_iam","0.3.0","MIT"
 "pg-aws_rds_iam","0.3.1","MIT"
+"pg-aws_rds_iam","0.3.2","MIT"
 "pg_search","0.2",""
 "pg_search","0.2.2",""
 "pg_search","0.3.1",""

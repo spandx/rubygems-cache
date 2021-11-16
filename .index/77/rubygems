@@ -230,6 +230,7 @@
 "aws-sdk-guardduty","1.7.0","Apache-2.0"
 "aws-sdk-guardduty","1.8.0","Apache-2.0"
 "aws-sdk-guardduty","1.9.0","Apache-2.0"
+"aws-sdk-migrationhubstrategyrecommendations","1.0.0","Apache-2.0"
 "aws-sdk-pricing","1.0.0","Apache-2.0"
 "aws-sdk-pricing","1.1.0","Apache-2.0"
 "aws-sdk-pricing","1.10.0","Apache-2.0"

@@ -3139,6 +3139,7 @@
 "rubocop-ogat","4.2.0","MIT"
 "rubocop-ogat","4.2.1","MIT"
 "rubocop-ogat","4.2.2","MIT"
+"rubocop-ogat","4.3.0","MIT"
 "rubocop-postgresql_cursor","0.0.2","MIT"
 "ruby-bulksms","0.4.1",""
 "ruby-bulksms","0.4.3",""

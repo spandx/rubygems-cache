@@ -2761,6 +2761,7 @@
 "static_model","1.0.3",""
 "static_model","1.0.4",""
 "static_model","1.1.0",""
+"statsd-rack-instrument","0.0.1","MIT"
 "stdout_outputter","1.0.0","GPL-3.0"
 "stdout_outputter","1.0.1","GPL-3.0"
 "storey","0.0.1",""
