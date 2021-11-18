@@ -306,6 +306,7 @@
 "authn","2.0.0",""
 "authn","2.4.0",""
 "authn","3.8.4","MIT"
+"aws-sdk-drs","1.0.0","Apache-2.0"
 "aws-sdk-prometheusservice","1.0.0","Apache-2.0"
 "aws-sdk-prometheusservice","1.1.0","Apache-2.0"
 "aws-sdk-prometheusservice","1.10.0","Apache-2.0"
