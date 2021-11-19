@@ -3281,6 +3281,7 @@
 "ruby-libstorj","1.0.2","AGPL-3.0"
 "ruby-libstorj","2.0.0","AGPL-3.0"
 "ruby_do_plugin_power_management_upower","0.0.1",""
+"ruby_event_store-flipper","0.2.0","MIT"
 "ruby_meetup2","0.5.0","MIT"
 "ruby_meetup2","0.6.0","MIT"
 "rubybvc","0.3.1","BSD"

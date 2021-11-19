@@ -508,6 +508,7 @@
 "cascading_configuration","1.0.4",""
 "celluloid-smtp","0.9.0","MIT"
 "cfmx_compat","0.0.1","LGPL"
+"chalk-interface","0.0.6","MIT"
 "chemistry-temperature","1.0.1",""
 "chrislloyd-even_better_nested_set","0.2",""
 "chrislloyd-even_better_nested_set","0.3",""

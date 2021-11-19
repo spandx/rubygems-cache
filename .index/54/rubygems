@@ -2307,6 +2307,7 @@
 "office_elin","0.0.3","NGPL"
 "old_poetry","0.1.0","MIT"
 "omniauth-box-oauth2","0.1.0","MIT"
+"omniauth-ethereum","0.0.1","Apache-2.0"
 "omniauth-familysearch","1.0.0",""
 "omniauth-gusto","1.0.0","MIT"
 "omniauth-gusto","1.0.1","MIT"

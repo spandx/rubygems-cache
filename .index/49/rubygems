@@ -2696,6 +2696,7 @@
 "simple_lb","0.0.7","Apache"
 "simple_lb","0.0.8","Apache"
 "simple_mutex","1.0.0","MIT"
+"simple_mutex","1.0.1","MIT"
 "simple_record","2.1.2",""
 "simple_record","2.1.9",""
 "simple_record","2.2.0",""
