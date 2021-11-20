@@ -2197,6 +2197,7 @@
 "puppet_facts","0.2.1","Apache-2.0"
 "purgecss_sprockets","0.1.0","MIT"
 "purgecss_sprockets","0.1.1","MIT"
+"purgecss_sprockets","0.1.2","MIT"
 "putson","0.1.0","MIT"
 "putson","0.2.0","MIT"
 "qfill","0.0.1",""

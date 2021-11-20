@@ -1787,6 +1787,7 @@
 "ezmobius-nanite","0.4.1.1",""
 "ezmobius-nanite","0.4.1.2",""
 "faraday_boolean","0.1.0","MIT"
+"faraday_boolean","0.1.1","MIT"
 "faster_asset_compiler","0.0.1","MIT"
 "faster_asset_compiler","0.0.2","MIT"
 "fastlane-plugin-check_good_version","0.1.0","MIT"

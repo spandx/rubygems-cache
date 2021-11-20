@@ -1746,6 +1746,7 @@
 "itamae-plugin-recipe-goenv","0.0.1","MIT"
 "itamae-plugin-resource-encrypted_remote_file","0.0.1","MIT"
 "itamae-plugin-resource-encrypted_remote_file","0.0.2","MIT"
+"itamae-plugin-resource-encrypted_remote_file","0.0.3","MIT"
 "jakka_ruby","0.1.1","MIT"
 "jeffperrin-paperclip","0.1",""
 "jekyll-embeds","0.0.4","MIT"

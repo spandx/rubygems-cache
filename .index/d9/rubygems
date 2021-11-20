@@ -2280,6 +2280,8 @@
 "dyndnsd","3.4.3","Apache-2.0"
 "dyndnsd","3.4.4","Apache-2.0"
 "dyndnsd","3.4.5","Apache-2.0"
+"dyndnsd","3.4.6","Apache-2.0"
+"dyndnsd","3.4.7","Apache-2.0"
 "easy_redis_lock","0.0.2",""
 "easy_sync","0.0.1","MIT"
 "easy_sync","0.0.5","MIT"

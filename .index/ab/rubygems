@@ -2447,6 +2447,7 @@
 "prime_number_table","2.1","MIT"
 "prime_number_table","2.2","MIT"
 "prismdb","0.1.0","MIT"
+"prismdb","0.1.1","MIT"
 "privacy-enforcer-rails","9001.0",""
 "prop2redis","0.0.1",""
 "prop2redis","0.0.3",""

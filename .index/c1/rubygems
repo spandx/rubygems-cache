@@ -3137,6 +3137,7 @@
 "twitchbot","0.0.4","MIT"
 "twitchbot","0.0.5","MIT"
 "u2f_client","0.1.3","MIT"
+"u2f_client","0.2","MIT"
 "unicode_utils","1.1.2",""
 "unicode_utils","1.4.0",""
 "unicorn-rails","1.0.0",""

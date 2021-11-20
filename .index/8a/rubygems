@@ -2745,6 +2745,7 @@
 "sentry-videos","0.1.0","MIT"
 "service-utils","0.1.0","MIT"
 "service-utils","0.2.0","MIT"
+"session_tracker","0.0.5",""
 "shikashi","0.5.1",""
 "shikashi","0.5.2",""
 "shikashi","0.5.3",""
