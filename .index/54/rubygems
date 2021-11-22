@@ -212,6 +212,7 @@
 "av_capture","1.0.1","MIT"
 "av_capture","1.0.2","MIT"
 "avm-eac_ruby_base1","0.1.0",""
+"avm-eac_ruby_base1","0.2.0",""
 "aws-sdk-fis","1.0.0","Apache-2.0"
 "aws-sdk-fis","1.1.0","Apache-2.0"
 "aws-sdk-fis","1.2.0","Apache-2.0"
