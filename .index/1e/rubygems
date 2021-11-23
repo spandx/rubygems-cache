@@ -4209,6 +4209,7 @@
 "tencentcloud-sdk-apigateway","1.0.205","Apache-2.0"
 "tencentcloud-sdk-apigateway","1.0.206","Apache-2.0"
 "tencentcloud-sdk-apigateway","1.0.207","Apache-2.0"
+"tencentcloud-sdk-apigateway","1.0.208","Apache-2.0"
 "terraform_dsl","0.0.4","MIT"
 "terraspace_provider_azure","0.0.0","Apache2.0"
 "testPackageResponse","1.2.3","MIT"

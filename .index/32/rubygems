@@ -1453,6 +1453,7 @@
 "gitlab","4.7.0","BSD"
 "gitlab","4.8.0","BSD"
 "gitlab","4.9.0","BSD-2-Clause"
+"gitlab-license_finder","6.14.2.1","MIT"
 "gonebusy-ruby-client","0.0.2","MIT"
 "gonebusy-ruby-client","0.0.3","MIT"
 "gonebusy-ruby-client","0.0.4","MIT"
