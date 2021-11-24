@@ -433,6 +433,7 @@
 "continuent-monitors-nagios","0.7.0","Apache-2.0"
 "core-define","0.0.0","MPL-2.0"
 "core-define","0.1.0","MPL-2.0"
+"core-define","0.1.1","MPL-2.0"
 "cortex-snippets-client-ruby","0.1.0","Apache-2.0"
 "cortex-snippets-client-ruby","0.1.1","Apache-2.0"
 "cortex-snippets-client-ruby","0.1.2","Apache-2.0"
