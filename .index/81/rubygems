@@ -237,6 +237,7 @@
 "aws-sdk-lambda","1.72.0","Apache-2.0"
 "aws-sdk-lambda","1.73.0","Apache-2.0"
 "aws-sdk-lambda","1.74.0","Apache-2.0"
+"aws-sdk-lambda","1.75.0","Apache-2.0"
 "aws-sdk-lambda","1.8.0","Apache-2.0"
 "aws-sdk-lambda","1.9.0","Apache-2.0"
 "azure-storage-file","1.0.0","MIT"
