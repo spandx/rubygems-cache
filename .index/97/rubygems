@@ -2530,6 +2530,7 @@
 "record_redis","0.12.0","MIT"
 "recursive_spy","0.0.2","MIT"
 "relaton-iana","1.9.0","BSD-2-Clause"
+"relaton-iana","1.9.1","BSD-2-Clause"
 "releasr","0.0.0","MIT"
 "releasr","0.0.1","MIT"
 "remi-signer","0.0.1","MIT"

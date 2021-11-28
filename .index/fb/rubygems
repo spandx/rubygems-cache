@@ -1650,6 +1650,8 @@
 "jekyll-browserify","1.0.0","MIT"
 "jekyll-browserify","1.1.0","MIT"
 "jekyll-browserify","1.1.1","MIT"
+"jekyll-gemtext","0.1.0","MIT"
+"jekyll-gemtext","0.1.1","MIT"
 "jekyll-hashtags","0.1.0","MIT"
 "jekyll-hashtags","0.1.1","MIT"
 "jekyll-oldcomments","0.5","Apache-2.0"
