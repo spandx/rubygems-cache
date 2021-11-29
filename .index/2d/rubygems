@@ -1693,6 +1693,7 @@
 "netbox-client-ruby","0.5.5","MIT"
 "netbox-client-ruby","0.5.6","MIT"
 "netbox-client-ruby","0.5.7","MIT"
+"netbox-client-ruby","0.6.0","MIT"
 "new_relic-rest_api","0.1.0","MIT"
 "nexpose_ticketing","0.0.1","BSD"
 "nexpose_ticketing","0.2.1","BSD"

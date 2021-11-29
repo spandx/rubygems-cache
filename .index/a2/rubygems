@@ -1401,6 +1401,7 @@
 "govkit","0.6.1",""
 "govkit","0.7.3",""
 "govkit","0.7.4",""
+"gpio_sysfs","0.1.0","MIT"
 "gracy","1.0.0","MIT"
 "green_onion","0.0.1",""
 "green_onion","0.0.3",""
