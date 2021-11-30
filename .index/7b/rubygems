@@ -1890,6 +1890,7 @@
 "logstash-output-sns","4.0.5","Apache-2.0"
 "logstash-output-sns","4.0.6","Apache-2.0"
 "logstash-output-sns","4.0.7","Apache-2.0"
+"logstash-output-sns","4.0.8","Apache-2.0"
 "lpp_Grupo3","0.1.0","MIT"
 "lucky_param","0.1.0","MIT"
 "lucky_param","0.1.1","MIT"

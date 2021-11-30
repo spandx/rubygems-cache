@@ -1345,6 +1345,7 @@
 "fluent-plugin-jstat","0.0.1","MIT"
 "fluent-plugin-jstat","0.0.2","MIT"
 "fluent-plugin-jstat","0.0.3","MIT"
+"fluent-plugin-mattermost","0.1.0","Apache-2.0"
 "flyingmachine-aikidoka","0.1.0",""
 "flyingmachine-aikidoka","0.1.1",""
 "fmpvc","0.3.2","MIT"
