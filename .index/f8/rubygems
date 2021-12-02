@@ -646,6 +646,7 @@
 "bcdice","3.2.0","BSD-3-Clause"
 "bcdice","3.3.0","BSD-3-Clause"
 "bcdice","3.4.0","BSD-3-Clause"
+"bcdice","3.5.0","BSD-3-Clause"
 "bin_tools","0.0.3","MIT"
 "binding_of_caller-universal-rubinius","0.6.3",""
 "bio-executables","0.0.0",""
