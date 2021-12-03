@@ -2444,6 +2444,7 @@
 "okex-ruby-api","0.1.0","MIT"
 "okex-ruby-api","0.2.0","MIT"
 "omniauth-central_login","0.1.0","MIT"
+"omniauth-central_login","0.1.1","MIT"
 "omniauth-cognito-oauth2","0.1.0","MIT"
 "omniauth-cognito-oauth2","0.1.1","MIT"
 "omniauth-greenhouse","1.0.1","MIT"

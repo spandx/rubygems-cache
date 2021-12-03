@@ -3118,6 +3118,7 @@
 "public_id","1.0.0",""
 "public_id","1.0.1",""
 "public_id","1.0.2",""
+"pupperware","3002.0.0","MIT"
 "puppet-module-posix-system-r2.5","0.3.0","Apache-2.0"
 "puppet-module-posix-system-r2.5","0.3.1","Apache-2.0"
 "puppet-module-posix-system-r2.5","0.3.10","Apache-2.0"
