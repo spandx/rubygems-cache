@@ -2808,6 +2808,7 @@
 "tokyo_api","1.6.0","MIT"
 "tokyo_metro","0.10.1","MIT"
 "toml-rb-hs","1.1.1","MIT"
+"tomo-plugin-honeybadger","1.0.0","MIT"
 "torquebox-cache-java","2.0.2",""
 "torquebox-cache-java","2.1.2",""
 "torquebox-cache-java","2.2.0","lgpl"

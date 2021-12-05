@@ -917,6 +917,7 @@
 "fastlane-plugin-linear_api","0.1.0","MIT"
 "fastlane-plugin-localization","0.1.0","MIT"
 "fastlane-plugin-localization","0.2.0","MIT"
+"fastlane-plugin-sourcery","1.0.0","MIT"
 "fastlane-plugin-unsetinfoplistvalue","0.1.0","MIT"
 "fastlane-plugin-unsetinfoplistvalue","0.1.1","MIT"
 "fastlane-plugin-unsetinfoplistvalue","0.1.2","MIT"
