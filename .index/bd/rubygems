@@ -299,6 +299,7 @@
 "azure-storage-table","2.0.1","MIT"
 "azure-storage-table","2.0.2","MIT"
 "azure-storage-table","2.0.3","MIT"
+"azure-storage-table","2.0.4","MIT"
 "azure_mgmt_bot_service","0.17.0","MIT"
 "azure_mgmt_bot_service","0.17.1","MIT"
 "azure_mgmt_bot_service","0.17.2","MIT"

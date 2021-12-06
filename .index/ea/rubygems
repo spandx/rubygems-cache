@@ -409,6 +409,7 @@
 "athena_health","2.0.0","MIT"
 "augmentor","0.0.1","MIT"
 "avm-eac_generic_base0","0.1.0",""
+"avm-eac_generic_base0","0.1.1",""
 "aws-sdk-ecrpublic","1.0.0","Apache-2.0"
 "aws-sdk-ecrpublic","1.1.0","Apache-2.0"
 "aws-sdk-ecrpublic","1.2.0","Apache-2.0"
