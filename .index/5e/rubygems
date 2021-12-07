@@ -2283,6 +2283,7 @@
 "logstash-input-azure_blob_storage","0.11.5","Apache-2.0"
 "logstash-input-azure_blob_storage","0.11.6","Apache-2.0"
 "logstash-input-azure_blob_storage","0.11.7","Apache-2.0"
+"logstash-input-azure_blob_storage","0.12.0","Apache-2.0"
 "logstash-input-box_enterprise","0.1.0","Apache-2.0"
 "logstash-input-box_enterprise","0.2.1","Apache-2.0"
 "logstash-input-box_enterprise","0.2.2","Apache-2.0"
