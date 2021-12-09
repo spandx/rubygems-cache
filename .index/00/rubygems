@@ -3457,6 +3457,7 @@
 "uuid_validator","0.0.4",""
 "uuid_validator","0.0.5",""
 "vagrant-communicator-docker","1.0.6","MIT"
+"vagrant-communicator-docker","1.0.7","MIT"
 "vagrant-file-watcher","0.1.0","MIT"
 "vagrant-guest-omnios","0.0.1",""
 "vagrant-guest-omnios","0.3.0",""
