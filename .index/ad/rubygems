@@ -2212,6 +2212,7 @@
 "secretkeeper","0.1.1","MIT"
 "sendle","0.1.1",""
 "sensu-plugins-jolokia-metrics","0.0.1","MIT"
+"sentry-inst_jobs","1.0.0","MIT"
 "sepastian-capistrano3-unicorn","0.3.0","MIT"
 "sepastian-capistrano3-unicorn","0.3.2","MIT"
 "sepastian-capistrano3-unicorn","0.4.0","MIT"
