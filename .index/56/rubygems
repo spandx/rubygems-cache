@@ -1332,6 +1332,7 @@
 "fastlane-plugin-get_application_id_flavor","0.1.4","MIT"
 "fastlane-plugin-get_application_id_flavor","0.1.5","MIT"
 "fastlane-plugin-get_application_id_flavor","0.1.6","MIT"
+"fastlane-plugin-get_application_id_flavor","0.1.7","MIT"
 "fastlane-plugin-hello_test","0.1.0","MIT"
 "fastlane-plugin-icon_banner","0.1.0","MIT"
 "fastlane-plugin-icon_banner","0.1.1","MIT"

@@ -1560,6 +1560,7 @@
 "logstash-input-azure_event_hubs","1.2.3","Apache-2.0"
 "logstash-input-azure_event_hubs","1.3.0","Apache-2.0"
 "logstash-input-azure_event_hubs","1.4.0","Apache-2.0"
+"logstash-input-azure_event_hubs","1.4.1","Apache-2.0"
 "logstash-input-elasticache","0.2.10",""
 "logstash-input-elasticache","0.3.1",""
 "logstash-input-java_input_example","0.0.1","Apache-2.0"

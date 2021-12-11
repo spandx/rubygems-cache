@@ -2980,6 +2980,7 @@
 "slack_messaging","3.2.0","BSD-3-Clause"
 "slack_messaging","3.2.1","BSD-3-Clause"
 "slack_messaging","3.2.2","BSD-3-Clause"
+"slack_messaging","3.2.3","BSD-3-Clause"
 "sluggable_holden","0.0.0",""
 "smart-admin-page","0.1.0","private"
 "smart_management","0.0.1","MIT"
