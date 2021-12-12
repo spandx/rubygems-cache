@@ -1834,6 +1834,7 @@
 "lmtp","0.0.1","BSD"
 "lnd-tool","0.1.0","MIT"
 "lnd-tool","0.2.0","MIT"
+"lnd-tool","0.3.0","MIT"
 "local_date_time_attributes","0.1.1",""
 "local_date_time_attributes","0.1.2",""
 "local_date_time_attributes","0.1.3",""

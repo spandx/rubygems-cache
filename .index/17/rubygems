@@ -3060,6 +3060,7 @@
 "sevenwire-bj","1.0.4",""
 "sexpr","0.3.0",""
 "sexpr","0.6.0",""
+"sexpr","1.0.0",""
 "shared-secret-authentication","0.2.0",""
 "shiphawk","0.8.1","MIT"
 "sidekiq_pipeline","0.0.1","MIT"
