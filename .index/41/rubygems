@@ -3124,6 +3124,7 @@
 "t_algebra","0.1.3","MIT"
 "t_algebra","0.1.4","MIT"
 "t_algebra","0.1.5","MIT"
+"t_algebra","1.0.0","MIT"
 "tableau_trusted_auth","0.1.0","Apache2"
 "tableau_trusted_auth","0.2.0","Apache2"
 "talentbox-sequel-rails","0.3.10",""

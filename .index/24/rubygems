@@ -3907,6 +3907,7 @@
 "timeout-interrupt","0.2.1","AGPL-3.0"
 "timeout-interrupt","0.2.2","LGPL-3.0-only"
 "timeout-interrupt","0.3.0","LGPL-3.0-only"
+"timeout-interrupt","0.4.0","LGPL-3.0-only"
 "timetrap-redmine","0.0.1","MIT"
 "timetrap-redmine","1.0.0","MIT"
 "timetrap-redmine","1.0.2","MIT"
