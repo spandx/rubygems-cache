@@ -1477,6 +1477,7 @@
 "hiera","3.5.0",""
 "hiera","3.6.0",""
 "hiera","3.7.0",""
+"hiera","3.8.0",""
 "hiera-osxkeychain","0.1.0",""
 "hiera-osxkeychain","0.1.1","MIT"
 "hmcah","0.0.0","MIT"
