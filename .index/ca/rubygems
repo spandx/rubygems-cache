@@ -500,6 +500,7 @@
 "active_model_serializers","0.9.6","MIT"
 "active_model_serializers","0.9.7","MIT"
 "active_model_serializers","0.9.8","MIT"
+"active_model_service","0.1.0",""
 "active_scaffold","3.0.22",""
 "active_scaffold","3.0.24",""
 "active_scaffold","3.1.10",""

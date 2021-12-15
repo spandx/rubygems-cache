@@ -889,6 +889,8 @@
 "ec2ssh","3.1.1",""
 "ec2ssh","4.0.0",""
 "ec2ssh","5.0.0","MIT"
+"eduardo-test-gem","0.0.0","MIT"
+"eduardo-test-gem","0.0.2","MIT"
 "ego","0.1.0","GPL-3.0+"
 "ego","0.2.0","GPL-3.0+"
 "ego","0.3.0","GPL-3.0+"

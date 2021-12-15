@@ -3099,6 +3099,7 @@
 "tencentcloud-sdk-cr","1.0.221","Apache-2.0"
 "tencentcloud-sdk-cr","1.0.222","Apache-2.0"
 "tencentcloud-sdk-cr","1.0.223","Apache-2.0"
+"tencentcloud-sdk-cr","1.0.224","Apache-2.0"
 "tenka","1.0.0","MIT"
 "tenka","1.0.1","MIT"
 "tenka","1.0.2","MIT"
@@ -3449,3 +3450,5 @@
 "yodatepicker","1.0.2","MIT"
 "youtube-g-es","0.5.1",""
 "zairyo","0.0.1","MIT"
+"zairyo","0.0.2","MIT"
+"zairyo","0.0.3","MIT"
