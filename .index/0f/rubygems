@@ -4304,6 +4304,7 @@
 "vagrant-puppet-install","5.0.0","Apache-2.0"
 "vagrant-puppet-install","6.0.0","Apache-2.0"
 "vagrant-puppet-install","6.0.1","Apache-2.0"
+"vagrant-puppet-install","7.0.0","Apache-2.0"
 "vain_routes","1.0.0",""
 "vault-kv","0.12.0","MPL-2.0"
 "vcap_services_base","0.2.10",""
