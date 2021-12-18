@@ -2333,6 +2333,8 @@
 "rails-routes-js-utils","4.0.2",""
 "rails3_before_render","0.2.0",""
 "rails_admin_pretender","0.0.2","MIT"
+"rails_taggable","0.1.0","MIT"
+"rails_taggable","0.1.1","MIT"
 "railsblocks-theme-bootstrap","0.1.0","MIT"
 "rakuna-authentication-github","1.0.0","MIT"
 "rakuna-authentication-github","1.0.1","MIT"
