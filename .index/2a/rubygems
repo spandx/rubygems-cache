@@ -2068,6 +2068,7 @@
 "ndl_string","0.0.1","MIT"
 "near_api","0.1.0","MIT"
 "near_api","0.1.1","MIT"
+"near_api","0.1.2","MIT"
 "netprospex-ruby","0.0.3","MIT"
 "netprospex-ruby","0.0.4","MIT"
 "netzke-redis-persistence","0.0.2",""

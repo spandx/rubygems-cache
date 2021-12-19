@@ -2481,6 +2481,7 @@
 "sequel-activerecord_connection","1.2.2","MIT"
 "sequel-activerecord_connection","1.2.3","MIT"
 "sequel-activerecord_connection","1.2.4","MIT"
+"sequel-activerecord_connection","1.2.5","MIT"
 "sequenced","0.1.0",""
 "sequenced","1.2.0",""
 "sequenced","1.3.0",""

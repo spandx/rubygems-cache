@@ -2910,6 +2910,7 @@
 "soar_auditing_provider","2.0.0","MIT"
 "soar_auditing_provider","3.0.0","MIT"
 "solargraph-arc","0.1.0","MIT"
+"solargraph-arc","0.2.0","MIT"
 "solaris_stats","0.1.1","MIT"
 "solaris_stats","0.1.2","MIT"
 "spine-parameters","0.1.0","BSD-3-Clause"

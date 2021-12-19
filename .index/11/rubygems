@@ -1648,6 +1648,7 @@
 "logstash-filter-libinjection","0.2.5","Apache-2.0"
 "logstash-filter-libinjection","0.2.6","Apache-2.0"
 "logstash-filter-libinjection","0.2.7","Apache-2.0"
+"logstash-filter-libinjection","0.2.8","Apache-2.0"
 "logstash-output-librato","0.1.0","Apache-2.0"
 "logstash-output-librato","0.1.1","Apache-2.0"
 "logstash-output-librato","0.1.2","Apache-2.0"
