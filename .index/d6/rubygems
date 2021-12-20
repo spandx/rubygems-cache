@@ -44,6 +44,7 @@
 "activemodel-csv_validator","0.1.1","MIT"
 "activemodel-csv_validator","0.1.2","MIT"
 "activemodel-csv_validator","0.2.0","MIT"
+"activemodel-csv_validator","0.3.0","MIT"
 "activerecord-redshift","4.0.0","MIT"
 "activerecord-redshift","5.0.0","MIT"
 "activerecord-redshift","6.0.0","MIT"

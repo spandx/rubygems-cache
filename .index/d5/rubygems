@@ -1338,6 +1338,7 @@
 "fluent-plugin-deis-kafka","0.2.1","MIT"
 "fluent-plugin-deis-kafka","0.2.2","MIT"
 "fluent-plugin-redis-list","0.0.1",""
+"fluentd-plugin-match_counter","0.0.1",""
 "freeze_all","0.1.0","MIT"
 "ganglians_palindrome","0.1.0",""
 "ganglians_palindrome","0.2.0",""

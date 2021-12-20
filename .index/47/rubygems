@@ -1676,6 +1676,7 @@
 "jemalloc","1.0.0",""
 "jemalloc","1.0.1",""
 "jibril","0.0.1","MIT"
+"josg","0.1.0","MIT"
 "josh-memcache_openid_store","0.1",""
 "jquery_image_gallery","0.1.0","MIT"
 "jquery_image_gallery","0.2.0","MIT"

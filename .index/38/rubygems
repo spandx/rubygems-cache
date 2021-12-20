@@ -1583,6 +1583,7 @@
 "kitchen-verifier-serverspec","0.6.9","Apache-2.0"
 "kitchen-verifier-serverspec","0.7.0","Apache-2.0"
 "kitchen-verifier-serverspec","0.7.1","Apache-2.0"
+"kitchen-verifier-serverspec","0.7.2","Apache-2.0"
 "knife-chop","0.11.12","MIT"
 "knife-chop","0.12.03","MIT"
 "knife-chop","0.12.17","MIT"
