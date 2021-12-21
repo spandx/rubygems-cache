@@ -2,6 +2,7 @@
 "HornsAndHooves-jade-rails","1.11.0.2","MIT"
 "acclaim-api","0.1.0","MIT"
 "acme_plugin","0.0.13","MIT"
+"active_typed_store","0.1.0","MIT"
 "activerecord-amazon-timestream-adapter","0.0.1","MIT"
 "activerecord-amazon-timestream-adapter","0.0.2","MIT"
 "activerecord-amazon-timestream-adapter","0.0.3","MIT"
