@@ -393,6 +393,7 @@
 "capistrano3-aws","0.2.0","MIT"
 "capistrano_ec2_role","0.0.1","MIT"
 "card-mod-mirror","0.1","GPL-3.0"
+"card-mod-mirror","0.2","GPL-3.0"
 "carrierwave-mongoid-file-seek","0.0.1","MIT"
 "casto","0.0.1","MIT"
 "catche","0.2.4",""

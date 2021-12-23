@@ -434,6 +434,7 @@
 "capistrano2-zabbix","0.1.4","MIT"
 "capistrano2-zabbix","0.2.1","MIT"
 "card-mod-lookup","0.1","GPL-3.0"
+"card-mod-lookup","0.2","GPL-3.0"
 "carray-calculus","1.0.0","MIT"
 "cashaddress","0.1.0","MIT"
 "cassandra_lock","0.0.1","MIT"

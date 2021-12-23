@@ -2921,6 +2921,7 @@
 "spine-parameters","0.2.0","BSD-3-Clause"
 "spine-parameters","0.3.0","BSD-3-Clause"
 "spree_location_prioritizer","3.0.0",""
+"spree_only_one_line_item_per_order","0.0.2","BSD-3-Clause"
 "spree_zaez_billet","3.0.0",""
 "spree_zaez_billet","3.0.1",""
 "spree_zaez_billet","3.0.2",""
