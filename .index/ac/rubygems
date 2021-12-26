@@ -3170,6 +3170,7 @@
 "x25519","1.0.7","LGPL-2.1-or-later"
 "x25519","1.0.8","BSD-3-Clause"
 "x25519","1.0.9","BSD-3-Clause"
+"xmas-tree","1.0.0",""
 "yard-serverspec-plugin","0.0.1","MIT"
 "yawpa","1.0.0",""
 "yawpa","1.1.0",""

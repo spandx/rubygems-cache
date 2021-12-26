@@ -1012,6 +1012,7 @@
 "git-revision","0.0.1","BSD"
 "git-revision","0.0.2","BSD"
 "git-revision","0.0.3","BSD"
+"git-revision","0.0.4","BSD-2-Clause"
 "git-trifle","0.0.1",""
 "githat","0.0.6",""
 "githat","0.0.7",""
