@@ -2463,6 +2463,7 @@
 "logstash-input-bunny","0.2.3","Apache-2.0"
 "logstash-input-bunny","0.2.4","Apache-2.0"
 "logstash-input-bunny","0.2.5","Apache-2.0"
+"logstash-input-sls","0.0.10","MIT"
 "logstash-input-sls","0.0.2","MIT"
 "logstash-input-sls","0.0.4","MIT"
 "logstash-input-sls","0.0.5","MIT"
