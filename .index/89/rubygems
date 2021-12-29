@@ -2256,6 +2256,7 @@
 "ruby-getoptions","0.1.5","MIT"
 "ruby_tracklib","0.1.0","Apache-2.0-|-MIT"
 "rubysl-iconv","1.0.1","BSD"
+"rubysocket-client","0.0.2",""
 "rumpy","0.9.10",""
 "rumpy","0.9.14",""
 "rumpy","0.9.24",""

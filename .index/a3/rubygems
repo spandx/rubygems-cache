@@ -1005,6 +1005,7 @@
 "fluent-plugin-http-list","0.1.0",""
 "fluent-plugin-multiline-greenplum-log","0.1.1","Apache-2.0"
 "fluent-plugin-multiline-greenplum-log","0.1.2","Apache-2.0"
+"fluent-plugin-parser-cloudfoundry-syslog","0.1.1","Apache-2.0"
 "fluent-plugin-reassemble","0.0.1","Apache-2.0"
 "fluent-plugin-reassemble","0.0.2","Apache-2.0"
 "fluent-plugin-reassemble","0.0.3","Apache-2.0"
