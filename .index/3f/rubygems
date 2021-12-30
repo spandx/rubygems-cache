@@ -2494,6 +2494,7 @@
 "rack-rdf","3.1.0","Unlicense"
 "rack-rdf","3.1.1","Unlicense"
 "rack-rdf","3.1.2","Unlicense"
+"rack-rdf","3.2.0","Unlicense"
 "rack-statsd_batch","0.0.1","MIT"
 "rack_ssi","0.0.3",""
 "rack_ssi","0.0.4",""
