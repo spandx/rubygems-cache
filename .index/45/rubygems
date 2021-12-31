@@ -2117,6 +2117,7 @@
 "logstash-filter-block_filter","0.6.5","Apache-2.0"
 "logstash-filter-block_filter","0.6.6","Apache-2.0"
 "logstash-output-logservice","0.1.0","Apache-2.0"
+"logstash-output-logservice","0.10.0","Apache-2.0"
 "logstash-output-logservice","0.2.0","Apache-2.0"
 "logstash-output-logservice","0.3.0","Apache-2.0"
 "logstash-output-logservice","0.4.0","Apache-2.0"
