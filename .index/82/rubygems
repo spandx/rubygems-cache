@@ -1655,6 +1655,7 @@
 "nanomsg","0.4.0",""
 "nanomsg","0.5.0",""
 "nanomsg","0.6.0",""
+"nanovg-bindings","0.0.1","Zlib"
 "ncumbra","0.1.0","MIT"
 "ncumbra","0.1.1","MIT"
 "ncumbra","0.1.2","MIT"

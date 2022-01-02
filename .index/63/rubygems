@@ -2164,6 +2164,8 @@
 "reqres_rspec","0.2.5","MIT"
 "reqres_rspec","0.2.6","MIT"
 "resource-struct","0.1.0","MIT"
+"resource-struct","0.2.0","MIT"
+"resource-struct","0.2.1","MIT"
 "resque_mailer","2.2.0",""
 "resque_mailer","2.2.1",""
 "resque_mailer","2.2.2",""

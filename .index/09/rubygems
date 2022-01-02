@@ -1170,6 +1170,7 @@
 "csl","1.5.1","AGPL-3.0"
 "csl","1.5.2","AGPL-3.0"
 "csl","1.6.0","AGPL-3.0-|-BSD-2-Clause"
+"csl","2.0.0","AGPL-3.0-|-BSD-2-Clause"
 "csv_to_rdf","0.0.0.1","MIT"
 "cucumber-json-api-steps","0.0.1","MIT"
 "cucumber-json-api-steps","0.0.2","MIT"

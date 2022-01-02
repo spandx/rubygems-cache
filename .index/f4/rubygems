@@ -916,6 +916,7 @@
 "fallback_assets","0.0.4","MIT"
 "fallback_assets","0.0.5","MIT"
 "false_destroy","0.1.0",""
+"faraday-retry","1.0.0","MIT"
 "fastlane-plugin-asana_task","0.1.1","MIT"
 "fastlane-plugin-asana_task","0.1.2","MIT"
 "fastlane-plugin-asana_task","0.1.3","MIT"
