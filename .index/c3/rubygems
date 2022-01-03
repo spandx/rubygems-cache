@@ -2252,6 +2252,7 @@
 "rails-bootstrap-engine","0.0.9",""
 "rails-log-sorter","0.1",""
 "rails-surrender","0.0.1","GPL-3.0-only"
+"rails-surrender","0.1.0","GPL-3.0"
 "rails3_bridge","0.1.1",""
 "rails_admin_ui_dashboard_blocks","1.1.2","MIT"
 "rails_admin_ui_dashboard_blocks","1.1.3","MIT"
