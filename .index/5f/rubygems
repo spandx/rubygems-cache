@@ -3403,6 +3403,7 @@
 "spark_api","1.5.3","Apache-2.0"
 "spark_api","1.5.4","Apache-2.0"
 "spark_api","1.5.5","Apache-2.0"
+"spark_api","1.5.6","Apache-2.0"
 "spec_support","0.0.11",""
 "spec_support","0.0.12",""
 "spec_support","0.0.8",""

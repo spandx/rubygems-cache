@@ -1800,6 +1800,7 @@
 "paranoia_uniqueness_validator","3.1.0",""
 "paranoia_uniqueness_validator","3.2.0","MIT"
 "paranoia_uniqueness_validator","3.3.0","MIT"
+"paranoia_uniqueness_validator","3.4.0","MIT"
 "parseCmdlOpts","0.0.1","BSD"
 "payment-manager-client","0.1.0",""
 "payment-manager-client","0.2.0",""
