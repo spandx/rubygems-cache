@@ -377,6 +377,7 @@
 "aws-sdk-s3","1.109.0","Apache-2.0"
 "aws-sdk-s3","1.11.0","Apache-2.0"
 "aws-sdk-s3","1.110.0","Apache-2.0"
+"aws-sdk-s3","1.111.0","Apache-2.0"
 "aws-sdk-s3","1.12.0","Apache-2.0"
 "aws-sdk-s3","1.13.0","Apache-2.0"
 "aws-sdk-s3","1.14.0","Apache-2.0"

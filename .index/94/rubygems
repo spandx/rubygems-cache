@@ -709,6 +709,7 @@
 "fake_chewy","0.1.1","MIT"
 "fake_chewy","0.1.2","MIT"
 "faraday-patron","1.0.0","MIT"
+"faraday-patron","2.0.0","MIT"
 "faraday-rack","1.0.0","MIT"
 "faraday_middleware-oauth2_refresh","0.0.1",""
 "faraday_middleware-oauth2_refresh","0.0.2",""

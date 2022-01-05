@@ -1137,6 +1137,7 @@
 "flt","1.5.4","MIT"
 "fluent-plugin-ceph","0.1.0","Apache-2.0"
 "fluent-plugin-multi-type-parser","0.0.1","Apache-2.0"
+"fluent-plugin-multi-type-parser","0.0.2","Apache-2.0"
 "fluent-plugin-tail-multiline-ex","0.0.1","Apache-2.0"
 "fluent-plugin-tail-multiline-ex","0.0.2","Apache-2.0"
 "fluent-plugin-tail-multiline-ex","0.0.3","Apache-2.0"
