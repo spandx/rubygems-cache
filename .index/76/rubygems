@@ -2277,6 +2277,7 @@
 "sequel_pg_ltree","0.1.8","MIT"
 "sequel_translatable","0.2.0",""
 "setup_oob","0.0.1","Apache-2.0"
+"setup_oob","0.0.2","Apache-2.0"
 "shape2work","0.0.1","MIT"
 "sheets","1.0.0",""
 "sheets","1.1.1",""
