@@ -3476,6 +3476,7 @@
 "uuid_validator","0.0.4",""
 "uuid_validator","0.0.5",""
 "vagrant-communicator-docker","1.0.10","MIT"
+"vagrant-communicator-docker","1.0.11","MIT"
 "vagrant-communicator-docker","1.0.6","MIT"
 "vagrant-communicator-docker","1.0.7","MIT"
 "vagrant-communicator-docker","1.0.9","MIT"
