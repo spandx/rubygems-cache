@@ -402,6 +402,7 @@
 "card-mod-recaptcha","0.13.4","GPL-3.0"
 "card-mod-recaptcha","0.14.0","GPL-3.0"
 "card-mod-recaptcha","0.14.1","GPL-3.0"
+"card-mod-recaptcha","0.14.2","GPL-3.0"
 "carrierwave-activerecord-store-in-model","0.10.0","MIT"
 "carrierwave-activerecord-store-in-model","0.10.1","MIT"
 "carrierwave-activerecord-store-in-model","0.8.0","MIT"

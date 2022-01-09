@@ -1366,6 +1366,7 @@
 "jdbc-mysql","5.1.49","GPL-2.0"
 "jdbc-mysql","8.0.17","GPL-2.0"
 "jdbc-mysql","8.0.20","GPL-2.0"
+"jdbc-mysql","8.0.27","GPL-2.0"
 "jekyll-bootstrap","4.0.0","MIT"
 "jekyll-haml-improved","0.1","MIT"
 "jekyll-haml-improved","0.2","MIT"
