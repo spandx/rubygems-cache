@@ -623,6 +623,7 @@
 "cairo-gobject","3.4.7","LGPL-2.1+"
 "cairo-gobject","3.4.8","LGPL-2.1+"
 "cairo-gobject","3.4.9","LGPL-2.1+"
+"cairo-gobject","3.5.0","LGPL-2.1+"
 "calculose","0.0.1",""
 "calendar_date_select","1.16.2",""
 "calendar_date_select","2.0.0","MIT"

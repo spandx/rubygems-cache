@@ -3242,6 +3242,7 @@
 "vagrant-ec2setup","0.0.1","MIT"
 "vagrant-ec2setup","0.0.2","MIT"
 "vagrant-ec2setup","0.0.3","MIT"
+"vagrant-qemu","0.1.2","MIT"
 "values","1.0.0",""
 "values","1.1.0",""
 "values","1.3.0","MIT"

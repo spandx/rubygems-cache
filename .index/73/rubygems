@@ -1264,6 +1264,7 @@
 "gnawrnip","0.7.0","MIT"
 "google-cloud-orchestration-airflow-service-v1","0.1.0","Apache-2.0"
 "google-cloud-orchestration-airflow-service-v1","0.1.1","Apache-2.0"
+"google-cloud-orchestration-airflow-service-v1","0.1.2","Apache-2.0"
 "gothonweb","0.0.1",""
 "graphql-activerecord","0.10.0","MIT"
 "graphql-activerecord","0.11.0","MIT"

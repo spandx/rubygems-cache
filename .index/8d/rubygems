@@ -1285,6 +1285,7 @@
 "google-cloud-gke_hub-v1beta1","0.1.3","Apache-2.0"
 "google-cloud-gke_hub-v1beta1","0.2.0","Apache-2.0"
 "google-cloud-gke_hub-v1beta1","0.2.1","Apache-2.0"
+"google-cloud-gke_hub-v1beta1","0.2.2","Apache-2.0"
 "gorilla_test-rails","0.0.1","MIT"
 "gorilla_test-rails","0.0.2","MIT"
 "guard-julia","0.0.1","MIT"
