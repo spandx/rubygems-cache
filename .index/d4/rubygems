@@ -132,6 +132,7 @@
 "activerecord-oracle_enhanced-adapter","6.1.4","MIT"
 "activerecord-oracle_enhanced-adapter","6.1.5","MIT"
 "activerecord-oracle_enhanced-adapter","7.0.0","MIT"
+"activerecord-oracle_enhanced-adapter","7.0.1","MIT"
 "activerecord-redshift-adapter-ng","0.9.0","MIT"
 "activerecord-redshift-adapter-ng","0.9.1","MIT"
 "activerecord-tidb-adapter","0.1.1","Apache-2.0"
