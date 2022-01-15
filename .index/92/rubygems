@@ -2723,6 +2723,7 @@
 "sequence","0.2.4","GPL-2.0"
 "serialize_attributes","0.1.0","MIT"
 "serialize_attributes","0.2.0","MIT"
+"serialize_attributes","0.3.0","MIT"
 "shengxiao","0.1.0","MIT"
 "sigma","0.0.0",""
 "sigma","0.1.0",""
