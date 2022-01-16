@@ -1280,6 +1280,7 @@
 "grape-doc","0.6.1",""
 "graphql_activerecord_autoselect","1.0.0","MIT"
 "graphql_activerecord_autoselect","1.0.1","MIT"
+"graphql_activerecord_autoselect","2.0.0","MIT"
 "griddler-sparkpost","0.0.1","MIT"
 "griddler-sparkpost","0.0.3","MIT"
 "grpc-x86_64-linux","0.13.0","BSD-3-Clause"
