@@ -83,6 +83,7 @@
 "activerecord-delegation-expected_behaviour","1.4.0","MIT"
 "activerecord-delegation-expected_behaviour","1.5.0","MIT"
 "activerecord-nested_attribute_destruction","0.1.0","MIT"
+"activerecord-nested_attribute_destruction","0.1.1","MIT"
 "activerecord-take_or_find","1.0.0","MIT"
 "activerecord_reindex","0.1.0","MIT"
 "activerecord_reindex","0.1.1","MIT"
