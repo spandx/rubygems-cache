@@ -3734,6 +3734,8 @@
 "sluggable_brandon","0.0.5",""
 "smart_method","0.1.0","MIT"
 "smart_method","0.2.0","MIT"
+"smtp_mock","0.1.0","MIT"
+"smtp_mock","0.1.1","MIT"
 "solidus_razorpay","0.1.0","MIT"
 "solidus_razorpay","1.0.0","MIT"
 "solidus_razorpay","1.1.0","MIT"
