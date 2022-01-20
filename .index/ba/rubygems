@@ -1343,6 +1343,7 @@
 "japanese_deinflector","0.0.2",""
 "jekyll-citations","1.0.0","MIT"
 "jekyll-embedly-plugin","0.3.0","Apache2"
+"jekyll-notion","0.0.0","MIT"
 "jekyll-quickstart","0.0.1","MIT"
 "jekyll-quickstart","0.0.2","MIT"
 "jekyll-theme-sd2","0.1.1","MIT"
