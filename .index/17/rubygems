@@ -1502,6 +1502,7 @@
 "gir_ffi-cairo","0.0.11","LGPL-2.1"
 "gir_ffi-cairo","0.0.12","LGPL-2.1"
 "gir_ffi-cairo","0.0.13","LGPL-2.1"
+"gir_ffi-cairo","0.0.14","LGPL-2.1"
 "gir_ffi-cairo","0.0.2",""
 "gir_ffi-cairo","0.0.3",""
 "gir_ffi-cairo","0.0.4","LGPL-2.1"

@@ -1038,6 +1038,7 @@
 "embulk-input-cassandra","0.1.0","MIT"
 "embulk-input-mongodb-java","0.8.0","MIT"
 "embulk-input-mongodb-java","0.8.1","Apache-2.0"
+"empty_gem","1.0.0","MIT"
 "enum_extensions","1.0.0","MIT"
 "enum_extensions","1.0.1","MIT"
 "enum_extensions","1.0.2","MIT"

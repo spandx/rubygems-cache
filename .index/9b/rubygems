@@ -2450,6 +2450,7 @@
 "rspec_junit_formatter_bitbucket","0.1.0","MIT"
 "rstatsd","0.3",""
 "rub-pacman","0.0.2","MIT"
+"ruboconf","1.0.0","MIT"
 "rubocop-hint","0.4.0","MIT"
 "rubocop-nosolosoftware","0.1.0","MIT"
 "rubocop-nosolosoftware","0.10.0","MIT"

@@ -3301,6 +3301,7 @@
 "rpush","5.4.0","MIT"
 "rpush","6.0.0","MIT"
 "rpush","6.0.1","MIT"
+"rpush","7.0.0","MIT"
 "rspec_api_test","0.0.1","MIT"
 "rspec_api_test","0.0.2","MIT"
 "rspec_candy","0.1.1",""
