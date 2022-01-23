@@ -1652,6 +1652,7 @@
 "jwt_sessions","2.5.2","MIT"
 "jwt_sessions","2.6.0","MIT"
 "jwt_sessions","2.7.0","MIT"
+"jwt_sessions","2.7.1","MIT"
 "kafka_rest","0.1.0","MIT"
 "kafka_rest","0.1.1","MIT"
 "kakari_musubi","0.1.0","MIT"
