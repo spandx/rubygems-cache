@@ -144,6 +144,7 @@
 "atspi_app_driver","0.5.0",""
 "atspi_app_driver","0.6.0",""
 "atspi_app_driver","0.7.0","MIT"
+"atspi_app_driver","0.7.1","MIT"
 "auto_format_attributes","0.1.0","MIT"
 "auto_format_attributes","0.1.1","MIT"
 "autowow","0.1.0","MIT"

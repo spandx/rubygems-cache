@@ -2140,6 +2140,7 @@
 "dns_mock","1.4.3","MIT"
 "dns_mock","1.4.4","MIT"
 "dns_mock","1.5.0","MIT"
+"dns_mock","1.5.1","MIT"
 "dnstraverse","0.1.1",""
 "dnstraverse","0.1.14",""
 "dnstraverse","0.1.7",""

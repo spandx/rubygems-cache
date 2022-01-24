@@ -3269,6 +3269,8 @@
 "rubiojr-chef_knives","0.3.2",""
 "rubiojr-domctl","0.2.20090414130028",""
 "rubiojr-domctl","0.2.20090415143011",""
+"ruboconf-rails","1.0.0","MIT"
+"ruboconf-rails","1.1.0","MIT"
 "rubocop-scc","0.1.0","MIT"
 "rubocop-scc","0.2.1","MIT"
 "rubocop-scc","0.2.2","MIT"
