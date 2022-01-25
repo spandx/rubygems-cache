@@ -2648,6 +2648,7 @@
 "query_result_presenter","0.0.1","MIT"
 "queryable_collection","0.1.0","MIT"
 "queryable_collection","0.2.0","MIT"
+"queryable_collection","0.3.0","MIT"
 "quickscraper","0.1.0",""
 "rack-health","0.1.0",""
 "rack-health","0.1.1",""
