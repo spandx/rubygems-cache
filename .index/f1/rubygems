@@ -787,6 +787,7 @@
 "devise_cas_authenticatable","1.9.1","MIT"
 "devise_cas_authenticatable","1.9.2","MIT"
 "devise_cas_authenticatable","2.0.0","MIT"
+"devise_cas_authenticatable","2.0.1","MIT"
 "devise_ldap_norm","0.2.0","MIT"
 "dijit-rails","0.11.0",""
 "dijit-rails","0.14.0",""

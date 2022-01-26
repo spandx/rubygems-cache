@@ -1601,6 +1601,7 @@
 "logstash-mixin-http_client","6.0.0","Apache-2.0"
 "logstash-mixin-http_client","6.0.1","Apache-2.0"
 "logstash-mixin-http_client","7.0.0","Apache-2.0"
+"logstash-mixin-http_client","7.1.0","Apache-2.0"
 "logstash-output-awslogs","0.1.0","Apache-2.0"
 "logstash-output-awslogs","0.1.1","Apache-2.0"
 "logstash-output-awslogs","0.1.10","Apache-2.0"

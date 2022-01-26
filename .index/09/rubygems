@@ -2347,6 +2347,7 @@
 "mcollective-client","2.9.0",""
 "mcollective-client","2.9.1",""
 "md2hiki","0.0.1","MIT"
+"md2hiki","0.5.0","MIT"
 "median","0.0.1",""
 "median","0.0.3",""
 "mediator","0.0.0",""

@@ -1797,6 +1797,7 @@
 "grails-mvc","0.1.8","MIT"
 "grails-mvc","0.1.91","MIT"
 "grape-jsonapi","1.0.0","MIT"
+"grape-jsonapi","1.0.1","MIT"
 "grape_session","0.0.1","MIT"
 "grape_session","0.0.2","MIT"
 "grape_session","0.0.3","MIT"
