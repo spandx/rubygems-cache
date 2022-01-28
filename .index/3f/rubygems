@@ -2104,6 +2104,7 @@
 "ongair_ruby","0.0.12","MIT"
 "open_fda_api","0.0.1","MIT"
 "open_fda_api","0.0.12","MIT"
+"open_fda_api","0.0.13","MIT"
 "open_fda_api","0.0.2","MIT"
 "open_fda_api","0.0.3","MIT"
 "open_fda_api","0.0.4","MIT"
@@ -3629,4 +3630,5 @@
 "zeroc-ice","3.7.4","GPL-2.0"
 "zeroc-ice","3.7.5","GPL-2.0"
 "zeroc-ice","3.7.6","GPL-2.0"
+"zeroc-ice","3.7.7","GPL-2.0"
 "zipcode-ch","1.0.0",""
