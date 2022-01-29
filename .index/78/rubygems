@@ -1916,6 +1916,7 @@
 "google-protobuf-x86_64-darwin","3.19.1","BSD-3-Clause"
 "google-protobuf-x86_64-darwin","3.19.2","BSD-3-Clause"
 "google-protobuf-x86_64-darwin","3.19.3","BSD-3-Clause"
+"google-protobuf-x86_64-darwin","3.19.4","BSD-3-Clause"
 "gophr","1.0.0","MIT"
 "gotasku","0.0.0","MIT"
 "grandy_booch","0.0.0","MIT"
