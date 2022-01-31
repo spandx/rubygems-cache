@@ -1556,6 +1556,7 @@
 "jekyll-commonmark","1.2.0","MIT"
 "jekyll-commonmark","1.3.0","MIT"
 "jekyll-commonmark","1.3.1","MIT"
+"jekyll-commonmark","1.4.0","MIT"
 "jekyll-deploy","0.0.2","MIT"
 "jekyll-liquid-debug","0.2.2","MIT"
 "jekyll-liquid-debug","0.2.3","MIT"

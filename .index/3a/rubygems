@@ -1143,6 +1143,7 @@
 "gitlab-gollum-lib","4.2.7.7","MIT"
 "gitlab-gollum-lib","4.2.7.8","MIT"
 "gitlab-gollum-lib","4.2.7.9","MIT"
+"gitlab-license-plain","1.0.0","MIT"
 "gitrepo-status","0.2.0",""
 "gitrepo-status","0.2.1",""
 "gitrepo-status","0.2.2",""
