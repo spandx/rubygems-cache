@@ -2709,6 +2709,7 @@
 "sentry-delayed_job","4.9.2","MIT"
 "sentry-delayed_job","5.0.0","MIT"
 "sentry-delayed_job","5.0.1","MIT"
+"sentry-delayed_job","5.0.2","MIT"
 "sfn-bucketpurge","0.0.1","Apache-2.0"
 "shatty","0.0.1",""
 "shatty","0.0.3",""

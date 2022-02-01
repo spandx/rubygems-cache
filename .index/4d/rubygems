@@ -1853,6 +1853,7 @@
 "logstash-output-mongodb","3.1.4","Apache-2.0"
 "logstash-output-mongodb","3.1.5","Apache-2.0"
 "logstash-output-mongodb","3.1.6","Apache-2.0"
+"logstash-output-mongodb","3.1.7","Apache-2.0"
 "logstash-promtail-http-input-java","4.0.1","Apache-2.0"
 "logstash-promtail-http-input-java","4.1","Apache-2.0"
 "logstash-promtail-http-input-java","4.2","Apache-2.0"

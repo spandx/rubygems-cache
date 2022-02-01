@@ -2018,6 +2018,7 @@
 "fleck","0.7.0","MIT"
 "fleck","1.0.0","MIT"
 "fleck","1.0.1","MIT"
+"fleck","2.0.0","MIT"
 "fluent-plugin-cloudwatch-put-timestamp","0.1.1","MIT"
 "fluent-plugin-dogstatsd-mediba","0.0.7","MIT"
 "fluent-plugin-dogstatsd-mediba","0.0.9","MIT"

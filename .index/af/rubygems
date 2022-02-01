@@ -3153,6 +3153,7 @@
 "sentry-resque","4.9.2","MIT"
 "sentry-resque","5.0.0","MIT"
 "sentry-resque","5.0.1","MIT"
+"sentry-resque","5.0.2","MIT"
 "sequel-keyset_pagination","0.0.1","MIT"
 "sequel-keyset_pagination","0.0.2","MIT"
 "sequel_oracle_extensions","0.5.4",""
