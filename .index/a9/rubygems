@@ -765,6 +765,7 @@
 "factor-connector-trello","0.0.2",""
 "factor-connector-trello","0.0.3",""
 "factor-connector-trello","0.0.4",""
+"fake_io","0.1.0","MIT"
 "faraday_csv_middleware","0.1.0","MIT"
 "fawry","0.1.0","MIT"
 "fawry","0.2.0","MIT"

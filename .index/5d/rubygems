@@ -2080,6 +2080,7 @@
 "rbr","0.1.0",""
 "rbr","0.2.0",""
 "rbr","0.3.0",""
+"rbr","0.3.1","GPL-3.0-or-later"
 "rdbms_sampler","1.1.1","MIT"
 "rdbms_sampler","1.2.0","MIT"
 "react_renderer","1.0.0","MIT"
