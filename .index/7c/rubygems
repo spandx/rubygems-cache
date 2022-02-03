@@ -1223,6 +1223,7 @@
 "false","0.0.1","MIT"
 "fannypack","0.2",""
 "fartscroll-rails","0.1","MIT"
+"fastlane-plugin-flutter_versioncode_bump","1.0.0","MIT"
 "fastlane-plugin-notifyworker","0.1.2","MIT"
 "fastlane-plugin-notifyworker","0.1.3","MIT"
 "fastprowl","0.3",""

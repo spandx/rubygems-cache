@@ -3213,6 +3213,7 @@
 "torch-rb","0.8.2","BSD-3-Clause"
 "torch-rb","0.8.3","BSD-3-Clause"
 "torch-rb","0.9.0","BSD-3-Clause"
+"torch-rb","0.9.1","BSD-3-Clause"
 "torquebox-transactions","2.0.0",""
 "torquebox-transactions","2.0.1",""
 "torquebox-transactions","2.0.3",""

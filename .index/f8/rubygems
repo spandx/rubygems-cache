@@ -3655,6 +3655,7 @@
 "v2a-deploy","1.1.0",""
 "v2a-deploy","1.2.0",""
 "v2a-deploy","1.2.1",""
+"vagrant-astra","0.1.0","MIT"
 "vagrant-iijgp","0.0.1","MIT"
 "vagrant-iijgp","0.0.2","MIT"
 "vagrant-share","0.0.1",""
