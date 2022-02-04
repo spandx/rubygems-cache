@@ -252,6 +252,7 @@
 "attribute_delegator","0.0.2",""
 "aws-sdk-iottwinmaker","1.0.0","Apache-2.0"
 "aws-sdk-iottwinmaker","1.1.0","Apache-2.0"
+"aws-sdk-iottwinmaker","1.2.0","Apache-2.0"
 "aws-ssm-env","0.1.0","Apache-2.0"
 "aws-ssm-env","0.1.1","Apache-2.0"
 "aws-ssm-env","0.1.2","Apache-2.0"

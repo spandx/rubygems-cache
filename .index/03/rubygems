@@ -1214,6 +1214,7 @@
 "kube_secrets_encode","0.1.1","MIT"
 "kube_secrets_encode","1.0.0","MIT"
 "labrat","0.1.13",""
+"labrat","0.1.14",""
 "ldpath","0.0.0","Apache-2.0"
 "ldpath","0.0.1","Apache-2.0"
 "ldpath","0.0.2","Apache-2.0"

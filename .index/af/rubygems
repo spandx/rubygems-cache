@@ -362,6 +362,7 @@
 "aws-inventory","0.4.5","MIT"
 "aws-sdk-workspacesweb","1.0.0","Apache-2.0"
 "aws-sdk-workspacesweb","1.1.0","Apache-2.0"
+"aws-sdk-workspacesweb","1.2.0","Apache-2.0"
 "azure_cognitiveservices_qnamakerruntime","0.17.0","MIT"
 "azure_cognitiveservices_qnamakerruntime","0.17.1","MIT"
 "azure_cognitiveservices_qnamakerruntime","0.17.2","MIT"
