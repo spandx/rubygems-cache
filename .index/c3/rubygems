@@ -2421,6 +2421,8 @@
 "representable","3.0.4","MIT"
 "representable","3.1.0","MIT"
 "representable","3.1.1","MIT"
+"reprioritizable","0.1.0","MIT"
+"reprioritizable","0.1.1","MIT"
 "request_token_generator","1.0.0","MIT"
 "request_token_generator","1.0.1","MIT"
 "request_token_generator","1.0.2","MIT"
