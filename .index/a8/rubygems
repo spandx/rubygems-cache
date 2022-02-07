@@ -1130,6 +1130,7 @@
 "gitlab-sidekiq-fetcher","0.7.1","LGPL-3.0"
 "gitlab-sidekiq-fetcher","0.8.0","LGPL-3.0"
 "gitstart","0.0.0","Apache-2.0"
+"glimmer_wordle","1.0.0","MIT"
 "gluez","0.1.1",""
 "gluez","0.1.3",""
 "gluez","0.1.4",""

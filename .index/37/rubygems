@@ -1397,6 +1397,8 @@
 "kubes","0.7.7","Apache2.0"
 "kubes","0.7.8","Apache2.0"
 "kubes","0.7.9","Apache2.0"
+"kubes","0.8.0","Apache2.0"
+"kubes","0.8.1","Apache2.0"
 "kuby-sidekiq","0.2.0",""
 "kuby-sidekiq","0.3.0",""
 "lastpass-cli","0.1.1","MIT"
