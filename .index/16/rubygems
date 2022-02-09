@@ -2595,6 +2595,7 @@
 "railties","6.1.4.4","MIT"
 "railties","7.0.0","MIT"
 "railties","7.0.1","MIT"
+"railties","7.0.2","MIT"
 "raise_js","0.0.1",""
 "raise_js","0.0.2",""
 "rake-migrations","0.2.0","MIT"

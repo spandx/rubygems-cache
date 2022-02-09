@@ -2528,6 +2528,8 @@
 "showcase_filter","0.0.1","MIT"
 "showcase_filter","0.0.2","MIT"
 "shutup_sqlite","0.1",""
+"sidekiq-delay_extensions","6.4.0","LGPL-3.0"
+"sidekiq-delay_extensions","6.4.1","LGPL-3.0"
 "simple-images-downloader","1.0.0","MIT"
 "simple-images-downloader","1.0.1","MIT"
 "simple-images-downloader","1.0.2","MIT"

@@ -101,6 +101,7 @@
 "actioncable","6.1.4.4","MIT"
 "actioncable","7.0.0","MIT"
 "actioncable","7.0.1","MIT"
+"actioncable","7.0.2","MIT"
 "activemodel-immutable_validator","0.0.1","MIT"
 "activemodel-immutable_validator","0.0.2","MIT"
 "activerecord_bulkoperation","0.0.2","Ruby"

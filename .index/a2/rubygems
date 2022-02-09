@@ -706,6 +706,7 @@
 "chef-config","17.9.18","Apache-2.0"
 "chef-config","17.9.26","Apache-2.0"
 "chef-config","17.9.42","Apache-2.0"
+"chef-config","17.9.46","Apache-2.0"
 "chef-handler-jenkins","0.1",""
 "chef-handler-jenkins","0.2",""
 "chef-handler-jenkins","0.3",""
