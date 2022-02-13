@@ -3739,6 +3739,7 @@
 "specinfra","2.9.2","MIT"
 "specinfra","2.9.3","MIT"
 "spek","0.0.0","Hippocratic-3.0"
+"spek","0.1.0","Hippocratic-3.0"
 "spine-actions","0.1.0","BSD-3-Clause"
 "spine-actions","0.1.1","BSD-3-Clause"
 "spinny_rb","0.1.0",""
