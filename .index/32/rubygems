@@ -953,6 +953,7 @@
 "dradis-nmap","3.9.0","GPL-2.0"
 "dradis-nmap","4.0.0","GPL-2.0"
 "dradis-nmap","4.1.0","GPL-2.0"
+"dradis-nmap","4.2.0","GPL-2.0"
 "dragonfly-scp_data_store","0.0.2","MIT"
 "dragonfly-scp_data_store","0.0.3","MIT"
 "drillmail","0.0.0","MIT"
