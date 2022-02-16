@@ -1148,6 +1148,7 @@
 "ffi-wiring_pi","1.0.3","MIT"
 "fiber_scheduler_spec","0.0.1","MIT"
 "fiber_scheduler_spec","0.0.2","MIT"
+"fiber_scheduler_spec","0.10.0","MIT"
 "fiber_scheduler_spec","0.9.0","MIT"
 "fill_pdf","0.0.3","MIT"
 "flexite","0.0.10",""

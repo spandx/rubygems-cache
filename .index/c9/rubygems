@@ -1134,6 +1134,7 @@
 "ffaster","0.0.3","MIT"
 "fiber-scheduler","0.0.1","MIT"
 "fiber-scheduler","0.0.2","MIT"
+"fiber-scheduler","0.10.0","MIT"
 "fields-serializer","0.1.0","MIT"
 "fields-serializer","0.1.1","MIT"
 "fields-serializer","0.2.0","MIT"

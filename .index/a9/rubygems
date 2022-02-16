@@ -804,6 +804,7 @@
 "ffi-geos","2.2.0","MIT"
 "ffi-geos","2.3.0","MIT"
 "fiber_scheduler","0.0.1","MIT"
+"fiber_scheduler","0.10.0","MIT"
 "fiber_scheduler","0.9.0","MIT"
 "fig_rake","0.9.0","MIT"
 "fig_rake","0.9.1","MIT"
