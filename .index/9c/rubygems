@@ -788,6 +788,7 @@
 "fluent-plugin-norikra-patched-7","0.2.2","Apache-2.0"
 "fluent-plugin-opensearch","1.0.0","Apache-2.0"
 "fluent-plugin-opensearch","1.0.1","Apache-2.0"
+"fluent-plugin-opensearch","1.0.2","Apache-2.0"
 "fluent-plugin-splunkhec","1.0.0","MIT"
 "fluent-plugin-splunkhec","1.0.1","MIT"
 "fluent-plugin-splunkhec","1.1","MIT"

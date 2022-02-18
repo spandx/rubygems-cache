@@ -3106,6 +3106,7 @@
 "petrinet","0.1.0","MIT"
 "petrinet","0.1.1","MIT"
 "pg_online_schema_change","0.1.0","MIT"
+"pg_online_schema_change","0.2.0","MIT"
 "phonify","1.0.2","MIT"
 "pin_drop","0.0.1","MIT"
 "pk-machinist","1.0.3",""
