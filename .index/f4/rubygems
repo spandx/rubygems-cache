@@ -2735,6 +2735,7 @@
 "prometheus_exporter","0.8.1","MIT"
 "prometheus_exporter","1.0.0","MIT"
 "prometheus_exporter","1.0.1","MIT"
+"prometheus_exporter","2.0.0","MIT"
 "properties-ruby","0.0.4",""
 "puppet-lint-no_cron_resources-check","1.0.0","MIT"
 "puppet-lint-no_cron_resources-check","1.0.1","MIT"

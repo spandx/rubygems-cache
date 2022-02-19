@@ -2179,6 +2179,7 @@
 "logstash-output-googlecloudstorage-java","0.3.0","Apache-2.0"
 "logstash-output-googlecloudstorage-java","1.0.0","Apache-2.0"
 "logstash-two-output-rollbar","1.0.0","Apache-2.0"
+"lucidus","0.0.1","MIT"
 "mac_vendor","0.0.0","MIT"
 "mac_vendor","0.0.1","MIT"
 "mac_vendor","0.0.2","MIT"
