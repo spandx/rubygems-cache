@@ -2548,6 +2548,7 @@
 "simple_stats","1.0.0",""
 "simple_stats","1.1.0",""
 "simplecov-table","1.0.0","ISC"
+"simplecov-table","1.0.1","ISC"
 "sinatra-backstage","0.0.1","MIT"
 "sinatra-backstage","0.1.1","MIT"
 "sinatra-backstage","0.1.2","MIT"
