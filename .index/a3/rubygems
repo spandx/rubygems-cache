@@ -1984,6 +1984,8 @@
 "noda","0.0.5.1",""
 "nokogiri-x64-mingw-ucrt","1.13.0","MIT"
 "nokogiri-x64-mingw-ucrt","1.13.1","MIT"
+"nokogiri-x64-mingw-ucrt","1.13.2","MIT"
+"nokogiri-x64-mingw-ucrt","1.13.3","MIT"
 "norikra-udf-percentile-java","0.0.1","GPLv2"
 "norikra-udf-percentile-java","0.0.2","GPLv2"
 "nostos-source-illiad","0.0.1",""

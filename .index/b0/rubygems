@@ -2402,6 +2402,8 @@
 "nokogiri-x86_64-darwin","1.12.5","MIT"
 "nokogiri-x86_64-darwin","1.13.0","MIT"
 "nokogiri-x86_64-darwin","1.13.1","MIT"
+"nokogiri-x86_64-darwin","1.13.2","MIT"
+"nokogiri-x86_64-darwin","1.13.3","MIT"
 "nordea","2.0.0",""
 "nordea","2.0.1",""
 "nordea","2.0.2",""
