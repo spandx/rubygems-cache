@@ -2578,6 +2578,8 @@
 "reactive_freight","0.0.2","MIT"
 "read_cvs","0.0.0","MIT"
 "read_time_estimator","0.0.1","MIT"
+"recallai","0.0.1","MIT"
+"recallai","0.0.2","MIT"
 "redis-sentinel","1.0.0",""
 "redis-sentinel","1.1.0",""
 "redis-sentinel","1.1.1",""
