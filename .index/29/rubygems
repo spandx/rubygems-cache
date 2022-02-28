@@ -3141,6 +3141,7 @@
 "pg_online_schema_change","0.3.0","MIT"
 "pg_online_schema_change","0.4.0","MIT"
 "pg_online_schema_change","0.5.0","MIT"
+"pg_online_schema_change","0.6.0","MIT"
 "phonify","1.0.2","MIT"
 "pin_drop","0.0.1","MIT"
 "pk-machinist","1.0.3",""
