@@ -699,6 +699,8 @@
 "embulk-filter-join_file","0.0.2","MIT"
 "employ","0.0.1","MIT"
 "employ","0.0.2","MIT"
+"enum_utils","0.1.0",""
+"enum_utils","0.1.1",""
 "env_value","0.1.0","MIT"
 "eos-icons-font","1.0.0","MIT"
 "eos-icons-font","1.0.1","MIT"
