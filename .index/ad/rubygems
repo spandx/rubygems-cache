@@ -2243,6 +2243,7 @@
 "secondrotation-useragent","0.0.3.1",""
 "secretkeeper","0.1.0","MIT"
 "secretkeeper","0.1.1","MIT"
+"sendgrid-object","1.0.1","MIT"
 "sendle","0.1.1",""
 "sensu-plugins-jolokia-metrics","0.0.1","MIT"
 "sentry-inst_jobs","1.0.0","MIT"

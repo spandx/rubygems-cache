@@ -1375,6 +1375,8 @@
 "hbase-jruby-java","0.7.0","MIT"
 "hbase-jruby-java","0.7.1","MIT"
 "hensel_code","0.1.0","MIT"
+"hensel_code","0.2.0","MIT"
+"hensel_code","0.2.1","MIT"
 "heroku-hook","0.0.1",""
 "heroku-hook","0.0.10",""
 "heroku-hook","0.0.11",""

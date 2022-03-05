@@ -806,6 +806,7 @@
 "event_store_client","1.4.5","MIT"
 "event_store_client","1.4.6","MIT"
 "event_store_client","1.4.7","MIT"
+"event_store_client","1.4.8","MIT"
 "eventbrite","0.0.1","MIT"
 "eventbrite","0.1.0","MIT"
 "eventmachine-swinsian","0.0.1",""
