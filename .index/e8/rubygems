@@ -522,6 +522,8 @@
 "cocoapods-binary-gcp","0.0.4","MIT"
 "cocoapods-binary-gcp","0.0.5","MIT"
 "cocoapods-binary-gcp","0.0.6","MIT"
+"cocoapods-hmap-simple","1.0.0","MIT"
+"cocoapods-hmap-simple","1.0.1","MIT"
 "cocoapods-swift-binary-source-resolver","0.0.1","MIT"
 "cocoapods-swift-binary-source-resolver","0.0.2","MIT"
 "cocoapods-swift-binary-source-resolver","0.0.3","MIT"
