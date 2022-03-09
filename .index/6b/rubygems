@@ -1276,6 +1276,7 @@
 "fluent-plugin-group-exceptions","0.0.14","Apache-2.0"
 "fluent-plugin-group-exceptions","0.0.15","Apache-2.0"
 "fluent-plugin-jfrog-metrics","0.1.0","Apache-2.0"
+"fluent-plugin-jfrog-metrics","0.1.2","Apache-2.0"
 "fluent-plugin-json-in-json","0.1.0","BSD"
 "fluent-plugin-json-in-json","0.1.1","BSD"
 "fluent-plugin-json-in-json","0.1.2","BSD"

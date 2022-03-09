@@ -3001,6 +3001,7 @@
 "ruby-pg-extras","3.2.6","MIT"
 "ruby-pg-extras","3.2.7","MIT"
 "ruby-pg-extras","3.3.0","MIT"
+"ruby-pg-extras","4.0.0","MIT"
 "ruby-shrine-aliyun-oss","1.0.0","MIT"
 "ruby-tls","1.0.0","MIT"
 "ruby-tls","1.0.1","Ruby-|-GPL"
