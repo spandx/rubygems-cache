@@ -2383,6 +2383,7 @@
 "minke","1.9.7","MIT"
 "minke","1.9.8","MIT"
 "minke","1.9.9","MIT"
+"mnemorandom","0.1.1","MIT"
 "modal_helper","0.0.1","MIT"
 "mongo_hydrator","0.1.0",""
 "mongodb-version","0.0.1","MIT"

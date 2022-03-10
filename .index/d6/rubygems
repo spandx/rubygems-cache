@@ -1769,6 +1769,7 @@
 "message_router","0.0.2",""
 "message_router","0.2.0",""
 "metrics-backend-datadog","0.1.0","MIT"
+"metrics-backend-datadog","0.1.1","MIT"
 "microformats_helper","0.2.0",""
 "middleman-application-insights","1.0.0","MIT"
 "middleman-blog-ui","0.1.0","MIT"
