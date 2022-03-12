@@ -1277,6 +1277,7 @@
 "ip_in_range","0.1","GPL-3.0"
 "ip_in_range","0.4","GPL-3.0"
 "ip_in_range","0.5","GPL-3.0"
+"ip_in_range","0.6","GPL-3.0"
 "iterationlabs-my_obfuscate","0.3.3",""
 "iterationlabs-my_obfuscate","0.3.6",""
 "itly-sdk","0.1.0","MIT"

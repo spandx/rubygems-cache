@@ -1698,6 +1698,7 @@
 "openteam-capistrano","1.0.9",""
 "opentelemetry-exporters-datadog","0.1.0","Apache-2.0"
 "opentelemetry-exporters-datadog","0.2.0","Apache-2.0"
+"opentelemetry-exporters-datadog","0.2.2","Apache-2.0"
 "optio","0.2.0","MIT"
 "optio","0.3.0","MIT"
 "optio","0.4.0","MIT"

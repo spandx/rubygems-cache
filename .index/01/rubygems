@@ -2999,6 +2999,7 @@
 "rake_docker","2.1.0","MIT"
 "rake_docker","2.11.0","MIT"
 "rake_docker","2.13.0","MIT"
+"rake_docker","2.15.0","MIT"
 "rake_docker","2.3.0","MIT"
 "rake_docker","2.5.0","MIT"
 "rake_docker","2.7.0","MIT"
