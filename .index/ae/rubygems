@@ -2030,6 +2030,7 @@
 "osrc","0.0.4","MIT"
 "ot","0.1.0","MIT"
 "ot","0.1.1","MIT"
+"p-case","0.1.0","MIT"
 "pakyow-fail","0.1.0",""
 "parenthesize","0.0.1",""
 "parse_to_hash","0.0.1","MIT"

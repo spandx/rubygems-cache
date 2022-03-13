@@ -2292,6 +2292,8 @@
 "rails-pg-extras","4.0.0","MIT"
 "rails-pg-extras","4.0.1","MIT"
 "rails-pg-extras","4.1.0","MIT"
+"rails-pg-extras","4.2.0","MIT"
+"rails-pg-extras","4.4.0","MIT"
 "rails-script","0.0.1","MIT"
 "rails_config_validator","0.1.2","MIT"
 "rails_config_validator","0.2.0","MIT"

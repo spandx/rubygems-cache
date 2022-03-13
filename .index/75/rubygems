@@ -3645,6 +3645,7 @@
 "unf_ext-x86-mingw32","0.0.7.5","MIT"
 "unf_ext-x86-mingw32","0.0.7.7","MIT"
 "unf_ext-x86-mingw32","0.0.8","MIT"
+"unf_ext-x86-mingw32","0.0.8.1","MIT"
 "upnxt_processing_workitem_store_cassandra","0",""
 "url-analyzer","0.0.2","MIT"
 "vagrant-cloner-wops","2.1.2",""
