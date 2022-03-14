@@ -2723,6 +2723,8 @@
 "rubocop-google_ads","1.0.0","MIT"
 "rubocop-google_ads","2.0.0","MIT"
 "rubocop-rails_deprecation","0.1.0","MIT"
+"rubocop-rails_deprecation","0.2.0","MIT"
+"rubocop-rails_deprecation","0.3.0","MIT"
 "ruboty-growthforecast","0.1.0","MIT"
 "ruby-anmat","0.1.0","MIT"
 "ruby-anmat","0.1.1","MIT"

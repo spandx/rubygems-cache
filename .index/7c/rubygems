@@ -3271,6 +3271,7 @@
 "vcr","5.0.0","MIT"
 "vcr","5.1.0","MIT-Hippocratic-1.2"
 "vcr","6.0.0","Hippocratic-2.1-|-MIT"
+"vcr","6.1.0","Hippocratic-2.1-|-MIT"
 "version-one","0.0.10","MIT"
 "version-one","0.0.2","MIT"
 "version-one","0.0.3","MIT"
