@@ -3381,6 +3381,7 @@
 "sass-rails-bootstrap","2.2.2.3",""
 "sassunit","1.0.2","MIT"
 "sb-acts-as-taggable-on","6.5.0","MIT"
+"scarpe","0.1.0","MIT"
 "schema_registry_cli","0.1.0",""
 "schema_registry_cli","0.2.0",""
 "securenv","0.1.0","MIT"
