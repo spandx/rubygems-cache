@@ -368,6 +368,7 @@
 "capistrano-php-fpm","2.0.1","MIT"
 "capistrano-precompile-on-local","0.0.1","MIT"
 "capistrano-precompile-on-local","0.0.2","MIT"
+"capistrano-scm-local_git_upload","0.1.0","MIT"
 "card-mod-solid_cache","0.1","GPL-3.0"
 "card-mod-solid_cache","0.2","GPL-3.0"
 "catpix","0.1.0","MIT"

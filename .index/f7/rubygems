@@ -1633,6 +1633,7 @@
 "jobQueue","1.0.8","BSD"
 "jobQueue","1.0.9","BSD"
 "joy_ussd_engine","0.1.0","MIT"
+"joy_ussd_engine","0.1.1","MIT"
 "jps","1.0.0","MIT"
 "jquery-migrate-rails","0.0.2",""
 "jquery-migrate-rails","1.0.0",""
