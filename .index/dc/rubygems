@@ -743,6 +743,8 @@
 "eon-elements","0.0.1",""
 "erb-formatter","0.1.0","MIT"
 "erb-formatter","0.1.1","MIT"
+"erb-formatter","0.2.0","MIT"
+"erb-formatter","0.2.1","MIT"
 "eventstore-http","0.1.6","Beerware"
 "everypay","0.0.1","MIT"
 "f4r","0.1.0","MIT"

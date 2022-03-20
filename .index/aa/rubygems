@@ -1801,6 +1801,7 @@
 "on_destroy","0.1.1",""
 "oortle-yajl-ruby","0.5.8",""
 "op_connect","0.1.1","MIT"
+"op_connect","0.1.2","MIT"
 "opal-autoloader","0.0.1","MIT"
 "opal-autoloader","0.0.2","MIT"
 "opal-autoloader","0.0.3","MIT"
