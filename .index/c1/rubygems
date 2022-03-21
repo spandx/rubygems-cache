@@ -2809,6 +2809,7 @@
 "sorbet-struct-comparable","1.0.0",""
 "sorbet-struct-comparable","1.1.0",""
 "sorbet-struct-comparable","1.2.0",""
+"sorbet-struct-comparable","1.3.0",""
 "sorceror_jruby-kafka-java","2.0.0","Apache-2.0"
 "sorceror_jruby-kafka-java","2.0.1","Apache-2.0"
 "sorceror_jruby-kafka-java","2.1.0","Apache-2.0"
