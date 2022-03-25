@@ -2471,6 +2471,8 @@
 "rpxem","0.0.6","MIT"
 "rpxem","0.0.7","MIT"
 "rspec-dom-testing","0.1.0",""
+"rspec_all_record_validator","0.0.1","MIT"
+"rspec_all_record_validator","0.0.2","MIT"
 "rspec_rails_setup","0.0.1","MIT"
 "rubocop-ergoserv","0.1.0","MIT"
 "rubocop-vendor","0.1.0","MIT"
