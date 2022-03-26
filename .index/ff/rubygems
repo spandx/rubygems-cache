@@ -2702,6 +2702,7 @@
 "polytexnic","1.6.6","MIT"
 "polytexnic","1.7.0","MIT"
 "polytexnic","1.7.1","MIT"
+"polytexnic","1.7.2","MIT"
 "postgres_upsert","1.0.0",""
 "postgres_upsert","1.1.0",""
 "postgres_upsert","2.0.0",""

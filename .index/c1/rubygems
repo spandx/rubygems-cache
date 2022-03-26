@@ -1964,6 +1964,7 @@
 "logstash-filter-stag","0.0.3","Apache-2.0"
 "logstash-filter-stag","0.0.4","Apache-2.0"
 "ls_table","0.1.0",""
+"ls_table","0.1.1","MIT"
 "luislavena-rake","0.8.3.99",""
 "manageheroku","0.0.1","MIT"
 "manageheroku","0.0.2","MIT"
