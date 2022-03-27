@@ -2795,6 +2795,7 @@
 "sidekiq-limit_fetch","3.3.0","MIT"
 "sidekiq-limit_fetch","3.3.1","MIT"
 "sidekiq-limit_fetch","3.4.0","MIT"
+"sidekiq-limit_fetch","4.0.0","MIT"
 "similar_strings","0.0.1","MIT"
 "simple_naive_bayes","0.0.2","MIT"
 "simple_naive_bayes","0.0.3","MIT"

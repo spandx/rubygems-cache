@@ -2502,6 +2502,7 @@
 "quiz_api_client","4.0.0",""
 "quiz_api_client","4.1.0",""
 "quiz_api_client","4.2.0",""
+"quiz_api_client","4.2.1",""
 "rack-zippy","0.1.0",""
 "rack-zippy","1.0.0",""
 "rack-zippy","1.0.1","MIT"
