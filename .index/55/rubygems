@@ -2541,6 +2541,7 @@
 "omniauth-surveygizmo","0.1.0","MIT"
 "onch","0.0.1","WTFPL"
 "onch","0.0.2","WTFPL"
+"onnxruntime-x64-mingw","0.7.0","MIT"
 "openflow","0.0.1",""
 "openstudio","0.7.6",""
 "optical_diff","0.0.4",""
