@@ -2330,6 +2330,7 @@
 "mixlib-shellout","3.2.0",""
 "mixlib-shellout","3.2.2",""
 "mixlib-shellout","3.2.5","Apache-2.0"
+"mixlib-shellout","3.2.6","Apache-2.0"
 "mobile-rb","0.0.1","MIT"
 "mobile-rb","0.0.2","MIT"
 "mongo_mysql_relations","0.0.1","MIT"

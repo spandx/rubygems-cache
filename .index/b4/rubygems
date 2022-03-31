@@ -2968,6 +2968,7 @@
 "rl_hiya_marin_jesus","0.0.1",""
 "roulette","0.0.4",""
 "rspec-active_model_serializers","1.0.0","MIT"
+"rspec-eth","0.1.1","MIT"
 "rspec-match_ignoring_whitespace","1.0.0","MIT"
 "rspec-match_ignoring_whitespace","1.1.0","MIT"
 "rspec-match_ignoring_whitespace","1.2.0","MIT"
