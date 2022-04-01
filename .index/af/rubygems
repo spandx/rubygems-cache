@@ -361,6 +361,7 @@
 "aws-inventory","0.4.2","MIT"
 "aws-inventory","0.4.3","MIT"
 "aws-inventory","0.4.5","MIT"
+"aws-sdk-pinpointsmsvoicev2","1.0.0","Apache-2.0"
 "aws-sdk-workspacesweb","1.0.0","Apache-2.0"
 "aws-sdk-workspacesweb","1.1.0","Apache-2.0"
 "aws-sdk-workspacesweb","1.2.0","Apache-2.0"

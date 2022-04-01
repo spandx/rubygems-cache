@@ -3292,6 +3292,7 @@
 "superrubyserver","0.0.1","MIT"
 "syllable_counter","0.0.1","MIT"
 "syllable_counter","1.0.0","MIT"
+"syntax_tree-json","0.1.0","MIT"
 "taproot","0.1.0",""
 "taproot","0.1.1",""
 "taproot","0.1.2",""

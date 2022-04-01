@@ -2961,6 +2961,7 @@
 "rpbertp13-twitter","0.8.1",""
 "rshop","0.1.0","MIT"
 "rshop","0.1.1","MIT"
+"rubocop-gitlab_formatter","0.1.0","MIT"
 "ruboty-romaji","0.0.1","MIT"
 "ruby-audioinfo","0.2",""
 "ruby-audioinfo","0.2.1",""

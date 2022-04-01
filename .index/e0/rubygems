@@ -625,6 +625,7 @@
 "buildr-appengine","0.1.0","BSD 2 Clause"
 "bundler-restrict","0.1.0","MIT"
 "bundler-restrict","0.1.1","MIT"
+"bundler-restrict","0.1.2","MIT"
 "c100bit-nmax","0.2.2","MIT"
 "caesar_code","0.0.1","MIT"
 "cairo","1.12.2",""
