@@ -933,6 +933,8 @@
 "cocoapods-amimono","0.0.7","MIT"
 "cocoapods-amimono","0.0.8","MIT"
 "cocoapods-amimono","0.0.9","MIT"
+"cocoapods-ljcoverage","0.0.3","MIT"
+"cocoapods-ljcoverage","0.0.4","MIT"
 "coffee_table","0.0.1",""
 "coffee_table","0.0.3",""
 "coffee_table","0.1.1",""

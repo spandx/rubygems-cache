@@ -1762,6 +1762,7 @@
 "logstash-input-cloudflare_logs","0.1.7","Apache-2.0"
 "logstash-input-cloudflare_logs","0.1.8","Apache-2.0"
 "logstash-input-cloudflare_logs","0.1.9","Apache-2.0"
+"logstash-output-azure_service_bus","0.1.0","Apache-2.0"
 "logstash-output-google_pubsub-orderingkey-final6-java","1.0.0","Apache-2.0"
 "logstash-output-hipchat","0.1.0","Apache-2.0"
 "logstash-output-hipchat","0.1.1","Apache-2.0"

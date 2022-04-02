@@ -1276,6 +1276,8 @@
 "effective_logging","3.1.9","MIT"
 "effective_logging","3.2.0","MIT"
 "effective_logging","3.2.1","MIT"
+"effective_logging","3.2.2","MIT"
+"effective_logging","3.2.3","MIT"
 "eivo-rails-sidekiq","0.0.1","MIT"
 "eivo-rails-sidekiq","0.0.2","MIT"
 "eivo-rails-sidekiq","0.1.0","MIT"

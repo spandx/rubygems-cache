@@ -792,6 +792,7 @@
 "concord","0.1.6","MIT"
 "concurrentruby","0.0.1","WTFPL"
 "constant_resolver","0.1.5","MIT"
+"constant_resolver","0.2.0","MIT"
 "contracts-gen","0.1.0","MIT"
 "contracts-gen","0.1.1","MIT"
 "contracts-gen","0.1.2","MIT"
