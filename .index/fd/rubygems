@@ -225,6 +225,7 @@
 "appium_lib","11.1.0","Apache-2.0"
 "appium_lib","11.2.0","Apache-2.0"
 "appium_lib","12.0.0","Apache-2.0"
+"appium_lib","12.0.1","Apache-2.0"
 "appium_lib","2.0.0","http://www.apache.org/licenses/LICENSE-2.0.txt"
 "appium_lib","2.1.0","http://www.apache.org/licenses/LICENSE-2.0.txt"
 "appium_lib","3.0.0","http://www.apache.org/licenses/LICENSE-2.0.txt"

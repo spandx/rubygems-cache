@@ -833,6 +833,7 @@
 "faraday-conductivity","1.0.1","MIT"
 "faraday-follow_redirects","0.1.0","MIT"
 "faraday-follow_redirects","0.2.0","MIT"
+"faraday-follow_redirects","0.3.0","MIT"
 "faraday_middleware-escher","0.0.0","MIT"
 "faraday_middleware-escher","0.1.0","MIT"
 "faraday_middleware-escher","0.2.0","MIT"

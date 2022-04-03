@@ -647,6 +647,7 @@
 "fastlane-plugin-automated_test_emulator_run_beemo","1.0.1","MIT"
 "fastlane-plugin-ns_update_ios_identifier","0.0.1","MIT"
 "fastlane-plugin-upload_to_gitlab","0.1.0","MIT"
+"fastlane-plugin-upload_to_gitlab","0.1.1","MIT"
 "fastlane-plugin-xcconfig","0.0.1","MIT"
 "fastlane-plugin-xcconfig","0.1.0","MIT"
 "fastlane-plugin-xcconfig","1.0.0","MIT"
