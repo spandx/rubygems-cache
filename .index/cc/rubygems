@@ -3524,6 +3524,7 @@
 "re_captcha","0.2.1","MIT"
 "realiaser","0.0.1",""
 "red_tape","1.0.0",""
+"redis-objects-legacy","1.6.0","MIT"
 "redtrack","0.0.1","MIT"
 "ref2bibtex","0.0.1","MIT"
 "ref2bibtex","0.0.2","MIT"
