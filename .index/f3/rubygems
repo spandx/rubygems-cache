@@ -726,6 +726,8 @@
 "chef-handler-motd","0.4.0",""
 "chef-handler-motd","0.5.0",""
 "chord_finder","0.0.1","MIT"
+"chronicle-zulip","0.1.1","MIT"
+"chronicle-zulip","0.1.2","MIT"
 "cinch-dicebag","0.0.1",""
 "cinch-dicebag","0.0.2",""
 "cinch-dicebag","1.0.0",""

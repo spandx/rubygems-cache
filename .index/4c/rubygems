@@ -1164,6 +1164,7 @@
 "facter","4.2.6","Apache-2.0"
 "facter","4.2.7","Apache-2.0"
 "facter","4.2.8","Apache-2.0"
+"facter","4.2.9","Apache-2.0"
 "factory_faster","0.0.2","MIT"
 "factory_faster","0.0.3","MIT"
 "fake-hash","0.1.0",""
