@@ -1821,6 +1821,7 @@
 "partitions","0.2.0",""
 "partitions","0.3.0",""
 "paykassa","0.1.0","MIT"
+"paykassa","0.1.1","MIT"
 "periscope-mongoid","2.0.0","MIT"
 "periscope-mongoid","2.0.1","MIT"
 "periscope-mongoid","2.1.0","MIT"
