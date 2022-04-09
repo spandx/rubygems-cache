@@ -3381,6 +3381,8 @@
 "rubycron","1.0.0","Modified BSD"
 "rubyslim","0.1.1",""
 "s3grep","0.1.0","MIT"
+"s3grep","0.1.1","MIT"
+"s3grep","0.1.2","MIT"
 "sass-scaffold","0.0.1","MIT"
 "sass-scaffold","0.0.2","MIT"
 "savant-echo","0.1.0",""

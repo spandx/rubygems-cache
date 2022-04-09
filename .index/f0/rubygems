@@ -506,6 +506,7 @@
 "chef-gen-flavors","0.9.1","apache2"
 "chef-metal-crowbar","0.0.1","Apache-2.0"
 "cheflab","0.0.1","Apache-2.0"
+"chime-runtime-bucketing","0.0.1","MIT"
 "chimp_rewriter","1.0.0","Ruby, ISC, 2-clause BSD"
 "chronosphere","0.1.0","MIT"
 "ci_infrastructure_cf_cli","0.0.2","MIT"
