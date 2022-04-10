@@ -4781,6 +4781,7 @@
 "zabbix_manager","5.0.7","MIT"
 "zabbix_manager","5.0.8","MIT"
 "zabbix_manager","5.0.9","MIT"
+"zabbix_manager","5.1.0","MIT"
 "zenoss_api","0.2.0","MIT"
 "zenoss_api","0.3.2","MIT"
 "zenoss_api","0.3.3","MIT"
