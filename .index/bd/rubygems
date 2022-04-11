@@ -3050,6 +3050,7 @@
 "validates_uniqueness_via_association","0.1.0","MIT"
 "validates_uniqueness_via_association","0.2.0","MIT"
 "validates_uniqueness_via_association","0.3.0","MIT"
+"validates_uniqueness_via_association","0.3.1","MIT"
 "vin","0.0.1","MIT"
 "vj","1.0.0",""
 "vj","1.0.1",""
