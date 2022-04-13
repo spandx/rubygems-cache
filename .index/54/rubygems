@@ -1585,6 +1585,7 @@
 "gruf-lightstep","1.4.0","MIT"
 "gruf-lightstep","1.5.0","MIT"
 "gruf-lightstep","1.5.1","MIT"
+"gruf-lightstep","1.6.0","MIT"
 "guard-ecukes","0.0.1",""
 "guard-git-scribe","0.0.1",""
 "guard-jshint-node","0.0.1",""
