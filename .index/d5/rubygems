@@ -1603,6 +1603,7 @@
 "hello_server_client","0.0.1","LGPL-3.0-only"
 "hello_server_client","0.1.0","LGPL-3.0-only"
 "hello_server_client","0.1.1","LGPL-3.0-only"
+"helm_upgrade_logs","0.1.0","MIT"
 "highline_wrapper","0.1.0","MIT"
 "highline_wrapper","1.0.0","MIT"
 "highline_wrapper","1.1.0","MIT"
