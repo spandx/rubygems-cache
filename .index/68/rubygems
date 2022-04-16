@@ -1708,6 +1708,7 @@
 "jrubyfx-java","1.1.0",""
 "jrubyfx-java","1.1.1","Apache-2.0"
 "jrubyfx-java","1.2.0","Apache-2.0"
+"jrubyfx-java","2.0.0","Apache-2.0"
 "jrubyfx-openjfx.patch-java","1.2.0","Apache-2.0"
 "jrubyfx-openjfx.patch-java","1.2.0.1","Apache-2.0"
 "js_image_paths","0.0.1","MIT"
