@@ -1641,6 +1641,7 @@
 "html2text","0.3.0","MIT"
 "html2text","0.3.1","MIT"
 "http_request_wrapper","0.1.0","MIT"
+"hybridge_domain","0.0.1","MIT"
 "hydra-batch-edit","0.0.5",""
 "hydra-batch-edit","0.0.7",""
 "hydra-batch-edit","0.1.0",""

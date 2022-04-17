@@ -2199,6 +2199,7 @@
 "omniauth-square","0.9","MIT"
 "omniauth-square","1.0","MIT"
 "omniauth-square","1.0.2","MIT"
+"omniauth-token","1.0.0",""
 "omnitest-core","0.0.1","MIT"
 "omnitest-core","0.0.2","MIT"
 "omnitest-core","0.0.3","MIT"
