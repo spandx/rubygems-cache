@@ -3237,6 +3237,7 @@
 "tencentcloud-sdk-cr","1.0.295","Apache-2.0"
 "tencentcloud-sdk-cr","1.0.296","Apache-2.0"
 "tencentcloud-sdk-cr","1.0.297","Apache-2.0"
+"tencentcloud-sdk-cr","1.0.298","Apache-2.0"
 "tenka","1.0.0","MIT"
 "tenka","1.0.1","MIT"
 "tenka","1.0.2","MIT"
@@ -3589,3 +3590,4 @@
 "zairyo","0.0.1","MIT"
 "zairyo","0.0.2","MIT"
 "zairyo","0.0.3","MIT"
+"zikode-jekyll-theme","0.1.1","MIT"
