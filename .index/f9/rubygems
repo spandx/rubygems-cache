@@ -1577,6 +1577,7 @@
 "google-cloud-security-private_ca-v1","0.1.5","Apache-2.0"
 "google-cloud-security-private_ca-v1","0.1.6","Apache-2.0"
 "google-cloud-security-private_ca-v1","0.2.0","Apache-2.0"
+"google-cloud-security-private_ca-v1","0.2.1","Apache-2.0"
 "google_drive_handler","0.1.0",""
 "google_hangout","0.0.1","MIT"
 "google_hangout","0.0.2","MIT"
