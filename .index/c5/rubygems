@@ -817,6 +817,7 @@
 "eventhub-processor","0.6.6","MIT"
 "eventusha","0.1.0","MIT"
 "evt-process_host","0.4.0.1","MIT"
+"eximius-net-ssh","6.3.1","MIT"
 "facebook_graph_api","0.0.6",""
 "falcon","0.1.0",""
 "falcon","0.1.2",""

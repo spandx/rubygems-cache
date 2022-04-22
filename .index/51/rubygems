@@ -95,6 +95,7 @@
 "active_finite","0.1.5",""
 "active_finite","0.4.2","MIT"
 "active_record-associated_object","0.1.0","MIT"
+"active_record-associated_object","0.2.0","MIT"
 "activerecord-custom_timestamps","0.0.3",""
 "activerecord-custom_timestamps","0.1.0",""
 "activerecord-custom_timestamps","0.2.0","MIT"
