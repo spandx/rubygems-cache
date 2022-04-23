@@ -2881,6 +2881,7 @@
 "remote_filesystem","0.0.1",""
 "renamespace","0.1.5","GPL-3.0"
 "renamespace","0.1.6","GPL-3.0"
+"renamespace","0.1.7","GPL-3.0"
 "resque-mission","1.0.0","Apache-2.0"
 "resque-remora","0.2.0","MIT"
 "resque-remora","0.2.1","MIT"

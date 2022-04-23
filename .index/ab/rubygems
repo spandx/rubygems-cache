@@ -114,6 +114,8 @@
 "active_validation","5.0.0","MIT"
 "active_validation","5.1.0","MIT"
 "activerain-mongrel_runit","0.2.3",""
+"activerecord7-redshift-adapter","1.0.0","MIT"
+"activerecord7-redshift-adapter","1.1.0","MIT"
 "activesupport-cache-redis_multiplexer","0.1.0","MIT"
 "activesupport-cache-redis_multiplexer","0.1.2","MIT"
 "admiral_stats_parser","0.1.0","MIT"

@@ -585,6 +585,7 @@
 "aws-sdk-cognitoidentity","1.39.0","Apache-2.0"
 "aws-sdk-cognitoidentity","1.4.0","Apache-2.0"
 "aws-sdk-cognitoidentity","1.40.0","Apache-2.0"
+"aws-sdk-cognitoidentity","1.40.1","Apache-2.0"
 "aws-sdk-cognitoidentity","1.5.0","Apache-2.0"
 "aws-sdk-cognitoidentity","1.6.0","Apache-2.0"
 "aws-sdk-cognitoidentity","1.7.0","Apache-2.0"

@@ -2670,6 +2670,7 @@
 "git_cloner","0.0.2","MIT"
 "git_cloner","0.0.3","MIT"
 "git_cloner","0.0.4","MIT"
+"github_diff_parser","0.1.0","MIT"
 "glkhola","0.0.1","MIT"
 "go_to_webinar","0.1.1","MIT"
 "go_to_webinar","0.1.2","MIT"

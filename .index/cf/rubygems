@@ -2923,6 +2923,7 @@
 "rubrowser","2.9.1","MIT"
 "ruby-growl","4.0",""
 "ruby-growl","4.1","BSD 3-clause"
+"ruby-rustscan","0.1.0","MIT"
 "ruby-virtualenv","0.5.1",""
 "ruby_da-java","0.0.2","MIT"
 "ruby_fast_text","0.3.5",""
