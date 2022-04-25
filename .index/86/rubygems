@@ -2605,6 +2605,7 @@
 "regexp_parser","2.2.0","MIT"
 "regexp_parser","2.2.1","MIT"
 "regexp_parser","2.3.0","MIT"
+"regexp_parser","2.3.1","MIT"
 "reindeer","0.0.1",""
 "reindeer","0.0.2",""
 "reline-puts","1.0.1","GPL-3.0"
