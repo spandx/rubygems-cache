@@ -1784,6 +1784,7 @@
 "logstash-output-azure_service_bus","0.3.5","Apache-2.0"
 "logstash-output-azure_service_bus","0.3.6","Apache-2.0"
 "logstash-output-azure_service_bus","0.3.7","Apache-2.0"
+"logstash-output-azure_service_bus","0.3.8","Apache-2.0"
 "logstash-output-google_pubsub-orderingkey-final6-java","1.0.0","Apache-2.0"
 "logstash-output-hipchat","0.1.0","Apache-2.0"
 "logstash-output-hipchat","0.1.1","Apache-2.0"

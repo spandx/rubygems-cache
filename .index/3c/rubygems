@@ -73,6 +73,7 @@
 "activerecord-immutable","0.0.2","MIT"
 "activerecord-immutable","0.0.3","MIT"
 "activestorage-delayed","0.1.0",""
+"activestorage-delayed","0.1.1",""
 "activesupport-core-ext","4.0.0.3",""
 "acts_as_mailable","0.0.1","MIT"
 "acts_as_mailable","0.0.2","MIT"
