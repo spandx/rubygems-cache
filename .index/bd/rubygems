@@ -2136,6 +2136,7 @@
 "omniauth-cisimple","1.0.1","MIT"
 "omniauth-cisimple","1.0.2","MIT"
 "omniauth-devise","0.1.0","MIT"
+"omniauth-doximity-oauth2","0.1.0",""
 "opener-language-identifier","3.0.0",""
 "opener-language-identifier","3.0.1",""
 "opener-language-identifier","3.0.2",""

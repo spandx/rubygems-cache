@@ -202,6 +202,7 @@
 "artirix_cache_service","0.7.0",""
 "assets-minify-rails","0.1.1","MIT"
 "assets-minify-rails","0.1.2","MIT"
+"assets-minify-rails","0.2.0","MIT"
 "assets_live_compile","0.1.0","LGPL-3.0"
 "assets_live_compile","0.1.1","LGPL-3.0"
 "assets_live_compile","0.1.2","LGPL-3.0"
