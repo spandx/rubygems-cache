@@ -2295,6 +2295,7 @@
 "mail-jdec","1.0.9",""
 "maillinks","0.1.4","GPL-3"
 "maillinks","0.1.5","GPL-3"
+"manageiq-providers-cisco_intersight","0.0.1","Apache-2.0"
 "manageiq-schema","0.0.1","Apache-2.0"
 "manageiq-schema","0.1.900","MIT"
 "manageiq-schema","0.900.0","MIT"

@@ -731,6 +731,7 @@
 "faraday_middleware-circuit_breaker","0.3.0","MIT"
 "faraday_middleware-circuit_breaker","0.4.0","MIT"
 "faraday_middleware-circuit_breaker","0.4.1","MIT"
+"faraday_middleware-circuit_breaker","0.5.0","MIT"
 "fastlane-plugin-parse_configurations","0.1.0","MIT"
 "fasttext","0.1.0","MIT"
 "fasttext","0.1.1","MIT"
