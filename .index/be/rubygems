@@ -3047,6 +3047,7 @@
 "tableau_api","2.0.0","BSD-3-Clause"
 "tableau_api","3.0.0","BSD-3-Clause"
 "tableau_api","4.0.0","BSD-3-Clause"
+"tableau_api","4.1.0","BSD-3-Clause"
 "tamashii-hookable","0.1.0",""
 "task_list","1.0.2",""
 "template_tags","0.1.0","Ruby-|-MIT-|-ISC"
