@@ -2484,6 +2484,7 @@
 "ndr_support","5.8.4","MIT"
 "ndr_support","5.9.0","MIT"
 "neo4j-http","0.0.2","MIT"
+"neo4j-http","1.0.0","MIT"
 "nerd_quiz","0.0.1",""
 "nerd_quiz","0.2.2","MIT"
 "nesta-rails","0.0.3",""

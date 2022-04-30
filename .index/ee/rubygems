@@ -96,6 +96,7 @@
 "activerecord-jdbcsqlite3-adapter-java","60.4","BSD"
 "activerecord-jdbcsqlite3-adapter-java","61.0","BSD"
 "activerecord-jdbcsqlite3-adapter-java","61.1","BSD"
+"activerecord-jdbcsqlite3-adapter-java","61.2","BSD"
 "activestorage-redundancy","0.900.0","MIT"
 "activestorage-redundancy","1.900","MIT"
 "activestorage-redundancy","90002.0","MIT"

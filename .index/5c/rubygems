@@ -99,6 +99,7 @@
 "activerecord-jdbc-adapter-java","60.4","BSD-2-Clause"
 "activerecord-jdbc-adapter-java","61.0","BSD-2-Clause"
 "activerecord-jdbc-adapter-java","61.1","BSD-2-Clause"
+"activerecord-jdbc-adapter-java","61.2","BSD-2-Clause"
 "activerecord-suppress_range_error","0.1.0",""
 "activerecord-suppress_range_error","0.1.1","MIT"
 "activesurvey","0.0.1",""
