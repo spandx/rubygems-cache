@@ -30,6 +30,7 @@
 "activemodel_unique_errors","0.2.0","MIT"
 "activerecord-summarize","0.2.1","MIT"
 "activerecord-summarize","0.2.2","MIT"
+"activerecord-summarize","0.2.3","MIT"
 "acts_as_enum","0.1.1",""
 "acts_as_enum","0.1.2",""
 "acts_as_enum","0.1.3",""

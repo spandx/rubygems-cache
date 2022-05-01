@@ -2411,6 +2411,7 @@
 "ruby2c","1.1.0","MIT"
 "ruby_inspector","0.1.0","MIT"
 "ruby_inspector","0.2.0","MIT"
+"ruby_proctor","1.0.0",""
 "ruby_snooper","0.1.0","MIT"
 "ruby_snooper","0.1.1","MIT"
 "ruby_snooper","0.1.2","MIT"
