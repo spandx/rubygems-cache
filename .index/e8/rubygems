@@ -1465,6 +1465,7 @@
 "hq-formats","0.0.0",""
 "htmldu","0.1.0","MIT"
 "htmldu","0.1.1","MIT"
+"httpclient-fixcerts","2.8.5","ruby"
 "igpay_atinlay","1.0",""
 "imasgen","0.1.0","MIT"
 "impaler","0.0.1","MIT"

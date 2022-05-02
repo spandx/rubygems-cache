@@ -3130,6 +3130,7 @@
 "rubinius-debugger","2.5","BSD"
 "rubinius-debugger","2.6","BSD"
 "rubocop-ruby2_7","1.0.0","MIT"
+"rubocop-ruby2_7","1.0.1","MIT"
 "ruboswain","1.0.0","MIT"
 "ruboswain","1.0.1","MIT"
 "ruboswain","1.0.2","MIT"
