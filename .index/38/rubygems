@@ -2310,6 +2310,7 @@
 "opentelemetry-instrumentation-active_record","0.2.0","Apache-2.0"
 "opentelemetry-instrumentation-active_record","0.2.1","Apache-2.0"
 "opentelemetry-instrumentation-active_record","0.2.2","Apache-2.0"
+"opentelemetry-instrumentation-active_record","0.3.0","Apache-2.0"
 "ors","0.0.9",""
 "ors","0.1.7",""
 "ors","0.1.8",""

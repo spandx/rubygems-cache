@@ -2095,6 +2095,7 @@
 "opentelemetry-instrumentation-ruby_kafka","0.18.3","Apache-2.0"
 "opentelemetry-instrumentation-ruby_kafka","0.18.4","Apache-2.0"
 "opentelemetry-instrumentation-ruby_kafka","0.18.5","Apache-2.0"
+"opentelemetry-instrumentation-ruby_kafka","0.18.6","Apache-2.0"
 "opentelemetry-resource-detector-deployment","0.0.1",""
 "openvibe-launcher","0.1.1",""
 "openvibe-launcher","0.1.2",""
