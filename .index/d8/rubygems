@@ -2464,6 +2464,7 @@
 "pandoc_binary","2.17.0.1",""
 "pandoc_binary","2.17.1",""
 "pandoc_binary","2.17.1.1",""
+"pandoc_binary","2.18",""
 "paper-auth","0.0.1","MIT"
 "paper-auth","0.0.2","MIT"
 "paper-auth","0.0.3","MIT"

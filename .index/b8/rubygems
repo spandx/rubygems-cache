@@ -1646,6 +1646,7 @@
 "io-event","1.0.4","MIT"
 "io-event","1.0.5","MIT"
 "io-event","1.0.7","MIT"
+"io-event","1.0.9","MIT"
 "iplan-delayed_job_active_record","0.3.2",""
 "iplan-delayed_job_active_record","0.3.4",""
 "iron_hide","0.2.1","MIT"
