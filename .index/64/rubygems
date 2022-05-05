@@ -5224,6 +5224,7 @@
 "record_store","6.5.3","MIT"
 "record_store","6.5.4","MIT"
 "record_store","6.5.5","MIT"
+"record_store","6.5.8","MIT"
 "redis-store-testing","0.0.1","MIT"
 "redis-store-testing","0.0.2","MIT"
 "redis-to-collection","0.1.0","MIT"

@@ -2593,6 +2593,7 @@
 "onnxruntime","0.6.6","MIT"
 "onnxruntime","0.7.0","MIT"
 "onnxruntime","0.7.1","MIT"
+"onnxruntime","0.7.2","MIT"
 "openfire_api_ruby","0.2.1",""
 "openfire_api_ruby","0.2.2",""
 "openfire_api_ruby","0.2.4",""

@@ -2155,6 +2155,7 @@
 "omniauth-yokitup-oauth2","1.0.1","MIT"
 "onnxruntime-x86_64-linux","0.7.0","MIT"
 "onnxruntime-x86_64-linux","0.7.1","MIT"
+"onnxruntime-x86_64-linux","0.7.2","MIT"
 "opener-pos-tagger-it","1.0.0",""
 "openfire_room_api","0.1.0",""
 "openstudio-analysis","0.1","LGPL"

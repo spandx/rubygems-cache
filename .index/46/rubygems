@@ -2471,6 +2471,7 @@
 "openbd","0.2.1","MIT"
 "openbd","0.3.0","MIT"
 "ore-rs-x86_64-darwin","0.3.3",""
+"ore-rs-x86_64-darwin","0.4.0",""
 "packable","1.3.10",""
 "packable","1.3.12",""
 "packable","1.3.13",""

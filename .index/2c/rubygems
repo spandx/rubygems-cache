@@ -2548,6 +2548,7 @@
 "onnistuu_fi","1.0.1","MIT"
 "onnxruntime-x86_64-darwin","0.7.0","MIT"
 "onnxruntime-x86_64-darwin","0.7.1","MIT"
+"onnxruntime-x86_64-darwin","0.7.2","MIT"
 "ons-ldap","1.0.0","Crown Copyright (Office for National Statistics)"
 "ons-ldap","1.1.0","Crown Copyright (Office for National Statistics)"
 "ons-ldap","1.1.1","Crown Copyright (Office for National Statistics)"

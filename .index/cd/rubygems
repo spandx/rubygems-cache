@@ -1885,6 +1885,7 @@
 "oauth_im","0.4.7","BSD-3-Clause"
 "oauth_im","0.5.0","BSD-3-Clause"
 "oauth_im","0.6.0","BSD-3-Clause"
+"oauth_im","0.7.0","BSD-3-Clause"
 "offsite_payments_przelewy24","0.0.1","MIT"
 "omniauth-hanyang","0.0.1","MIT"
 "omniauth-icalia","0.1.0","MIT"
