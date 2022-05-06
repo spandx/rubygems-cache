@@ -430,6 +430,7 @@
 "aws-sdk-iot","1.86.0","Apache-2.0"
 "aws-sdk-iot","1.87.0","Apache-2.0"
 "aws-sdk-iot","1.88.0","Apache-2.0"
+"aws-sdk-iot","1.89.0","Apache-2.0"
 "aws-sdk-iot","1.9.0","Apache-2.0"
 "aws_sdb_bare","1.2.1",""
 "azure_cognitiveservices_customvisionprediction","0.17.0","MIT"

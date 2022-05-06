@@ -2562,6 +2562,7 @@
 "redis_counters","1.4.0",""
 "redis_counters","1.5.0",""
 "redis_counters","1.5.1",""
+"redis_counters","1.5.2",""
 "redis_lua","0.1.0","MIT"
 "redis_rspec","0.0.1","MIT"
 "redness","0.0.3",""
