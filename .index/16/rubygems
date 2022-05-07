@@ -3603,6 +3603,8 @@
 "ubuntu_ami","0.4.1",""
 "ubuntu_ami","0.4.2","Apache-2.0"
 "ubuntu_ami","0.4.3","Apache-2.0"
+"ubuntu_ami","0.4.4","Apache-2.0"
+"ubuntu_ami","0.4.5","Apache-2.0"
 "uhide","0.0.1","ISC (BSD2/MIT)"
 "uhide","0.0.10","ISC (BSD2/MIT)"
 "uhide","0.0.11","ISC (BSD2/MIT)"

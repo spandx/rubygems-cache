@@ -1189,6 +1189,8 @@
 "ghazel-acts-as-taggable-on","2.0.6.1",""
 "git-thin","0.0.13","MIT"
 "git-thin","0.0.15","MIT"
+"git-thin","0.0.16","MIT"
+"git-thin","0.0.17","MIT"
 "gitable","0.2.1",""
 "gitable","0.2.3",""
 "gitable","0.2.4",""

@@ -1001,6 +1001,7 @@
 "fluent-plugin-prometheus","2.0.0","Apache-2.0"
 "fluent-plugin-prometheus","2.0.1","Apache-2.0"
 "fluent-plugin-prometheus","2.0.2","Apache-2.0"
+"fluent-plugin-prometheus","2.0.3","Apache-2.0"
 "fluent-plugin-setproctitle","0.0.1","MIT"
 "fluent-plugin-setproctitle","0.0.2","MIT"
 "fluent-plugin-setproctitle","0.0.3","MIT"
