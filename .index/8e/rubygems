@@ -2086,6 +2086,7 @@
 "git-lint","3.3.2","Hippocratic-2.1"
 "git-lint","4.0.0","Hippocratic-2.1"
 "git-lint","4.0.1","Hippocratic-2.1"
+"git-lint","4.1.0","Hippocratic-2.1"
 "git_history_rails","0.1.0","MIT"
 "git_history_rails","0.1.1","MIT"
 "git_left","0.1.2","MIT"

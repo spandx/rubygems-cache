@@ -2076,6 +2076,8 @@
 "railscluster","0.1.0",""
 "rakuna-data-redis","1.0.0","MIT"
 "rakuna-data-redis","1.0.1","MIT"
+"range_list_rb","0.2.0","MIT"
+"range_list_rb","0.3.0","MIT"
 "raspi_lcd","0.0.1",""
 "raspi_lcd","0.0.2",""
 "raspi_lcd","0.8",""
