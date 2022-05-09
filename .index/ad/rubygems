@@ -1798,6 +1798,7 @@
 "omniauth-webmaker","0.0.7",""
 "one_time_password","0.1.0","MIT"
 "one_time_password","0.1.1","MIT"
+"one_time_password","0.2.0","MIT"
 "oocsv","0.1.0","MIT"
 "ospec","0.1.15",""
 "ozeias-railsbox","0.0.4",""
