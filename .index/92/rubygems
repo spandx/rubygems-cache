@@ -227,6 +227,7 @@
 "butcher","0.1.0",""
 "butcher","1.0.0",""
 "cable_streams","0.1.0","MIT"
+"cable_streams","0.1.1","MIT"
 "calorie","0.0.4",""
 "capistrano-deploy_hooks","0.1.0",""
 "capistrano-deploy_hooks","0.1.1",""

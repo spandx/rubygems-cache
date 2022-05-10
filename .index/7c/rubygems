@@ -2142,6 +2142,7 @@
 "observation","0.1.1",""
 "omniauth-bitreserve","1.0.0","MIT"
 "omniauth-mapmyhike","0.1.1",""
+"omniauth-reinz","1.0.0","MIT"
 "omniauth-socialcast-oauth2","0.0.1","MIT"
 "omniauth-socialcast-oauth2","0.0.2","MIT"
 "omniauth-socialcast-oauth2","0.0.2.1","MIT"

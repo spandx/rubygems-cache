@@ -1351,6 +1351,8 @@
 "logcast","1.1.0","Apache-2.0"
 "logcast","1.1.1","Apache-2.0"
 "logcast","1.2.0","Apache-2.0"
+"logs_page_view","1.0.0","MIT"
+"logs_page_view","1.0.1","MIT"
 "logstash-codec-joinlines","0.1.0","Apache-2.0"
 "logstash-filter-ipip","0.0.0","MIT"
 "logstash-filter-json_encode-java","3.0.0","Apache-2.0"
