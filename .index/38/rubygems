@@ -1317,6 +1317,7 @@
 "gosquared","3.0.8","MIT"
 "gosquared","3.1.0","MIT"
 "graph_lib","0.0.1","MIT"
+"graphql-permissions","0.1.0",""
 "graphql_rails","0.1.0","MIT"
 "graphql_rails","0.2.0","MIT"
 "graphql_rails","0.2.1","MIT"

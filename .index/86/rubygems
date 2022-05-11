@@ -2303,6 +2303,7 @@
 "pact_broker-client","1.61.1","MIT"
 "pact_broker-client","1.62.0","MIT"
 "pact_broker-client","1.62.1","MIT"
+"pact_broker-client","1.63.0","MIT"
 "pact_broker-client","1.7.0","MIT"
 "pact_broker-client","1.8.0","MIT"
 "pact_broker-client","1.9.0","MIT"
