@@ -3706,6 +3706,7 @@
 "power_assert","2.0.1","BSD-2-Clause-|-Ruby"
 "powify","0.9.1",""
 "powify","0.9.2",""
+"prettier_print","0.1.0","MIT"
 "protector-globalize","0.0.1","MIT"
 "protector-globalize","0.0.2","MIT"
 "pry-twitter","1.22.0","BSD (3-Clause)"

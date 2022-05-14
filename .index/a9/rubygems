@@ -2719,6 +2719,7 @@
 "rspec-puppet-facts","2.0.4","Apache-2.0"
 "rspec-puppet-facts","2.0.5","Apache-2.0"
 "rspec-uuid","0.1.0","MIT"
+"rspec-uuid","0.2.0","MIT"
 "rspec_api_documentation","0.4.0",""
 "rspec_api_documentation","0.4.4",""
 "rspec_api_documentation","0.6.0",""
