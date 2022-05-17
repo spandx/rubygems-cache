@@ -1788,6 +1788,7 @@
 "landrover","0.0.1","MIT"
 "length_of_numbers","1.0.0","MIT"
 "libddprof","0.3.0.1.0","Apache-2.0"
+"libddprof","0.6.0.1.0","Apache-2.0"
 "libmemcached_store","0.10.0","MIT"
 "libmemcached_store","0.2.3",""
 "libmemcached_store","0.6.0",""

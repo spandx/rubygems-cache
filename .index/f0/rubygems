@@ -2514,6 +2514,7 @@
 "omniauth-procore","0.6.0","MIT"
 "omniauth-procore","0.7.0","MIT"
 "omniauth-ssl","0.1.0","MIT"
+"omniauth-twitch_smartcasual","1.1.1","MIT"
 "omnifocus-rt","1.0.2","MIT"
 "omnifocus-rubyforge","1.1.1",""
 "onename","0.1","MIT"
