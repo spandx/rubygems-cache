@@ -269,6 +269,8 @@
 "amq-client","1.0.2",""
 "amq-client","1.0.3",""
 "amq-client","1.0.4",""
+"anoubis_sso_client","1.0.1","MIT"
+"anoubis_sso_client","1.0.2","MIT"
 "antidote-types","1.0.0","MIT"
 "antw-dyno","0.1.2",""
 "antw-dyno","0.1.3",""

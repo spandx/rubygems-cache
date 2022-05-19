@@ -41,6 +41,7 @@
 "activerecord-mysql-uuid-column","0.1.0","MIT"
 "activerecord-mysql-uuid-column","0.1.1","MIT"
 "activerecord-mysql-uuid-column","0.2.0","MIT"
+"activerecord-mysql-uuid-column","0.6.0","MIT"
 "activerecord-relations_annotations","0.0.1","MIT"
 "adflier","0.0.1","MIT"
 "adzerk","0.10",""

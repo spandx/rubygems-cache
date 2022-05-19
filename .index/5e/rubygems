@@ -1211,6 +1211,7 @@
 "event_sourcery-postgres","0.9.1",""
 "eventish","0.1.0","MIT"
 "eventish","0.2.0","MIT"
+"eventish","0.3.0","MIT"
 "ex-integer","0.1.0","MIT"
 "export_mongo_s3","0.0.1","MIT"
 "export_mongo_s3","0.0.2","MIT"
