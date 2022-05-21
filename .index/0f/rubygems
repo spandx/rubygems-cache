@@ -4057,6 +4057,8 @@
 "sirius-client-core","2013.4.30.0",""
 "skeleton-cli","0.1.0",""
 "slack","0","MIT"
+"slackrb","0.17.0","MIT"
+"slackrb","0.17.1","MIT"
 "slotmachine","0.1.0","MIT"
 "slotmachine","0.2.0","MIT"
 "slotmachine","0.2.1","MIT"

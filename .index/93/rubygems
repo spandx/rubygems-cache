@@ -2996,6 +2996,7 @@
 "offline_broadcaster","0.1.0","MIT"
 "omniauth-assembla","0.0.3","MIT"
 "omniauth-bn-office365","0.1.1","MIT"
+"omniauth-bn-office365","0.1.2","MIT"
 "omniauth-google-oauth2-access-token","0.0.1","MIT"
 "omniauth-myob-oauth2","0.0.2","MIT"
 "omniauth-myob-oauth2","0.0.3","MIT"
