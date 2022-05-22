@@ -1132,6 +1132,7 @@
 "gir_ffi-gtk","0.14.1","LGPL-2.1+"
 "gir_ffi-gtk","0.15.0","LGPL-2.1+"
 "gir_ffi-gtk","0.15.1","LGPL-2.1+"
+"gir_ffi-gtk","0.16.0","LGPL-2.1+"
 "gir_ffi-gtk","0.5.0",""
 "gir_ffi-gtk","0.6.0",""
 "gir_ffi-gtk","0.7.0","LGPL-2.1"

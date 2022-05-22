@@ -1614,6 +1614,7 @@
 "io_mailer","0.0.2",""
 "io_mailer","0.0.3",""
 "isprimeKM","0.0.0","MIT"
+"jackson","20","MIT"
 "jaro_winkler-x86_64-darwin-17","1.5.1","MIT"
 "jashmenn-activerecord-jdbc-adapter","1.2.0",""
 "jat","0.0.1","MIT"
