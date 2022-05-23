@@ -412,6 +412,7 @@
 "chef-handler-s3","0.1.1",""
 "chef-handler-s3","0.1.2",""
 "cifroteko","0.7.0","MIT"
+"cifroteko","0.8.0","MIT"
 "cisco_acl_intp","0.0.1","MIT"
 "cisco_acl_intp","0.0.2","MIT"
 "cisco_acl_intp","0.0.3","MIT"
