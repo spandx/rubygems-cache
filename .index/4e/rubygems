@@ -451,6 +451,7 @@
 "contraption","0.3.0","MIT"
 "cosmosc2","5.0.2","AGPL-3.0-only-|-Nonstandard"
 "cosmosc2","5.0.3","AGPL-3.0-only-|-Nonstandard"
+"cosmosc2","5.0.4","AGPL-3.0-only-|-Nonstandard"
 "couchbase-documentstore","0.0.4",""
 "couchbase-documentstore","0.0.5",""
 "counter_cache_redis","0.1.0","MIT"
