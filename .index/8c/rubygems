@@ -208,6 +208,7 @@
 "avm","0.9.0",""
 "awkward_turtle","0.0.2",""
 "aws-architect","1.0.4.0","BSD-3-Clause"
+"aws-sdk-emrserverless","1.0.0","Apache-2.0"
 "aws-sdk-fms","1.0.0","Apache-2.0"
 "aws-sdk-fms","1.1.0","Apache-2.0"
 "aws-sdk-fms","1.10.0","Apache-2.0"
