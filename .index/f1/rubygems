@@ -2651,6 +2651,7 @@
 "mysql-slowquery-parser","0.0.1","MIT"
 "nanoc-deploying","1.0.0","MIT"
 "nanoc-deploying","1.0.1","MIT"
+"nanoc-deploying","1.0.2","MIT"
 "ndlib-on-rspec","0.0.3",""
 "ndlib-on-rspec","0.0.4",""
 "nebula-webclient","8.0.10286",""
