@@ -1178,6 +1178,7 @@
 "expressir-x86_64-darwin","1.2.3","MIT"
 "expressir-x86_64-darwin","1.2.4","MIT"
 "expressir-x86_64-darwin","1.2.5","MIT"
+"expressir-x86_64-darwin","1.2.6","MIT"
 "ext_ipaddr","0.1.0",""
 "ext_ipaddr","0.1.1","MIT"
 "extraloop-redis-storage","0.0.2",""
