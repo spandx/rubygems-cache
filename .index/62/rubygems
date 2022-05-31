@@ -1241,6 +1241,8 @@
 "fluent-plugin-elb-access-log","0.5.0","MIT"
 "fluent-plugin-elb-access-log","0.6.0","MIT"
 "fluent-plugin-elb-access-log","0.6.1","MIT"
+"fluent-plugin-input-static-file","0.1.0","MIT"
+"fluent-plugin-input-static-file","0.1.1","MIT"
 "fluent-plugin-munin","0.3.1",""
 "fluent-plugin-munin","0.3.2",""
 "flynn-autoconf","0.1.0",""
