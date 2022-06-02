@@ -1647,6 +1647,7 @@
 "logstash-output-awslogs","0.1.7","Apache-2.0"
 "logstash-output-awslogs","0.1.8","Apache-2.0"
 "logstash-output-awslogs","0.1.9","Apache-2.0"
+"logstash-output-awslogs","1.0.0","Apache-2.0"
 "logstash-output-dynatrace","0.1.0","Apache-2.0"
 "logstash-output-dynatrace","0.2.0","Apache-2.0"
 "logstash-output-dynatrace","0.2.1","Apache-2.0"

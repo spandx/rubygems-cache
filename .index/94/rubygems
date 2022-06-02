@@ -2392,6 +2392,7 @@
 "rsyntaxtree","1.0.4","MIT"
 "rsyntaxtree","1.0.5","MIT"
 "rsyntaxtree","1.0.6","MIT"
+"ruby-sh","1.0.0","MIT"
 "ruby_gpg","0.3.1",""
 "ruby_gpg","0.3.2",""
 "ruby_l10n","0.0.1","MIT"

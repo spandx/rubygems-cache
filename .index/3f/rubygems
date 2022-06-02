@@ -1202,6 +1202,7 @@
 "fluent-plugin-sql-mask","0.2.0","Apache-2.0"
 "fluent-plugin-sql-mask","0.2.1","Apache-2.0"
 "fluent-plugin-zebrium_output","1.57.0","Apache-2.0"
+"fluent-plugin-zebrium_output","1.59.1","Apache-2.0"
 "fnb_pdf_to_csv","0.0.2","MIT"
 "fnb_pdf_to_csv","0.0.3","MIT"
 "fog_tracker","0.1.0",""
