@@ -1062,6 +1062,8 @@
 "hanami-annotate","0.1.1","MIT"
 "hanami-annotate","0.1.2","MIT"
 "hiredis-client","0.4.0","MIT"
+"hiredis-client","0.5.0","MIT"
+"hiredis-client","0.5.1","MIT"
 "hmx_client","0.0.1",""
 "hmx_client","0.0.4",""
 "hmx_client","0.0.6",""
