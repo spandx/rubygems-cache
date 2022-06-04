@@ -307,6 +307,7 @@
 "atpay_tokens","3.0.0",""
 "atpay_tokens","3.1.0",""
 "atpay_tokens","4.0.0",""
+"ats-sdk","1.0.0","MIT"
 "auditable","0.0.7",""
 "auditable","0.1.0",""
 "auditable","0.1.4",""
