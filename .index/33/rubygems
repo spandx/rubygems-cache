@@ -1475,6 +1475,7 @@
 "mmh3","0.3.0","MIT"
 "mmh3","1.0.0","MIT"
 "mmh3","1.1.0","MIT"
+"mmh3","1.2.0","MIT"
 "mon","0.0.2","MIT"
 "mongoid-history-patched","0.2.3",""
 "mongoid_session_store_ap","3.0.0",""

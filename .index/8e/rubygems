@@ -395,6 +395,7 @@
 "beaker","4.7.0","Apache2"
 "beaker","4.8.0","Apache2"
 "beaker","4.9.0","Apache2"
+"belles","0.0.1","Public Domain"
 "berkeley_library-logging","0.2.0","MIT"
 "berkeley_library-logging","0.2.1","MIT"
 "berkeley_library-logging","0.2.2","MIT"
