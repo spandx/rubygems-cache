@@ -580,6 +580,7 @@
 "correos_chile","0.0.3","MIT"
 "critical-path-css-worker","0.0.1","MIT"
 "crypto_gost3411","0.1.7","MIT"
+"css_lint_ruby","22.0.0",""
 "csv2sqlite","0.0.1","MIT"
 "csv2sqlite","0.0.2","MIT"
 "csv2sqlite","0.0.3","MIT"
