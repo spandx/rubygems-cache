@@ -703,6 +703,7 @@
 "elephrame","0.5.2","MIT"
 "embulk-filter-join_file","0.0.1","MIT"
 "embulk-filter-join_file","0.0.2","MIT"
+"embulk-output-cdata","0.1.0","MIT"
 "employ","0.0.1","MIT"
 "employ","0.0.2","MIT"
 "enum_utils","0.1.0",""
