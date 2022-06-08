@@ -1091,6 +1091,7 @@
 "extras","0.2.0","MIT"
 "extras","0.3.0","MIT"
 "eztagparser","0.1.0","MIT"
+"factory_bot_namespaced_factories","0.1.0","AGPL-3.0-or-later"
 "fam","0.0.1","GPL-3.0"
 "fam","0.0.2","GPL-2.0"
 "fam","0.1.0","GPL-2.0"
