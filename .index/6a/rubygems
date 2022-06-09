@@ -682,6 +682,8 @@
 "facter-universal-darwin","2.5.5",""
 "facter-universal-darwin","2.5.6",""
 "facter-universal-darwin","2.5.7",""
+"factory_bot-namespaced_factories","0.1.0","AGPL-3.0-or-later"
+"factory_bot-namespaced_factories","0.1.1","AGPL-3.0-or-later"
 "fairytale","0.8.1.1",""
 "fairytale","1.0.0",""
 "faraday-uafaker","0.0.1","MIT"

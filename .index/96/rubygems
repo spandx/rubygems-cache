@@ -2230,6 +2230,8 @@
 "ics","0.2",""
 "ics","0.2.1",""
 "idgen","1.0","MIT"
+"ifc_date","0.1.0","MIT"
+"ifc_date","0.1.1","MIT"
 "ignore_nsec","0.0.1","MIT"
 "imagemagick-identify","0.0.1","MIT"
 "imagetools","0.1.0","MIT"

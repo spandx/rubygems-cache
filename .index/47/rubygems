@@ -1896,6 +1896,7 @@
 "logstash-output-documentdb","0.2.0","Apache-2.0"
 "logstash-output-lmlogs","0.1.0","Apache-2.0"
 "logstash-output-lmlogs","1.0.0","Apache-2.0"
+"logstash-output-lmlogs","1.0.1","Apache-2.0"
 "london-bike-hire-cli","1.3.0","MIT"
 "london-bike-hire-cli","1.3.1","MIT"
 "london-bike-hire-cli","1.3.2","MIT"
