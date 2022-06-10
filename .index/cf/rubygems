@@ -995,6 +995,7 @@
 "fluent-plugin-geoip-filter","0.3.0","Apache-2.0"
 "fluent-plugin-geoip-filter","1.0.0","Apache-2.0"
 "fluent-plugin-perf-tools","0.1.0","MIT"
+"fluent-plugin-perf-tools","0.2.0","MIT"
 "flying_table","0.0.1","MIT"
 "flying_table","0.0.2","MIT"
 "flying_table","0.0.4","MIT"

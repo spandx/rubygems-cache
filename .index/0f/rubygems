@@ -3339,6 +3339,7 @@
 "openfire-ruby","0.1.1","MIT"
 "openfire-ruby","0.1.2","MIT"
 "opentelemetry-instrumentation-rspec","0.1.0","Apache-2.0"
+"opentelemetry-instrumentation-rspec","0.2.0","Apache-2.0"
 "opsgenie","0.0.2","MIT"
 "ordu","0.0.2","MIT"
 "ordu","0.0.3","MIT"

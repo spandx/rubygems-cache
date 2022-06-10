@@ -3196,6 +3196,7 @@
 "sequel_migration_builder","0.4.3",""
 "serverkit-karabiner","0.0.1",""
 "serverspec-logstash-formatter","0.1.0","MIT"
+"service_actor-promptable","1.0.0","MIT"
 "shuttlerock_shared_config","0.1.0","MIT"
 "shuttlerock_shared_config","0.1.1","MIT"
 "shuttlerock_shared_config","0.1.11","MIT"
