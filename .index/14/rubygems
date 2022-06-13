@@ -3088,6 +3088,7 @@
 "ruby-beautify","0.97.2",""
 "ruby-beautify","0.97.3",""
 "ruby-beautify","0.97.4",""
+"ruby-debugger","0.1.0","MIT"
 "ruby-heap","0.1.0","MIT"
 "ruby-heap","0.2.0","MIT"
 "ruby-heap","0.2.1","MIT"
