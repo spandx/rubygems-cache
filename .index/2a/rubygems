@@ -2625,6 +2625,7 @@
 "redcarpet-form-extension","0.1.3","MIT"
 "redcarpet-form-extension","0.2.0","MIT"
 "redcarpet-form-extension","0.2.1","MIT"
+"redcarpet-form-extension","0.3.0","MIT"
 "redis-sentinel","1.0.0",""
 "redis-sentinel","1.1.0",""
 "redis-sentinel","1.1.1",""
