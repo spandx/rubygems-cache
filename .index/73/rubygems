@@ -2407,6 +2407,7 @@
 "rails_exception_handler","2.4.6","MIT"
 "rails_qaptcha","0.0.4",""
 "rake-ar","1.0.0",""
+"rando","0.1.4","MIT"
 "rapid-rack","0.0.1","Apache-2.0"
 "rapid-rack","0.1.0","Apache-2.0"
 "rapid-rack","0.2.0","Apache-2.0"
