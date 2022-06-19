@@ -2615,6 +2615,7 @@
 "redis-cluster-client","0.0.2","MIT"
 "redis-cluster-client","0.0.3","MIT"
 "redis-cluster-client","0.0.4","MIT"
+"redis-cluster-client","0.0.5","MIT"
 "refile-sequel","0.0.1","MIT"
 "refinerycms-search","1.0.0",""
 "refinerycms-search","2.0.0","MIT"

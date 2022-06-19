@@ -68,6 +68,8 @@
 "act_as_audited","0.0.7","MIT"
 "act_as_audited","0.0.8","MIT"
 "act_as_audited","0.0.9","MIT"
+"active_record_auto_validations","0.0.1","MIT"
+"active_record_auto_validations","0.0.2","MIT"
 "active_record_union","1.0.0","Public Domain"
 "active_record_union","1.0.1","Public Domain"
 "active_record_union","1.1.0","Public Domain"

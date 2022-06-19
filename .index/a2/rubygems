@@ -1718,6 +1718,7 @@
 "jekyll-kde-theme","0.4.1","AGPL-3.0-or-later"
 "jekyll-link-url-filter","0.0.1","MIT"
 "jekyll-link-url-filter","1.0.0","MIT"
+"jekyll-phone-protect","1.0.3","MIT"
 "jekyll-theme-boilerplate","0.1.1","MIT"
 "jekyll-theme-boilerplate","0.1.2","MIT"
 "jekyll_ghost_importer","0.0.1","GPL-3.0-only"
