@@ -1066,6 +1066,7 @@
 "google-apis-serviceusage_v1beta1","0.2.0","Apache-2.0"
 "google-apis-serviceusage_v1beta1","0.20.0","Apache-2.0"
 "google-apis-serviceusage_v1beta1","0.21.0","Apache-2.0"
+"google-apis-serviceusage_v1beta1","0.22.0","Apache-2.0"
 "google-apis-serviceusage_v1beta1","0.3.0","Apache-2.0"
 "google-apis-serviceusage_v1beta1","0.4.0","Apache-2.0"
 "google-apis-serviceusage_v1beta1","0.5.0","Apache-2.0"
@@ -3159,4 +3160,5 @@
 "zutils","1.1.1","MIT"
 "zutils","1.1.2","MIT"
 "zutils","2.0.0","MIT"
+"zutils","2.0.1","MIT"
 "zxygemm","0.0.1","MIT"
