@@ -1496,6 +1496,7 @@
 "fastlane-plugin-update_jenkins_build","0.1.4","MIT"
 "fastlane-plugin-update_jenkins_build","0.2.0","MIT"
 "fastlane-plugin-update_jenkins_build","0.3.0","MIT"
+"fastlane-plugin-update_jenkins_build","0.3.1","MIT"
 "fdlint","0.1.0",""
 "fdlint","0.1.1",""
 "fdlint","0.1.2",""
