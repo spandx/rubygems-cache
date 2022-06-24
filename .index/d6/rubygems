@@ -2695,6 +2695,7 @@
 "rspec-formatter-git_auto_commit","0.0.6",""
 "rspec-formatter-git_auto_commit","0.0.7",""
 "rspec-formatter-git_auto_commit","0.0.8",""
+"rspec-parametized","999.0.0","MIT"
 "rspec-support","3.0.0","MIT"
 "rspec-support","3.0.1","MIT"
 "rspec-support","3.0.2","MIT"
