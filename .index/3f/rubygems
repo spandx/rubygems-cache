@@ -1347,6 +1347,7 @@
 "gitlab_omniauth-ldap","2.0.4","MIT"
 "gitlab_omniauth-ldap","2.1.0","MIT"
 "gitlab_omniauth-ldap","2.1.1","MIT"
+"gitlab_omniauth-ldap","2.2.0","MIT"
 "gitloc-dsynergy","0.1.0","MIT"
 "gitolite","1.0.0",""
 "glimmer-cw-cdatetime-nebula","1.4.0.0","MIT"
