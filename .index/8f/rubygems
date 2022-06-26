@@ -1371,6 +1371,7 @@
 "fastlane-plugin-versioning","0.4.5","MIT"
 "fastlane-plugin-versioning","0.4.6","MIT"
 "fastlane-plugin-versioning","0.5.0","MIT"
+"fastlane-plugin-versioning","0.5.1","MIT"
 "feedparser","0.1.0","Public Domain"
 "feedparser","0.2.0","Public Domain"
 "feedparser","1.0.0","Public Domain"

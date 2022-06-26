@@ -2847,6 +2847,7 @@
 "rubygems-bundler","1.4.4","Apache-2.0"
 "rubygems-bundler","1.4.5","Apache-2.0"
 "rubygems-path","0.1.0","MIT"
+"rubygems-path","0.1.1","MIT"
 "rubysl-thread","1.0.0","BSD"
 "rubysl-thread","2.0.2","BSD"
 "rubysl-thread","2.0.3","BSD"
