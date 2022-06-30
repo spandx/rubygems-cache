@@ -3398,6 +3398,7 @@
 "sidekiq-monitor-stats","0.0.3","MIT"
 "sidekiq-monitor-stats","0.0.4","MIT"
 "sidetree","0.1.0","MIT"
+"sidetree","0.1.1","MIT"
 "signal","0.1.0",""
 "signal","0.1.1",""
 "signal","0.2.0",""

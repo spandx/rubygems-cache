@@ -2379,6 +2379,7 @@
 "pulp_python_client","3.5.2","GPL-2.0+"
 "pulp_python_client","3.6.0","GPL-2.0+"
 "pulp_python_client","3.7.0","GPL-2.0+"
+"pulp_python_client","3.7.1","GPL-2.0+"
 "puppet-spec","1.0.2","Apache-2.0"
 "puppet-spec","1.1.0","Apache-2.0"
 "puppet-spec","1.1.1","Apache-2.0"
