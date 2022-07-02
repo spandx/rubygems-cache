@@ -1674,6 +1674,7 @@
 "google-apis-videointelligence_v1p2beta1","0.8.0","Apache-2.0"
 "google-apis-videointelligence_v1p2beta1","0.9.0","Apache-2.0"
 "google-cloud-eventarc-publishing","0.1.0","Apache-2.0"
+"google-cloud-eventarc-publishing","0.2.0","Apache-2.0"
 "google-cloud-network_management","0.1.0","Apache-2.0"
 "google-cloud-network_management","1.0.0","Apache-2.0"
 "google-cloud-network_management","1.0.1","Apache-2.0"

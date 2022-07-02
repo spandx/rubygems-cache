@@ -1633,6 +1633,7 @@
 "google-apis-groupssettings_v1","0.8.0","Apache-2.0"
 "google-apis-groupssettings_v1","0.9.0","Apache-2.0"
 "google-cloud-batch","0.1.0","Apache-2.0"
+"google-cloud-batch","0.2.0","Apache-2.0"
 "google-cloud-storage_transfer","0.1.0","Apache-2.0"
 "google-cloud-storage_transfer","1.0.0","Apache-2.0"
 "google-cloud-storage_transfer","1.0.1","Apache-2.0"

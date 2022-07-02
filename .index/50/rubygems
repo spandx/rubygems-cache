@@ -2444,6 +2444,7 @@
 "rspec-openapi","0.4.8","MIT"
 "rspec-openapi","0.5.0","MIT"
 "rspec-openapi","0.5.1","MIT"
+"rspec-openapi","0.6.0","MIT"
 "rspec-sound","0.1.0",""
 "rspec_match_structure","0.3.2","MIT"
 "rubocop-config-prettier","0.1.0",""

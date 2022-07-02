@@ -1034,6 +1034,7 @@
 "google-apis-slides_v1","0.9.0","Apache-2.0"
 "google-cloud-eventarc-publishing-v1","0.1.0","Apache-2.0"
 "google-cloud-eventarc-publishing-v1","0.2.0","Apache-2.0"
+"google-cloud-eventarc-publishing-v1","0.3.0","Apache-2.0"
 "gosu-examples","1.0.3",""
 "gosu-examples","1.0.4",""
 "gosu-examples","1.0.5",""

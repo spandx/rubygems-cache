@@ -1331,6 +1331,7 @@
 "google-apis-safebrowsing_v4","0.8.0","Apache-2.0"
 "google-apis-safebrowsing_v4","0.9.0","Apache-2.0"
 "google-cloud-gke_backup","0.1.0","Apache-2.0"
+"google-cloud-gke_backup","0.2.0","Apache-2.0"
 "google-cloud-org_policy-v2","0.1.0","Apache-2.0"
 "google-cloud-org_policy-v2","0.2.0","Apache-2.0"
 "google-cloud-org_policy-v2","0.2.1","Apache-2.0"

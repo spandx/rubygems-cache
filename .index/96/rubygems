@@ -2184,6 +2184,7 @@
 "google-apis-networksecurity_v1","0.6.0","Apache-2.0"
 "google-cloud-ids","0.1.0","Apache-2.0"
 "google-cloud-ids","0.1.1","Apache-2.0"
+"google-cloud-ids","0.2.0","Apache-2.0"
 "google-cloud-memcache","0.1.0","Apache-2.0"
 "google-cloud-memcache","0.1.1","Apache-2.0"
 "google-cloud-memcache","0.1.2","Apache-2.0"
