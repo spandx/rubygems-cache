@@ -2731,6 +2731,7 @@
 "shopify-gold","5.4.1",""
 "shopify-gold","6.0.0",""
 "shopify-gold","6.0.1",""
+"shrine-aws-lambda","0.1.2","MIT"
 "sigmund","0.0.1","MIT"
 "sigmund","0.0.2","MIT"
 "signaly-notify","0.0.3","LGPL-3.0-|-MIT"

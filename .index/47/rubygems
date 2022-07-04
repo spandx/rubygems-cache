@@ -1224,6 +1224,7 @@
 "flog","4.6.3","MIT"
 "flog","4.6.4","MIT"
 "flog","4.6.5","MIT"
+"flog","4.6.6","MIT"
 "floyd","0.0.1","MIT"
 "fluent-plugin-clickhouse","0.0.1","Apache2.0"
 "fluent-plugin-filter-kv-parser","0.0.1","MIT"

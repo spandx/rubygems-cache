@@ -490,6 +490,8 @@
 "dassets-erb","0.2.0","MIT"
 "dassets-erb","0.3.0","MIT"
 "dassets-erb","0.3.1","MIT"
+"data_fake","0.1.0","MIT"
+"data_fake","0.1.1","MIT"
 "database_cleaner-active_record","1.8.0","MIT"
 "database_cleaner-active_record","1.99.0","MIT"
 "database_cleaner-active_record","2.0.0","MIT"
