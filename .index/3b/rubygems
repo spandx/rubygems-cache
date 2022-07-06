@@ -1405,6 +1405,8 @@
 "jquery-inputmask-rails","2.5.5",""
 "jsanti-fuzzy_file_finder","1.0.5",""
 "jscal2-rails","0.0.1","MIT"
+"jscall","1.0.0",""
+"jscall","1.0.1","MIT"
 "jsmestad-stale_popcorn","0.1.1",""
 "json-prettyprint","0.0.1",""
 "json-prettyprint","0.0.2",""

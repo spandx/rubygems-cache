@@ -504,6 +504,7 @@
 "carrierwave-neo4j","2.0.3",""
 "carrierwave-neo4j","2.0.4",""
 "carrierwave-neo4j","3.0.0",""
+"cat_facts_api_client","0.2.0","MIT"
 "cellularity","0.0.1","MIT"
 "cellularity","0.0.2","MIT"
 "cellularity","0.0.2.1","MIT"

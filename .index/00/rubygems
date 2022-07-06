@@ -1325,6 +1325,7 @@
 "guard-rubycritic","1.4.0","MIT"
 "guard-rubycritic","2.9.0","MIT"
 "guard-rubycritic","2.9.3","MIT"
+"hai-graphql","0.1.0","MIT"
 "halffare","0.1.1","MIT"
 "hammerofgod","0.0.1","MIT"
 "hangman_letter_check","0.0.1","MIT"
