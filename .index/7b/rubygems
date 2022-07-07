@@ -1215,6 +1215,8 @@
 "fluent-plugin-kubernetes_metadata_filter","2.1.6","Apache-2.0"
 "fluent-plugin-kubernetes_metadata_filter","2.10.0","Apache-2.0"
 "fluent-plugin-kubernetes_metadata_filter","2.11.1","Apache-2.0"
+"fluent-plugin-kubernetes_metadata_filter","2.12.0","Apache-2.0"
+"fluent-plugin-kubernetes_metadata_filter","2.13.0","Apache-2.0"
 "fluent-plugin-kubernetes_metadata_filter","2.2.0","Apache-2.0"
 "fluent-plugin-kubernetes_metadata_filter","2.3.0","Apache-2.0"
 "fluent-plugin-kubernetes_metadata_filter","2.4.0","Apache-2.0"

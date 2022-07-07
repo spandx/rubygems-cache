@@ -2587,6 +2587,7 @@
 "rspec-activejob","0.5.0","MIT"
 "rspec-activejob","0.6.0","MIT"
 "rspec-activejob","0.6.1","MIT"
+"rspec-iso8601","0.1.0","MIT"
 "rubber-jcarnegie","0.0.1",""
 "rubocop-codeur","0.1.10","MIT"
 "rubocop-codeur","0.1.11","MIT"
