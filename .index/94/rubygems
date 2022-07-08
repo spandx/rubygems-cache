@@ -1057,6 +1057,7 @@
 "google-cloud-video-transcoder","1.0.1","Apache-2.0"
 "google-cloud-video-transcoder","1.0.2","Apache-2.0"
 "google-cloud-video-transcoder","1.1.0","Apache-2.0"
+"google-cloud-video-transcoder","1.2.0","Apache-2.0"
 "gorm","0.0.2",""
 "gorm","0.0.3",""
 "gorm","0.0.4",""

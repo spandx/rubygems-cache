@@ -60,6 +60,7 @@
 "activedocument","1.0",""
 "activerecord-auto_filter","0.1.0",""
 "activerecord-batch_touching","1.0","MIT"
+"activerecord-batch_touching","1.1","MIT"
 "activigit","0.1.0",""
 "acts_as_dasherize_vanity","0.0.2","MIT"
 "acts_as_dasherize_vanity","0.0.3","MIT"

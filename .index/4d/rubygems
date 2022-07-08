@@ -1518,6 +1518,8 @@
 "google-apis-speech_v1p1beta1","0.9.0","Apache-2.0"
 "google-cloud-certificate_manager-v1","0.1.0","Apache-2.0"
 "google-cloud-certificate_manager-v1","0.2.0","Apache-2.0"
+"google-cloud-certificate_manager-v1","0.3.0","Apache-2.0"
+"google-cloud-certificate_manager-v1","0.3.1","Apache-2.0"
 "google-http-actionmailer","0.1.0","MIT"
 "google-http-actionmailer","0.2.0","MIT"
 "google-http-actionmailer","0.3.0","MIT"
