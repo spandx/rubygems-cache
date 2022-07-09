@@ -1465,6 +1465,7 @@
 "ledger_web","1.5.0",""
 "ledger_web","1.5.1",""
 "ledger_web","1.5.2",""
+"libdatadog-aarch64-linux","0.7.0.1.0","Apache-2.0"
 "libv8-x86_64-solaris-2.11","3.16.14.3","MIT"
 "licensee","0.0.1",""
 "licensee","0.0.2","MIT"
