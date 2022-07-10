@@ -767,6 +767,7 @@
 "embulk-input-db2","0.9.1","Apache-2.0"
 "embulk-input-db2","0.9.2","Apache-2.0"
 "embulk-input-db2","0.9.3","Apache-2.0"
+"embulk-input-twitter_search","0.1.0","MIT"
 "embulk-input-yelp-java","0.2.5","MIT"
 "emmaw","0.0.1",""
 "encrypt_data_bag","0.0.1","MIT"
