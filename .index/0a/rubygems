@@ -1,3 +1,4 @@
+"Captain","0.0.1","MIT"
 "Chee","0.4.0",""
 "HTStyle","0.1","BSD"
 "HTStyle","0.11","BSD"
@@ -3785,6 +3786,7 @@
 "tencentcloud-sdk-common","1.0.350","Apache-2.0"
 "tencentcloud-sdk-common","1.0.351","Apache-2.0"
 "tencentcloud-sdk-common","1.0.352","Apache-2.0"
+"tencentcloud-sdk-common","1.0.353","Apache-2.0"
 "tencentcloud-sdk-common","1.0.57","Apache-2.0"
 "test_email_redis","0.0.1","MIT"
 "test_email_redis","0.0.2","MIT"

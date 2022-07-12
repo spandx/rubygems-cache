@@ -873,6 +873,7 @@
 "debug","1.3.4","Ruby-|-BSD-2-Clause"
 "debug","1.4.0","Ruby-|-BSD-2-Clause"
 "debug","1.5.0","Ruby-|-BSD-2-Clause"
+"debug","1.6.0","Ruby-|-BSD-2-Clause"
 "decimal_to_degree","0.0.1","MIT"
 "decimal_to_degree","0.0.2","Mamidwar"
 "decimal_to_degree","0.0.3","Mamidwar"
