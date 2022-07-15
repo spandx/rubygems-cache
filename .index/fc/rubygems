@@ -2162,6 +2162,8 @@
 "packer-config","1.6.4","Apache-2.0"
 "packer-config","1.6.5","Apache-2.0"
 "page_specific_js","0.0.4",""
+"palindrome_gem_zf","0.1.0",""
+"palindrome_gem_zf","0.2.0",""
 "panda-processor","0.0.0","MIT"
 "panda-processor","0.0.2","MIT"
 "paperclip-storage-ftp","1.0.1",""

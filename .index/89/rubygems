@@ -49,6 +49,7 @@
 "activerecord-import-vertica","0.0.3","MIT"
 "activerecord-import-vertica","0.0.4","MIT"
 "activerecord-import-vertica","0.0.5","MIT"
+"activerecord-mysql-reconnect-new","0.6.0","MIT"
 "activerecord-prunable","0.1.1","MIT"
 "activerecord-prunable","0.2.0","MIT"
 "activerecord-prunable","0.2.1","MIT"

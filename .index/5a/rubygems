@@ -1603,6 +1603,7 @@
 "iso8583","0.2.3",""
 "iso8583","0.2.4",""
 "itamae-plugin-recipe-plenv","0.1.0","MIT"
+"itamae-plugin-recipe-rust","0.1.0","MIT"
 "jackowayed-rufus-tokyo","0.1.13",""
 "jackowayed-rufus-tokyo","0.1.13.1",""
 "jackowayed-rufus-tokyo","0.1.13.2",""

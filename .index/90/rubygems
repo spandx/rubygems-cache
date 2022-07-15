@@ -1611,6 +1611,8 @@
 "logandk-capistrano-ec2group","1.0.8",""
 "loggo_rails","0.1.0","MIT"
 "loggo_rails","0.1.1","MIT"
+"logstash-input-flume","0.1.1","Apache-2.0"
+"logstash-input-flume","0.1.2","Apache-2.0"
 "logstash-output-rollbar-k8s","0.0.1","Apache-2.0"
 "logstash-output-rollbar-k8s","0.0.2","Apache-2.0"
 "logstash-output-rollbar-k8s","0.0.3","Apache-2.0"
