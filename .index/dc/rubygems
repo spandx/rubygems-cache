@@ -2617,6 +2617,7 @@
 "subscription","0.1.0","GPL-3.0"
 "supabase_api","0.1.0","MIT"
 "supabase_api","0.2.0","MIT"
+"supabase_api","0.3.0","MIT"
 "svgsprite","0.0.1","MIT"
 "svgsprite","0.1.0","MIT"
 "swift-db-postgres","0.1.1",""

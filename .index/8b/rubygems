@@ -3282,6 +3282,7 @@
 "sidekiq-grouping","1.0.7","MIT"
 "sidekiq-grouping","1.0.8","MIT"
 "sidekiq-grouping","1.0.9","MIT"
+"sidekiq-grouping","1.1.0","MIT"
 "sidekiq-instrument","0.1.0","MIT"
 "sidekiq-instrument","0.1.1","MIT"
 "sidekiq-instrument","0.2.0","MIT"

@@ -839,6 +839,7 @@
 "disco-railties","0.5.1","MIT"
 "disco-railties","0.5.2","MIT"
 "disco-railties","0.5.3","MIT"
+"dmp-dynamo_adapter","0.1.0","MIT"
 "dn","0.0.1","MIT"
 "dn","0.1.0","MIT"
 "do_sqlite3-java","0.10.10",""

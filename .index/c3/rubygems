@@ -1573,6 +1573,7 @@
 "instance","0.2.0","BSD-2-Clause"
 "interest_calc","0.1.0","MIT"
 "interest_calc","0.2.0","MIT"
+"interest_calc","0.2.2","MIT"
 "invoices","0.1.0","MIT"
 "ipsum-core","2.0.0",""
 "itamae-plugin-recipe-phantomjs","0.0.1","MIT"

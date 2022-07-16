@@ -2881,6 +2881,7 @@
 "spree_devices","1.2.0",""
 "ssh-locate","0.1.0",""
 "ssh-locate","0.3.0",""
+"ssh-locate","0.4.0",""
 "stompy","0.0.1","MIT"
 "string-stats-ah","0.1.0","MIT"
 "stupider_formatter","0.3.0",""
