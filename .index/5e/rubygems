@@ -2090,6 +2090,7 @@
 "hstore_translate","1.0.0","MIT"
 "hstore_translate","2.0.0","MIT"
 "http-fake","0.0.0","Hippocratic-2.1"
+"http-fake","0.1.0","Hippocratic-2.1"
 "hummingbird","1.0.0",""
 "hydrogen-integration-api","1.3.1","Unlicense"
 "hypr","0.0.0",""
