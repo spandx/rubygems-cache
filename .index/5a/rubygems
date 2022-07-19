@@ -1102,6 +1102,7 @@
 "fastlane-plugin-appmetrica","0.1.3","Nonstandard"
 "fastlane-plugin-qr_code","0.1.1","MIT"
 "fastlane-plugin-qr_code","0.1.2","MIT"
+"fastlane-plugin-qr_code","0.1.3","MIT"
 "fastly","0.9",""
 "fastly","0.96",""
 "fastly","1.00",""
