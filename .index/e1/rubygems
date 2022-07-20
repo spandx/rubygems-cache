@@ -2362,6 +2362,8 @@
 "pg_conn","0.4.2",""
 "pg_conn","0.4.3",""
 "pg_conn","0.4.4",""
+"pg_conn","0.5.0",""
+"pg_conn","0.5.1",""
 "pg_trgm","0.0.1","MIT"
 "phrases_changer_gem","0.0.98","Apache-2.0"
 "pierredv_palindrome","0.1.0",""
