@@ -1343,6 +1343,7 @@
 "genki-ruby-terminfo","0.1.1",""
 "geo_ips","0.1.0",""
 "geohash_int","0.1.0","MIT"
+"geohash_int","0.1.1","MIT"
 "geoip2","0.0.2","GPLv2"
 "geoip2","0.0.3","GPLv2"
 "gfm-preview","1.0.0",""
