@@ -578,6 +578,7 @@
 "cloud_files_transfer","0.0.3","MIT"
 "cloud_files_transfer","0.0.4","MIT"
 "cloud_files_transfer","0.0.5","MIT"
+"cocoapods-git2local","0.0.1","MIT"
 "codez-validates_by_schema","0.3.0",""
 "codez-validates_by_schema","0.3.1",""
 "cogsworth","1.0.2",""

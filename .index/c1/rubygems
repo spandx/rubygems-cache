@@ -2257,6 +2257,7 @@
 "node_mutation","1.0.0",""
 "node_mutation","1.1.0",""
 "node_mutation","1.2.0",""
+"node_mutation","1.2.1",""
 "nova_git_stats","2.2.0","MIT"
 "nova_git_stats","2.3.0","MIT"
 "numeric_memoist","0.0.1","MIT"

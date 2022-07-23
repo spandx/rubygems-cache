@@ -1709,6 +1709,7 @@
 "momentjs-middleman","2.13.0","MIT"
 "momentjs-middleman","2.6.1","MIT"
 "monad-oxide","0.1.0","Apache-2.0-|-MIT"
+"monad-oxide","0.2.0","Apache-2.0-|-MIT"
 "mongoid-clerk","0.0.4",""
 "mongoid_schema_dump","0.0.1","MIT"
 "mordor-java","0.3.0",""

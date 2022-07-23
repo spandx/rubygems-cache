@@ -1432,6 +1432,7 @@
 "htttee","0.6.0",""
 "huginn_http_observatory_mozilla_agent","0.1","MIT"
 "huginn_http_observatory_mozilla_agent","0.2","MIT"
+"huginn_http_observatory_mozilla_agent","0.3","MIT"
 "humpass","0.1.0","MIT"
 "humpass","0.1.1","MIT"
 "humpass","0.1.11","MIT"
