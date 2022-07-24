@@ -2050,6 +2050,7 @@
 "nokogiri-x64-mingw-ucrt","1.13.5","MIT"
 "nokogiri-x64-mingw-ucrt","1.13.6","MIT"
 "nokogiri-x64-mingw-ucrt","1.13.7","MIT"
+"nokogiri-x64-mingw-ucrt","1.13.8","MIT"
 "norikra-udf-percentile-java","0.0.1","GPLv2"
 "norikra-udf-percentile-java","0.0.2","GPLv2"
 "nostos-source-illiad","0.0.1",""

@@ -2619,6 +2619,8 @@
 "redis_pipeliner","0.0.1",""
 "redis_pipeliner","0.0.2",""
 "redisque","1.0.2",""
+"ree","1.0.0","MIT"
+"ree","1.0.1","MIT"
 "remi-vim-twitter","0.1.0",""
 "remi-vim-twitter","0.1.1",""
 "remotesync","1.0.0","GPL-3.0"

@@ -2623,6 +2623,7 @@
 "onnxruntime-x64-mingw","0.7.0","MIT"
 "onnxruntime-x64-mingw","0.7.1","MIT"
 "onnxruntime-x64-mingw","0.7.2","MIT"
+"onnxruntime-x64-mingw","0.7.3","MIT"
 "openflow","0.0.1",""
 "openstudio","0.7.6",""
 "optical_diff","0.0.4",""

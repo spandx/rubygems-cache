@@ -2467,6 +2467,7 @@
 "onnxruntime-arm64-darwin","0.7.0","MIT"
 "onnxruntime-arm64-darwin","0.7.1","MIT"
 "onnxruntime-arm64-darwin","0.7.2","MIT"
+"onnxruntime-arm64-darwin","0.7.3","MIT"
 "oo2md2tex","0.0.1",""
 "oo2md2tex","0.0.10","ISC"
 "oo2md2tex","0.0.11","ISC"

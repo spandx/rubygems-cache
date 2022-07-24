@@ -803,6 +803,7 @@
 "command-t","5.0.2","BSD"
 "command-t","5.0.3","BSD"
 "command-t","5.0.4","BSD"
+"command-t","5.0.5","BSD-2-Clause"
 "company_data_faker","0.0.1",""
 "company_data_faker","0.0.3",""
 "company_data_faker","0.1.2",""
