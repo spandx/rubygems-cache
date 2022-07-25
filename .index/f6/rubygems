@@ -1171,6 +1171,7 @@
 "dotsmack","0.3","FreeBSD"
 "dotsmack","0.4","FreeBSD"
 "dotsmack","0.5","FreeBSD"
+"dry-cli-completion","0.3.0","MIT"
 "dstat","1.0.0","MIT"
 "dullard","0.0.3",""
 "dullard","0.0.5",""

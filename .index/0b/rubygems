@@ -2724,6 +2724,7 @@
 "ruby_memcheck","1.0.0","MIT"
 "ruby_memcheck","1.0.1","MIT"
 "ruby_memcheck","1.0.2","MIT"
+"ruby_memcheck","1.0.3","MIT"
 "rubygems_api","1.0.0","MIT"
 "rubygems_api","1.0.1","MIT"
 "rubyqc","0.0.1","Apache-2.0"
