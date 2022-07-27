@@ -1499,6 +1499,7 @@
 "fluentd-x64-mingw-ucrt","1.14.5","Apache-2.0"
 "fluentd-x64-mingw-ucrt","1.14.6","Apache-2.0"
 "fluentd-x64-mingw-ucrt","1.15.0","Apache-2.0"
+"fluentd-x64-mingw-ucrt","1.15.1","Apache-2.0"
 "fme-enterprise_bus","0.0.2","MIT"
 "fog-speedyrails","0.0.2",""
 "fog-speedyrails","0.0.3",""
