@@ -2601,6 +2601,7 @@
 "petitest-power_assert","0.2.0","MIT"
 "pg_to_csv","0.0.1",""
 "pgpass","2012.01.18",""
+"pgpass","2022.07.27",""
 "phidgets_native","0.1.0",""
 "phidgets_native","0.2.0",""
 "phidgets_native","0.2.1",""
