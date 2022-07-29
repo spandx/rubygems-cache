@@ -1311,6 +1311,7 @@
 "fluent-plugin-vmware-loginsight","0.1.8","MIT"
 "fluent-plugin-vmware-loginsight","0.1.9","MIT"
 "fluent-plugin-vmware-loginsight","1.0.0","MIT"
+"fluent-plugin-vmware-loginsight","1.3.0","MIT"
 "fmod-ruby","0.1.1",""
 "fmod-ruby","0.3.1",""
 "fog-backblaze","0.1.1",""

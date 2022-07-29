@@ -2003,6 +2003,7 @@
 "libusb-x86-linux","0.6.4","LGPL-3.0"
 "linkheaders-processor","0.1.10","MIT"
 "linkheaders-processor","0.1.11","MIT"
+"linkheaders-processor","0.1.12","MIT"
 "linkheaders-processor","0.1.8","MIT"
 "linx_microvix","0.0.1","MIT"
 "liquid-ruby","0.1.0",""
