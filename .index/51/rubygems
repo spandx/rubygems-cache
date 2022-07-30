@@ -473,6 +473,7 @@
 "base32-alphabets","1.1.1","Public Domain"
 "base32-alphabets","1.1.2","Public Domain"
 "base32-alphabets","1.2.0","Public Domain"
+"batches_task_processor","0.1.0",""
 "bcrypt","3.1.10","MIT"
 "bcrypt","3.1.11","MIT"
 "bcrypt","3.1.12","MIT"

@@ -1426,6 +1426,7 @@
 "google-apis-smartdevicemanagement_v1","0.7.0","Apache-2.0"
 "google-apis-smartdevicemanagement_v1","0.8.0","Apache-2.0"
 "google-apis-smartdevicemanagement_v1","0.9.0","Apache-2.0"
+"google-cloud-beyond_corp-app_connections-v1","0.1.0","Apache-2.0"
 "google-cloud-bigquery-migration","0.1.0","Apache-2.0"
 "google-cloud-bigquery-migration","0.2.0","Apache-2.0"
 "google-cloud-spanner-v1","0.1.0","Apache-2.0"

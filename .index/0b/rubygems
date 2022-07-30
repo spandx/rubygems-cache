@@ -2086,6 +2086,8 @@
 "mspire-obo","0.0.4","MIT"
 "multi_delegator","0.0.2","MIT"
 "mustwin-vcr","2.9.3","MIT"
+"mysql2postgres","0.3.2","MIT"
+"mysql2postgres","0.3.3","MIT"
 "naive","0.1.0","MIT"
 "naive","0.2.0","MIT"
 "naive","0.2.1","MIT"

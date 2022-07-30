@@ -4092,6 +4092,7 @@
 "validates_email_format_of","1.6.1","MIT"
 "validates_email_format_of","1.6.2","MIT"
 "validates_email_format_of","1.6.3","MIT"
+"validates_email_format_of","1.7.0","MIT"
 "viaduct-gandi","1.0.0",""
 "video_chat_get","0.1.0","MIT"
 "video_chat_get","0.1.1","MIT"

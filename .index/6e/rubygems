@@ -2566,6 +2566,7 @@
 "paso-net-http-spy","0.2.2",""
 "pasta_rails","0.0.5","MIT"
 "pasta_rails","0.0.6","MIT"
+"payment_methods","0.1.0","MIT"
 "paytrail-client","0.1.0","MIT"
 "paytrail-client","0.1.1","MIT"
 "paytrail-client","0.1.2","MIT"
