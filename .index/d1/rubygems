@@ -4677,6 +4677,8 @@
 "tcp-client","0.10.0","BSD-3-Clause"
 "tcp-client","0.10.1","BSD-3-Clause"
 "tcp-client","0.11.0","BSD-3-Clause"
+"tcp-client","0.11.1","BSD-3-Clause"
+"tcp-client","0.11.2","BSD-3-Clause"
 "tcp-client","0.2.0",""
 "tcp-client","0.2.2",""
 "tcp-client","0.2.3",""

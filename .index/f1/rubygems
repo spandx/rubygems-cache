@@ -2282,6 +2282,7 @@
 "logstash-filter-rancher_metadata","0.0.8","Apache-2.0"
 "logstash-filter-rancher_metadata","0.0.9","Apache-2.0"
 "logstash-input-logQueue-java","0.1.0","Apache-2.0"
+"logstash-input-logQueue-java","3.0.2","Apache-2.0"
 "logstash-input-rethinker","0.1.0","Apache-2.0"
 "logstash-input-wmi","0.1.0","Apache-2.0"
 "logstash_rails","0.0.10","GPL"
