@@ -2934,6 +2934,7 @@
 "sdl2-bindings","0.1.0","Zlib"
 "sdl2-bindings","0.1.1","Zlib"
 "sdl2-bindings","0.1.2","Zlib"
+"sdl2-bindings","0.1.3","Zlib"
 "secret_store","0.0.3",""
 "semverly","1.0.0","MIT"
 "sensu-plugins-sidekiq-latency","0.1.1",""
