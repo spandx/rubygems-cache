@@ -1211,6 +1211,7 @@
 "cvss_rating","0.5.5","MIT"
 "cvss_rating","0.5.7","MIT"
 "cvss_rating","0.6.0","MIT"
+"d-installer","0.4.2","GPL-2.0-only"
 "d3-rails","2.9.1","MIT"
 "d3-rails","3.3.5",""
 "d3-rails","3.3.6",""
