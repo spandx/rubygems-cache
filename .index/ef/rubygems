@@ -755,6 +755,7 @@
 "csv-importer","0.7.0","MIT"
 "csv-importer","0.8.0","MIT"
 "csv-importer","0.8.1","MIT"
+"csv-importer","0.8.2","MIT"
 "csv2other","0.0.4",""
 "csv2xlsx","0.0.1","MIT"
 "csv_patch","1.0.1",""

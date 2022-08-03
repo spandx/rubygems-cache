@@ -1846,6 +1846,7 @@
 "log4r_auditor","1.0.0","MIT"
 "log4r_auditor","1.1.0","MIT"
 "logstash-codec-rsa_decrypt","0.0.1","Apache-2.0"
+"lokap-verbs","3.1.1",""
 "lsolr","0.0.0","MIT"
 "lsolr","0.0.1","MIT"
 "lsolr","0.0.2","MIT"

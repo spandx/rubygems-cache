@@ -3282,6 +3282,7 @@
 "secure_headers","6.3.2","Apache Public License 2.0"
 "secure_headers","6.3.3","Apache Public License 2.0"
 "secure_headers","6.3.4","Apache Public License 2.0"
+"secure_headers","6.4.0","Apache Public License 2.0"
 "securevpn-xyz-http-hooks","1.3.3",""
 "securevpn-xyz-http-hooks","1.3.5",""
 "segmenter","0.7.2",""

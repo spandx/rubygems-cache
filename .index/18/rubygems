@@ -1320,6 +1320,7 @@
 "fog-backblaze","0.3.0",""
 "fontdock","0.0.1","MIT"
 "fontdock","0.0.2","MIT"
+"fontist_ex","1.14.2","BSD-2-Clause"
 "foreman_netbox","1.0.2","GPL-3.0"
 "foreman_netbox","1.1.0","GPL-3.0"
 "foreman_userdata","0.0.1","GPL-3"

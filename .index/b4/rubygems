@@ -928,6 +928,7 @@
 "data_migrate","7.0.2","MIT"
 "data_migrate","8.0.0","MIT"
 "data_migrate","8.1.0","MIT"
+"data_migrate","8.1.1","MIT"
 "data_paths","0.3.0",""
 "data_paths","0.3.1",""
 "database_error_handler","0.0.1","MIT"

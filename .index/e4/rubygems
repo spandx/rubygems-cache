@@ -635,6 +635,7 @@
 "connection_pool","2.2.4","MIT"
 "connection_pool","2.2.5","MIT"
 "connectors_utility","8.4.0.0","Elastic-2.0"
+"connectors_utility","8.4.0.1","Elastic-2.0"
 "conscan","0.1.0","MIT"
 "contentful-scheduler-custom-build-john","1.0","MIT"
 "contentful-scheduler-custom-build-john","1.1","MIT"
