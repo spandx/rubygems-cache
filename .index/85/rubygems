@@ -2832,6 +2832,7 @@
 "ruby-mailchecker","4.1.7","MIT"
 "ruby-mailchecker","4.1.8","MIT"
 "ruby-mailchecker","4.1.9","MIT"
+"ruby-mailchecker","5.0.0","MIT"
 "ruby-prof-x86-mingw32","0.11.2",""
 "ruby-prof-x86-mingw32","0.12.1",""
 "ruby-test-reporter","9000.0","GPL-3.0"

@@ -2171,6 +2171,7 @@
 "openapi","0.9.7","MIT"
 "openapi","0.9.8","MIT"
 "openc3-tool-handbooks","5.0.6","AGPL-3.0-only-|-Nonstandard"
+"openc3-tool-handbooks","5.0.7","AGPL-3.0-only-|-Nonstandard"
 "opentelemetry-propagator-ottrace","0.16.0","Apache-2.0"
 "opentelemetry-propagator-ottrace","0.17.0","Apache-2.0"
 "opentelemetry-propagator-ottrace","0.18.0","Apache-2.0"

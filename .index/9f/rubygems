@@ -3427,6 +3427,7 @@
 "ssrf_filter","1.0.5","MIT"
 "ssrf_filter","1.0.6","MIT"
 "ssrf_filter","1.0.7","MIT"
+"ssrf_filter","1.0.8","MIT"
 "stackify-ruby-logging","1.0.0","Stackify"
 "stairs-steps-s3","0.0.1","MIT"
 "stairs-steps-s3","0.0.2","MIT"
