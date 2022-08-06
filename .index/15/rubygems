@@ -2747,6 +2747,7 @@
 "solidus_talon_one","1.0.0","MIT"
 "solr_cursorstream","0.1.0","MIT"
 "solr_cursorstream","0.1.1","MIT"
+"solr_cursorstream","0.2.0","MIT"
 "sorting_service_books","0.1.0","MIT"
 "sorting_service_books","0.2.0","MIT"
 "sorting_service_books","0.2.1","MIT"

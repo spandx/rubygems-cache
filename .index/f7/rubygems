@@ -668,6 +668,7 @@
 "clazz_extensions","0.0.7","MIT"
 "clean-mock","0.1.0","MIT"
 "clean-mock","0.2.0","MIT"
+"clean-mock","0.2.1","MIT"
 "cloud_storage_utils","9001.0",""
 "cmm-lunch","0.0.1",""
 "cocoapods-reflect_file_system_structure","0.1.0","MIT"
