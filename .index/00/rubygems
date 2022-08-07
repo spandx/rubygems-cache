@@ -2860,6 +2860,7 @@
 "red-arrow-cuda","6.0.1","Apache-2.0"
 "red-arrow-cuda","7.0.0","Apache-2.0"
 "red-arrow-cuda","8.0.0","Apache-2.0"
+"red-arrow-cuda","9.0.0","Apache-2.0"
 "redcar-jruby","0.1",""
 "redcli","0.0.1","MIT"
 "redcli","0.1.1","MIT"
