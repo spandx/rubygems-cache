@@ -3586,6 +3586,7 @@
 "mnemosyne-ruby","1.7.1","MIT"
 "mnemosyne-ruby","1.8.0","MIT"
 "mnemosyne-ruby","1.9.0","MIT"
+"moji_ultilities","0.1.0","MIT"
 "mongo_coffee","1.0.0",""
 "mongo_coffee","1.0.1",""
 "mongoid-lookup","0.0.1",""

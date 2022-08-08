@@ -2906,6 +2906,7 @@
 "simple_cells","0.0.8","MIT"
 "simple_errors","0.0.1","MIT"
 "simple_errors","0.0.4","MIT"
+"simple_errors","0.0.5","MIT"
 "simple_redis","0.0.1","MIT"
 "simple_redis","0.1.1","MIT"
 "simple_redis","0.1.7","MIT"

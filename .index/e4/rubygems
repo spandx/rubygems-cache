@@ -135,6 +135,7 @@
 "activerecord-endoscope","0.0.2","MIT"
 "activerecord-endoscope","0.0.3","MIT"
 "acts_as_api_sequel","0.0.1",""
+"acts_as_nosql","0.1.0","MIT"
 "ada","0.1.0","MIT"
 "administrate-field-enumerize","1.0.0","MIT"
 "administrate-field-image","0.0.1","MIT"
