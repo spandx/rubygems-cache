@@ -1376,6 +1376,7 @@
 "foreman_ansible","7.1.2","GPL-3.0"
 "foreman_ansible","8.0.0","GPL-3.0"
 "foreman_ansible","8.0.1","GPL-3.0"
+"foreman_ansible","9.0.0","GPL-3.0"
 "foreman_ovirt","0.1.0","MIT"
 "foreman_ovirt","0.2.0","MIT"
 "foreman_ovirt","0.3.0","GPL-3"

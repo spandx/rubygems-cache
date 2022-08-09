@@ -2470,6 +2470,8 @@
 "number_to_word","1.0.0",""
 "nvvm","0.1.1","MIT"
 "nvvm","0.2.0","MIT"
+"nvvm","0.3.0","MIT"
+"nvvm","0.4.0","MIT"
 "oauth2-rack-server","0.0.1",""
 "oauth2_rails","0.1.0",""
 "oauth2_rails","0.1.1",""

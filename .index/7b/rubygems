@@ -1247,6 +1247,7 @@
 "fluent-plugin-kubernetes_metadata_filter","2.9.5","Apache-2.0"
 "fluent-plugin-kubernetes_metadata_filter","3.0.0","Apache-2.0"
 "fluent-plugin-kubernetes_metadata_filter","3.0.1","Apache-2.0"
+"fluent-plugin-kubernetes_metadata_filter","3.1.0","Apache-2.0"
 "fnando-chart","0.0.1",""
 "fnando-chart","0.0.2",""
 "fnando-chart","0.0.3",""

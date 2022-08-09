@@ -56,6 +56,7 @@
 "active_record-json_associations","0.7.0","MIT"
 "active_record-json_associations","0.9.0","MIT"
 "active_record-json_associations","0.9.1","MIT"
+"active_record_trilogy_adapter","0.0.0","MIT"
 "activeconfig","0.5.5",""
 "activerecord-db-tasks","0.0.1",""
 "activerecord-db-tasks","0.0.2",""

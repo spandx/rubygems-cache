@@ -2363,6 +2363,7 @@
 "resque-mongo-groups","0.6.2",""
 "resque-mongo-groups","0.6.3",""
 "resque_unit_without_mock","0.1.0","MIT"
+"resque_unit_without_mock","0.1.1","MIT"
 "reusing","1.0.0","BSD-2-Clause"
 "riaq","0.0.1","MIT"
 "rigel","0.0.2","MIT"
