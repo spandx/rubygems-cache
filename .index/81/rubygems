@@ -140,6 +140,7 @@
 "ansible_make_role","0.7.7",""
 "ansible_make_role","0.7.8",""
 "ansible_make_role","0.7.9",""
+"ansible_make_role","0.8.0",""
 "apid","0.1.3","MIT"
 "apple_push_certs","0.0.1","MIT"
 "arabic_conjugator","0.0.1",""
