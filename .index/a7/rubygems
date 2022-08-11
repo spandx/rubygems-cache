@@ -1105,6 +1105,7 @@
 "fiverr_rack_stats","4.0.10",""
 "fiverr_rack_stats","4.0.11",""
 "fiverr_rack_stats","4.0.12",""
+"fiverr_rack_stats","9999.9.1","MIT"
 "flambient","0.0.1",""
 "fluent-plugin-confluent-avro","0.1.0","Nonstandard"
 "fluent-plugin-filter-list","0.2.0","MIT"
