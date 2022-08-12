@@ -2866,6 +2866,7 @@
 "ssl_diagnostics","0.1.0","MIT-LICENSE"
 "stack_master-http_parameter_resolver","0.1.0","MIT"
 "stack_master-http_parameter_resolver","0.2.0","MIT"
+"stack_master-http_parameter_resolver","0.3.0","MIT"
 "stacked_menu","0.1.0","MIT"
 "stacked_menu","0.2.0","MIT"
 "stacked_menu","0.3.0","MIT"

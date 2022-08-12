@@ -1866,6 +1866,7 @@
 "iiif_manifest","1.1.0",""
 "iiif_manifest","1.1.1",""
 "imdbrb","0.1.0","MIT"
+"immutable_struct_ex","0.1.0","MIT"
 "ingo","0.0.1","MIT"
 "inifile_alt","2.0.2",""
 "intar","2.0","BSD-2-Clause"

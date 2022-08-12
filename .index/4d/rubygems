@@ -83,6 +83,7 @@
 "active_gfx","0.0.1","MIT"
 "active_gfx","0.1.0","MIT"
 "active_queryable","0.2.0","MIT"
+"active_queryable","0.3.0","MIT"
 "active_record-enum_with_label","0.1.0",""
 "active_record-enum_with_label","0.1.1",""
 "active_record-enum_with_label","0.1.2",""

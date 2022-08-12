@@ -3702,6 +3702,7 @@
 "sdee","0.0.5","GPL-2.0"
 "sdee","0.0.6","MIT"
 "sdee","0.0.7","MIT"
+"self-auth-rails","0.1.1","MIT"
 "send-cloud","0.0.1","MIT"
 "sendgrid-rails","2.0.2",""
 "sendgrid-rails","2.0.3",""
