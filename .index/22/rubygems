@@ -71,6 +71,7 @@
 "activerecord_acrawriter","1.0.2","Apache-2.0"
 "activerecord_acrawriter","1.0.3","Apache-2.0"
 "activestorage_saas","5.2.5.1","MIT"
+"activestorage_saas","5.2.5.2","MIT"
 "acts_as_holdable","0.1.1","MIT"
 "acts_as_holdable","0.1.2","MIT"
 "acts_as_holdable","0.1.3","MIT"

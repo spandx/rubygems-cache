@@ -2085,6 +2085,7 @@
 "mini_suffix","0.3.3","MIT"
 "minitest-extra-assertions","0.2.0","MIT"
 "missing","0.0.2","MIT"
+"missing_rspec","0.0.1","MIT"
 "mkf-product_api","0.1.0",""
 "mmfcc","0.0.1","GPLv2"
 "mocking-server","0.0.1",""

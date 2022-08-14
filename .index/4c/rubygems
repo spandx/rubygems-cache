@@ -2793,6 +2793,7 @@
 "redis-namespace","1.8.0","MIT"
 "redis-namespace","1.8.1","MIT"
 "redis-namespace","1.8.2","MIT"
+"redis-namespace","1.9.0","MIT"
 "redis_analytics","0.1.0",""
 "redis_analytics","0.6.0",""
 "redis_analytics","0.7.1","MIT"
