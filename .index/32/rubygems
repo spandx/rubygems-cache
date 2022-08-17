@@ -3463,6 +3463,7 @@
 "sensu-plugins-erlang","0.0.2","MIT"
 "sensu-plugins-erlang","0.0.3","MIT"
 "sensu-plugins-erlang","1.0.0","MIT"
+"sensu-plugins-mongodb-mrtrotl","1.4.0","MIT"
 "settis","0.2.0",""
 "sfp","0.1.0",""
 "sfp","0.1.1",""

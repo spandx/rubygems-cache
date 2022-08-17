@@ -3233,6 +3233,8 @@
 "redis-client","0.4.0","MIT"
 "redis-client","0.5.0","MIT"
 "redis-client","0.5.1","MIT"
+"redis-client","0.6.0","MIT"
+"redis-client","0.6.1","MIT"
 "redis-settings","0.2.2",""
 "redis-settings","0.2.3",""
 "redmine_avm","0.3.10",""

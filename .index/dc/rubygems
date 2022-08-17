@@ -2192,6 +2192,7 @@
 "rails_admin_globalize_field","1.1.0","MIT"
 "rails_admin_globalize_field","1.2.0","MIT"
 "rails_parser","0.0.1",""
+"rails_serve","0.0.1","MIT"
 "rainbows-rails","1.0.1",""
 "ramaze-ruty","0.1.0",""
 "ramaze-ruty","0.1.1",""
