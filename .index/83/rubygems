@@ -2525,6 +2525,7 @@
 "resque-scheduler-web","1.0.0","MIT"
 "resque-scheduler-web","1.0.1","MIT"
 "resque-scheduler-web","1.1.0","MIT"
+"rest-man","1.0.0","MIT"
 "retry_on_error","0.1.1","MIT"
 "retry_on_error","0.1.4","MIT"
 "retry_on_error","1.0.0","MIT"

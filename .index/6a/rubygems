@@ -2146,6 +2146,7 @@
 "resque-multi-job-forks","0.5.3",""
 "resque-multi-job-forks","0.5.4",""
 "resque-multi-job-forks","0.5.5",""
+"resque-one","1.0.0","MIT"
 "reversifier","1.0.1","MIT"
 "reversifier","1.0.4","MIT"
 "revrise","0.0.2",""

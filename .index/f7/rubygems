@@ -1852,6 +1852,7 @@
 "leoboiko-chou_unidecode","0.2",""
 "libarchive-static-ruby186-i386-mswin32","1.0.0",""
 "libdatadog","0.7.0.1.0","Apache-2.0"
+"libdatadog","0.7.0.1.1","Apache-2.0"
 "libv8-x86-darwin-10","3.3.10.2",""
 "license_plate_parser","1.0.0","MIT"
 "linkedin-scraper-v2","0.1.8","MIT"
