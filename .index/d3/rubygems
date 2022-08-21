@@ -2363,6 +2363,7 @@
 "flights_gui_henry_tests_ds","0.0.17",""
 "flights_gui_henry_tests_ds","0.0.18",""
 "flights_gui_henry_tests_ds","0.0.19",""
+"flow_client-arm64-darwin-21","0.2.3","MIT"
 "fluent-plugin-azure-storage-append-blob-lts-azurestack","0.6.2","MIT"
 "fluent-plugin-azure-storage-append-blob-lts-azurestack","0.6.3","MIT"
 "fluent-plugin-oci-logging-analytics","2.0.0","UPL-1.0"

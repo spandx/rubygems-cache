@@ -1744,6 +1744,7 @@
 "mock_redis","0.30.0","MIT"
 "mock_redis","0.31.0","MIT"
 "mock_redis","0.32.0","MIT"
+"mock_redis","0.33.0","MIT"
 "mock_redis","0.5.1",""
 "mock_redis","0.5.5",""
 "mock_redis","0.6.0",""
