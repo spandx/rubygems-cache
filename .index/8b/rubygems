@@ -2903,6 +2903,7 @@
 "pin-payments","1.3","MIT"
 "pipes","0.1.0",""
 "pipes","0.3.0",""
+"pngcheck","0.1.0","BSD-2-Clause"
 "podiocrm","0.1.0","LGPLv2"
 "polling_manager","1.0.0","MIT"
 "postal-codes-search","1.0.1","MIT"

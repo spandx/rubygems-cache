@@ -2778,6 +2778,7 @@
 "logstash-output-tcp","6.0.1","Apache-2.0"
 "logstash-output-tcp","6.0.2","Apache-2.0"
 "logstash-output-tcp","6.1.0","Apache-2.0"
+"logstash-output-tcp","6.1.1","Apache-2.0"
 "lumberjack_multi-device","0.1.0",""
 "maddoc","0.0.1",""
 "mail-jenc","1.0.0","MIT"
