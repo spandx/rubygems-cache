@@ -208,6 +208,8 @@
 "alephant-renderer","3.2.0","MIT"
 "alloc_track","0.0.2","MIT"
 "alloc_track","0.0.3","MIT"
+"amex_csv_to_ledger","0.1.0","GPL-3.0"
+"amex_csv_to_ledger","0.1.1","GPL-3.0"
 "ancestry_joins","0.1.0","MIT"
 "ancestry_joins","0.1.1","MIT"
 "annotate_gemfile","0.1.0",""

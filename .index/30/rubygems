@@ -3030,6 +3030,7 @@
 "sidekiq","6.5.2","LGPL-3.0"
 "sidekiq","6.5.3","LGPL-3.0"
 "sidekiq","6.5.4","LGPL-3.0"
+"sidekiq","6.5.5","LGPL-3.0"
 "sidekiq_healthcheck","0.1.0","MIT"
 "sidekiq_healthcheck","0.1.1","MIT"
 "sidekiq_healthcheck","0.1.2","MIT"
