@@ -3300,6 +3300,7 @@
 "uuid_attribute","0.1.1","MIT"
 "uuid_attribute","0.1.2","MIT"
 "uuid_attribute","0.2.0","MIT"
+"uuid_attribute","0.9.0","MIT"
 "vagrant-chassis-digitalocean","1.0.0",""
 "vagrant-chassis-digitalocean","1.0.1",""
 "vagrant-chassis-digitalocean","1.0.2",""

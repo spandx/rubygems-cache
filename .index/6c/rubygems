@@ -17,6 +17,7 @@
 "acenda-client","0.0.11","MIT"
 "actioncontroller-parameter_filter","0.0.1",""
 "actionlimiter","0.2.0","MIT"
+"actionlimiter","1.0.0","MIT"
 "active_concurrency","0.1.0","MIT"
 "active_record_streams","0.1.0",""
 "active_record_streams","0.1.1",""
