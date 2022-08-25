@@ -3727,6 +3727,7 @@
 "test-unit-notify","1.0.2","LGPLv2.1 or later"
 "test-unit-notify","1.0.3","LGPLv2.1 or later"
 "test-unit-notify","1.0.4","LGPLv2.1 or later"
+"test_bench-detect_coverage","0.0.0.0","MIT"
 "testlink_rspec_utils","0.0.1","MIT"
 "testlink_rspec_utils","0.0.2","MIT"
 "testlink_rspec_utils","0.0.3","MIT"

@@ -1027,6 +1027,7 @@
 "fluent-plugin-record-modifier","2.0.0","MIT"
 "fluent-plugin-record-modifier","2.0.1","MIT"
 "fluent-plugin-record-modifier","2.1.0","MIT"
+"fluent-plugin-record-modifier","2.1.1","MIT"
 "fluent-plugin-syslog-tls","0.5.0","Apache v2"
 "fluent-plugin-syslog-tls","0.6.0","Apache v2"
 "fluent-plugin-syslog-tls","1.0.0","Apache v2"

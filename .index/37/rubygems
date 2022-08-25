@@ -1443,6 +1443,8 @@
 "kubes","0.8.7","Apache2.0"
 "kubes","0.8.8","Apache2.0"
 "kubes","0.8.9","Apache2.0"
+"kubes","0.9.0","Apache2.0"
+"kubes","0.9.1","Apache2.0"
 "kuby-sidekiq","0.2.0",""
 "kuby-sidekiq","0.3.0",""
 "kuby-sidekiq","0.4.0",""

@@ -1037,6 +1037,7 @@
 "faraday-decode_xml","0.1.0","MIT"
 "faraday-decode_xml","0.1.1","MIT"
 "faraday-decode_xml","0.2.0","MIT"
+"faraday-decode_xml","0.2.1","MIT"
 "faraday_middleware-jsons","0.1.0","MIT"
 "faraday_middleware-jsons","0.2.0","MIT"
 "faraday_middleware-jsons","0.2.1","MIT"

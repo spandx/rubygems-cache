@@ -1162,6 +1162,8 @@
 "fastlane-plugin-automated_test_emulator_run_xing","1.0.9","MIT"
 "fastlane-plugin-flutter_version_manager","1.0.0","MIT"
 "fastlane-plugin-increment_version_name","0.0.10","MIT"
+"fastlane-plugin-latest_play_store_version_code","0.1.0","MIT"
+"fastlane-plugin-latest_play_store_version_code","0.1.2","MIT"
 "fastlane-plugin-lizard","0.1.0","MIT"
 "fastlane-plugin-lizard","0.1.1","MIT"
 "fastlane-plugin-lizard","0.1.2","MIT"
