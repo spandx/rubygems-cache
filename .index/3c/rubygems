@@ -1040,6 +1040,7 @@
 "fluent-plugin-geovis","0.0.5",""
 "fluent-plugin-has-keys","0.0.1","MIT"
 "fluent-plugin-http-client","0.2.0","Apache-2.0"
+"fluent-plugin-http-client","0.2.1","Apache-2.0"
 "fluent-plugin-incremental","0.0.1","MIT"
 "fluent-plugin-influxdb_metrics","0.0.1","MIT"
 "fluent-plugin-influxdb_metrics","0.0.2","MIT"

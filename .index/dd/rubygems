@@ -2622,6 +2622,7 @@
 "sidekiq_autoscale","0.2.3","MIT"
 "sidekiq_autoscale","0.2.4","MIT"
 "sidekiq_autoscale","0.2.5","MIT"
+"sidekiq_autoscale","0.2.6","MIT"
 "sign_repository_video_extrator","0.0.1","MIT"
 "sign_repository_video_extrator","0.0.3","MIT"
 "signtool","0.0.0",""
