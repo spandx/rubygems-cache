@@ -3575,6 +3575,7 @@
 "tencentcloud-sdk-tbp","3.0.389","Apache-2.0"
 "tencentcloud-sdk-tbp","3.0.390","Apache-2.0"
 "tencentcloud-sdk-tbp","3.0.393","Apache-2.0"
+"tencentcloud-sdk-tbp","3.0.396","Apache-2.0"
 "tensorflow_serving_client","0.1.0","MIT"
 "tensorflow_serving_client","0.2.0","MIT"
 "tensorflow_serving_client","0.2.1","MIT"
