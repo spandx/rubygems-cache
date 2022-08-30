@@ -3477,6 +3477,7 @@
 "stream","0.5.2",""
 "stream","0.5.3","ruby"
 "stream","0.5.4","ruby"
+"stream","0.5.5","ruby"
 "strict_struct","0.0.1","MIT"
 "strict_struct","0.0.2","MIT"
 "strict_struct","0.0.3","MIT"

@@ -3263,6 +3263,7 @@
 "sandofsky-kirby","4.2.1",""
 "sandofsky-kirby","5.0.0",""
 "sanger-sequencescape-facade","0.1.1",""
+"sass-embedded-arm64-darwin","1.54.6","MIT"
 "schema_plus_tables","0.1.0","MIT"
 "schema_plus_tables","0.1.1","MIT"
 "scores","0.0.1","MIT"

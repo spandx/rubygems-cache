@@ -1771,6 +1771,7 @@
 "omf_web","1.2.7",""
 "omf_web","1.2.8",""
 "omf_web","1.2.9",""
+"omniauth-dexcom-oauth2","1.0.0","MIT"
 "omniauth-gitcafe-oauth2","0.1.0",""
 "omniauth-gitcafe-oauth2","0.1.1",""
 "omniauth-gitcafe-oauth2","0.1.2",""
