@@ -2351,6 +2351,7 @@
 "read_ipa","2.2.0","MIT"
 "record_loader","0.1.0","MIT"
 "record_loader","0.1.1","MIT"
+"record_loader","0.2.0","MIT"
 "redis-objects-periodical","0.4.0","MIT"
 "redis-objects-periodical","0.4.1","MIT"
 "redis-server","0.0.5",""

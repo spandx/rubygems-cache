@@ -1805,6 +1805,7 @@
 "libv8-node-x86_64-linux-musl","16.10.0.0","MIT"
 "libv8-node-x86_64-linux-musl","16.17.0.0","MIT"
 "libv8-node-x86_64-linux-musl","17.9.1.0","MIT"
+"libv8-node-x86_64-linux-musl","18.8.0.0","MIT"
 "libv8-x86_64-darwin-11","3.11.8.13",""
 "lingo24","0.1.0","MIT"
 "liquid3-blocks","0.6.0","MIT"

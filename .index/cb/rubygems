@@ -1155,6 +1155,7 @@
 "farmbot-serial","1.1.2","MIT"
 "fas","0.0.1","MIT"
 "fas","0.0.2","MIT"
+"fastlane-plugin-auto_version_name","0.1.0","MIT"
 "fastlane-plugin-emoji_fetcher","0.1.0","MIT"
 "fastlane-plugin-emoji_fetcher","0.1.1","MIT"
 "fastlane-plugin-emoji_fetcher","0.2.0","MIT"
