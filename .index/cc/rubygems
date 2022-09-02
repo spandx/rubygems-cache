@@ -1275,6 +1275,8 @@
 "gdk_pixbuf2","3.4.9","LGPL-2.1+"
 "gdk_pixbuf2","3.5.0","LGPL-2.1+"
 "gdk_pixbuf2","3.5.1","LGPL-2.1+"
+"gdk_pixbuf2","4.0.0","LGPL-2.1+"
+"gdk_pixbuf2","4.0.1","LGPL-2.1+"
 "geekyll","0.0.9","MIT"
 "geekyll","0.1.0","MIT"
 "geekyll","0.1.1","MIT"

@@ -1698,6 +1698,8 @@
 "gstreamer","3.4.9","LGPL-2.1+"
 "gstreamer","3.5.0","LGPL-2.1+"
 "gstreamer","3.5.1","LGPL-2.1+"
+"gstreamer","4.0.0","LGPL-2.1+"
+"gstreamer","4.0.1","LGPL-2.1+"
 "gtin2atc","0.1.0","GPL-v2"
 "gtin2atc","0.1.1","GPL-v2"
 "gtin2atc","0.1.2","GPL-v2"

@@ -1478,6 +1478,7 @@
 "google-cloud-text_to_speech-v1","0.5.2","Apache-2.0"
 "google-cloud-text_to_speech-v1","0.6.0","Apache-2.0"
 "google-cloud-text_to_speech-v1","0.7.0","Apache-2.0"
+"google_events","100.20.30","MIT"
 "gpx","0.7",""
 "gpx","0.8.1",""
 "gpx","0.8.2",""
