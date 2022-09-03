@@ -1833,6 +1833,7 @@
 "flipper-cassanity","0.5.0",""
 "flipper-cassanity","0.6.0",""
 "flipper-cassanity","0.7.0",""
+"fluent-multi-format-parser","1.1.0","Apache-2.0"
 "fluent-plugin-filter_codec","0.0.1","NONE"
 "fluent-plugin-filter_codec","0.0.2","NONE"
 "fluent-plugin-kinesis-alt","0.0.1","MIT"
