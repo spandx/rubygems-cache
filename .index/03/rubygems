@@ -1091,6 +1091,8 @@
 "hiredis-client","0.6.2","MIT"
 "hiredis-client","0.7.0","MIT"
 "hiredis-client","0.7.1","MIT"
+"hiredis-client","0.7.2","MIT"
+"hiredis-client","0.7.3","MIT"
 "hmx_client","0.0.1",""
 "hmx_client","0.0.4",""
 "hmx_client","0.0.6",""
