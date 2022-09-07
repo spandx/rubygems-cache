@@ -2640,6 +2640,7 @@
 "redis","5.0.0","MIT"
 "redis","5.0.1","MIT"
 "redis","5.0.2","MIT"
+"redis","5.0.3","MIT"
 "redux_gen","0.1.0","MIT"
 "redux_gen","0.1.1","MIT"
 "redux_gen","0.1.2","MIT"

@@ -1478,6 +1478,7 @@
 "image_optim_pack-x86-linux","0.8.0.20220418","MIT"
 "image_optim_pack-x86-linux","0.9.0","MIT"
 "image_optim_pack-x86-linux","0.9.1","MIT"
+"image_optim_pack-x86-linux","0.9.1.20220907","MIT"
 "in_or_out","0.1.0","MIT"
 "influxdb-rails","0.0.1","MIT"
 "influxdb-rails","0.0.2","MIT"

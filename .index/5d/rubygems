@@ -2280,6 +2280,7 @@
 "resque-heroku-signals","2.2.0","MIT"
 "resque-heroku-signals","2.2.1","MIT"
 "resque-heroku-signals","2.3.0","MIT"
+"resque-heroku-signals","2.4.0","MIT"
 "resque-job_logger","0.0.1",""
 "resque-job_logger","0.0.2",""
 "resque-reports","0.0.1","MIT"
