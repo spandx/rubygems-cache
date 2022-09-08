@@ -441,6 +441,7 @@
 "channelengine_merchant_api_client_ruby","2.9.8","Unlicense"
 "channelengine_merchant_api_client_ruby","2.9.9","Unlicense"
 "chime-balance-ledger-cache","0.0.1","MIT"
+"chime-cohort","0.0.1","MIT"
 "ciri-crypto","0.1.0","MIT"
 "ciri-crypto","0.1.1","MIT"
 "cldwalker-has_machine_tags","0.1.2",""
