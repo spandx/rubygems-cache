@@ -2845,6 +2845,8 @@
 "pivotal-jelly","0.5.1",""
 "pivotal-jelly","0.5.3",""
 "plsql_deploy_util","0.0.1",""
+"pngcheck-x86_64-linux-musl","0.2.2","BSD-2-Clause"
+"pngcheck-x86_64-linux-musl","0.2.3","BSD-2-Clause"
 "pol","0.1.0","MIT"
 "primordial","0.0.1","MIT"
 "primordial","0.0.2","MIT"

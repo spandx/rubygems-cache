@@ -2666,6 +2666,8 @@
 "rails-dom-testing","2.0.2","MIT"
 "rails-dom-testing","2.0.3","MIT"
 "rails-transactional-outbox","0.1.0","MIT"
+"rails-transactional-outbox","0.2.0","MIT"
+"rails-transactional-outbox","0.2.1","MIT"
 "rails_controller_action_name_helpers","0.1.4","MIT"
 "railsgate","0.0.1","MIT"
 "rainbow-submarine-test-3356","1.2.2","https://smooch.io/terms/"

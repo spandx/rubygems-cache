@@ -214,6 +214,7 @@
 "beaker-gke","0.0.1","Apache2"
 "beaker-gke","0.0.2","Apache-2.0"
 "beaker-gke","0.0.3","Apache-2.0"
+"beaker-gke","0.1.0","Apache-2.0"
 "bearcat","0.1",""
 "bearcat","0.1.1",""
 "bearcat","0.3",""

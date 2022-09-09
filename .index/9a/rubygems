@@ -4452,6 +4452,7 @@
 "scheme","0.0.1","MIT"
 "scip-ruby-universal-darwin-21","0.0.1","Apache-2.0"
 "scip-ruby-universal-darwin-21","0.1.0","Apache-2.0"
+"scip-ruby-universal-darwin-21","0.1.1","Apache-2.0"
 "scoped_choices","0.0.4",""
 "script_helpers","0.3.0","MIT"
 "sd_events","0.1.2","MIT"
