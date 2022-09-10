@@ -833,6 +833,7 @@
 "embossing_name","0.1.7","MIT"
 "embossing_name","0.2.0","MIT"
 "embulk-executor-mapreduce_2_6","0.4.0","Apache-2.0"
+"embulk-filter-mysql_test","0.1.0","MIT"
 "embulk-input-http","0.0.11","MIT"
 "embulk-input-http","0.0.12","MIT"
 "embulk-input-http","0.0.13","MIT"

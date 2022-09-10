@@ -4120,6 +4120,7 @@
 "pulp_ansible_client","0.13.2","GPL-2.0+"
 "pulp_ansible_client","0.13.4","GPLv2+"
 "pulp_ansible_client","0.14.0","GPL-2.0+"
+"pulp_ansible_client","0.14.1","GPLv2+"
 "pulp_ansible_client","0.2.0","GPL-2.0+"
 "pulp_ansible_client","0.3.0","GPL-2.0+"
 "pulp_ansible_client","0.4.0","GPL-2.0+"

@@ -1018,6 +1018,7 @@
 "email_list","0.0.2",""
 "email_list","0.0.4",""
 "email_list","0.0.5",""
+"embulk-filter-LookUpFilter_SQL","0.1.0","MIT"
 "embulk-input-filename","0.1.0","MIT"
 "encase","0.1.0","MIT"
 "encase","0.1.1","MIT"
