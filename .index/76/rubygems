@@ -1945,6 +1945,7 @@
 "rack-gist","1.1.9",""
 "rack_csrf","2.5.0","MIT"
 "rack_csrf","2.6.0","MIT"
+"rack_csrf","2.7.0","MIT"
 "radius-rails","0.0.2","MIT"
 "radius-rails","0.0.5","MIT"
 "radius-rails","0.0.6","MIT"

@@ -2836,6 +2836,7 @@
 "puppet-check","2.0.0","MIT"
 "puppet-check","2.0.1","MIT"
 "puppet-check","2.1.0","MIT"
+"puppet-check","2.2.0","MIT"
 "push_notification","1.0.0","MIT"
 "push_notification","1.0.1","MIT"
 "pusher_listener","0.0.1","MIT"
