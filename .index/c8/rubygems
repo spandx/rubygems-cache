@@ -2562,6 +2562,7 @@
 "oxidized-ssh","0.2","Apache-2.0"
 "page_downloader","1.0","MIT"
 "pais_legacy","0.2.0","MIT"
+"pais_legacy","0.3.0","MIT"
 "panda-motd","0.0.10","MIT"
 "panda-motd","0.0.11","MIT"
 "panda-motd","0.0.12","MIT"

@@ -1268,6 +1268,7 @@
 "fluent-plugin-filter-parse-audit-log","0.1.0","MIT"
 "fluent-plugin-filter-parse-audit-log","0.1.1","MIT"
 "fluent-plugin-filter-parse-audit-log","0.1.2","MIT"
+"fly.io-rails","0.0.1","Apache-2.0"
 "flynn-cli-tools","0.0.1",""
 "flynn-cli-tools","0.0.2",""
 "flynn-cli-tools","0.0.3",""

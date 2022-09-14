@@ -391,6 +391,7 @@
 "bootstrap-no-record-found","0.0.4",""
 "bootstrap-no-record-found","0.0.5",""
 "bootstrap5_helper","1.0.0","MIT"
+"bootstrap5_helper","1.0.1","MIT"
 "bosh_aws_cpi","0.7.0",""
 "bosh_aws_cpi","1.1722.0","Apache-2.0"
 "bosh_aws_cpi","1.1744.0","Apache-2.0"
