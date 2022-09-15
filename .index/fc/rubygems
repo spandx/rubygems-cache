@@ -1501,6 +1501,7 @@
 "jwt_extended","0.1.4","MIT"
 "jwt_extended","0.1.6","MIT"
 "katalyst-content","0.1.0","MIT"
+"katalyst-content","0.1.1","MIT"
 "katalyst-healthcheck","0.2.8","MIT"
 "katalyst-healthcheck","0.3.0","MIT"
 "kdtree","0.3",""

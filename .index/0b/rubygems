@@ -3415,6 +3415,7 @@
 "uniscribe","1.5.1","MIT"
 "uniscribe","1.6.0","MIT"
 "uniscribe","1.7.0","MIT"
+"uniscribe","1.8.0","MIT"
 "unqlite","0.0.1","MIT"
 "unqlite","0.1.0","MIT"
 "upnxt_processing_workitem_store_postgres","0",""
