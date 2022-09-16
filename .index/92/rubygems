@@ -1870,6 +1870,7 @@
 "logstash-output-elasticsearch-java","11.5.0","apache-2.0"
 "logstash-output-elasticsearch-java","11.6.0","apache-2.0"
 "logstash-output-elasticsearch-java","11.7.0","apache-2.0"
+"logstash-output-elasticsearch-java","11.8.0","apache-2.0"
 "logstash-output-elasticsearch-java","2.1.0","apache-2.0"
 "logstash-output-elasticsearch-java","2.1.1","apache-2.0"
 "logstash-output-elasticsearch-java","2.1.2","apache-2.0"

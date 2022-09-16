@@ -1124,6 +1124,7 @@
 "fluentd-sentry-output","0.0.5","MIT"
 "fluentd-sentry-output","0.0.6","MIT"
 "fluentd-sentry-output","0.0.7","MIT"
+"fluentd-sentry-output","0.0.8","MIT"
 "fluentspec","0.1.0","MIT"
 "flurin-ticgit","0.3.7",""
 "flurin-ticgit","0.3.7.1",""
