@@ -1060,6 +1060,7 @@
 "elapser","1.0.0","MIT"
 "elapser","1.0.1","MIT"
 "ember-oauth2-rails","0.0.1",""
+"embulk-filter-csv_lookup","0.1.1","MIT"
 "embulk-input-marketo-through-proxy","0.6.20","Apache2"
 "embulk-input-marketo-through-proxy","0.6.21","Apache2"
 "enabler","0.0.1","MIT"

@@ -1011,6 +1011,7 @@
 "emailauth","0.0.2",""
 "emailauth","0.0.3",""
 "emailauth","0.0.4",""
+"embulk-filter-postgres_lookup","0.1.0","MIT"
 "embulk-input-slack_message","0.1.0","MIT"
 "emoji-extractor","1.0.0","MIT"
 "emoji-extractor","1.0.1","MIT"

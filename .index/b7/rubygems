@@ -2454,6 +2454,7 @@
 "omniauth-gitlab","2.0.0",""
 "omniauth-gitlab","3.0.0",""
 "omniauth-gitlab","4.0.0",""
+"omniauth-gitlab","4.1.0",""
 "omniauth-mangoapps","0.3.1","MIT"
 "omniauth-protons","0.2.2","MIT"
 "omniauth-protons","0.4","MIT"

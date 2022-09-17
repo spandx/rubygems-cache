@@ -2244,6 +2244,7 @@
 "mojodna-fireeagle","0.8.99",""
 "mojodna-fireeagle","0.8.99.1",""
 "money_with_date","0.1.0","MIT"
+"money_with_date","0.2.0","MIT"
 "mongo_entity_store","0.1.0","MIT"
 "mongo_entity_store","0.1.1","MIT"
 "mongo_mapper_ext","0.2.4",""

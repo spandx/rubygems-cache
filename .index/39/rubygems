@@ -266,6 +266,7 @@
 "aws-sdk-ecs","1.1.0","Apache-2.0"
 "aws-sdk-ecs","1.10.0","Apache-2.0"
 "aws-sdk-ecs","1.100.0","Apache-2.0"
+"aws-sdk-ecs","1.101.0","Apache-2.0"
 "aws-sdk-ecs","1.11.0","Apache-2.0"
 "aws-sdk-ecs","1.12.0","Apache-2.0"
 "aws-sdk-ecs","1.13.0","Apache-2.0"
