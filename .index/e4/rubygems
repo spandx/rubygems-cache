@@ -2592,6 +2592,7 @@
 "shoulda-matchers","4.5.1","MIT"
 "shoulda-matchers","5.0.0","MIT"
 "shoulda-matchers","5.1.0","MIT"
+"shoulda-matchers","5.2.0","MIT"
 "sidekiq_runner","0.0.1","MIT"
 "sidekiq_runner","0.0.2","MIT"
 "siefca-bufferaffects","0.0.4",""
