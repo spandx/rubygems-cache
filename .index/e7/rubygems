@@ -168,6 +168,7 @@
 "activejob-dispatch_rider","2.1.0","BSD-3-Clause"
 "activejob-dispatch_rider","2.2.0","BSD-3-Clause"
 "activejob-dispatch_rider","2.3.0","BSD-3-Clause"
+"activejob-dispatch_rider","2.4.0","BSD-3-Clause"
 "activemerchant-payline","0.1.9",""
 "activerecord-sql_commenter","0.1.0","MIT"
 "admin_control_tower","0.0.1",""

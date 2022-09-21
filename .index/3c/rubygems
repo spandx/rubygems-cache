@@ -2976,6 +2976,7 @@
 "sidekiq-heroku-scaler","0.2.0","MIT"
 "sidekiq-heroku-scaler","0.3.0","MIT"
 "sidekiq-heroku-scaler","0.3.1","MIT"
+"sidekiq-heroku-scaler","0.3.3","MIT"
 "sidekiq-priority_queue","1.0.2","MIT"
 "sidekiq-priority_queue","1.0.3","MIT"
 "sidekiq-priority_queue","1.0.4","MIT"
