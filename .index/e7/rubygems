@@ -1805,6 +1805,7 @@
 "elb-health-check","0.1.0","MIT"
 "em_studio_game","1.0.0","MIT"
 "embulk-filter-mysql_lookup","0.1.1","MIT"
+"embulk-filter-mysql_lookup","0.1.2","MIT"
 "entitlements","0.1.7","MIT"
 "entitlements","0.1.8","MIT"
 "entitlements","0.2.0","MIT"

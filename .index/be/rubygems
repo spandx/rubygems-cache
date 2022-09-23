@@ -2302,6 +2302,7 @@
 "rack-disable_css_animations","0.1.0","MIT"
 "rack-disable_css_animations","0.1.1","MIT"
 "rack-disable_css_animations","0.2.0","MIT"
+"rack-disable_css_animations","0.3.0","MIT"
 "rack-healthcheck","0.1.0","MIT"
 "rack-healthcheck","0.2.0","MIT"
 "rack-title","0.0.1","MIT"

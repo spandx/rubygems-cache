@@ -3031,6 +3031,7 @@
 "sass-embedded-aarch64-linux-gnu","1.54.7","MIT"
 "sass-embedded-aarch64-linux-gnu","1.54.8","MIT"
 "sass-embedded-aarch64-linux-gnu","1.54.9","MIT"
+"sass-embedded-aarch64-linux-gnu","1.55.0","MIT"
 "sassc-image-size","0.1.0",""
 "scenic_sqlite_adapter","0.1.0","MIT"
 "scip-ruby-x86_64-linux","0.0.1","Apache-2.0"
