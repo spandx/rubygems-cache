@@ -855,6 +855,7 @@
 "env_pull_request","1.1.0","MIT"
 "erik-multiple-select","0.2.0","BSD"
 "ethereum_abi","0.1.0","MIT"
+"ethereum_abi","0.1.1","MIT"
 "eviltransform","0.1.0","MIT"
 "eviltransform","0.1.1","MIT"
 "evrythng","0.0.2",""

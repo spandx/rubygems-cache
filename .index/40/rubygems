@@ -1007,6 +1007,7 @@
 "govuk_message_queue_consumer","3.3.0",""
 "govuk_message_queue_consumer","3.4.0",""
 "govuk_message_queue_consumer","3.5.0",""
+"govuk_message_queue_consumer","4.0.0",""
 "grank","0.1.0","MIT"
 "grank","0.1.1","MIT"
 "groupin","0.0.1",""

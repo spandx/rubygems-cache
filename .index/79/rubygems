@@ -985,6 +985,8 @@
 "embedded","0.2.0","MIT"
 "embedded","0.3.0","MIT"
 "embedded","0.4.0","MIT"
+"embedding_go_in_a_gem-x86_64-darwin","0.1.8","MIT"
+"embedding_go_in_a_gem-x86_64-darwin","0.1.9","MIT"
 "ember-auth-module-ember_model-rails","1.0.0","MIT license"
 "embulk-output-redshift","0.1.0","Apache-2.0"
 "embulk-output-redshift","0.1.1","Apache-2.0"
