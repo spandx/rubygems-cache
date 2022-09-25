@@ -1187,6 +1187,7 @@
 "fastlane-plugin-screenshot_notifier","0.1.1","MIT"
 "fastlane-plugin-screenshot_notifier","0.1.2","MIT"
 "fastlane-plugin-shake_bugs","0.1.0","MIT"
+"fastlane-plugin-shake_bugs","0.2.0","MIT"
 "fastlane-plugin-xcode_build_configuration","1.0.0","MIT"
 "fathom_api","0.0.1.1","MIT"
 "fathom_api","0.1.0","MIT"
