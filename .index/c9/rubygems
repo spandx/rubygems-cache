@@ -1297,6 +1297,7 @@
 "fluent-plugin-windows-eventlog","0.7.0","Apache-2.0"
 "fluent-plugin-windows-eventlog","0.8.0","Apache-2.0"
 "fluent-plugin-windows-eventlog","0.8.1","Apache-2.0"
+"fluent-plugin-windows-eventlog","0.8.2","Apache-2.0"
 "flying-sphinx","0.5.1",""
 "flying-sphinx","0.6.4",""
 "flying-sphinx","0.6.5",""

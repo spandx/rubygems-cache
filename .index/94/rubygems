@@ -164,6 +164,8 @@
 "attr_typed","1.0.4","MIT"
 "attr_typed","1.0.5","MIT"
 "auth_keys","0.0.2","MIT"
+"aws_clim","1.0.0","MIT"
+"aws_clim","1.0.2","MIT"
 "awskeyring","0.0.1","MIT"
 "awskeyring","0.0.2","MIT"
 "awskeyring","0.0.3","MIT"
