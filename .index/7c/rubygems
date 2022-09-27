@@ -2326,6 +2326,7 @@
 "pngcheck-arm64-darwin","0.2.4","BSD-2-Clause"
 "pngcheck-arm64-darwin","0.2.5","BSD-2-Clause"
 "pngcheck-arm64-darwin","0.2.6","BSD-2-Clause"
+"pngcheck-arm64-darwin","0.2.7","BSD-2-Clause"
 "pondize","0.0.1",""
 "pondize","0.0.3",""
 "pondize","0.0.4",""

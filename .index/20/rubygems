@@ -2080,6 +2080,7 @@
 "pngcheck-x86_64-darwin","0.2.4","BSD-2-Clause"
 "pngcheck-x86_64-darwin","0.2.5","BSD-2-Clause"
 "pngcheck-x86_64-darwin","0.2.6","BSD-2-Clause"
+"pngcheck-x86_64-darwin","0.2.7","BSD-2-Clause"
 "podgraph","1.0.1","MIT"
 "poise-git","1.0.0","Apache-2.0"
 "polly-suppress_validations","0.0.1",""
