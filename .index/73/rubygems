@@ -1066,6 +1066,7 @@
 "fastlane-plugin-pgyer","0.2.4","MIT"
 "fastlane-plugin-resetsims","0.1.0","MIT"
 "fastlane-plugin-resetsims","0.1.1","MIT"
+"fastlane-plugin-roku_app_util","0.1.0","MIT"
 "fastlane-plugin-s3_actions","0.1.0","MIT"
 "fastlane-plugin-s3_actions","0.1.1","MIT"
 "fastlane-plugin-s3_actions","0.1.2","MIT"

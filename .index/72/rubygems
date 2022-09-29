@@ -327,6 +327,7 @@
 "belzebuth","0.2.1","apache-2.0"
 "belzebuth","0.2.2","apache-2.0"
 "belzebuth","0.2.3","apache-2.0"
+"billing_logic","0.0.3",""
 "bims_api_client","0.0.1","MIT"
 "bing_images","0.0.0",""
 "binmock","0.1.0","MIT"
