@@ -2373,6 +2373,7 @@
 "record_loader","0.2.0","MIT"
 "redis-objects-periodical","0.4.0","MIT"
 "redis-objects-periodical","0.4.1","MIT"
+"redis-objects-periodical","0.5.0","MIT"
 "redis-server","0.0.5",""
 "redis_attr","0.0.1","MIT"
 "redis_ring_client","0.0.2",""

@@ -1260,6 +1260,7 @@
 "jekyll-dash","2.3.2","MIT"
 "jekyll-dash","2.3.3","MIT"
 "jekyll-dash","2.4.0","MIT"
+"jekyll-local-diagram","0.0.1","MIT"
 "jekyll-plugin-frontend-build","0.0.1","MIT"
 "jekyll-plugin-frontend-build","0.0.2","MIT"
 "jekyll-plugin-frontend-build","0.0.3","MIT"

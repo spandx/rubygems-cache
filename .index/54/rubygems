@@ -3371,6 +3371,7 @@
 "spina-upgrade","0.2.0","MIT"
 "sproutd","0.0.0",""
 "sqlite3-arm-linux","1.5.0","BSD-3-Clause"
+"sqlite3-arm-linux","1.5.1","BSD-3-Clause"
 "srdtp","0.0.0","MIT"
 "srdtp","0.0.1","MIT"
 "srdtp","0.0.2","MIT"

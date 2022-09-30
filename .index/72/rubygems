@@ -1282,6 +1282,8 @@
 "eventful.rb","0.7.0","MIT"
 "everton","0.1",""
 "exek","0.0.1",""
+"extract_ttc-arm64-darwin","0.3.0","BSD-3-Clause"
+"extract_ttc-arm64-darwin","0.3.1","BSD-3-Clause"
 "ezprint","0.3.1",""
 "ezprint","1.0.1",""
 "factom-ruby","0.1.1","MIT"
