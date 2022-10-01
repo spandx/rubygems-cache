@@ -2742,6 +2742,7 @@
 "sentient_user","0.3.3",""
 "sentient_user","0.4.0",""
 "sentry-user_informer","0.1.0","MIT"
+"sentry-user_informer","0.1.1","MIT"
 "sequel-postgres-schemata","0.0.1","MIT"
 "sequel-postgres-schemata","0.0.2","MIT"
 "sequel-postgres-schemata","0.0.3","MIT"

@@ -1079,6 +1079,7 @@
 "dj_dashboard","0.0.7",""
 "dj_dashboard","0.0.8.1",""
 "dns-loadbalancer","1.0.0","MIT"
+"dns-loadbalancer","1.1.0","MIT"
 "do_sqlite3","0.10.11",""
 "do_sqlite3","0.10.12",""
 "do_sqlite3","0.10.13",""
