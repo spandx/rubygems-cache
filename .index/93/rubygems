@@ -1644,6 +1644,7 @@
 "faraday_middleware-aws-sigv4","0.6.0","MIT"
 "faraday_middleware-aws-sigv4","0.6.1","MIT"
 "faraday_middleware-aws-sigv4","1.0.0","MIT"
+"faraday_middleware-aws-sigv4","1.0.1","MIT"
 "fastlane-plugin-clang_format","1.0.0","MIT"
 "fastlane-plugin-notarize","0.1.0","MIT"
 "fastlane-plugin-notarize","0.2.0","MIT"

@@ -3882,6 +3882,7 @@
 "spurious-server","0.6.3","MIT"
 "sqlite3-aarch64-linux","1.5.0","BSD-3-Clause"
 "sqlite3-aarch64-linux","1.5.1","BSD-3-Clause"
+"sqlite3-aarch64-linux","1.5.2","BSD-3-Clause"
 "squarecoder","0.0.2",""
 "squash_repeater","0.1.6","MIT"
 "squash_repeater","0.1.8","MIT"

@@ -2755,6 +2755,7 @@
 "simple_option_parser","0.1","MIT"
 "simple_option_parser","0.2","MIT"
 "simple_option_parser","0.3","MIT"
+"simple_option_parser","0.5","MIT"
 "sinatra-named_routes","0.1.0",""
 "sinatra-named_routes","0.1.1",""
 "sinatraband","0.1.3",""

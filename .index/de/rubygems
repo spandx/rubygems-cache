@@ -927,6 +927,7 @@
 "embulk-filter-expand_json","0.2.2","MIT"
 "embulk-filter-expand_json","0.3.0","MIT"
 "encapsulate","0.1.0",""
+"enquo-core-arm64-darwin","0.1.0",""
 "enveloperb-arm64-darwin-20","0.1.2",""
 "erb_parser","0.0.0",""
 "erb_parser","0.0.1",""

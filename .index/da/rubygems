@@ -2092,6 +2092,7 @@
 "nats-pure","2.0.0","Apache-2.0"
 "nats-pure","2.1.0","Apache-2.0"
 "nats-pure","2.1.2","Apache-2.0"
+"nats-pure","2.2.0","Apache-2.0"
 "nats_listener_core","0.1.1","MIT"
 "nbrb-api","0.0.2",""
 "neonichu-asciiart","0.0.9",""
