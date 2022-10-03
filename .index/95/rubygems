@@ -4465,6 +4465,7 @@
 "sensible_logging","0.4.1","MIT"
 "sensible_logging","0.4.2","MIT"
 "sensible_logging","0.4.3","MIT"
+"sensible_logging","0.4.7","MIT"
 "sensu-extensions-system-profile-wmi","0.0.1",""
 "sensu-extensions-system-profile-wmi","1.0.0",""
 "sensu-plugins-sendgrid","0.0.1","MIT"

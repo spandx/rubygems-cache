@@ -2671,6 +2671,7 @@
 "redis-cluster-client","0.3.1","MIT"
 "redis-cluster-client","0.3.10","MIT"
 "redis-cluster-client","0.3.11","MIT"
+"redis-cluster-client","0.3.12","MIT"
 "redis-cluster-client","0.3.2","MIT"
 "redis-cluster-client","0.3.3","MIT"
 "redis-cluster-client","0.3.4","MIT"
