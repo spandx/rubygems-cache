@@ -1480,6 +1480,7 @@
 "io-console","0.5.8","Ruby-|-BSD-2-Clause"
 "io-console","0.5.9","Ruby-|-BSD-2-Clause"
 "ip3country","0.1.0","ISC"
+"ip3country","0.1.1","ISC"
 "is_it_working_info","0.3.0","MIT"
 "is_it_working_info","0.3.1","MIT"
 "isane_palindrome","0.1.0",""
