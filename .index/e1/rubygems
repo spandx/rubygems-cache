@@ -1940,6 +1940,7 @@
 "launchdarkly_api","9.0.1","Unlicense"
 "launchsupport","0.0.1","MIT"
 "launchsupport","0.0.2","MIT"
+"ldif_parser","0.2.0","GPL-3.0"
 "leafy-metrics","0.1.0","MIT"
 "leafy-metrics","0.2.0","MIT"
 "leafy-metrics","0.2.1","MIT"

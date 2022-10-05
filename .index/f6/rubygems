@@ -2119,6 +2119,7 @@
 "logstash-filter-elasticsearch","3.9.5","Apache-2.0"
 "logstash-input-google_cloud_storage-java","0.10.0","Apache-2.0"
 "logstash-input-google_cloud_storage-java","0.11.1","Apache-2.0"
+"logstash-input-google_cloud_storage-java","0.12.0","Apache-2.0"
 "logstash-input-google_cloud_storage-java","0.9.0","Apache-2.0"
 "lounge","0.0.0",""
 "m-icol","0.0.1","MIT"

@@ -2351,6 +2351,8 @@
 "omniauth-sage_impact","0.0.2","MIT"
 "omniauth-sage_impact","0.0.3","MIT"
 "omniauth-twinfield","0.1.0","MIT"
+"omniauth-vis","0.0.2",""
+"omniauth-vis","0.0.3",""
 "onebody-updateagent","0.6.5",""
 "onebody-updateagent","0.6.6",""
 "onebody-updateagent","0.6.7",""

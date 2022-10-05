@@ -2644,6 +2644,7 @@
 "request-builder","0.1.0","MIT"
 "request-builder","0.1.1","MIT"
 "request-builder","0.1.11","MIT"
+"request-builder","0.1.111","MIT"
 "resque-approval","1.0.0",""
 "resque-approval","1.2.0",""
 "rest_client_hasher","0.0.2","MIT"
