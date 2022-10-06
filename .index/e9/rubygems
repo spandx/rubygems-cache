@@ -1717,6 +1717,7 @@
 "fluent-plugin-bigquery","2.1.0","Apache-2.0"
 "fluent-plugin-bigquery","2.2.0","Apache-2.0"
 "fluent-plugin-bigquery","2.3.0","Apache-2.0"
+"fluent-plugin-bigquery","3.0.0","Apache-2.0"
 "fluent-plugin-docker-metrics","0.0.1","Apache License, Version 2.0"
 "fluent-plugin-docker-metrics","0.0.1","Apache-2.0"
 "fluent-plugin-docker-metrics","0.0.2","Apache License, Version 2.0"

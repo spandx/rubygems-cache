@@ -234,6 +234,7 @@
 "ar_aggregate_by_interval","1.2.1",""
 "ara_practice","0.0.2","MIT"
 "ara_practice","0.0.3","MIT"
+"aserto-authorizer","0.0.2","Apache-2.0"
 "attr_coerced","0.0.1","MIT"
 "attr_coerced","1.0.0","MIT"
 "autodeps","0.0.1","MIT"

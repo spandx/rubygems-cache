@@ -2208,6 +2208,7 @@
 "perkins","0.0.5","MIT"
 "pg_partitioner","0.1.0",""
 "pg_partitioner","0.2.0",""
+"pg_partitioner","0.3.0",""
 "pgxn_utils","0.1.3",""
 "piggybak_simple_variants","0.1.2","MIT"
 "pincode","0.0.2","MIT"

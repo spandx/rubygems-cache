@@ -1053,6 +1053,7 @@
 "embulk-output-snowflake-java","0.4.6","MIT"
 "embulk-output-snowflake-java","0.4.7","MIT"
 "embulk-output-snowflake-java","0.4.8","MIT"
+"encoded_token","1.0.2","MIT"
 "enjoy_cms_catalog","0.2.0","MIT"
 "enjoy_cms_catalog","0.2.0.1","MIT"
 "enjoy_cms_catalog","0.3.0","MIT"
