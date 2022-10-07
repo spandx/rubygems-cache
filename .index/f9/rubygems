@@ -2378,6 +2378,7 @@
 "minitest-excludes","1.0.2",""
 "minitest-excludes","2.0.0","MIT"
 "minitest-excludes","2.0.1","MIT"
+"minitest-excludes","2.0.2","MIT"
 "mongoid_versioning","0.0.1","MIT"
 "mongoid_versioning","0.0.2","MIT"
 "mongoid_versioning","0.0.3","MIT"

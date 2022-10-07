@@ -4318,6 +4318,7 @@
 "test_gem_release_gh","0.1.8","MIT"
 "test_gem_release_gh","0.1.9","MIT"
 "thlias_mega_lotto","0.0.2","MIT"
+"thor_nested_subcommand","1.0.0","MIT"
 "thread-extra","0.0.1",""
 "thrust","0.0.0",""
 "thrust","0.0.5",""
