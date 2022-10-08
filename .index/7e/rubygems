@@ -63,6 +63,7 @@
 "activerecord-instance_includes","0.0.1","MIT"
 "activerecord-oracle-queue","1.0.0","MIT"
 "activerecord-poro","0.0.1","MIT"
+"activestorage-scaleway-service","1.0.0","MIT"
 "actsasflinn-sanitize","1.0.8.1",""
 "ag","0.0.1","MIT"
 "agent_q","0.0.1","MIT"
