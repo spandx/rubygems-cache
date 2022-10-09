@@ -2719,6 +2719,8 @@
 "rack-oauth2","1.9.1","MIT"
 "rack-oauth2","1.9.2","MIT"
 "rack-oauth2","1.9.3","MIT"
+"rack-oauth2","2.0.0","MIT"
+"rack-oauth2","2.0.1","MIT"
 "raggi-aasm","2.0.5",""
 "rails_navigation","0.0.1","MIT"
 "rails_navigation","0.0.2","MIT"
