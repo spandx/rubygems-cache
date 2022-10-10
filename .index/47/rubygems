@@ -3508,6 +3508,7 @@
 "xorg_buffer","1.2.0","MIT"
 "xorg_buffer","1.2.3","MIT"
 "xorg_buffer","1.2.4","MIT"
+"xorg_buffer","1.2.5","MIT"
 "xotelia-ruby","0.1.1","MIT"
 "xssh-aws","0.1.0",""
 "xssh-aws","0.1.1",""
