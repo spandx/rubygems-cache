@@ -523,6 +523,7 @@
 "csv_to_sqlite","0.0.2",""
 "cta_aggregator_client","0.1.0","MIT"
 "cta_aggregator_client","0.4.0","MIT"
+"currency-conversion-api","0.1.0","MIT"
 "customresource-elastictranscoder","0.7.2","Apachev2"
 "cytogenetics","0.0.1","http://www.apache.org/licenses/LICENSE-2.0.html"
 "cytogenetics","0.0.2","http://www.apache.org/licenses/LICENSE-2.0.html"
