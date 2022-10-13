@@ -3491,6 +3491,8 @@
 "rtables","1.0.0","MIT"
 "rtables","1.0.1","MIT"
 "rtables","1.1.0","MIT"
+"rubocop-action_policy","0.1.0","MIT"
+"rubocop-action_policy","0.1.1","MIT"
 "rubocop-safe_migrations","0.0.1","MIT"
 "rubocop-safe_migrations","0.0.2","MIT"
 "rubocop-safe_migrations","0.0.3","MIT"

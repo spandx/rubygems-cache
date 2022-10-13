@@ -382,6 +382,7 @@
 "aws-record","2.6.0","Apache-2.0"
 "aws-record","2.6.1","Apache-2.0"
 "aws-record","2.7.0","Apache-2.0"
+"aws-record","2.8.0","Apache-2.0"
 "aws-rotate-keys","0.1.1","MIT"
 "aws-rotate-keys","0.1.2","MIT"
 "aws-sdk-shield","1.0.0","Apache-2.0"
