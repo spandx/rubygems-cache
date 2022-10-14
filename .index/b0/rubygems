@@ -2694,6 +2694,7 @@
 "puppet-lint-trailing_comma-check","0.4.0","Apache-2.0"
 "puppet-lint-trailing_comma-check","0.4.1","Apache-2.0"
 "puppet-lint-trailing_comma-check","0.4.2","Apache-2.0"
+"puppet-lint-trailing_comma-check","0.4.3","Apache-2.0"
 "puppet-runner","0.0.13","Apache-2.0"
 "puppet-runner","0.0.14","Apache-2.0"
 "puppet-runner","0.0.15","Apache-2.0"
