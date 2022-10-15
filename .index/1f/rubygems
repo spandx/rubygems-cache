@@ -2564,6 +2564,7 @@
 "openstax_salesforce","7.4.6","MIT"
 "openstax_salesforce","7.5.0","MIT"
 "openstax_salesforce","7.5.1","MIT"
+"opentelemetry-instrumentation-rake","0.1.0","Apache-2.0"
 "opentelemetry-instrumentation-rdkafka","0.1.0","Apache-2.0"
 "opentelemetry-instrumentation-rdkafka","0.2.0","Apache-2.0"
 "optimizely_server_side","0.0.1","MIT"
