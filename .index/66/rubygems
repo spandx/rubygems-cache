@@ -2918,6 +2918,7 @@
 "rubocop-checkstyle_formatter","0.6.0","MIT"
 "rubocop-packs","0.0.10","MIT"
 "rubocop-packs","0.0.11","MIT"
+"rubocop-packs","0.0.12","MIT"
 "rubocop-packs","0.0.7","MIT"
 "rubocop-packs","0.0.9","MIT"
 "ruby-ephemeris","1.1.0","Unlicense"
