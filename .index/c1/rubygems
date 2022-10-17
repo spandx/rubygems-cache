@@ -2288,6 +2288,7 @@
 "node_mutation","1.4.2",""
 "node_mutation","1.4.3",""
 "node_mutation","1.4.4",""
+"node_mutation","1.5.0",""
 "nova_git_stats","2.2.0","MIT"
 "nova_git_stats","2.3.0","MIT"
 "nova_git_stats","2.4.0","MIT"
