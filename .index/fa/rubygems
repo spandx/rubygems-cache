@@ -3128,6 +3128,7 @@
 "rubysl-sync","2.0.0","BSD"
 "rucaptcha-arm64-darwin","3.0.0","MIT"
 "rucaptcha-arm64-darwin","3.0.1","MIT"
+"rucaptcha-arm64-darwin","3.0.2","MIT"
 "rusty_engine_ffi","0.0.1","MIT"
 "rusty_engine_ffi","0.0.2","MIT"
 "rusty_engine_ffi","0.0.3","MIT"

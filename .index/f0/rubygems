@@ -2977,6 +2977,8 @@
 "resque-async","0.0.4","MIT"
 "resque-fanout","0.5",""
 "resque-fanout","0.6",""
+"rest_client","1.8.9","MIT"
+"rest_client","1.9","MIT"
 "restpack_activity_service","0.0.10","MIT"
 "restpack_activity_service","0.0.11","MIT"
 "restpack_activity_service","0.0.12","MIT"
