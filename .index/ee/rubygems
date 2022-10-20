@@ -919,6 +919,7 @@
 "dry-struct","1.4.0","MIT"
 "dry-struct","1.5.0","MIT"
 "dry-struct","1.5.1","MIT"
+"dry-struct","1.5.2","MIT"
 "dupervisor","1.0.2",""
 "dupervisor","1.0.3",""
 "dupervisor","1.0.4",""

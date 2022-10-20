@@ -733,6 +733,7 @@
 "embulk-output-cdata","0.3.2","MIT"
 "embulk-output-cdata","0.3.3","MIT"
 "embulk-output-cdata","0.3.4","MIT"
+"embulk-output-cdata","0.4.0","MIT"
 "employ","0.0.1","MIT"
 "employ","0.0.2","MIT"
 "enum_utils","0.1.0",""
