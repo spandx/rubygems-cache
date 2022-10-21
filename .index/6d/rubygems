@@ -464,6 +464,7 @@
 "cmis-ruby","0.5.7","Apache-2.0"
 "cmis-ruby","0.5.8","Apache-2.0"
 "cmis-ruby","0.5.9","Apache-2.0"
+"coalla-deploy","0.1.10",""
 "coalla-deploy","0.1.11.3",""
 "cobinhood_api","0.0.1","MIT"
 "code_analyzer","0.1.0",""

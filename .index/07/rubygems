@@ -3551,6 +3551,7 @@
 "sensu-plugins-rocketchat","0.0.1","MIT"
 "sensu-plugins-rocketchat","0.0.2","MIT"
 "sensu-plugins-spark","0.0.1","MIT"
+"sentinelblue-logstash-output-azure-loganalytics","1.1.1","Apache-2.0"
 "seojs","0.0.3","MIT"
 "seojs","0.0.4","MIT"
 "seojs","0.0.5","MIT"
