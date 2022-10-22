@@ -2688,6 +2688,7 @@
 "manageiq-appliance_console","7.0.6","Apache-2.0"
 "manageiq-appliance_console","7.1.0","Apache-2.0"
 "manageiq-appliance_console","7.1.1","Apache-2.0"
+"manageiq-appliance_console","8.0.0","Apache-2.0"
 "mandelbrot","0.1.4",""
 "marc2linkeddata","0.0.1","Apache-2.0"
 "marc2linkeddata","0.0.2","Apache-2.0"
