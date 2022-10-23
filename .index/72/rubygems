@@ -1292,6 +1292,7 @@
 "faraday-http","1.0.0","MIT"
 "faraday-http","1.0.1","MIT"
 "faraday-http","1.1.0","MIT"
+"faraday-http","2.0.0","MIT"
 "faraday-http_error","0.0.2",""
 "fastlane-plugin-retry","1.1.0","MIT"
 "fastlane-plugin-retry","1.1.2","MIT"
