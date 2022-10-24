@@ -2934,6 +2934,7 @@
 "rails_mini_profiler","0.7.0","MIT"
 "rails_mini_profiler","0.7.1","MIT"
 "rails_mini_profiler","0.7.2","MIT"
+"rails_mini_profiler","0.7.3","MIT"
 "raise_test_exception","0.0.1","MIT"
 "raise_test_exception","0.0.2","MIT"
 "ramcrest","0.1.0",""
