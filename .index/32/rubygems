@@ -2161,6 +2161,7 @@
 "knife-ec-backup","2.4.7","Apache-2.0"
 "knife-ec-backup","2.5.3","Apache-2.0"
 "knife-ec-backup","3.0.0","Apache-2.0"
+"knife-ec-backup","3.0.1","Apache-2.0"
 "knife-inspect","0.10.0","MIT"
 "knife-inspect","0.11.0","MIT"
 "knife-inspect","0.11.1","MIT"

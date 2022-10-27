@@ -678,6 +678,8 @@
 "expects","0.0.3","MIT"
 "extract_ttc-x86_64-darwin","0.3.0","BSD-3-Clause"
 "extract_ttc-x86_64-darwin","0.3.1","BSD-3-Clause"
+"extract_ttc-x86_64-darwin","0.3.2","BSD-3-Clause"
+"extract_ttc-x86_64-darwin","0.3.3","BSD-3-Clause"
 "eyevision","0.1.0",""
 "eyevision","0.1.1",""
 "facter-universal-darwin","2.0.1",""
