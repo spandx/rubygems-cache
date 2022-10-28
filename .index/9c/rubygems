@@ -714,6 +714,7 @@
 "evt-event_source-postgres","0.19.0.1","MIT"
 "evt-event_source-postgres","0.19.0.2","MIT"
 "evt-event_source-postgres","0.19.0.3","MIT"
+"evt-wait","2.0.1.1","MIT"
 "example_gem_ruby","0.0.1","MIT"
 "example_gem_ruby","0.0.2","MIT"
 "example_gem_ruby","0.0.3","MIT"
