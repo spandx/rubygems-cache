@@ -3669,6 +3669,8 @@
 "validates_against_stopforumspam","0.0.1",""
 "validates_against_stopforumspam","0.0.2",""
 "validates_against_stopforumspam","1.0",""
+"vendi","0.1.0","MIT"
+"vendi","0.1.1","MIT"
 "version_fu","1.0.2",""
 "videoreg","0.1",""
 "view_delegates","0.1.0","MIT"

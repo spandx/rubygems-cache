@@ -699,6 +699,7 @@
 "celluloid","0.6.1",""
 "celluloid","0.7.2",""
 "cgit","0.0.1","MIT"
+"cgit","0.1.0","MIT"
 "chaskiq-client","0.1.0","MIT"
 "chef-handler-opsmatic","0.0.1","MIT"
 "chef-handler-opsmatic","0.0.10","MIT"

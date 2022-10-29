@@ -227,6 +227,7 @@
 "avm-git","0.6.0",""
 "avm-git","0.7.0",""
 "avm-git","0.8.0",""
+"avm-git","0.9.0",""
 "aws-sdk-elasticloadbalancing","1.0.0","Apache-2.0"
 "aws-sdk-elasticloadbalancing","1.1.0","Apache-2.0"
 "aws-sdk-elasticloadbalancing","1.10.0","Apache-2.0"

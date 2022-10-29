@@ -1092,6 +1092,7 @@
 "euston-rabbitmq-java","1.2.3",""
 "event_store_subscriptions","1.0.0","MIT"
 "event_store_subscriptions","1.1.0","MIT"
+"event_store_subscriptions","1.1.1","MIT"
 "everdeen","0.1.0","MIT"
 "everdeen","0.1.1","MIT"
 "everdeen","0.2.0","MIT"

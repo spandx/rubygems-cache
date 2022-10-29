@@ -1764,6 +1764,7 @@
 "hiredis-java","0.6.3","BSD-3-Clause"
 "hola-fbdtest-abc-arm64-darwin-21","0.0.0","MIT"
 "hola_a1436mm","0.0.1","MIT"
+"hola_janstilau","0.1.2","MIT"
 "hola_tiemei","0.0.1",""
 "hola_tiemei","0.0.3",""
 "hstore_attributes","1.0.0","MIT"
