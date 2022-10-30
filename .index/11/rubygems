@@ -2562,6 +2562,7 @@
 "postgresql_cursor","0.6.2","MIT"
 "postgresql_cursor","0.6.3","MIT"
 "postgresql_cursor","0.6.4","MIT"
+"postgresql_cursor","0.6.5","MIT"
 "prefixtreee","0.0.0","MIT"
 "process-helper","1.0.0","Apache-2.0"
 "process-helper","1.1.0","Apache-2.0"
