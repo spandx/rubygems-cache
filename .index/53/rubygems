@@ -601,6 +601,8 @@
 "cmdr","0.4.2","MIT"
 "cmdr","0.4.3","MIT"
 "cmu_person","0.0.2",""
+"cocoapods-devtool","0.0.1","MIT"
+"cocoapods-devtool","0.1.0","MIT"
 "cocoapods-proxy-plugin","0.0.1","BUSL-1.1"
 "cocoapods-remove-duplicates","0.0.1","MIT"
 "cocoapods-remove-duplicates","0.0.2","MIT"
