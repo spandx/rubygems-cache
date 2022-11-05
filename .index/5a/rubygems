@@ -1343,6 +1343,7 @@
 "grape-resource-definition","0.1.1",""
 "grape-resource-definition","0.1.2",""
 "graphql-eager_load","0.2.2","MIT"
+"graphql-eager_load","0.2.3","MIT"
 "grapht","0.1.5","MIT"
 "grapht","0.1.6","MIT"
 "grapht","0.1.7","MIT"
