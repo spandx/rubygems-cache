@@ -3280,6 +3280,7 @@
 "parallel_tests","3.8.1","MIT"
 "parallel_tests","3.9.0","MIT"
 "parallel_tests","3.9.1","MIT"
+"parallel_tests","4.0.0","MIT"
 "pg_cinnamon","0.1.0","MIT"
 "pgcp","0.0.0","GPL"
 "pgcp","0.0.1","GPL"
