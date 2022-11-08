@@ -1448,6 +1448,7 @@
 "halo_waypoint","0.0.1",""
 "halo_waypoint","0.0.2",""
 "hammer_cli_foreman_google","0.0.1","GPL-3.0"
+"hammer_cli_foreman_google","1.0.0","GPL-3.0"
 "handshake_service","0.1.0","MIT"
 "handshake_service","0.1.1","MIT"
 "handshake_service","0.1.10","MIT"
