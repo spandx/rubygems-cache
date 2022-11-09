@@ -2034,6 +2034,7 @@
 "embulk-output-dynamodb","0.1.2","Apache-2.0"
 "embulk-output-dynamodb","0.1.3","Apache-2.0"
 "embulk-output-dynamodb","0.1.4","Apache-2.0"
+"embulk-output-dynamodb","0.1.5","Apache-2.0"
 "ensure_it","0.1.0","MIT"
 "ensure_it","0.1.1","MIT"
 "ensure_it","0.1.2","MIT"
