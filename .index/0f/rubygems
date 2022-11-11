@@ -1649,6 +1649,8 @@
 "capistrano-elb","0.3.3",""
 "capistrano-elb","0.3.6",""
 "capistrano-ext-rvm","0.0.2",""
+"capistrano-hutch-systemd","0.1.0","MIT"
+"capistrano-hutch-systemd","0.1.1","MIT"
 "capistrano-unicorn-pleary","0.1.6.1",""
 "capistrano-unicorn-pleary","0.1.7",""
 "capistrano-webhook","0.0.1","MIT"

@@ -2004,6 +2004,7 @@
 "image_limit_resize","0.1.2","MIT"
 "imp-api","0.0.0","GPL-3.0"
 "indolib_rails","1.0.0","MIT"
+"indolib_rails","1.2.0","MIT"
 "inheritance-helper","0.1.0",""
 "inheritance-helper","0.1.5","MIT"
 "inheritance-helper","0.2.5","MIT"
