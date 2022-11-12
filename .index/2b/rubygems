@@ -1203,6 +1203,8 @@
 "favicon","0.1.1","MIT"
 "fcgi-props-parser","0.0.1",""
 "fcgi-props-parser","1.0.1",""
+"ffi-binary-libfixposix-armv7-linux","0.5.1.0",""
+"ffi-binary-libfixposix-x86_64-linux","0.5.1.0",""
 "ffi-libsodium","0.0.1","Apache-2.0"
 "ffi-libsodium","0.0.2","Apache-2.0"
 "ffi-libsodium","0.0.3","Apache-2.0"

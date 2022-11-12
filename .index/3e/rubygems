@@ -1413,6 +1413,7 @@
 "hiera-mysql-backend-jruby","0.0.9","MIT"
 "hive_sql","1.0.1","CC0-1.0"
 "hive_sql","1.0.2","CC0-1.0"
+"hive_sql","1.0.3","CC0-1.0"
 "hola_cheer","0.1.7","MIT"
 "hola_cheer","0.1.8","MIT"
 "hola_dnalbach","0.0.2","MIT"

@@ -948,6 +948,7 @@
 "feedzirra","0.7.0","MIT"
 "feedzirra","0.7.1","MIT"
 "feedzirra","0.8.0","MIT"
+"ffi-binary-libfixposix-arm64-darwin","0.5.1.0",""
 "ffi-proj4","0.1.0","MIT"
 "ffi-proj4","0.2.0","MIT"
 "financial","0.0.1",""

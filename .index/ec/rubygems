@@ -3138,6 +3138,7 @@
 "sinatra","3.0.0","MIT"
 "sinatra","3.0.1","MIT"
 "sinatra","3.0.2","MIT"
+"sinatra","3.0.3","MIT"
 "sinatra-rdf","3.1.0","Unlicense"
 "sinatra-rdf","3.1.1","Unlicense"
 "sinatra-rdf","3.1.2","Unlicense"

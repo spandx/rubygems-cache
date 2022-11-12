@@ -2425,6 +2425,7 @@
 "pg_ltree","1.1.7","MIT"
 "pg_ltree","1.1.8","MIT"
 "pg_ltree","1.1.9","MIT"
+"pg_ltree","1.2.0","MIT"
 "phoenix-cli","0.0.1","MIT"
 "phoenix-cli","0.0.2","MIT"
 "phoenix-cli","0.0.3","MIT"
