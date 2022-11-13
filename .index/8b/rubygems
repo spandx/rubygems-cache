@@ -1310,6 +1310,7 @@
 "ghcurl","0.7.1","MIT"
 "ghcurl","0.8.0","MIT"
 "ghcurl","0.8.1","MIT"
+"ghcurl","0.9.0","MIT"
 "git-delta","0.0.2",""
 "git-delta","0.2.0",""
 "git-delta","0.2.1",""

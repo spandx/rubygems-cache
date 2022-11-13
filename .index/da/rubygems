@@ -2146,6 +2146,7 @@
 "number_crusher","0.1.2",""
 "numo-linalg-randsvd","0.1.0","BSD-3-Clause"
 "numo-linalg-randsvd","0.1.1","BSD-3-Clause"
+"numo-linalg-randsvd","0.2.0","BSD-3-Clause"
 "object-let","1.0.0",""
 "octopart-ruby","0.1.0","MIT"
 "octopart-ruby","0.1.1","MIT"
