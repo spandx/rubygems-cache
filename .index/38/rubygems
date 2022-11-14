@@ -684,6 +684,7 @@
 "daemon-overlord","0.2.1","MIT"
 "daikini-octave-ruby","1.0.9",""
 "darmani_game49","0",""
+"database_cleaner-spanner","0.1.0","MIT"
 "datastruct","0.0.0","GPL"
 "datastruct","0.0.1","GPL"
 "datastruct","0.0.10","GPL-3.0"

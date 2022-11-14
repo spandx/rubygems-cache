@@ -1133,6 +1133,8 @@
 "grape_serializer","0.0.4","MIT"
 "grape_serializer","0.0.5","MIT"
 "grape_serializer","0.0.6","MIT"
+"grape_serializer","0.0.7","MIT"
+"grape_serializer","0.0.8","MIT"
 "graphql-client-jennius","0.16.1","MIT"
 "graphql-relay-walker","0.0.10","MIT"
 "graphql-relay-walker","0.0.2","MIT"
