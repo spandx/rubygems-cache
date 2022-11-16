@@ -1136,6 +1136,7 @@
 "critter","0.900.0","MIT"
 "critter","1.900","MIT"
 "critter","90002.0","MIT"
+"cron_watcher","0.1.20",""
 "cs_template","0.1.0","MIT"
 "cs_template","0.1.1","MIT"
 "cul-handles","0.3.0",""

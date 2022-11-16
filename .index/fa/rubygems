@@ -3232,6 +3232,7 @@
 "sentry-sanitizer","0.5.0","BSD"
 "sentry-sanitizer","0.5.1","BSD"
 "sentry-sanitizer","0.6.0","BSD"
+"sentry-sanitizer","0.6.1","BSD"
 "sequential_file","0.0.1","MIT"
 "shared_mustache","0.0.1",""
 "shared_mustache","0.0.2",""
