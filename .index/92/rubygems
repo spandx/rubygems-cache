@@ -492,6 +492,8 @@
 "cpsms","0.1.5",""
 "cpsms","0.1.6",""
 "cpsms","0.2.0",""
+"create_github_release","0.2.0","MIT"
+"create_github_release","0.2.1","MIT"
 "cucumber-messages","1.0.0","MIT"
 "cucumber-messages","1.0.4","MIT"
 "cucumber-messages","1.1.1","MIT"

@@ -1761,6 +1761,7 @@
 "dri","0.6.0","MIT"
 "dri","0.6.1","MIT"
 "dri","0.7.0","MIT"
+"dri","0.8.0","MIT"
 "drnic-culerity","0.2.1",""
 "drnic-culerity","0.2.2",""
 "dsl_evaluator","0.1.0","MIT"
