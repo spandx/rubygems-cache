@@ -302,6 +302,7 @@
 "aws-sdk-sts","1.5.0","Apache-2.0"
 "aws-sdk-sts","1.6.0","Apache-2.0"
 "aws-sdk-sts","1.7.0","Apache-2.0"
+"aws-sdk-sts","1.8.0","Apache-2.0"
 "aws_info","0.2.0","MIT"
 "aws_info","0.3.0","MIT"
 "aws_info","0.4.0","MIT"
