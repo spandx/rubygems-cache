@@ -3680,6 +3680,7 @@
 "sqlite3-x86_64-darwin","1.5.1","BSD-3-Clause"
 "sqlite3-x86_64-darwin","1.5.2","BSD-3-Clause"
 "sqlite3-x86_64-darwin","1.5.3","BSD-3-Clause"
+"sqlite3-x86_64-darwin","1.5.4","BSD-3-Clause"
 "statcounter","0.1.0",""
 "statcounter","1.0.0",""
 "statcounter","1.0.1",""

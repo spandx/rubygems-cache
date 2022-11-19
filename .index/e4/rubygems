@@ -2738,6 +2738,7 @@
 "sqlite3-x64-mingw32","1.5.1","BSD-3-Clause"
 "sqlite3-x64-mingw32","1.5.2","BSD-3-Clause"
 "sqlite3-x64-mingw32","1.5.3","BSD-3-Clause"
+"sqlite3-x64-mingw32","1.5.4","BSD-3-Clause"
 "sqwish","0.0.3",""
 "storify","0.0.10","MIT"
 "storify","0.0.11","MIT"
@@ -3844,4 +3845,5 @@
 "zombie_record","1.4.1","MIT"
 "zombie_record","1.4.2","MIT"
 "zombie_record","1.4.3","MIT"
+"zombie_record","1.5.0","MIT"
 "zzot-zzot-semi-static","0.0.1",""

@@ -3019,6 +3019,7 @@
 "sqlite3-arm64-darwin","1.5.1","BSD-3-Clause"
 "sqlite3-arm64-darwin","1.5.2","BSD-3-Clause"
 "sqlite3-arm64-darwin","1.5.3","BSD-3-Clause"
+"sqlite3-arm64-darwin","1.5.4","BSD-3-Clause"
 "stark_parameters","0.0.1",""
 "stark_parameters","0.0.2",""
 "stark_parameters","0.0.3",""

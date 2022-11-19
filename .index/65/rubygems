@@ -410,6 +410,7 @@
 "aws-sdk-connect","1.82.0","Apache-2.0"
 "aws-sdk-connect","1.83.0","Apache-2.0"
 "aws-sdk-connect","1.84.0","Apache-2.0"
+"aws-sdk-connect","1.85.0","Apache-2.0"
 "aws-sdk-connect","1.9.0","Apache-2.0"
 "aws_sms","0.2.0","MIT"
 "aws_sms","0.2.1","MIT"

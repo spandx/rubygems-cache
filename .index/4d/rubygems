@@ -2206,6 +2206,7 @@
 "open_weather_sdk","1.0.3","MIT"
 "open_weather_sdk","1.0.4","MIT"
 "openc3-cosmos-tool-cmdsender","5.1.0","AGPL-3.0-only-|-Nonstandard"
+"openc3-cosmos-tool-cmdsender","5.1.1","AGPL-3.0-only-|-Nonstandard"
 "openstack-keystone-client","0.0.2",""
 "openstack-keystone-client","0.0.3",""
 "optsparser_generator","1.0","AGPL-1.0"

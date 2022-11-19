@@ -309,6 +309,7 @@
 "aws-sessionstore-dynamodb-ruby","9001.0","MIT"
 "azure_application_insights","0.5.11","MIT"
 "azure_application_insights","0.5.12","MIT"
+"azure_application_insights","0.5.13","MIT"
 "azure_application_insights","0.5.7","MIT"
 "azure_application_insights","0.5.8","MIT"
 "azurex","0.6.5","Apache License, Version 2.0"

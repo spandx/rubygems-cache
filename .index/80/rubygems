@@ -409,6 +409,7 @@
 "aws-sdk-codestar","1.7.0","Apache-2.0"
 "aws-sdk-codestar","1.8.0","Apache-2.0"
 "aws-sdk-codestar","1.9.0","Apache-2.0"
+"aws-sdk-iotroborunner","1.0.0","Apache-2.0"
 "aws-sdk-sagemakeredgemanager","1.0.0","Apache-2.0"
 "aws-sdk-sagemakeredgemanager","1.1.0","Apache-2.0"
 "aws-sdk-sagemakeredgemanager","1.10.0","Apache-2.0"

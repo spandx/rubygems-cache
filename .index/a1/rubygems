@@ -1190,6 +1190,7 @@
 "faraday","2.5.2","MIT"
 "faraday","2.6.0","MIT"
 "faraday","2.7.0","MIT"
+"faraday","2.7.1","MIT"
 "faraday-em_http","1.0.0","MIT"
 "faraday-request-timer","0.0.1","MIT"
 "faraday-request-timer","0.1.0","MIT"
