@@ -519,6 +519,7 @@
 "cache_guard","1.0.2","MIT"
 "cache_mock","0.1.0",""
 "cache_mock","0.1.1",""
+"callstacking-rails","0.1.2","MIT"
 "capistrano-node","0.2.2","MIT"
 "capistrano-node","0.2.3","MIT"
 "capistrano-nvm-install","0.1.0",""
