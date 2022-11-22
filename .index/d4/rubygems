@@ -2655,6 +2655,7 @@
 "net-ssh-cli","1.7.0","MIT"
 "net-ssh-cli","1.8.0","MIT"
 "net-ssh-cli","1.9.0","MIT"
+"net-ssh-cli","1.9.1","MIT"
 "nie_easy_table","0.0.1","MIT"
 "nike","0.2.3",""
 "nike","0.2.7",""
