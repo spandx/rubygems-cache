@@ -51,6 +51,7 @@
 "actionset","0.9.1","MIT"
 "actionset","0.9.2","MIT"
 "active_filtr","0.0.2","MIT"
+"active_record_aliased_joins","0.1.0","MIT"
 "active_record_encryption","0.1.0","MIT"
 "active_record_encryption","0.2.0","MIT"
 "active_record_encryption","0.2.1","MIT"
