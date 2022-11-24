@@ -1367,6 +1367,7 @@
 "help_parser","7.0.200907","MIT"
 "help_parser","8.0.210917","MIT"
 "heroku-api-postgres","0.10.0","MIT"
+"heroku-api-postgres","0.12.0","MIT"
 "heroku-api-postgres","0.5.0","MIT"
 "heroku-api-postgres","0.6.0","MIT"
 "heroku-api-postgres","0.7.0","MIT"

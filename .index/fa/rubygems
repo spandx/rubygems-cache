@@ -2834,6 +2834,7 @@
 "rack-weixin","0.0.4.3",""
 "rails-autoscale-rack","1.1.0","MIT"
 "rails-autoscale-rack","1.1.1","MIT"
+"rails-autoscale-rack","1.2.1","MIT"
 "rails-middleware_timer","0.1","MIT"
 "rails_email_validator","0.1.4",""
 "rails_ops","1.0.0",""

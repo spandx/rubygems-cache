@@ -1313,6 +1313,7 @@
 "fluent-plugin-kubernetes-objects","1.1.8","Apache-2.0"
 "fluent-plugin-kubernetes-objects","1.1.9","Apache-2.0"
 "fluent-plugin-kubernetes-objects","1.2.0","Apache-2.0"
+"fluent-plugin-kubernetes-objects","1.2.1","Apache-2.0"
 "fluent-plugin-top","0.1.0","Apache License, Version 2.0"
 "fluent-plugin-top","0.1.0","Apache-2.0"
 "fluent-plugin-top","0.1.1","Apache License, Version 2.0"

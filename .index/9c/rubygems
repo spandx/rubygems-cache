@@ -814,6 +814,7 @@
 "fluent-plugin-opensearch","1.0.6","Apache-2.0"
 "fluent-plugin-opensearch","1.0.7","Apache-2.0"
 "fluent-plugin-opensearch","1.0.8","Apache-2.0"
+"fluent-plugin-opensearch","1.0.9","Apache-2.0"
 "fluent-plugin-splunkhec","1.0.0","MIT"
 "fluent-plugin-splunkhec","1.0.1","MIT"
 "fluent-plugin-splunkhec","1.1","MIT"
