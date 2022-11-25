@@ -3073,6 +3073,7 @@
 "rt_rubocop_defaults","2.3.0","MIT"
 "rt_rubocop_defaults","2.3.1","MIT"
 "rt_rubocop_defaults","2.4.0","MIT"
+"rt_rubocop_defaults","2.5.0","MIT"
 "rubocop-replaypoker","1.0.1","MIT"
 "rubocop-replaypoker","1.1.0","MIT"
 "rubocop-sorbet","0.0.2","MIT"

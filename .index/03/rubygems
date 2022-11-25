@@ -3210,6 +3210,7 @@
 "vvlad-rack-ext-direct","0.0.1",""
 "wackelkoepfe","1.0.0",""
 "wackelkoepfe","1.0.1",""
+"wasmtime-aarch64-linux","0.3.0","Apache-2.0"
 "weesked","0.0.2","MIT"
 "weesked","0.0.3","MIT"
 "wesm","0.1.8.8",""
