@@ -1732,6 +1732,7 @@
 "json_ffi_client","0.1.0","MIT"
 "json_response_matchers","1.1.0","MIT"
 "judoscale-sidekiq","1.2.1","MIT"
+"judoscale-sidekiq","1.2.2","MIT"
 "julien_votable","0.0.0",""
 "k_util","0.0.10","MIT"
 "k_util","0.0.12","MIT"

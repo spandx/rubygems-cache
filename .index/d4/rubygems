@@ -2528,6 +2528,7 @@
 "mobilize-hdfs","1.390","Apache-2.0"
 "mobley","0.1.0","MIT"
 "mock-suey","0.0.1","MIT"
+"mock-suey","0.1.0","MIT"
 "moderate_params","0.1.0","MIT"
 "mongo-rack-session","0.0.3",""
 "monitoring-jekyll-theme","0.1.0","MIT"
