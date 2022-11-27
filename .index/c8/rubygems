@@ -2608,6 +2608,7 @@
 "paper_trail-background","1.0.0","ISC"
 "paper_trail-background","1.0.1","ISC"
 "paper_trail-background","1.0.2","ISC"
+"parse-argv","0.1.0","BSD-3-Clause"
 "payment_gateway","0.0.0","MIT"
 "paypal_client","0.1.1",""
 "paypal_client","0.2.0",""

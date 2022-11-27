@@ -3037,6 +3037,7 @@
 "rails-autoscale-sidekiq","1.1.1","MIT"
 "rails-autoscale-sidekiq","1.2.1","MIT"
 "rails-autoscale-sidekiq","1.2.2","MIT"
+"rails-autoscale-sidekiq","1.2.3","MIT"
 "rails-cache-tags","1.0.0",""
 "rails-cache-tags","1.1.0",""
 "rails-cache-tags","1.2.0",""
