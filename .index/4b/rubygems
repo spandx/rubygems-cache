@@ -3081,6 +3081,7 @@
 "sensu-plugins-supervisor-boutetnico","1.0.1","MIT"
 "sentence_dance","0.1.0","MIT"
 "sentence_dance","0.1.1","MIT"
+"seriamp","0.1.2","BSD-2-Clause"
 "shutterstock-client","0.0.1","Copyright shutterstock.com 2014"
 "sidekiq-instantly_dead","0.1.0",""
 "sidekiq-lock","0.0.1","MIT"
