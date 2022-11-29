@@ -164,6 +164,7 @@
 "autocorrect-rb-arm64-darwin","2.4.1","MIT"
 "autocorrect-rb-arm64-darwin","2.5.0","MIT"
 "autocorrect-rb-arm64-darwin","2.5.1","MIT"
+"autocorrect-rb-arm64-darwin","2.5.2","MIT"
 "autodata-foreign-domain-routing","1.0.4",""
 "aws-sdk-lexmodelbuildingservice","1.0.0","Apache-2.0"
 "aws-sdk-lexmodelbuildingservice","1.1.0","Apache-2.0"
