@@ -89,6 +89,7 @@
 "active_record-enum_with_label","0.1.2",""
 "active_record-enum_with_label","0.1.3",""
 "active_record-translated","0.1.1","MIT"
+"active_record-translated","0.2.0","MIT"
 "active_record_nearest_neighbor","0.1.3","MIT"
 "active_record_nearest_neighbor","0.1.5","MIT"
 "active_record_nearest_neighbor","0.1.6","MIT"
