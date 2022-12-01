@@ -1250,6 +1250,7 @@
 "hammer_cli_foreman_azure_rm","0.2.0","GPL-3.0"
 "hammer_cli_foreman_azure_rm","0.2.1","GPL-3.0"
 "hammer_cli_foreman_azure_rm","0.2.2","GPL-3.0"
+"hammer_cli_foreman_azure_rm","0.2.3","GPL-3.0"
 "happy-commander","0.0.6","MIT"
 "has_normalized_attributes","0.0.10",""
 "has_normalized_attributes","0.0.2",""

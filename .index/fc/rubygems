@@ -2351,6 +2351,7 @@
 "puppet-lint-manifest_whitespace-check","0.2.4","MIT"
 "puppet-lint-manifest_whitespace-check","0.2.5","MIT"
 "puppet-lint-manifest_whitespace-check","0.2.6","MIT"
+"puppet-lint-manifest_whitespace-check","0.2.7","MIT"
 "puppet-magnum","3.0.0","Apache License, Version 2.0"
 "puppet-magnum","3.0.0","Apache-2.0"
 "puppet-magnum","3.0.1","Apache License, Version 2.0"
