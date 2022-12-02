@@ -2724,6 +2724,7 @@
 "sec_config","0.0.1","MIT"
 "second_gem_karen_mak","0.0.1","MIT"
 "second_gem_karen_mak","0.0.2","MIT"
+"sentry-opentelemetry","5.7.0","MIT"
 "shadow_db_credentials","1.0.2",""
 "shadow_db_credentials","1.1.0",""
 "shadow_db_credentials","1.1.1","MIT"
